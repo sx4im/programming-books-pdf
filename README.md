@@ -796,51 +796,348 @@ Focused on professional domains like app architecture, test-driven development, 
 
 
 # 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30"/> Ruby
-- [The Well-Grounded Rubyist (Beginner)](PDF_LINK)
-- [Eloquent Ruby (Intermediate)](PDF_LINK)
-- [Metaprogramming Ruby (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books are perfect for newcomers to programming, or developers coming from another language who want to learn Ruby's elegant, expressive syntax.
+
+- [**The Well-Grounded Rubyist**](PDF_LINK) (*3rd Edition*)
+- [**Learn to Program**](PDF_LINK) (*3rd Edition*)
+- [**Head First Ruby**](PDF_LINK) (*1st Edition*)
+- [**Beginning Ruby: From Novice to Professional**](PDF_LINK) (*3rd Edition*)
+- [**The Ruby Way**](PDF_LINK) (*3rd Edition*)
+
+## For Intermediate Developers
+
+Once you know the basics, these books will help you write idiomatic, object-oriented, and maintainable Ruby code.
+
+- [**Eloquent Ruby**](PDF_LINK) (*1st Edition*)
+- [**Practical Object-Oriented Design in Ruby (POODR)**](PDF_LINK) (*2nd Edition*)
+- [**Confident Ruby**](PDF_LINK) (*1st Edition*)
+- [**Ruby Under a Microscope**](PDF_LINK) (*1st Edition*)
+- [**Programming Ruby 3.3 (The Pickaxe Book)**](PDF_LINK) (*5th Edition*)
+
+## For Advanced Programmers
+
+Dive deep into Ruby's metaprogramming, design patterns, and performance characteristics.
+
+- [**Metaprogramming Ruby 2**](PDF_LINK) (*2nd Edition*)
+- [**Design Patterns in Ruby**](PDF_LINK) (*1st Edition*)
+- [**Refactoring: Ruby Edition**](PDF_LINK) (*1st Edition*)
+- [**Ruby Performance Optimization**](PDF_LINK) (*1st Edition*)
+
+## For Specialized Fields
+
+Focus on applying Ruby to a specific professional domain, especially web development with Ruby on Rails.
+
+- [**Ruby on Rails Tutorial**](https://www.railstutorial.org/book) (*7th Edition*)
+- [**Agile Web Development with Rails 7**](PDF_LINK) (*2022 Edition*)
+- [**The Rails 7 Way**](PDF_LINK) (*4th Edition*)
+- [**Sustainable Web Development with Ruby on Rails**](PDF_LINK) (*1st Edition*)
+- [**Effective Testing with RSpec 3**](PDF_LINK) (*1st Edition*)
+- [**Black Hat Ruby**](PDF_LINK) (*1st Edition*)
+
+## Comprehensive References
+
+These detailed guides are best used as companions throughout your learning journey.
+
+- [**The Ruby Programming Language**](PDF_LINK) (*1st Edition*)
+- [**Ruby Cookbook**](PDF_LINK) (*2nd Edition*)
+- [**Official Ruby Documentation**](https://www.ruby-lang.org/en/documentation/) (*Online Resource*)
+- [**The Ruby Style Guide**](https://rubystyle.guide/) (*Online Resource*)
 
 ---
 
 # 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart
-- [Dart Apprentice (Beginner)](PDF_LINK)
-- [Programming Dart (Intermediate)](PDF_LINK)
-- [Mastering Dart (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books introduce Dart's syntax and the basics of building cross-platform apps, often through the Flutter framework.
+
+- [**Dart Apprentice: Fundamentals**](PDF_LINK) (*1st Edition*)
+- [**Flutter Apprentice**](PDF_LINK) (*2nd Edition*)
+- [**Dart: Up and Running**](PDF_LINK) (*1st Edition*)
+- [**Beginning App Development with Flutter**](PDF_LINK) (*1st Edition*)
+
+## For Intermediate Developers
+
+Move beyond the basics to build robust, well-structured applications with Dart and Flutter.
+
+- [**Programming Flutter**](PDF_LINK) (*1st Edition*)
+- [**Flutter in Action**](PDF_LINK) (*1st Edition*)
+- [**Dart Apprentice: Beyond the Basics**](PDF_LINK) (*1st Edition*)
+- [**Pragmatic Flutter**](PDF_LINK) (*1st Edition*)
+
+## For Advanced Programmers
+
+Deep dives into application architecture, state management, and high-performance Dart.
+
+- [**Flutter Complete Reference 2.0**](PDF_LINK) (*2nd Edition*)
+- [**Real-World Flutter by Tutorials**](PDF_LINK) (*1st Edition*)
+- [**Mastering Dart**](PDF_LINK) (*1st Edition*)
+
+## For Specialized Fields
+
+Focus on applying Dart and Flutter to production apps, recipes, and platform-specific challenges.
+
+- [**Flutter for Beginners**](PDF_LINK) (*3rd Edition*)
+- [**Flutter and Dart Cookbook**](PDF_LINK) (*1st Edition*)
+- [**Practical Flutter**](PDF_LINK) (*1st Edition*)
+- [**Flutter Cookbook**](PDF_LINK) (*1st Edition*)
+
+## Comprehensive References
+
+These resources are perfect for quick lookups and staying current with the language.
+
+- [**Effective Dart**](https://dart.dev/effective-dart) (*Official Reference*)
+- [**Dart Language Documentation**](https://dart.dev/guides) (*Online Resource*)
+- [**A Tour of the Dart Language**](https://dart.dev/language) (*Online Resource*)
   
 ---
 
 # 16. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" /> Scala
-- [Programming in Scala (Beginner)](PDF_LINK)
-- [Scala Cookbook (Intermediate)](PDF_LINK)
-- [Functional Programming in Scala (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books provide a solid foundation in Scala's hybrid object-oriented and functional style, ideal for newcomers and Java developers alike.
+
+- [**Programming in Scala**](PDF_LINK) (*5th Edition*)
+- [**Scala for the Impatient**](PDF_LINK) (*2nd Edition*)
+- [**Get Programming with Scala**](PDF_LINK) (*1st Edition*)
+- [**Essential Scala**](https://underscore.io/books/essential-scala/) (*Online Resource*)
+
+## For Intermediate Developers
+
+Move beyond the basics to write idiomatic, effective Scala and master its rich standard library.
+
+- [**Scala Cookbook**](PDF_LINK) (*2nd Edition*)
+- [**Programming Scala**](PDF_LINK) (*3rd Edition*)
+- [**Hands-on Scala Programming**](https://www.handsonscala.com/) (*1st Edition*)
+- [**Scala in Depth**](PDF_LINK) (*1st Edition*)
+
+## For Advanced Programmers
+
+Dive deep into functional programming theory, type-level programming, and the most powerful features of the language.
+
+- [**Functional Programming in Scala**](PDF_LINK) (*2nd Edition*)
+- [**Scala with Cats**](https://www.scalawithcats.com/) (*Online Resource*)
+- [**Functional Programming, Simplified**](PDF_LINK) (*1st Edition*)
+- [**Zionomicon**](https://www.zionomicon.com/) (*Online Resource*)
+
+## For Specialized Fields
+
+Focus on applying Scala to big data, reactive systems, and high-throughput backend services.
+
+- [**Learning Spark**](PDF_LINK) (*2nd Edition*)
+- [**Spark: The Definitive Guide**](PDF_LINK) (*1st Edition*)
+- [**Scala and Spark for Big Data Analytics**](PDF_LINK) (*1st Edition*)
+- [**Akka in Action**](PDF_LINK) (*1st Edition*)
+- [**Practical FP in Scala**](PDF_LINK) (*1st Edition*)
+
+## Comprehensive References
+
+These guides are perfect for quick lookups and understanding the Scala ecosystem.
+
+- [**Scala Documentation**](https://docs.scala-lang.org/) (*Online Resource*)
+- [**A Tour of Scala**](https://docs.scala-lang.org/tour/tour-of-scala.html) (*Online Resource*)
 
 ---
 
 # 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30"/> Elixir
-- [Programming Elixir (Beginner)](PDF_LINK)
-- [Elixir in Action (Intermediate)](PDF_LINK)
-- [Metaprogramming Elixir (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books introduce Elixir's functional style and the actor-based concurrency model that runs on the battle-tested Erlang VM.
+
+- [**Programming Elixir ≥ 1.6**](PDF_LINK) (*1.6 Edition*)
+- [**Elixir in Action**](PDF_LINK) (*3rd Edition*)
+- [**Learn Functional Programming with Elixir**](PDF_LINK) (*1st Edition*)
+- [**Introducing Elixir**](PDF_LINK) (*2nd Edition*)
+- [**Elixir School**](https://elixirschool.com/) (*Online Resource*)
+
+## For Intermediate Developers
+
+Move beyond the basics to design real applications with OTP, Phoenix, and Ecto.
+
+- [**Programming Phoenix LiveView**](PDF_LINK) (*1st Edition*)
+- [**Designing Elixir Systems with OTP**](PDF_LINK) (*1st Edition*)
+- [**Programming Ecto**](PDF_LINK) (*1st Edition*)
+- [**Functional Web Development with Elixir, OTP, and Phoenix**](PDF_LINK) (*1st Edition*)
+
+## For Advanced Programmers
+
+Dive deep into metaprogramming, concurrent data processing, and production-grade Elixir.
+
+- [**Metaprogramming Elixir**](PDF_LINK) (*1st Edition*)
+- [**Concurrent Data Processing in Elixir**](PDF_LINK) (*1st Edition*)
+- [**Property-Based Testing with PropEr, Erlang, and Elixir**](PDF_LINK) (*1st Edition*)
+- [**Adopting Elixir**](PDF_LINK) (*1st Edition*)
+
+## For Specialized Fields
+
+Focus on applying Elixir to real-time systems, machine learning, embedded devices, and testing.
+
+- [**Real-Time Phoenix**](PDF_LINK) (*1st Edition*)
+- [**Machine Learning in Elixir**](PDF_LINK) (*1st Edition*)
+- [**Testing Elixir**](PDF_LINK) (*1st Edition*)
+- [**Genetic Algorithms in Elixir**](PDF_LINK) (*1st Edition*)
+- [**Build a Weather Station with Elixir and Nerves**](PDF_LINK) (*1st Edition*)
+
+## Comprehensive References
+
+These resources are perfect for quick lookups and staying current with the ecosystem.
+
+- [**Official Elixir Documentation**](https://elixir-lang.org/docs.html) (*Online Resource*)
+- [**Elixir Getting Started Guide**](https://hexdocs.pm/elixir/introduction.html) (*Online Resource*)
+- [**HexDocs**](https://hexdocs.pm/) (*Online Resource*)
 
 ---
 
-# 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30"/> Shell (Bash)
-- [Learning the bash Shell (Beginner)](PDF_LINK)
-- [Classic Shell Scripting (Intermediate)](PDF_LINK)
-- [Mastering Unix Shell Scripting (Advanced)](PDF_LINK)
+# 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/> Shell (Bash)
+
+## For Beginners
+
+These books provide a solid foundation in navigating the command line and writing your first shell scripts.
+
+- [**The Linux Command Line**](https://linuxcommand.org/tlcl.php) (*2nd Edition*)
+- [**Learning the bash Shell**](PDF_LINK) (*3rd Edition*)
+- [**Bash Guide for Beginners**](https://tldp.org/LDP/Bash-Beginners-Guide/html/) (*Online Resource*)
+- [**Ten Steps to Linux Survival**](PDF_LINK) (*1st Edition*)
+
+## For Intermediate Developers
+
+Move beyond simple commands to write portable, robust, and reusable shell scripts.
+
+- [**Classic Shell Scripting**](PDF_LINK) (*1st Edition*)
+- [**bash Cookbook**](PDF_LINK) (*2nd Edition*)
+- [**Wicked Cool Shell Scripts**](PDF_LINK) (*2nd Edition*)
+- [**Shell Scripting: Expert Recipes for Linux, Bash, and More**](PDF_LINK) (*1st Edition*)
+
+## For Advanced Programmers
+
+Deep dives into advanced scripting techniques, performance, and command-line data processing.
+
+- [**Advanced Bash-Scripting Guide**](https://tldp.org/LDP/abs/html/) (*Online Resource*)
+- [**Pro Bash Programming**](PDF_LINK) (*2nd Edition*)
+- [**Mastering Unix Shell Scripting**](PDF_LINK) (*2nd Edition*)
+- [**Data Science at the Command Line**](https://jeroenjanssens.com/dsatcl/) (*2nd Edition*)
+
+## For Specialized Fields
+
+Focus on applying shell scripting to system administration, automation, and text processing.
+
+- [**Linux Command Line and Shell Scripting Bible**](PDF_LINK) (*4th Edition*)
+- [**Efficient Linux at the Command Line**](PDF_LINK) (*1st Edition*)
+- [**Linux Shell Scripting Cookbook**](PDF_LINK) (*3rd Edition*)
+- [**sed & awk**](PDF_LINK) (*2nd Edition*)
+
+## Comprehensive References
+
+These resources are perfect for quick lookups and writing safer scripts.
+
+- [**GNU Bash Reference Manual**](https://www.gnu.org/software/bash/manual/) (*Official Reference*)
+- [**Greg's Wiki — BashGuide**](https://mywiki.wooledge.org/BashGuide) (*Online Resource*)
+- [**ShellCheck**](https://www.shellcheck.net/) (*Online Resource*)
+- [**Google Shell Style Guide**](https://google.github.io/styleguide/shellguide.html) (*Online Resource*)
 
 ---
 
 # 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/> R
-- [R for Data Science (Beginner)](PDF_LINK)
-- [Advanced R (Intermediate)](PDF_LINK)
-- [The Art of R Programming (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books provide a solid foundation in R for statistics, data manipulation, and visualization — no prior experience required.
+
+- [**R for Data Science**](https://r4ds.hadley.nz/) (*2nd Edition*)
+- [**Hands-On Programming with R**](https://rstudio-education.github.io/hopr/) (*1st Edition*)
+- [**The Book of R**](PDF_LINK) (*1st Edition*)
+- [**R Programming for Data Science**](PDF_LINK) (*1st Edition*)
+- [**Learning R**](PDF_LINK) (*1st Edition*)
+
+## For Intermediate Developers
+
+Move beyond the basics to master data wrangling, visualization with ggplot2, and effective R workflows.
+
+- [**The Art of R Programming**](PDF_LINK) (*1st Edition*)
+- [**R for Everyone**](PDF_LINK) (*2nd Edition*)
+- [**R Cookbook**](https://rc2e.com/) (*2nd Edition*)
+- [**ggplot2: Elegant Graphics for Data Analysis**](https://ggplot2-book.org/) (*3rd Edition*)
+- [**R Graphics Cookbook**](https://r-graphics.org/) (*2nd Edition*)
+
+## For Advanced Programmers
+
+Dive deep into R's object systems, metaprogramming, package development, and performance.
+
+- [**Advanced R**](https://adv-r.hadley.nz/) (*2nd Edition*)
+- [**R Packages**](https://r-pkgs.org/) (*2nd Edition*)
+- [**Efficient R Programming**](https://csgillespie.github.io/efficientR/) (*1st Edition*)
+- [**Extending R**](PDF_LINK) (*1st Edition*)
+
+## For Specialized Fields
+
+Focus on applying R to machine learning, statistical learning, forecasting, and interactive apps.
+
+- [**An Introduction to Statistical Learning**](https://www.statlearning.com/) (*2nd Edition*)
+- [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/) (*2nd Edition*)
+- [**Mastering Shiny**](https://mastering-shiny.org/) (*1st Edition*)
+- [**Text Mining with R**](https://www.tidytextmining.com/) (*1st Edition*)
+- [**Forecasting: Principles and Practice**](https://otexts.com/fpp3/) (*3rd Edition*)
+- [**Geocomputation with R**](https://r.geocompx.org/) (*2nd Edition*)
+- [**Deep Learning with R**](PDF_LINK) (*2nd Edition*)
+
+## Comprehensive References
+
+These guides are perfect for quick lookups and understanding the language internals.
+
+- [**An Introduction to R**](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) (*Official Manual*)
+- [**The R Language Definition**](https://cran.r-project.org/doc/manuals/r-release/R-lang.html) (*Official Manual*)
+- [**RDocumentation**](https://www.rdocumentation.org/) (*Online Resource*)
 
 ---
 
 # 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30"/> Julia
-- [Think Julia (Beginner)](PDF_LINK)
-- [Julia Programming Projects (Intermediate)](PDF_LINK)
-- [Mastering Julia (Advanced)](PDF_LINK)
+
+## For Beginners
+
+These books introduce Julia's syntax and its appeal for high-performance scientific and numerical computing.
+
+- [**Think Julia: How to Think Like a Computer Scientist**](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) (*1st Edition*)
+- [**Julia as a Second Language**](PDF_LINK) (*1st Edition*)
+- [**Julia 1.0 Programming**](PDF_LINK) (*2nd Edition*)
+- [**Introducing Julia**](https://en.wikibooks.org/wiki/Introducing_Julia) (*Online Resource*)
+
+## For Intermediate Developers
+
+Move beyond the basics to build real projects and write idiomatic, well-structured Julia.
+
+- [**Julia Programming Projects**](PDF_LINK) (*1st Edition*)
+- [**Hands-On Design Patterns and Best Practices with Julia**](PDF_LINK) (*1st Edition*)
+- [**Mastering Julia**](PDF_LINK) (*2nd Edition*)
+
+## For Advanced Programmers
+
+Dive deep into Julia's type system, multiple dispatch, metaprogramming, and performance tuning.
+
+- [**Julia High Performance**](PDF_LINK) (*2nd Edition*)
+- [**Algorithms for Optimization**](https://algorithmsbook.com/optimization/) (*1st Edition*)
+- [**Algorithms for Decision Making**](https://algorithmsbook.com/) (*1st Edition*)
+
+## For Specialized Fields
+
+Focus on applying Julia to data analysis, statistics, and machine learning.
+
+- [**Julia for Data Analysis**](PDF_LINK) (*1st Edition*)
+- [**Data Science with Julia**](PDF_LINK) (*1st Edition*)
+- [**Statistics with Julia**](PDF_LINK) (*1st Edition*)
+- [**Interactive Visualization and Plotting with Julia**](PDF_LINK) (*1st Edition*)
+
+## Comprehensive References
+
+These resources are perfect for quick lookups and staying current with the ecosystem.
+
+- [**The Julia Language Documentation**](https://docs.julialang.org/) (*Online Resource*)
+- [**Julia Manual — Getting Started**](https://docs.julialang.org/en/v1/manual/getting-started/) (*Online Resource*)
+- [**JuliaAcademy**](https://juliaacademy.com/) (*Online Resource*)
 
 ---
 
