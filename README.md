@@ -16,7 +16,7 @@
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=book)
 ![Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-orange?style=for-the-badge&logo=creative-commons)
 
-**Ultimate Programming Books** is a curated, continuously updated library of the **best books for learning 20+ programming languages** — from your very first line of code to advanced, specialized topics. Every language is organized by skill level (**Beginner → Intermediate → Advanced → Specialized → References**), so you always know exactly what to read next.
+**Ultimate Programming Books** — a curated, continuously updated collection of the best books for **20+ programming languages**. Every language is organized by skill level (**Beginner → Intermediate → Advanced → Specialized → References**), so you always know exactly what to read next.
 
 <br/>
 
@@ -27,15 +27,44 @@
 
 ---
 
+<div align="center">
+
 ## 📑 Table of Contents
 
-| | | | |
-| :-- | :-- | :-- | :-- |
-| **1.** [Python](#python) | **2.** [JavaScript](#javascript) | **3.** [Java](#java) | **4.** [C#](#csharp) |
-| **5.** [C](#c) | **6.** [C++](#cpp) | **7.** [TypeScript](#typescript) | **8.** [Go](#go) |
-| **9.** [Rust](#rust) | **10.** [PHP](#php) | **11.** [Kotlin](#kotlin) | **12.** [SQL](#sql) |
-| **13.** [Swift](#swift) | **14.** [Ruby](#ruby) | **15.** [Dart](#dart) | **16.** [Scala](#scala) |
-| **17.** [Elixir](#elixir) | **18.** [Shell (Bash)](#shell) | **19.** [R](#r) | **20.** [Julia](#julia) |
+<table align="center">
+  <tr>
+    <td><b>1.</b>&nbsp; <a href="#python">Python</a></td>
+    <td><b>2.</b>&nbsp; <a href="#javascript">JavaScript</a></td>
+    <td><b>3.</b>&nbsp; <a href="#java">Java</a></td>
+    <td><b>4.</b>&nbsp; <a href="#csharp">C#</a></td>
+  </tr>
+  <tr>
+    <td><b>5.</b>&nbsp; <a href="#c">C</a></td>
+    <td><b>6.</b>&nbsp; <a href="#cpp">C++</a></td>
+    <td><b>7.</b>&nbsp; <a href="#typescript">TypeScript</a></td>
+    <td><b>8.</b>&nbsp; <a href="#go">Go</a></td>
+  </tr>
+  <tr>
+    <td><b>9.</b>&nbsp; <a href="#rust">Rust</a></td>
+    <td><b>10.</b>&nbsp; <a href="#php">PHP</a></td>
+    <td><b>11.</b>&nbsp; <a href="#kotlin">Kotlin</a></td>
+    <td><b>12.</b>&nbsp; <a href="#sql">SQL</a></td>
+  </tr>
+  <tr>
+    <td><b>13.</b>&nbsp; <a href="#swift">Swift</a></td>
+    <td><b>14.</b>&nbsp; <a href="#ruby">Ruby</a></td>
+    <td><b>15.</b>&nbsp; <a href="#dart">Dart</a></td>
+    <td><b>16.</b>&nbsp; <a href="#scala">Scala</a></td>
+  </tr>
+  <tr>
+    <td><b>17.</b>&nbsp; <a href="#elixir">Elixir</a></td>
+    <td><b>18.</b>&nbsp; <a href="#shell">Shell (Bash)</a></td>
+    <td><b>19.</b>&nbsp; <a href="#r">R</a></td>
+    <td><b>20.</b>&nbsp; <a href="#julia">Julia</a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
