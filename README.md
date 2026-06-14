@@ -5,19 +5,12 @@
 
 ### ***Programming Books with latest editions — Beginner to Advanced***
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/sx4im/ultimate-programming-books?style=for-the-badge&logo=github&color=FFD700)](https://github.com/sx4im/ultimate-programming-books/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sx4im/ultimate-programming-books?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/sx4im/ultimate-programming-books/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/sx4im/ultimate-programming-books?style=for-the-badge&logo=github&color=A371F7)](https://github.com/sx4im/ultimate-programming-books/watchers)
-[![Contributors](https://img.shields.io/github/contributors/sx4im/ultimate-programming-books?style=for-the-badge&color=3FB950)](https://github.com/sx4im/ultimate-programming-books/graphs/contributors)
-[![Last commit](https://img.shields.io/github/last-commit/sx4im/ultimate-programming-books?style=for-the-badge&color=FF7B72)](https://github.com/sx4im/ultimate-programming-books/commits)
-
 ![Languages](https://img.shields.io/badge/Languages-20+-blue?style=for-the-badge&logo=github)
 ![Books](https://img.shields.io/badge/Books-500+-9cf?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=book)
 ![Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-orange?style=for-the-badge&logo=creative-commons)
 
-**Ultimate Programming Books** — a curated, continuously updated collection of the best books for **20+ programming languages**. Every language is organized by skill level (**Beginner → Intermediate → Advanced → Specialized → References**), so you always know exactly what to read next.
-
+**Ultimate Programming Books** — a curated, continuously updated collection of the best books for **20+ programming languages**.
 <br/>
 
 [![⭐ Star this repository](https://img.shields.io/badge/⭐%20Star%20this%20repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sx4im/ultimate-programming-books)
