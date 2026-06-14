@@ -1,13 +1,41 @@
   
 <div align="center">
 
-## 🎯 ***Programming Books with latest editions — Beginner to Advanced***
-![Programming Books](https://img.shields.io/badge/Languages-20+-blue?style=for-the-badge&logo=github)
+# 📚 Ultimate Programming Books
+
+### ***Programming Books with latest editions — Beginner to Advanced***
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/sx4im/ultimate-programming-books?style=for-the-badge&logo=github&color=FFD700)](https://github.com/sx4im/ultimate-programming-books/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sx4im/ultimate-programming-books?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/sx4im/ultimate-programming-books/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/sx4im/ultimate-programming-books?style=for-the-badge&logo=github&color=A371F7)](https://github.com/sx4im/ultimate-programming-books/watchers)
+[![Contributors](https://img.shields.io/github/contributors/sx4im/ultimate-programming-books?style=for-the-badge&color=3FB950)](https://github.com/sx4im/ultimate-programming-books/graphs/contributors)
+[![Last commit](https://img.shields.io/github/last-commit/sx4im/ultimate-programming-books?style=for-the-badge&color=FF7B72)](https://github.com/sx4im/ultimate-programming-books/commits)
+
+![Languages](https://img.shields.io/badge/Languages-20+-blue?style=for-the-badge&logo=github)
+![Books](https://img.shields.io/badge/Books-500+-9cf?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=book)
 ![Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-orange?style=for-the-badge&logo=creative-commons)
 
-***Learn the world's most popular programming languages – free & open-source.***
+**Ultimate Programming Books** is a curated, continuously updated library of the **best books for learning 20+ programming languages** — from your very first line of code to advanced, specialized topics. Every language is organized by skill level (**Beginner → Intermediate → Advanced → Specialized → References**), so you always know exactly what to read next.
+
+<br/>
+
+[![⭐ Star this repository](https://img.shields.io/badge/⭐%20Star%20this%20repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sx4im/ultimate-programming-books)
+
+*If this collection helps you, please give it a ⭐ — it helps more developers discover it!*
 </div>
+
+---
+
+## 📑 Table of Contents
+
+| | | | |
+| :-- | :-- | :-- | :-- |
+| **1.** [Python](#python) | **2.** [JavaScript](#javascript) | **3.** [Java](#java) | **4.** [C#](#csharp) |
+| **5.** [C](#c) | **6.** [C++](#cpp) | **7.** [TypeScript](#typescript) | **8.** [Go](#go) |
+| **9.** [Rust](#rust) | **10.** [PHP](#php) | **11.** [Kotlin](#kotlin) | **12.** [SQL](#sql) |
+| **13.** [Swift](#swift) | **14.** [Ruby](#ruby) | **15.** [Dart](#dart) | **16.** [Scala](#scala) |
+| **17.** [Elixir](#elixir) | **18.** [Shell (Bash)](#shell) | **19.** [R](#r) | **20.** [Julia](#julia) |
 
 ---
 
@@ -16,6 +44,7 @@
 
 ---
 
+<a id="python"></a>
 # 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python
 
 ##  For Beginners
@@ -103,6 +132,7 @@ These massive, detailed guides are best used as companions throughout your learn
 
 ---
 
+<a id="javascript"></a>
 # 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript
 
 ## For Beginners
@@ -183,6 +213,7 @@ These massive, detailed guides are best used as companions throughout your learn
 
 ---
 
+<a id="java"></a>
 # 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java
 
 ## For Beginners
@@ -261,6 +292,7 @@ A massive, detailed guide that is best used as a companion throughout your learn
 
 ---
 
+<a id="csharp"></a>
 # 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> C#
 
 ## For Beginners
@@ -328,6 +360,7 @@ These guides are perfect for quick lookups and as detailed companions throughout
       
 ---
 
+<a id="c"></a>
 # 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/> C
 
 ## For Beginners
@@ -384,6 +417,7 @@ These books explore the dark corners, hidden secrets, and high-performance optim
 
 ---
 
+<a id="cpp"></a>
 # 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> C++
 
 ## For Beginners
@@ -440,6 +474,7 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 ---
 
+<a id="typescript"></a>
 # 7. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/> TypeScript
 
 ## For Beginners
@@ -489,6 +524,7 @@ These resources are perfect for quick lookups, staying current with the rapidly 
 
 ---
 
+<a id="go"></a>
 # 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
 
 ## For Beginners
@@ -540,6 +576,7 @@ The official documentation is paramount, but these books provide excellent refer
   
 ---
 
+<a id="rust"></a>
 # 9.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" /> Rust
 
 ## For Beginners
@@ -595,6 +632,7 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 ---
 
 
+<a id="php"></a>
 # 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/> PHP
 
 ## For Beginners
@@ -646,6 +684,7 @@ These guides are perfect for quick lookups, staying current with best practices,
 ---
 
 
+<a id="kotlin"></a>
 # 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30"/> Kotlin
 
 ## For Beginners
@@ -694,6 +733,7 @@ These guides are perfect for quick lookups and staying current with the JetBrain
 
 ---
 
+<a id="sql"></a>
 # 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> SQL
 
 ## For Beginners
@@ -744,6 +784,7 @@ SQL as applied to modern big data environments, analytics, and software architec
 
 ---
 
+<a id="swift"></a>
 # 13. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30"/> Swift
 
 ## For Beginners
@@ -795,6 +836,7 @@ Focused on professional domains like app architecture, test-driven development, 
 ---
 
 
+<a id="ruby"></a>
 # 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30"/> Ruby
 
 ## For Beginners
@@ -848,6 +890,7 @@ These detailed guides are best used as companions throughout your learning journ
 
 ---
 
+<a id="dart"></a>
 # 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/> Dart
 
 ## For Beginners
@@ -895,6 +938,7 @@ These resources are perfect for quick lookups and staying current with the langu
   
 ---
 
+<a id="scala"></a>
 # 16. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" /> Scala
 
 ## For Beginners
@@ -943,6 +987,7 @@ These guides are perfect for quick lookups and understanding the Scala ecosystem
 
 ---
 
+<a id="elixir"></a>
 # 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="30"/> Elixir
 
 ## For Beginners
@@ -993,6 +1038,7 @@ These resources are perfect for quick lookups and staying current with the ecosy
 
 ---
 
+<a id="shell"></a>
 # 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/> Shell (Bash)
 
 ## For Beginners
@@ -1042,6 +1088,7 @@ These resources are perfect for quick lookups and writing safer scripts.
 
 ---
 
+<a id="r"></a>
 # 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/> R
 
 ## For Beginners
@@ -1095,6 +1142,7 @@ These guides are perfect for quick lookups and understanding the language intern
 
 ---
 
+<a id="julia"></a>
 # 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30"/> Julia
 
 ## For Beginners
