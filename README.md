@@ -31,38 +31,26 @@
 
 ## 📑 Table of Contents
 
-<table align="center">
-  <tr>
-    <td><b>1.</b>&nbsp; <a href="#python">Python</a></td>
-    <td><b>2.</b>&nbsp; <a href="#javascript">JavaScript</a></td>
-    <td><b>3.</b>&nbsp; <a href="#java">Java</a></td>
-    <td><b>4.</b>&nbsp; <a href="#csharp">C#</a></td>
-  </tr>
-  <tr>
-    <td><b>5.</b>&nbsp; <a href="#c">C</a></td>
-    <td><b>6.</b>&nbsp; <a href="#cpp">C++</a></td>
-    <td><b>7.</b>&nbsp; <a href="#typescript">TypeScript</a></td>
-    <td><b>8.</b>&nbsp; <a href="#go">Go</a></td>
-  </tr>
-  <tr>
-    <td><b>9.</b>&nbsp; <a href="#rust">Rust</a></td>
-    <td><b>10.</b>&nbsp; <a href="#php">PHP</a></td>
-    <td><b>11.</b>&nbsp; <a href="#kotlin">Kotlin</a></td>
-    <td><b>12.</b>&nbsp; <a href="#sql">SQL</a></td>
-  </tr>
-  <tr>
-    <td><b>13.</b>&nbsp; <a href="#swift">Swift</a></td>
-    <td><b>14.</b>&nbsp; <a href="#ruby">Ruby</a></td>
-    <td><b>15.</b>&nbsp; <a href="#dart">Dart</a></td>
-    <td><b>16.</b>&nbsp; <a href="#scala">Scala</a></td>
-  </tr>
-  <tr>
-    <td><b>17.</b>&nbsp; <a href="#elixir">Elixir</a></td>
-    <td><b>18.</b>&nbsp; <a href="#shell">Shell (Bash)</a></td>
-    <td><b>19.</b>&nbsp; <a href="#r">R</a></td>
-    <td><b>20.</b>&nbsp; <a href="#julia">Julia</a></td>
-  </tr>
-</table>
+<a href="#python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="#javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="#java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a href="#csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
+<a href="#c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+<a href="#cpp"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<a href="#typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a href="#go"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+<a href="#rust"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+<a href="#php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+<a href="#kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+<a href="#sql"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/></a>
+<a href="#swift"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/></a>
+<a href="#ruby"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>
+<a href="#dart"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+<a href="#scala"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/></a>
+<a href="#elixir"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/></a>
+<a href="#shell"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell (Bash)"/></a>
+<a href="#r"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
+<a href="#julia"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/></a>
 
 </div>
 
