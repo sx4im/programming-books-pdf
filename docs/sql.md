@@ -2,7 +2,7 @@
 
 Query language for relational databases, analytics, and data engineering.
 
-This page lists curated SQL books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 ← [Kotlin](kotlin.md) · [All languages](../README.md#contents) · [Swift](swift.md) →
 

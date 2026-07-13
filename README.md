@@ -4,7 +4,7 @@ Curated programming books and learning resources for **20 languages**, organized
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/Languages-20-blue)](docs/)
-[![Resources](https://img.shields.io/badge/Resources-468%2B-9cf)](docs/)
+[![Resources](https://img.shields.io/badge/Resources-469%2B-9cf)](docs/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sx4im/programming-books-pdf?style=social)](https://github.com/sx4im/programming-books-pdf)
 
@@ -68,8 +68,8 @@ Curated programming books and learning resources for **20 languages**, organized
 
 - **20 language guides** under [`docs/`](docs/), each with a short introduction and skill-level sections
 - Paths for **Beginners**, **Intermediate**, **Advanced**, **Specialized fields**, and **References**
-- Mix of **books**, **official documentation**, and **freely available online editions**
-- Contribution guidelines that prefer **legal, durable links** over fragile mirrors
+- Mix of **books** (mostly public Google Drive shares), **official documentation**, and other references
+- Contribution guidelines that **preserve working Drive links** and reject placeholders
 
 ## How to use this repository
 
@@ -82,7 +82,7 @@ Curated programming books and learning resources for **20 languages**, organized
 
 ### [Python](docs/python.md)
 
-General-purpose language widely used in data science, web development, automation, and AI. **56** curated resources.
+General-purpose language widely used in data science, web development, automation, and AI. **57** curated resources.
 ### [JavaScript](docs/javascript.md)
 
 The language of the web — browsers, Node.js, and full-stack applications. **51** curated resources.
@@ -151,11 +151,11 @@ The **repository** (this curated list and documentation) is licensed under the [
 
 ### Are every entry free PDF downloads?
 
-No. Entries may point to official docs, free online books, publisher pages, or other host links. This project is a **curated index**, not a file host. We do not encourage unauthorized distribution of copyrighted works.
+Most book entries use **public Google Drive share links** maintained for this collection. Some entries point to official docs or other references. This git repository is an index of links, not a place where PDF binaries are committed.
 
 ### Why were some links removed?
 
-Placeholder links (`PDF_LINK`), empty URLs, duplicate wrong targets, and known piracy-adjacent hosts were removed so the list stays trustworthy and maintainable. Prefer opening a PR with a legal free edition or publisher page.
+Only non-working placeholders (`PDF_LINK`, empty URLs) and unrelated dump-site hosts were removed. Working public Google Drive links are kept. Prefer opening a PR with a public Drive link or official docs URL when something is missing.
 
 ### How do I suggest a book?
 

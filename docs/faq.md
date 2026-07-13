@@ -10,17 +10,17 @@ A curated index of programming books and learning resources across 20 languages,
 
 The **list and documentation** are MIT-licensed. Linked books and websites keep their own licenses. “Open source” here refers to this repository’s curation, not every book title listed.
 
-## Do you host PDF files?
+## Do you host PDF files in git?
 
-No. This repository stores Markdown documentation and links. Prefer official documentation, author-hosted free editions, and other legal sources.
+No. This repository stores Markdown documentation and **links**. Book files are stored in cloud storage (mainly Google Drive) and shared with public links.
 
-## Why do some Google Drive links remain?
+## Why are so many links Google Drive?
 
-Older entries may still point at third-party hosts. New contributions should follow the [link policy](../CONTRIBUTING.md#link-policy). Over time, the goal is to prefer durable legal sources and official pages.
+The maintainer stores the book collection in the cloud and shares **public Drive links** from this index. That is intentional. Please keep working Drive links; only replace them if a file is missing, private, or the wrong title.
 
 ## Why were placeholders and some links removed?
 
-Entries with `PDF_LINK`, empty URLs, duplicate wrong targets, or piracy-adjacent hosts undermine trust and SEO. They were removed. Suggest replacements via issues or pull requests.
+Entries with `PDF_LINK`, empty URLs, or non-Drive dump-site hosts were removed because they did not work. Suggest a public Drive (or official docs) replacement via issues or pull requests.
 
 ## How should I cite or share this list?
 

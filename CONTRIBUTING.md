@@ -16,21 +16,23 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Link policy
 
+This project’s books are primarily shared via **public Google Drive links** maintained by the repository owner. Prefer those Drive share links when adding or restoring titles from the catalog.
+
 **Acceptable links**
 
+- Public Google Drive (or similar cloud) share links for books in this collection
 - Official documentation and language manuals
-- Author- or publisher-hosted free editions (with clear permission to share)
-- Stable publisher product pages, library catalog pages, or open-access mirrors
-- Well-known free online books (for example Eloquent JavaScript, R for Data Science, The Rust Book)
+- Author- or publisher-hosted free editions
+- Stable publisher or product pages when a Drive file is not available yet
 
 **Not acceptable**
 
 - Placeholder URLs (`PDF_LINK`, empty `()` links)
-- Known piracy / unauthorized mirror hosts
-- Links that require bypassing paywalls or sharing copyrighted files without permission
+- Broken or private (non-public) cloud links
+- Unrelated third-party piracy dump sites
 - Tracking-heavy short links when a canonical URL exists
 
-When both a fragile mirror and an official free edition exist, **prefer the official free edition**.
+Do **not** replace working public Google Drive share links with other hosts unless the Drive link is broken or the maintainer asks for a change.
 
 ## Entry format
 

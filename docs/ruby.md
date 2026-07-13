@@ -2,7 +2,7 @@
 
 Expressive language known for Rails and developer-friendly web development.
 
-This page lists curated Ruby books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 ← [Swift](swift.md) · [All languages](../README.md#contents) · [Dart](dart.md) →
 

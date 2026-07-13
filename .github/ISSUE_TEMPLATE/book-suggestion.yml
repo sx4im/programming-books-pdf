@@ -80,5 +80,5 @@ body:
     attributes:
       label: Link policy
       options:
-        - label: I confirm this link follows the repository link policy (no unauthorized mirrors).
+        - label: I confirm this is a working public link (Google Drive share or official docs) and not a placeholder.
           required: true

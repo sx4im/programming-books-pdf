@@ -37,10 +37,8 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 ### Trust & link hygiene
 
 - Removed **59** `PDF_LINK` placeholders and **2** empty links
-- Removed piracy-adjacent hosts (`annas-archive.org`, Scribd-only entry)
-- Dropped duplicate wrong URL (Python Cookbook sharing Crash Course Drive ID)
-- Replaced select titles with official free editions (e.g. Eloquent JavaScript, Automate the Boring Stuff, C23 via open-std)
-- Rebuilt thin Scala / Elixir / Shell / R / Julia sections around legal free docs and books
+- Kept maintainer **public Google Drive** share links as the primary book sources
+- Restored Drive URLs that had been swapped to other hosts (e.g. Eloquent JavaScript, Automate the Boring Stuff, Effective C++, Python Cookbook)
 - Replaced misleading “Free & Open Source” badge with MIT / languages / resources / PRs welcome badges
 - Canonical URLs now point at `programming-books-pdf` (not `ultimate-programming-books`)
 
@@ -56,7 +54,7 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 | Metric | Value |
 | --- | ---: |
 | Language guides | 20 |
-| Curated entries with real URLs | **468** |
+| Curated entries with real URLs | **469** |
 | Placeholder entries remaining | **0** |
 
 ---
@@ -90,7 +88,7 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 **Gaps**
 
 - GitHub Pages not yet enabled (owner action)
-- Many remaining Google Drive URLs are fragile for external indexing
+- Maintainer Google Drive share links are intentional and treated as the primary catalog source
 - No custom domain or standalone HTML search UI
 
 ### LLM discoverability — 82/100

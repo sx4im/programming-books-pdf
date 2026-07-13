@@ -2,7 +2,7 @@
 
 The language of the web — browsers, Node.js, and full-stack applications.
 
-This page lists curated JavaScript books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 ← [Python](python.md) · [All languages](../README.md#contents) · [Java](java.md) →
 
@@ -15,7 +15,7 @@ This page lists curated JavaScript books and learning resources, organized from 
 These books are perfect for those new to programming or just starting with JavaScript.
 
 - [**JavaScript from Beginner to Professional**](https://drive.google.com/file/d/1GKtF2crx0wmUIku4jwCgbuTy9eDoxo3_/view?usp=sharing) (*1st Edition*)
-- [**Eloquent JavaScript**](https://eloquentjavascript.net/) (*4th Edition*)
+- [**Eloquent JavaScript**](https://drive.google.com/file/d/1Z8AS0zomMHxPY1wbcE6vCp7aD_s0oqxq/view?usp=drive_link) (*4th Edition*)
 - [**Head First JavaScript Programming**](https://drive.google.com/file/d/1fYezQ9QtxOqnS_99ETaWVYMlOPsUtJfF/view?usp=sharing) (*2nd Edition*)
 - [**A Smarter Way to Learn JavaScript**](https://drive.google.com/file/d/1skBO-GQHUkffKL57VDDVIM6KoICQIQF3/view?usp=sharing) (*1st Edition*)
 - [**Learn JavaScript Quickly**](https://drive.google.com/file/d/1B5VlqlzrieiSHoWQYsygvyESx8iy53DK/view?usp=sharing) (*2025 Edition*)

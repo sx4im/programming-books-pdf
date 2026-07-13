@@ -2,7 +2,7 @@
 
 Modern JVM language and the preferred choice for Android development.
 
-This page lists curated Kotlin books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 ← [PHP](php.md) · [All languages](../README.md#contents) · [SQL](sql.md) →
 

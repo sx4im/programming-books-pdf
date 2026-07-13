@@ -2,7 +2,7 @@
 
 Simple, concurrent language from Google for cloud services, CLI tools, and infrastructure.
 
-This page lists curated Go books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 ← [TypeScript](typescript.md) · [All languages](../README.md#contents) · [Rust](rust.md) →
 

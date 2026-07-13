@@ -2,7 +2,7 @@
 
 High-performance systems and game development language with fine-grained control.
 
-This page lists curated C++ books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 ← [C](c.md) · [All languages](../README.md#contents) · [TypeScript](typescript.md) →
 
@@ -23,7 +23,7 @@ These books are for those new to C++ and provide a solid, comprehensive foundati
 
 These books are essential for moving beyond the basics and learning to write effective, modern, and idiomatic C++ code.
 
-- [**Effective C++**](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/) (*3rd Edition*)
+- [**Effective C++**](https://drive.google.com/file/d/1WNJxLYF0vCYjtQR0RzmrRSqT3jj2KYLK/view?usp=drive_link) (*3rd Edition*)
 - [**Professional C++**](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394217199) (**6th Edition - 2024**)
 - [**C++ Core Guidelines Explained**](https://www.pearson.com/en-us/subject-catalog/p/c-core-guidelines-explained-best-practices-for-modern-c/P200000009536/)
 - [**A Tour of C++**](https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link) (*3rd Edition*)

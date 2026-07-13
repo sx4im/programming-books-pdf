@@ -2,7 +2,7 @@
 
 General-purpose language widely used in data science, web development, automation, and AI.
 
-This page lists curated Python books and learning resources, organized from beginner to advanced. Prefer official docs and legally free editions when available. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
 [All languages](../README.md#contents) · [JavaScript](javascript.md) →
 
@@ -16,7 +16,7 @@ These books are perfect if you are new to programming or new to Python. They req
 
 - [**Python for Everyone**](https://drive.google.com/file/d/1uQAJEhukgO4JmJGMJpKM_jqxNLX7NM8_/view?usp=sharing) (*3rd Edition*)
 - [**Python Crash Course**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
-- [**Automate the Boring Stuff with Python**](https://automatetheboringstuff.com/) (*3rd Edition*)
+- [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1NbLN0H0_nait6xOildlg0RSehU5PXzDP/view?usp=sharing) (*3rd Edition*)
 - [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/1-_8Zcoh2K9iIY2yQ_kcnuXw5d187wk8b/view?usp=sharing) (*3rd Edition*)
 - [**Head First Python**](https://drive.google.com/file/d/1FY7tFJ_TqOqokSHfUZwiDfUt_IzIYBfQ/view?usp=sharing) (*3rd Edition*)
 - [**Learn Python 3 the Hard Way**](https://drive.google.com/file/d/18DYbGGuxNqtcXHXpncT2dE-I6N1czoKe/view?usp=sharing) (*5th Edition*)
@@ -29,6 +29,7 @@ Once you know the basics, these books will help you write more effective, idioma
 - [**Effective Python: 125 Specific Ways to Write Better Python**](https://drive.google.com/file/d/104VUEoNCp00NPc4-3h3QtDUb7xIM9Qrb/view?usp=sharing) (*3rd Edition*)
 - [**Refactoring: Improving the Design of Existing Code**](https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing) (*2nd Edition*)
 - [**Clean Architecture with Python**](https://drive.google.com/file/d/10vEHHNbhFzPcyoUzf00xrYkUT_A5RAti/view?usp=sharing) (*2025 Edition*)
+- [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
 - [**Python Tricks: A Buffet of Awesome Features**](https://drive.google.com/file/d/155g_0vl_JzQdRzg_KfpY9qPsb65LFL0S/view?usp=sharing) (*Latest Edition*)
 
