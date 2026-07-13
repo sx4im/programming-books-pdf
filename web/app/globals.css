@@ -101,8 +101,14 @@ input {
 }
 
 .container {
-  width: min(1080px, calc(100% - 32px));
+  width: min(1120px, calc(100% - 24px));
   margin-inline: auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: min(1120px, calc(100% - 32px));
+  }
 }
 
 .sr-only {

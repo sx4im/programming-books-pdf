@@ -1,13 +1,14 @@
 ---
 name: Book suggestion
-description: Suggest a book by title — a link is optional; maintainers attach Drive files
+description: Suggest a book by title only — do not submit links; maintainers attach Drive files
 title: "[Book] "
 labels: ["enhancement", "book-suggestion"]
 body:
   - type: markdown
     attributes:
       value: |
-        Suggest a title to add. **You do not need a link** — maintainers will find the book and attach the public Drive share when appropriate.
+        **Suggest the book title only.** Do not paste Drive, example.com, or any other links.
+        Maintainers find the book and attach a valid public Google Drive PDF link.
   - type: dropdown
     id: language
     attributes:
@@ -67,18 +68,17 @@ body:
     attributes:
       label: Edition or note (optional)
       placeholder: 2nd Edition
-  - type: input
-    id: url
-    attributes:
-      label: Link (optional)
-      description: Not required. Add only if you already have a public Drive or official docs URL.
-      placeholder: https://
-    validations:
-      required: false
   - type: textarea
     id: why
     attributes:
       label: Why should this be included?
-      description: One or two sentences on audience or the gap it fills.
+      description: One or two sentences on audience or the gap it fills. Do not include URLs.
     validations:
       required: true
+  - type: checkboxes
+    id: no-links
+    attributes:
+      label: Confirmation
+      options:
+        - label: I am suggesting a title only — I did not include any download or Drive links.
+          required: true
