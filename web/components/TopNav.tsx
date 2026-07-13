@@ -1,19 +1,36 @@
+"use client";
+
+import Link from "next/link";
 import { ThemeToggle } from "./ThemeToggle";
 import styles from "./TopNav.module.css";
 
-export function TopNav() {
+type Props = {
+  active?: "home" | "library";
+};
+
+export function TopNav({ active = "home" }: Props) {
   return (
     <header className={styles.nav}>
       <div className={`container ${styles.inner}`}>
-        <a className={styles.brand} href="#top">
+        <Link className={styles.brand} href="/">
           <span className={styles.mark} aria-hidden>
             ▲
           </span>
-          Ultimate Programming Books
-        </a>
+          <span className={styles.brandText}>Ultimate Programming Books</span>
+        </Link>
         <nav className={styles.links} aria-label="Primary">
-          <a href="#library">Library</a>
-          <a href="#languages">Languages</a>
+          <Link
+            href="/"
+            className={active === "home" ? styles.linkActive : undefined}
+          >
+            Home
+          </Link>
+          <Link
+            href="/library"
+            className={active === "library" ? styles.linkActive : undefined}
+          >
+            Library
+          </Link>
           <a
             href="https://github.com/sx4im/programming-books-pdf"
             target="_blank"
@@ -24,9 +41,9 @@ export function TopNav() {
         </nav>
         <div className={styles.actions}>
           <ThemeToggle />
-          <a className={styles.cta} href="#library">
-            Browse shelf
-          </a>
+          <Link className={styles.cta} href="/library">
+            Open library
+          </Link>
         </div>
       </div>
     </header>

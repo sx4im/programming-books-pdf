@@ -16,7 +16,7 @@ Curated programming books for **20 languages** — beginner to advanced. Pick a 
 
 1. **Library UI** — open [`web/`](web/), run `cd web && npm install && npm run dev`
 2. **Markdown guides** — browse [`docs/`](docs/) on GitHub
-3. **Suggest a book** — open a [book suggestion](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the title (a link is optional; maintainers attach Drive files)
+3. **Suggest a book** — open a [book suggestion](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the **title only** (no links; maintainers attach Drive PDFs)
 
 Each guide is split by level: **Beginner → Intermediate → Advanced → Specialized → References**.
 
@@ -77,7 +77,7 @@ The repo is [MIT](LICENSE). Books keep their own licenses — use legal sources 
 Most titles use **public Google Drive** links maintained for this collection. This repo stores Markdown + the web catalog, not binary files.
 
 **How do I suggest a book?**  
-Open a [book suggestion issue](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the **title** (and author if you know it). A link is optional — maintainers find the file and attach the Drive link.
+Open a [book suggestion issue](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the **title** (and author if you know it). **Do not submit links** — maintainers find the PDF and attach a valid Google Drive share.
 
 **How do I add covers or authors in the app?**  
 Edit [`web/data/books.json`](web/data/books.json) (`author`, `coverImage`). See [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -96,9 +96,9 @@ More: [docs/faq.md](docs/faq.md)
 
 PRs and suggestions welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-- Suggest a book by title (no link required)
+- Suggest a book by title only (no links)
 - Report broken Drive links
-- Fill `author` / `coverImage` in the library JSON
+- Fill `author` / `coverImage` in the library JSON (maintainers)
 
 ```bash
 cd web && npm install && npm run import:docs   # sync JSON from docs (keeps author/cover)

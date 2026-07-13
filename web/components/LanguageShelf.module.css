@@ -1,15 +1,14 @@
 .section {
-  padding: 48px 0;
-  border-bottom: 1px solid var(--hairline);
+  padding: 32px 0 48px;
 }
 
 .header {
-  margin-bottom: 24px;
+  margin-bottom: 20px;
 }
 
 .title {
   margin: 0;
-  font-size: clamp(24px, 3vw, 32px);
+  font-size: clamp(22px, 4vw, 32px);
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.15;
@@ -33,17 +32,17 @@
 
 .card,
 .cardActive {
-  appearance: none;
   text-align: left;
   border: 0;
   border-bottom: 1px solid var(--hairline);
   background: var(--canvas);
   color: inherit;
-  padding: 16px;
-  cursor: pointer;
+  padding: 14px 16px;
   display: grid;
   gap: 4px;
+  text-decoration: none;
   transition: background 160ms ease;
+  min-height: 72px;
 }
 
 .card:last-child,
@@ -53,11 +52,16 @@
 
 .card:hover {
   background: var(--surface);
+  text-decoration: none;
 }
 
 .cardActive {
   background: var(--surface);
-  box-shadow: inset 3px 0 0 var(--blue);
+  box-shadow: inset 3px 0 0 var(--ink);
+}
+
+.cardActive:hover {
+  text-decoration: none;
 }
 
 .label {
@@ -73,7 +77,7 @@
 }
 
 .count {
-  margin-top: 6px;
+  margin-top: 4px;
   font-size: 12px;
   font-weight: 500;
   color: var(--quiet);
@@ -81,6 +85,10 @@
 }
 
 @media (min-width: 640px) {
+  .section {
+    padding: 48px 0 64px;
+  }
+
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }

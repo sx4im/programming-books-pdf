@@ -1,19 +1,16 @@
+"use client";
+
+import Link from "next/link";
 import type { LanguageMeta } from "../lib/types";
 import styles from "./LanguageShelf.module.css";
 
 type Props = {
   languages: LanguageMeta[];
-  selected: string | null;
   counts: Record<string, number>;
-  onSelect: (id: string) => void;
+  selected?: string | null;
 };
 
-export function LanguageShelf({
-  languages,
-  selected,
-  counts,
-  onSelect,
-}: Props) {
+export function LanguageShelf({ languages, counts, selected }: Props) {
   return (
     <section className={styles.section} id="languages" aria-labelledby="lang-title">
       <div className="container">
@@ -22,8 +19,8 @@ export function LanguageShelf({
             Language shelves
           </h2>
           <p className={styles.sub}>
-            Select a language to open its shelf. Counts update from the live
-            catalog.
+            Tap a language to open its full library page — search, filter, and
+            read books without crowding the home screen.
           </p>
         </div>
         <div className={styles.grid}>
@@ -31,19 +28,18 @@ export function LanguageShelf({
             const active = selected === lang.id;
             const count = counts[lang.id] ?? 0;
             return (
-              <button
+              <Link
                 key={lang.id}
-                type="button"
+                href={`/library?lang=${lang.id}`}
                 className={active ? styles.cardActive : styles.card}
-                onClick={() => onSelect(lang.id)}
-                aria-pressed={active}
+                aria-current={active ? "page" : undefined}
               >
                 <span className={styles.label}>{lang.label}</span>
                 <span className={styles.blurb}>{lang.blurb}</span>
                 <span className={styles.count}>
                   {count} {count === 1 ? "book" : "books"}
                 </span>
-              </button>
+              </Link>
             );
           })}
         </div>

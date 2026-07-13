@@ -8,100 +8,97 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Ways to contribute
 
-- **Suggest a book by title** (link optional — maintainers find and attach the Drive file)
-- Report a broken, redirected, or outdated link
-- Improve categorization (Beginner / Intermediate / Advanced / Specialized / References)
-- Clarify docs or FAQ answers
-- Enrich the library app (`web/data/books.json`) with authors and cover image URLs
+- **Suggest a book by title only** (no links — maintainers attach Google Drive PDFs)
+- Report a broken or outdated Drive link
+- Improve categorization or docs clarity
+- Enrich the library app (`web/data/books.json`) with `author` / `coverImage` (maintainers)
 
-## Suggest a book (easiest for new contributors)
+## Suggest a book (for all contributors)
 
-You do **not** need a Google Drive link.
+**Do not submit Google Drive links, example.com links, or any download URLs.**
 
 1. Open a [book suggestion issue](.github/ISSUE_TEMPLATE/book-suggestion.yml).
-2. Fill in:
+2. Provide:
    - Language
    - Skill level
    - Book title
-   - Author (if you know it)
+   - Author (if known)
    - Edition (optional)
-   - Why it belongs in the list
-3. Maintainers look up the book, upload/host the public Drive share if appropriate, and add it to [`docs/`](docs/) + [`web/data/books.json`](web/data/books.json).
+   - Why it belongs
+3. Maintainers find the book, upload a **public Google Drive PDF**, and add it to [`docs/`](docs/) + [`web/data/books.json`](web/data/books.json).
 
-Optional: if you already have a working public Drive or official docs URL, include it — that speeds things up. It is never required.
+Fake or placeholder URLs (`https://example.com`, `PDF_LINK`, empty links) are rejected by validation.
 
-## Link policy (for PRs that add or change URLs)
+## Link policy (maintainers only)
 
-This project’s books are primarily shared via **public Google Drive links** maintained by the repository owner.
+When adding or fixing a book URL:
 
-**Acceptable links**
+**Required for PDF books**
 
-- Public Google Drive (or similar cloud) share links for books in this collection
-- Official documentation and language manuals
-- Author- or publisher-hosted free editions
-- Stable publisher or product pages when a Drive file is not available yet
+- Public `https://drive.google.com/file/d/…` (or `docs.google.com`) share link that opens the correct title
 
-**Not acceptable**
+**Also allowed for reference / official docs**
 
-- Placeholder URLs (`PDF_LINK`, empty `()` links)
-- Broken or private (non-public) cloud links
-- Unrelated third-party dump sites
-- Tracking-heavy short links when a canonical URL exists
+- Official language documentation hosts (MDN, rust-lang.org docs, etc.)
 
-Do **not** replace working public Google Drive share links unless the Drive link is broken or a maintainer asks for a change.
+**Never allowed**
+
+- `example.com` / `example.org` / localhost / other placeholders
+- Empty `()`, `PDF_LINK`, `#`
+- Random third-party dump sites
+- Contributor-submitted unverified download links
+
+Validate before merge:
+
+```bash
+cd web && npm run validate:links
+```
 
 ## Library web app
 
-Everything for the dashboard lives under [`web/`](web/) (including [`web/vercel.json`](web/vercel.json) for deploy). Catalog data: [`web/data/books.json`](web/data/books.json).
+Dashboard code and Vercel config live under [`web/`](web/). Catalog: [`web/data/books.json`](web/data/books.json).
 
-To update an entry in the dashboard (maintainers / advanced contributors):
+Maintainer fields:
 
-1. Edit `web/data/books.json` (or run `npm run import:docs` inside `web/` after updating Markdown).
-2. Set `driveUrl` to the public Google Drive share.
-3. Optionally set `author` and `coverImage`. Leave blank for placeholders.
-4. Categories: `beginner` | `intermediate` | `advanced` | `specialized` | `references`.
+- `driveUrl` — must pass `npm run validate:links`
+- `author` / `coverImage` — optional; leave `""` for placeholders
 
-See [`web/README.md`](web/README.md) for local run and Vercel notes (set Root Directory to `web`).
+```bash
+cd web
+npm run import:docs      # sync from docs/*.md (keeps author/cover)
+npm run validate:links   # reject placeholders / invalid hosts
+npm run dev
+```
 
-## Entry format (Markdown docs)
+Set Vercel **Root Directory** to `web`.
 
-When a maintainer (or a PR that already has a URL) adds an entry under [`docs/`](docs/):
+## Entry format (Markdown — maintainers)
 
 ```markdown
-- [**Book Title**](https://drive.google.com/...) (*Edition or note*)
+- [**Book Title**](https://drive.google.com/file/d/FILE_ID/view?usp=sharing) (*Edition*)
 ```
 
 Rules:
 
-1. Place the entry in the right skill-level section.
-2. Prefer the maintainer’s public Drive share when available.
-3. Keep titles accurate; include edition when known.
-4. Do not duplicate a title on the same language page.
-5. One resource per bullet.
+1. Correct skill-level section
+2. Real Drive (or approved docs) URL — never example.com
+3. Accurate title + edition
+4. No duplicates on the same page
 
 ## Pull request checklist
 
-- [ ] Book suggestions via issue are fine without a link
-- [ ] If this PR adds/changes a URL, it follows the link policy
-- [ ] Entry is in the correct language file and section (when editing docs)
-- [ ] No duplicate titles on the same page
+- [ ] Contributors suggested **titles only** (no links in issues/PRs from new contributors)
+- [ ] Any URL added by maintainers passes `npm run validate:links`
+- [ ] Correct language + section when editing docs
+- [ ] No duplicate titles
 - [ ] Markdown renders correctly
 
 ## Issue templates
 
-- Book suggestion → `.github/ISSUE_TEMPLATE/book-suggestion.yml`
-- Broken link → `.github/ISSUE_TEMPLATE/broken-link.yml`
-- General → `.github/ISSUE_TEMPLATE/general.yml`
-
-## Local checks (optional)
-
-```bash
-npx markdownlint-cli2 "**/*.md"
-npx lychee --offline README.md docs/**/*.md
-```
-
-CI runs markdown lint, link checks, and spellcheck on pull requests.
+- Book suggestion (title only)
+- Broken link
+- General
 
 ## License
 
-By contributing, you agree that your contributions are licensed under the [MIT License](LICENSE) covering this repository’s documentation and curation.
+By contributing, you agree that your contributions are licensed under the [MIT License](LICENSE).

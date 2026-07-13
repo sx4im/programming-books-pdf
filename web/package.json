@@ -7,7 +7,8 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "import:docs": "node scripts/import-from-docs.mjs"
+    "import:docs": "node scripts/import-from-docs.mjs",
+    "validate:links": "node scripts/validate-drive-links.mjs"
   },
   "dependencies": {
     "geist": "^1.7.2",

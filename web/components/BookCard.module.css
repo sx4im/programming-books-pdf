@@ -35,8 +35,7 @@
   display: grid;
   place-items: center;
   position: relative;
-  background:
-    linear-gradient(180deg, var(--surface-raised), var(--surface));
+  background: var(--surface);
 }
 
 .blankSpine {
@@ -89,7 +88,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: var(--control-h);
+  min-height: 44px;
   border-radius: var(--radius-md);
   background: var(--inverse);
   color: var(--on-inverse);

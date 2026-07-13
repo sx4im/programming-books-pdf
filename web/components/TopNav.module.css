@@ -3,7 +3,7 @@
   top: 0;
   z-index: 40;
   height: var(--nav-h);
-  background: color-mix(in srgb, var(--canvas) 88%, transparent);
+  background: color-mix(in srgb, var(--canvas) 92%, transparent);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--hairline);
 }
@@ -12,7 +12,7 @@
   height: 100%;
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 12px;
 }
 
 .brand {
@@ -23,21 +23,29 @@
   text-decoration: none;
   font-size: 14px;
   font-weight: 500;
-  white-space: nowrap;
+  min-width: 0;
 }
 
 .brand:hover {
   text-decoration: none;
 }
 
+.brandText {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 42vw;
+}
+
 .mark {
   font-size: 12px;
   line-height: 1;
+  flex-shrink: 0;
 }
 
 .links {
   display: none;
-  gap: 20px;
+  gap: 16px;
   margin-right: auto;
 }
 
@@ -47,19 +55,21 @@
   text-decoration: none;
 }
 
-.links a:hover {
-  color: var(--ink);
+.links a:hover,
+.linkActive {
+  color: var(--ink) !important;
 }
 
 .actions {
   margin-left: auto;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
+  flex-shrink: 0;
 }
 
 .cta {
-  display: inline-flex;
+  display: none;
   align-items: center;
   justify-content: center;
   height: var(--control-h);
@@ -70,6 +80,7 @@
   font-size: 14px;
   font-weight: 500;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .cta:hover {
@@ -77,8 +88,26 @@
   opacity: 0.92;
 }
 
+@media (min-width: 640px) {
+  .brandText {
+    max-width: none;
+  }
+
+  .cta {
+    display: inline-flex;
+  }
+}
+
 @media (min-width: 768px) {
+  .inner {
+    gap: 24px;
+  }
+
   .links {
     display: flex;
+  }
+
+  .actions {
+    gap: 12px;
   }
 }

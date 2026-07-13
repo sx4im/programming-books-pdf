@@ -1,0 +1,29 @@
+name: Validate book links
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/data/books.json"
+      - "web/scripts/validate-drive-links.mjs"
+      - ".github/workflows/validate-book-links.yml"
+  pull_request:
+    paths:
+      - "web/data/books.json"
+      - "web/scripts/validate-drive-links.mjs"
+      - "docs/**/*.md"
+      - ".github/workflows/validate-book-links.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Reject placeholder / invalid book URLs
+        run: node web/scripts/validate-drive-links.mjs
