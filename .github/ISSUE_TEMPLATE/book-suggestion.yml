@@ -1,0 +1,84 @@
+---
+name: Book suggestion
+description: Suggest a programming book or learning resource to add
+title: "[Book] "
+labels: ["enhancement", "book-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource. Please follow the [link policy](https://github.com/sx4im/programming-books-pdf/blob/main/CONTRIBUTING.md#link-policy).
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - Python
+        - JavaScript
+        - Java
+        - C#
+        - C
+        - C++
+        - TypeScript
+        - Go
+        - Rust
+        - PHP
+        - Kotlin
+        - SQL
+        - Swift
+        - Ruby
+        - Dart
+        - Scala
+        - Elixir
+        - Shell (Bash)
+        - R
+        - Julia
+        - Other / cross-cutting
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Skill level section
+      options:
+        - For Beginners
+        - For Intermediate Developers
+        - For Advanced Programmers
+        - For Specialized Fields
+        - Comprehensive References
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Book or resource title
+      placeholder: Fluent Python
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL
+      description: Prefer official docs or a legally free edition.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: edition
+    attributes:
+      label: Edition or note
+      placeholder: 2nd Edition
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this be included?
+      description: One or two sentences on quality, audience, or gap it fills.
+    validations:
+      required: true
+  - type: checkboxes
+    id: policy
+    attributes:
+      label: Link policy
+      options:
+        - label: I confirm this link follows the repository link policy (no unauthorized mirrors).
+          required: true

@@ -1,0 +1,51 @@
+---
+name: Broken link
+description: Report a broken, redirected, or incorrect link
+title: "[Broken link] "
+labels: ["bug", "broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: For **malicious or phishing** links, prefer the process in [SECURITY.md](https://github.com/sx4im/programming-books-pdf/blob/main/SECURITY.md).
+  - type: input
+    id: file
+    attributes:
+      label: File path
+      placeholder: docs/python.md
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+      placeholder: Fluent Python
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Current URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - 404 / not found
+        - Permission denied / private
+        - Redirects to unrelated content
+        - Wrong book or edition
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement URL (optional)
+      placeholder: https://
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
