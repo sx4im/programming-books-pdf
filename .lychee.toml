@@ -2,18 +2,17 @@
 # Lychee link checker config
 #############################
 
-# Prefer verbose failures in CI logs
 verbose = "warning"
 no_progress = true
-max_concurrency = 8
-timeout = 20
-retry_wait_time = 2
-max_retries = 2
+max_concurrency = 4
+timeout = 30
+retry_wait_time = 3
+max_retries = 3
 
 # Common transient / bot-block statuses
 accept = ["200", "206", "429", "999"]
 
-# Skip noisy or auth-walled patterns; still lint Markdown locally
+# Skip noisy, auth-walled, or flaky hosts in CI
 exclude = [
   '^https://drive\.google\.com/',
   '^https://www\.oreilly\.com/',
@@ -23,9 +22,15 @@ exclude = [
   '^https://www\.pearson\.',
   '^https://www\.wiley\.',
   '^https://www\.packtpub\.com/',
-  '^https://www\.manning\.com/',
+  '^https://www\.manning\.',
   '^https://twitter\.com/',
   '^https://x\.com/',
+  '^https://books\.apple\.com/',
+  '^https://cdn\.jsdelivr\.net/',
+  '^https://img\.shields\.io/',
+  '^https://juliaacademy\.com/',
+  '^https://juliadatascience\.io/',
+  '^https://www\.gnu\.org/',
 ]
 
 exclude_path = [

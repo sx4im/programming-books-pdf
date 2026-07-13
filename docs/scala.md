@@ -22,7 +22,7 @@ These books provide a solid foundation in Scala's hybrid object-oriented and fun
 
 Move beyond the basics to write idiomatic, effective Scala and master its rich standard library.
 
-- [**Tour of Scala**](https://docs.scala-lang.org/tour/tour.html) (*Official language tour*)
+- [**Tour of Scala**](https://docs.scala-lang.org/tour/) (*Official language tour*)
 - [**Hands-on Scala Programming**](https://www.handsonscala.com/) (*1st Edition*)
 
 ## For Advanced Programmers

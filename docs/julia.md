@@ -21,7 +21,7 @@ These books introduce Julia's syntax and its appeal for high-performance scienti
 
 Focus on applying Julia to data analysis and scientific computing.
 
-- [**Julia Data Science**](https://juliadatascience.io/) (*Free online book*)
+- [**Julia Data Science**](https://github.com/JuliaDataScience/JuliaDataScience) (*Free online book*)
 
 ## For Advanced Programmers
 

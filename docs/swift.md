@@ -17,7 +17,7 @@ These books focus on the Swift language syntax and the basics of building your f
 - [**Swift Apprentice**](https://drive.google.com/file/d/1tA1abtGxZvJUuAIyCA6TJbkzGPKNhuHg/view?usp=sharing) (*7th Edition*)
 - [**Head First Swift**](https://drive.google.com/file/d/1aV5_twjheTblaadPX0Up9CHU7XydT2T1/view?usp=sharing) (*1st Edition*)
 - [**Swift Programming: The Big Nerd Ranch Guide**](https://drive.google.com/file/d/1b9t6A265KOdy99PTDKrFnRxe_JPmbW-1/view?usp=sharing) (*3rd Edition*)
-- [**Develop in Swift Fundamentals**](https://books.apple.com/us/book/develop-in-swift-fundamentals/id1581182804) (*Official Apple Book*)
+- [**Develop in Swift Fundamentals**](https://developer.apple.com/learn/curriculum/) (*Official Apple curriculum*)
 - [**SwiftUI for Masterminds**](https://drive.google.com/file/d/1IWIUDcvNQbI2zNZ_L2lBoEnwGUKpinLT/view?usp=sharing) (*3rd Edition*)
 - [**IOS Development with Swift**](https://drive.google.com/file/d/1rxN7h9etXSJPKlGdq1ooNhHPDqhpIS9U/view?usp=sharing)
 
