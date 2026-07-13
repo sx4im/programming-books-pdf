@@ -65,42 +65,210 @@ Each language guide is organized: **Beginner → Intermediate → Advanced → S
 
 ## Languages
 
-Click a badge for the GitHub guide, or open the same language in the [live library](https://programming-books-pdf.vercel.app/library).
+Click a language for the GitHub guide, or open the same shelf in the [live library](https://programming-books-pdf.vercel.app/library).
 
-<p align="center">
-<a href="docs/python.md"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming books"/></a>
-<a href="docs/javascript.md"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript programming books"/></a>
-<a href="docs/java.md"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java programming books"/></a>
-<a href="docs/csharp.md"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# programming books"/></a>
-<a href="docs/c.md"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C programming books"/></a>
-<a href="docs/cpp.md"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ programming books"/></a>
-<a href="docs/typescript.md"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript programming books"/></a>
-<a href="docs/go.md"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go programming books"/></a>
-<a href="docs/rust.md"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust programming books"/></a>
-<a href="docs/php.md"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP programming books"/></a>
-<a href="docs/kotlin.md"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin programming books"/></a>
-<a href="docs/sql.md"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL programming books"/></a>
-<a href="docs/swift.md"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift programming books"/></a>
-<a href="docs/ruby.md"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby programming books"/></a>
-<a href="docs/dart.md"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart programming books"/></a>
-<a href="docs/scala.md"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala programming books"/></a>
-<a href="docs/elixir.md"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir programming books"/></a>
-<a href="docs/shell.md"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash shell programming books"/></a>
-<a href="docs/r.md"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R programming books"/></a>
-<a href="docs/julia.md"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia programming books"/></a>
-<a href="docs/htmlcss.md"><img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS programming books"/></a>
-<a href="docs/lua.md"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua programming books"/></a>
-<a href="docs/matlab.md"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB programming books"/></a>
-<a href="docs/assembly.md"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly programming books"/></a>
-<a href="docs/haskell.md"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell programming books"/></a>
-<a href="docs/powershell.md"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell programming books"/></a>
-<a href="docs/zig.md"><img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig programming books"/></a>
-<a href="docs/solidity.md"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity programming books"/></a>
-<a href="docs/perl.md"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl programming books"/></a>
-<a href="docs/fortran.md"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran programming books"/></a>
-<a href="docs/objectivec.md"><img src="https://img.shields.io/badge/Objective--C-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C programming books"/></a>
-<a href="docs/clojure.md"><img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure programming books"/></a>
-</p>
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0;max-width:980px;">
+  <tr>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/python.md" title="Python programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Python</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/javascript.md" title="JavaScript programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">JavaScript</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/java.md" title="Java programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openjdk/openjdk-original.svg" width="36" height="36" alt="Java logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Java</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/csharp.md" title="C# programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C# logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">C#</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/c.md" title="C programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">C</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/cpp.md" title="C++ programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++ logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">C++</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/typescript.md" title="TypeScript programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">TypeScript</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/go.md" title="Go programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Go</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/rust.md" title="Rust programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="36" height="36" alt="Rust logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Rust</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/php.md" title="PHP programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">PHP</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/kotlin.md" title="Kotlin programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Kotlin</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/sql.md" title="SQL programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQL logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">SQL</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/swift.md" title="Swift programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36" height="36" alt="Swift logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Swift</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/ruby.md" title="Ruby programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Ruby</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/dart.md" title="Dart programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="Dart logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Dart</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/scala.md" title="Scala programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="36" height="36" alt="Scala logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Scala</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/elixir.md" title="Elixir programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="36" height="36" alt="Elixir logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Elixir</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/shell.md" title="Bash programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Bash</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/r.md" title="R programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" height="36" alt="R logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">R</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/julia.md" title="Julia programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="36" height="36" alt="Julia logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Julia</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/htmlcss.md" title="HTML/CSS programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML/CSS logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">HTML/CSS</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/lua.md" title="Lua programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="36" height="36" alt="Lua logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Lua</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/matlab.md" title="MATLAB programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">MATLAB</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/assembly.md" title="Assembly programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" width="36" height="36" alt="Assembly logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Assembly</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/haskell.md" title="Haskell programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="36" height="36" alt="Haskell logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Haskell</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/powershell.md" title="PowerShell programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">PowerShell</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/zig.md" title="Zig programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="36" height="36" alt="Zig logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Zig</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/solidity.md" title="Solidity programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="36" height="36" alt="Solidity logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Solidity</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/perl.md" title="Perl programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="36" height="36" alt="Perl logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Perl</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/fortran.md" title="Fortran programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" width="36" height="36" alt="Fortran logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Fortran</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/objectivec.md" title="Objective-C programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="36" height="36" alt="Objective-C logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Objective-C</span>
+      </a>
+    </td>
+    <td align="center" width="12.5%" style="padding:6px;">
+      <a href="docs/clojure.md" title="Clojure programming books" style="display:block;text-decoration:none;color:#24292f;border:1px solid #d0d7de;border-radius:10px;padding:14px 6px;background:#f6f8fa;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="36" height="36" alt="Clojure logo" style="display:block;margin:0 auto 8px;"/>
+        <span style="font-size:12px;font-weight:600;line-height:1.2;">Clojure</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>Catalog snapshot</strong> (book counts by language)</summary>
