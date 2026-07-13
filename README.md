@@ -10,7 +10,7 @@ Browse the live library, pick a language, filter by skill level, search by title
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sx4im/programming-books-pdf?style=social)](https://github.com/sx4im/programming-books-pdf)
 
-**Live app:** [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/) · **Library page:** [https://programming-books-pdf.vercel.app/library](https://programming-books-pdf.vercel.app/library) · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
+**Live app:** [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)  · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
 
 ---
 
