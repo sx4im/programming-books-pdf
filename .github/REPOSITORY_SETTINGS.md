@@ -7,7 +7,7 @@ The cloud agent token could not update repository metadata (HTTP 403). Apply the
 | Field | Recommended value |
 | --- | --- |
 | **Description** | `Curated programming books for 20+ languages — beginner to advanced. Python, JavaScript, Rust, Go, Java, and more.` |
-| **Website** | `https://sx4im.github.io/programming-books-pdf/` (after Pages is enabled) or `https://github.com/sx4im/programming-books-pdf` until then |
+| **Website** | `https://programming-books-pdf.vercel.app/` |
 | **Releases** | Optional dated tags such as `2026.07` when the catalog changes substantially |
 
 ## Topics (≤ 20)
