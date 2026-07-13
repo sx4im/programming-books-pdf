@@ -27,9 +27,13 @@ body:
         - Kotlin
         - SQL
         - Swift
+        - Ruby
         - Dart
+        - Scala
+        - Elixir
         - Shell (Bash)
         - R
+        - Julia
         - HTML/CSS
         - Lua
         - MATLAB
@@ -42,8 +46,6 @@ body:
         - Fortran
         - Objective-C
         - Clojure
-        - Groovy
-        - VBA
         - Other / cross-cutting
     validations:
       required: true

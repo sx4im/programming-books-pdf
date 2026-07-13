@@ -34,9 +34,13 @@ const LANG_FILES = [
   "kotlin",
   "sql",
   "swift",
+  "ruby",
   "dart",
+  "scala",
+  "elixir",
   "shell",
   "r",
+  "julia",
   "htmlcss",
   "lua",
   "matlab",
@@ -49,8 +53,6 @@ const LANG_FILES = [
   "fortran",
   "objectivec",
   "clojure",
-  "groovy",
-  "vba",
 ];
 
 function slugify(text) {

@@ -20,7 +20,7 @@ The repository was transformed from a single 1,200-line README into a maintainab
 | LLM discoverability | 35 | 82 | +47 |
 | Documentation quality | 40 | 86 | +46 |
 | Repository health | 18 | 84 | +66 |
-| **Overall (mean)** | **29** | **80** | **+51** |
+| **Overall (mean)** | **634** | **80** | **+51** |
 
 Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_SETTINGS.md` are applied. Without those owner-only settings, GitHub SEO ≈ **68** and overall ≈ **76**.
 
@@ -53,7 +53,7 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 
 | Metric | Value |
 | --- | ---: |
-| Language guides | 30 |
+| Language guides | 32 |
 | Curated entries with real URLs | **581** |
 | Placeholder entries remaining | **0** |
 

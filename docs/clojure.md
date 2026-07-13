@@ -4,7 +4,7 @@ Modern Lisp on the JVM for concurrency, data, and functional systems.
 
 This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
-← [Objective-C](objectivec.md) · [All languages](../README.md#contents) · [Groovy](groovy.md) →
+← [Objective-C](objectivec.md) · [All languages](../README.md#contents)
 
 ---
 

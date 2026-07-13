@@ -4,7 +4,7 @@ Markup and styling languages that power the modern web.
 
 This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
-← [R](r.md) · [All languages](../README.md#contents) · [Lua](lua.md) →
+← [Julia](julia.md) · [All languages](../README.md#contents) · [Lua](lua.md) →
 
 ---
 

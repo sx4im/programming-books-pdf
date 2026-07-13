@@ -3790,6 +3790,246 @@
     "coverImage": ""
   },
   {
+    "id": "ruby-the-well-grounded-rubyist",
+    "title": "The Well-Grounded Rubyist",
+    "author": "",
+    "language": "ruby",
+    "category": "beginner",
+    "edition": "3rd Edition",
+    "driveUrl": "https://drive.google.com/file/d/1Cf52TXHVNxnmiormIZxnCAIeTStlqMxN/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-learn-to-program",
+    "title": "Learn to Program",
+    "author": "",
+    "language": "ruby",
+    "category": "beginner",
+    "edition": "3rd Edition",
+    "driveUrl": "https://drive.google.com/file/d/1EwtvkYvk4mCYLCnkvuG98LX4Wufpg1mZ/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-head-first-ruby",
+    "title": "Head First Ruby",
+    "author": "",
+    "language": "ruby",
+    "category": "beginner",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/17ad--m9IvySUTM80Tt_1vUvNOlbveDjk/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-beginning-ruby-from-novice-to-professional",
+    "title": "Beginning Ruby: From Novice to Professional",
+    "author": "",
+    "language": "ruby",
+    "category": "beginner",
+    "edition": "3rd Edition",
+    "driveUrl": "https://drive.google.com/file/d/1oQvt0rSY30t8kNP5ns_lEe_tjEZfF68P/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-the-ruby-way",
+    "title": "The Ruby Way",
+    "author": "",
+    "language": "ruby",
+    "category": "beginner",
+    "edition": "3rd Edition",
+    "driveUrl": "https://drive.google.com/file/d/1a3ZoDJBGjwAbtoZATusPisqY1nz00E_J/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-eloquent-ruby",
+    "title": "Eloquent Ruby",
+    "author": "",
+    "language": "ruby",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1ZZn9kyzM86xojOtO4Bgj8CRqVWupc5yx/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-practical-object-oriented-design-in-ruby-poodr",
+    "title": "Practical Object-Oriented Design in Ruby (POODR)",
+    "author": "",
+    "language": "ruby",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1aAlGlsTO_pR427WYvSRraHnKPR6Ydl_X/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-confident-ruby",
+    "title": "Confident Ruby",
+    "author": "",
+    "language": "ruby",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1qtL_lhD2tq2TB6rSpdVf5E7tjmXJYt0J/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-ruby-under-a-microscope",
+    "title": "Ruby Under a Microscope",
+    "author": "",
+    "language": "ruby",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1mzeyaEwPOtSLWz39vbAxQ90_KyZ1pRpQ/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-programming-ruby-3-3-the-pickaxe-book",
+    "title": "Programming Ruby 3.3 (The Pickaxe Book)",
+    "author": "",
+    "language": "ruby",
+    "category": "intermediate",
+    "edition": "5th Edition",
+    "driveUrl": "https://drive.google.com/file/d/1PlMP53k6bF36OMawAWM1LI31Z4exJ8MG/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-metaprogramming-ruby-2",
+    "title": "Metaprogramming Ruby 2",
+    "author": "",
+    "language": "ruby",
+    "category": "advanced",
+    "edition": "2nd Edition",
+    "driveUrl": "https://drive.google.com/file/d/1A2BgskzagF_naSqmnNRaOSyppEpogJwr/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-design-patterns-in-ruby",
+    "title": "Design Patterns in Ruby",
+    "author": "",
+    "language": "ruby",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1bO22y0x2lcdbSzsV-hss7uACKlZxE5pf/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-refactoring-ruby-edition",
+    "title": "Refactoring: Ruby Edition",
+    "author": "",
+    "language": "ruby",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1h9TEOF8KUdXVqUUZs-ihB0s43MFSMtss/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-ruby-performance-optimization",
+    "title": "Ruby Performance Optimization",
+    "author": "",
+    "language": "ruby",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1QWKdMnrGSviWmEZQ_adQoVL5hlUT-D0x/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-ruby-on-rails-tutorial",
+    "title": "Ruby on Rails Tutorial",
+    "author": "",
+    "language": "ruby",
+    "category": "specialized",
+    "edition": "7th Edition",
+    "driveUrl": "https://drive.google.com/file/d/1K6s83h9Nn9jApIMz1uuVrplTweP-rWmM/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-agile-web-development-with-rails-7",
+    "title": "Agile Web Development with Rails 7",
+    "author": "",
+    "language": "ruby",
+    "category": "specialized",
+    "edition": "2022 Edition",
+    "driveUrl": "https://drive.google.com/file/d/10Gg5TWEokpr0ZZujBmWDqUMnqJXnTlet/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-the-rails-7-way",
+    "title": "The Rails 7 Way",
+    "author": "",
+    "language": "ruby",
+    "category": "specialized",
+    "edition": "4th Edition",
+    "driveUrl": "https://drive.google.com/file/d/12jcP23KAUfse3EgQR2buW78w0UhehRJT/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-sustainable-web-development-with-ruby-on-rails",
+    "title": "Sustainable Web Development with Ruby on Rails",
+    "author": "",
+    "language": "ruby",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1zccKnVroVNhc0RngeczjaU58NRkIDWno/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-effective-testing-with-rspec-3",
+    "title": "Effective Testing with RSpec 3",
+    "author": "",
+    "language": "ruby",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1b_Z0wSRlSOYzyns69uFsA7YUn3iDhBNz/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-black-hat-ruby",
+    "title": "Black Hat Ruby",
+    "author": "",
+    "language": "ruby",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/1hN-wOW755e_qgP9oODCkoRze8G7mJuXL/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-the-ruby-programming-language",
+    "title": "The Ruby Programming Language",
+    "author": "",
+    "language": "ruby",
+    "category": "references",
+    "edition": "1st Edition",
+    "driveUrl": "https://drive.google.com/file/d/15dMASM-GFoEMMnDm4m_3aJXPjDOsTz1O/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-ruby-cookbook",
+    "title": "Ruby Cookbook",
+    "author": "",
+    "language": "ruby",
+    "category": "references",
+    "edition": "2nd Edition",
+    "driveUrl": "https://drive.google.com/file/d/1m7lBtlRlCdWrG_CIqyaSyRzrYHfZWvtn/view?usp=sharing",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-official-ruby-documentation",
+    "title": "Official Ruby Documentation",
+    "author": "",
+    "language": "ruby",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://www.ruby-lang.org/en/documentation/",
+    "coverImage": ""
+  },
+  {
+    "id": "ruby-the-ruby-style-guide",
+    "title": "The Ruby Style Guide",
+    "author": "",
+    "language": "ruby",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://rubystyle.guide/",
+    "coverImage": ""
+  },
+  {
     "id": "dart-flutter-for-dummies",
     "title": "Flutter for Dummies",
     "author": "",
@@ -3967,6 +4207,356 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://dart.dev/language",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-scala-3-book",
+    "title": "Scala 3 Book",
+    "author": "",
+    "language": "scala",
+    "category": "beginner",
+    "edition": "Official free online book",
+    "driveUrl": "https://docs.scala-lang.org/scala3/book/introduction.html",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-creative-scala",
+    "title": "Creative Scala",
+    "author": "",
+    "language": "scala",
+    "category": "beginner",
+    "edition": "Free online introduction",
+    "driveUrl": "https://www.creativescala.org/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-essential-scala",
+    "title": "Essential Scala",
+    "author": "",
+    "language": "scala",
+    "category": "beginner",
+    "edition": "Online Resource",
+    "driveUrl": "https://underscore.io/books/essential-scala/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-programming-in-scala",
+    "title": "Programming in Scala",
+    "author": "",
+    "language": "scala",
+    "category": "beginner",
+    "edition": "5th Edition",
+    "driveUrl": "https://www.manning.com/books/programming-in-scala-fifth-edition",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-scala-for-the-impatient",
+    "title": "Scala for the Impatient",
+    "author": "",
+    "language": "scala",
+    "category": "beginner",
+    "edition": "3rd Edition",
+    "driveUrl": "https://www.oreilly.com/library/view/scala-for-the-impatient/9780134540566/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-tour-of-scala",
+    "title": "Tour of Scala",
+    "author": "",
+    "language": "scala",
+    "category": "intermediate",
+    "edition": "Official language tour",
+    "driveUrl": "https://docs.scala-lang.org/tour/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-hands-on-scala-programming",
+    "title": "Hands-on Scala Programming",
+    "author": "",
+    "language": "scala",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.handsonscala.com/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-functional-programming-in-scala",
+    "title": "Functional Programming in Scala",
+    "author": "",
+    "language": "scala",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.manning.com/books/functional-programming-in-scala",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-scala-cookbook",
+    "title": "Scala Cookbook",
+    "author": "",
+    "language": "scala",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.oreilly.com/library/view/scala-cookbook/9781449319385/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-scala-with-cats",
+    "title": "Scala with Cats",
+    "author": "",
+    "language": "scala",
+    "category": "advanced",
+    "edition": "Online Resource",
+    "driveUrl": "https://www.scalawithcats.com/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-zionomicon",
+    "title": "Zionomicon",
+    "author": "",
+    "language": "scala",
+    "category": "advanced",
+    "edition": "Online Resource",
+    "driveUrl": "https://www.zionomicon.com/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-functional-programming-for-mortals-with-scalaz",
+    "title": "Functional Programming for Mortals with Scalaz",
+    "author": "",
+    "language": "scala",
+    "category": "advanced",
+    "edition": "Latest Edition",
+    "driveUrl": "https://leanpub.com/fpmortals",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-spark-the-definitive-guide",
+    "title": "Spark: The Definitive Guide",
+    "author": "",
+    "language": "scala",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.oreilly.com/library/view/spark-the-definitive/9781491912218/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-scala-and-spark-for-big-data-analytics",
+    "title": "Scala and Spark for Big Data Analytics",
+    "author": "",
+    "language": "scala",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.packtpub.com/product/scala-and-spark-for-big-data-analytics/9781783550500",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-akka-in-action",
+    "title": "Akka in Action",
+    "author": "",
+    "language": "scala",
+    "category": "specialized",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.manning.com/books/akka-in-action",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-scala-documentation",
+    "title": "Scala Documentation",
+    "author": "",
+    "language": "scala",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://docs.scala-lang.org/",
+    "coverImage": ""
+  },
+  {
+    "id": "scala-a-tour-of-scala",
+    "title": "A Tour of Scala",
+    "author": "",
+    "language": "scala",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://docs.scala-lang.org/tour/tour-of-scala.html",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-elixir-getting-started-guide",
+    "title": "Elixir Getting Started Guide",
+    "author": "",
+    "language": "elixir",
+    "category": "beginner",
+    "edition": "Official free guide",
+    "driveUrl": "https://elixir-lang.org/getting-started/introduction.html",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-elixir-school",
+    "title": "Elixir School",
+    "author": "",
+    "language": "elixir",
+    "category": "beginner",
+    "edition": "Online Resource",
+    "driveUrl": "https://elixirschool.com/",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-programming-elixir-1-6",
+    "title": "Programming Elixir 1.6",
+    "author": "",
+    "language": "elixir",
+    "category": "beginner",
+    "edition": "1.6 Edition",
+    "driveUrl": "https://www.amazon.com/Programming-Elixir-1-6-Functional-Concurrent/dp/1680502999",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-learn-functional-programming-with-elixir",
+    "title": "Learn Functional Programming with Elixir",
+    "author": "",
+    "language": "elixir",
+    "category": "beginner",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Learn-Functional-Programming-Elixir-Concurrent/dp/1680504568",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-introducing-elixir",
+    "title": "Introducing Elixir",
+    "author": "",
+    "language": "elixir",
+    "category": "beginner",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.oreilly.com/library/view/introducing-elixir-2nd/9781492026188/",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-elixir-in-action",
+    "title": "Elixir in Action",
+    "author": "",
+    "language": "elixir",
+    "category": "intermediate",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.manning.com/books/elixir-in-action-second-edition",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-craft-graphql-apis-in-elixir-with-absinthe",
+    "title": "Craft GraphQL APIs in Elixir with Absinthe",
+    "author": "",
+    "language": "elixir",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.manning.com/books/craft-graphql-apis-in-elixir-with-absinthe",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-adopting-elixir",
+    "title": "Adopting Elixir",
+    "author": "",
+    "language": "elixir",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Adopting-Elixir-Concepts-Production-Applications/dp/1680506129",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-metaprogramming-elixir",
+    "title": "Metaprogramming Elixir",
+    "author": "",
+    "language": "elixir",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-designing-elixir-systems-with-otp",
+    "title": "Designing Elixir Systems with OTP",
+    "author": "",
+    "language": "elixir",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Designing-Elixir-Systems-OTP/dp/1680506617",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-property-based-testing-with-proper-erlang-and-elixir",
+    "title": "Property-Based Testing with PropEr, Erlang, and Elixir",
+    "author": "",
+    "language": "elixir",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.manning.com/books/property-based-testing-with-proper-erlang-and-elixir",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-programming-phoenix-1-4",
+    "title": "Programming Phoenix 1.4",
+    "author": "",
+    "language": "elixir",
+    "category": "specialized",
+    "edition": "1.4 Edition",
+    "driveUrl": "https://www.amazon.com/Programming-Phoenix-1-4-Productive-Reliable/dp/1680502265",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-programming-ecto",
+    "title": "Programming Ecto",
+    "author": "",
+    "language": "elixir",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Programming-Ecto-Build-Database-Applications/dp/1680507380",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-programming-phoenix-liveview",
+    "title": "Programming Phoenix LiveView",
+    "author": "",
+    "language": "elixir",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Programming-Phoenix-LiveView-Interactive-Applications/dp/1680508212",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-official-elixir-documentation",
+    "title": "Official Elixir Documentation",
+    "author": "",
+    "language": "elixir",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://elixir-lang.org/docs.html",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-elixir-on-hexdocs",
+    "title": "Elixir on HexDocs",
+    "author": "",
+    "language": "elixir",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://hexdocs.pm/elixir/",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-erlang-otp-documentation",
+    "title": "Erlang/OTP Documentation",
+    "author": "",
+    "language": "elixir",
+    "category": "references",
+    "edition": "VM platform docs",
+    "driveUrl": "https://www.erlang.org/docs",
+    "coverImage": ""
+  },
+  {
+    "id": "elixir-hexdocs",
+    "title": "HexDocs",
+    "author": "",
+    "language": "elixir",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://hexdocs.pm/",
     "coverImage": ""
   },
   {
@@ -4217,6 +4807,166 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.rdocumentation.org/",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-think-julia-how-to-think-like-a-computer-scientist",
+    "title": "Think Julia: How to Think Like a Computer Scientist",
+    "author": "",
+    "language": "julia",
+    "category": "beginner",
+    "edition": "1st Edition",
+    "driveUrl": "https://benlauwens.github.io/ThinkJulia.jl/latest/book.html",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-introducing-julia",
+    "title": "Introducing Julia",
+    "author": "",
+    "language": "julia",
+    "category": "beginner",
+    "edition": "Online Resource",
+    "driveUrl": "https://en.wikibooks.org/wiki/Introducing_Julia",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-julia-programming-for-operations-research",
+    "title": "Julia Programming for Operations Research",
+    "author": "",
+    "language": "julia",
+    "category": "beginner",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.amazon.com/Julia-Programming-Operations-Research-Optimization/dp/3031464217",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-julia-1-0-by-example",
+    "title": "Julia 1.0 By Example",
+    "author": "",
+    "language": "julia",
+    "category": "beginner",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.packtpub.com/product/julia-10-by-example/9781788299522",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-julia-high-performance",
+    "title": "Julia High Performance",
+    "author": "",
+    "language": "julia",
+    "category": "intermediate",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.packtpub.com/product/julia-high-performance-second-edition/9781789349414",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-learning-scientific-programming-with-julia",
+    "title": "Learning Scientific Programming with Julia",
+    "author": "",
+    "language": "julia",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Learning-Scientific-Programming-Julia-Computational/dp/1108445070",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-julia-data-science",
+    "title": "Julia Data Science",
+    "author": "",
+    "language": "julia",
+    "category": "intermediate",
+    "edition": "Free online book",
+    "driveUrl": "https://github.com/JuliaDataScience/JuliaDataScience",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-algorithms-for-optimization",
+    "title": "Algorithms for Optimization",
+    "author": "",
+    "language": "julia",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://algorithmsbook.com/optimization/",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-algorithms-for-decision-making",
+    "title": "Algorithms for Decision Making",
+    "author": "",
+    "language": "julia",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://algorithmsbook.com/",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-julia-1-7-cookbook",
+    "title": "Julia 1.7 Cookbook",
+    "author": "",
+    "language": "julia",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.packtpub.com/product/julia-17-cookbook/9781803237587",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-statistics-with-julia",
+    "title": "Statistics with Julia",
+    "author": "",
+    "language": "julia",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Statistics-Julia-Fundamentals-Data-Science/dp/3030401507",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-machine-learning-with-julia",
+    "title": "Machine Learning with Julia",
+    "author": "",
+    "language": "julia",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.packtpub.com/product/machine-learning-with-julia/9781839218408",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-quantitative-economics-with-julia",
+    "title": "Quantitative Economics with Julia",
+    "author": "",
+    "language": "julia",
+    "category": "specialized",
+    "edition": "Online Resource",
+    "driveUrl": "https://julia.quantecon.org/intro.html",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-the-julia-language-documentation",
+    "title": "The Julia Language Documentation",
+    "author": "",
+    "language": "julia",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://docs.julialang.org/",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-julia-manual-getting-started",
+    "title": "Julia Manual — Getting Started",
+    "author": "",
+    "language": "julia",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://docs.julialang.org/en/v1/manual/getting-started/",
+    "coverImage": ""
+  },
+  {
+    "id": "julia-juliaacademy",
+    "title": "JuliaAcademy",
+    "author": "",
+    "language": "julia",
+    "category": "references",
+    "edition": "Online Resource",
+    "driveUrl": "https://juliaacademy.com/",
     "coverImage": ""
   },
   {
@@ -5587,226 +6337,6 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://clojuredocs.org/",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-groovy-in-action",
-    "title": "Groovy in Action",
-    "author": "",
-    "language": "groovy",
-    "category": "beginner",
-    "edition": "2nd Edition",
-    "driveUrl": "https://www.manning.com/books/groovy-in-action-second-edition",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-making-java-groovy",
-    "title": "Making Java Groovy",
-    "author": "",
-    "language": "groovy",
-    "category": "beginner",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.manning.com/books/making-java-groovy",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-groovy-programming-fundamentals",
-    "title": "Groovy Programming Fundamentals",
-    "author": "",
-    "language": "groovy",
-    "category": "beginner",
-    "edition": "Online Resource",
-    "driveUrl": "https://groovy-lang.org/documentation.html",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-gradle-in-action",
-    "title": "Gradle in Action",
-    "author": "",
-    "language": "groovy",
-    "category": "intermediate",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.manning.com/books/gradle-in-action",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-programming-groovy-2",
-    "title": "Programming Groovy 2",
-    "author": "",
-    "language": "groovy",
-    "category": "intermediate",
-    "edition": "2nd Edition",
-    "driveUrl": "https://pragprog.com/titles/vslg2/programming-groovy-2/",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-groovy-2-cookbook",
-    "title": "Groovy 2 Cookbook",
-    "author": "",
-    "language": "groovy",
-    "category": "advanced",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.packtpub.com/product/groovy-2-cookbook/9781849519366",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-mastering-groovy",
-    "title": "Mastering Groovy",
-    "author": "",
-    "language": "groovy",
-    "category": "advanced",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.packtpub.com/product/mastering-groovy/9781786462336",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-jenkins-2-up-and-running",
-    "title": "Jenkins 2: Up and Running",
-    "author": "",
-    "language": "groovy",
-    "category": "specialized",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.oreilly.com/library/view/jenkins-2-up/9781491979587/",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-grails-3-guide-docs",
-    "title": "Grails 3 — Guide / docs",
-    "author": "",
-    "language": "groovy",
-    "category": "specialized",
-    "edition": "Online Resource",
-    "driveUrl": "https://docs.grails.org/",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-official-groovy-documentation",
-    "title": "Official Groovy Documentation",
-    "author": "",
-    "language": "groovy",
-    "category": "references",
-    "edition": "Online Resource",
-    "driveUrl": "https://groovy-lang.org/documentation.html",
-    "coverImage": ""
-  },
-  {
-    "id": "groovy-groovy-language-specification",
-    "title": "Groovy Language Specification",
-    "author": "",
-    "language": "groovy",
-    "category": "references",
-    "edition": "Online Resource",
-    "driveUrl": "https://groovy-lang.org/single-page-documentation.html",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-excel-vba-programming-for-dummies",
-    "title": "Excel VBA Programming For Dummies",
-    "author": "",
-    "language": "vba",
-    "category": "beginner",
-    "edition": "6th Edition",
-    "driveUrl": "https://www.amazon.com/Excel-VBA-Programming-Dummies-Computer/dp/1119849176",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-vba-for-dummies",
-    "title": "VBA For Dummies",
-    "author": "",
-    "language": "vba",
-    "category": "beginner",
-    "edition": "5th Edition",
-    "driveUrl": "https://www.amazon.com/VBA-Dummies-John-Paul-Mueller/dp/1119247260",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-microsoft-excel-365-bible",
-    "title": "Microsoft Excel 365 Bible",
-    "author": "",
-    "language": "vba",
-    "category": "beginner",
-    "edition": "Latest Edition",
-    "driveUrl": "https://www.amazon.com/Microsoft-Excel-365-Bible-Mastering/dp/1119835108",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-excel-2019-power-programming-with-vba",
-    "title": "Excel 2019 Power Programming with VBA",
-    "author": "",
-    "language": "vba",
-    "category": "intermediate",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.amazon.com/Excel-2019-Power-Programming-VBA/dp/1119514924",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-mastering-vba-for-microsoft-office-365",
-    "title": "Mastering VBA for Microsoft Office 365",
-    "author": "",
-    "language": "vba",
-    "category": "intermediate",
-    "edition": "Latest Edition",
-    "driveUrl": "https://www.amazon.com/Mastering-Microsoft-Office-Richard-Mansfield/dp/1119578841",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-professional-excel-development",
-    "title": "Professional Excel Development",
-    "author": "",
-    "language": "vba",
-    "category": "advanced",
-    "edition": "2nd Edition",
-    "driveUrl": "https://www.amazon.com/Professional-Excel-Development-Definitive-Applications/dp/0321508794",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-advanced-excel-essentials",
-    "title": "Advanced Excel Essentials",
-    "author": "",
-    "language": "vba",
-    "category": "advanced",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.amazon.com/Advanced-Excel-Essentials-Jordan-Goldmeier/dp/1484207343",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-access-2019-bible",
-    "title": "Access 2019 Bible",
-    "author": "",
-    "language": "vba",
-    "category": "specialized",
-    "edition": "1st Edition",
-    "driveUrl": "https://www.amazon.com/Access-2019-Bible-Michael-Alexander/dp/1119515629",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-financial-modeling-in-excel-vba",
-    "title": "Financial Modeling in Excel / VBA",
-    "author": "",
-    "language": "vba",
-    "category": "specialized",
-    "edition": "4th Edition",
-    "driveUrl": "https://www.amazon.com/Financial-Modeling-Simon-Benninga/dp/0262027283",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-microsoft-vba-documentation",
-    "title": "Microsoft VBA Documentation",
-    "author": "",
-    "language": "vba",
-    "category": "references",
-    "edition": "Online Resource",
-    "driveUrl": "https://learn.microsoft.com/office/vba/api/overview/",
-    "coverImage": ""
-  },
-  {
-    "id": "vba-office-scripts-vba-migration-notes",
-    "title": "Office Scripts / VBA migration notes",
-    "author": "",
-    "language": "vba",
-    "category": "references",
-    "edition": "Online Resource",
-    "driveUrl": "https://learn.microsoft.com/office/dev/scripts/",
     "coverImage": ""
   }
 ]

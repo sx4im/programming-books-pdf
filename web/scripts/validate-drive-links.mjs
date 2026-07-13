@@ -107,6 +107,7 @@ const ALLOWED_NON_DRIVE = [
   "rubystyle.guide",
   "www.rdocumentation.org",
   "juliaacademy.com",
+  "julia.quantecon.org",
   // New languages (HTML/CSS, Lua, MATLAB, Assembly, Haskell, PowerShell, Zig, Solidity, Perl, Fortran, Objective-C, Clojure, Groovy, VBA)
   "caniuse.com",
   "every-layout.dev",
