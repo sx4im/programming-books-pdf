@@ -1,0 +1,40 @@
+#############################
+# Lychee link checker config
+#############################
+
+verbose = "warning"
+no_progress = true
+max_concurrency = 4
+timeout = 30
+retry_wait_time = 3
+max_retries = 3
+
+# Common transient / bot-block statuses
+accept = ["200", "206", "429", "999"]
+
+# Skip noisy, auth-walled, or flaky hosts in CI
+exclude = [
+  '^https://drive\.google\.com/',
+  '^https://www\.oreilly\.com/',
+  '^https://learning\.oreilly\.com/',
+  '^https://www\.amazon\.',
+  '^https://www\.goodreads\.com/',
+  '^https://www\.pearson\.',
+  '^https://www\.wiley\.',
+  '^https://www\.packtpub\.com/',
+  '^https://www\.manning\.',
+  '^https://twitter\.com/',
+  '^https://x\.com/',
+  '^https://books\.apple\.com/',
+  '^https://cdn\.jsdelivr\.net/',
+  '^https://img\.shields\.io/',
+  '^https://juliaacademy\.com/',
+  '^https://juliadatascience\.io/',
+  '^https://www\.gnu\.org/',
+]
+
+exclude_path = [
+  "REPORT.md",
+]
+
+scheme = ["https", "http", "file"]

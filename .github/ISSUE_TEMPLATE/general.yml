@@ -1,0 +1,21 @@
+---
+name: General
+description: General question or documentation improvement
+title: "[General] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: For book suggestions or broken links, use the dedicated templates.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What would you like to discuss or improve?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Links to files, screenshots, or related issues.
