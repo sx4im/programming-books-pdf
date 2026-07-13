@@ -1,13 +1,13 @@
 ---
 name: Book suggestion
-description: Suggest a programming book or learning resource to add
+description: Suggest a book by title — a link is optional; maintainers attach Drive files
 title: "[Book] "
 labels: ["enhancement", "book-suggestion"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for suggesting a resource. Please follow the [link policy](https://github.com/sx4im/programming-books-pdf/blob/main/CONTRIBUTING.md#link-policy).
+        Suggest a title to add. **You do not need a link** — maintainers will find the book and attach the public Drive share when appropriate.
   - type: dropdown
     id: language
     attributes:
@@ -51,34 +51,34 @@ body:
   - type: input
     id: title
     attributes:
-      label: Book or resource title
+      label: Book title
       placeholder: Fluent Python
     validations:
       required: true
   - type: input
-    id: url
+    id: author
     attributes:
-      label: Canonical URL
-      description: Prefer official docs or a legally free edition.
-      placeholder: https://
+      label: Author (if known)
+      placeholder: Luciano Ramalho
     validations:
-      required: true
+      required: false
   - type: input
     id: edition
     attributes:
-      label: Edition or note
+      label: Edition or note (optional)
       placeholder: 2nd Edition
+  - type: input
+    id: url
+    attributes:
+      label: Link (optional)
+      description: Not required. Add only if you already have a public Drive or official docs URL.
+      placeholder: https://
+    validations:
+      required: false
   - type: textarea
     id: why
     attributes:
       label: Why should this be included?
-      description: One or two sentences on quality, audience, or gap it fills.
+      description: One or two sentences on audience or the gap it fills.
     validations:
       required: true
-  - type: checkboxes
-    id: policy
-    attributes:
-      label: Link policy
-      options:
-        - label: I confirm this is a working public link (Google Drive share or official docs) and not a placeholder.
-          required: true

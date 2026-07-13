@@ -14,17 +14,17 @@ Curated programming books for **20 languages** — beginner to advanced. Pick a 
 
 ## Quick start
 
-| Path | Best for |
-| --- | --- |
-| [**Library dashboard**](web/) (`cd web && npm run dev`) | Visual shelf — filter by language & level, click **Read book** |
-| [**Language docs**](docs/) | GitHub-native Markdown guides |
-| [**books.json**](web/data/books.json) | Add authors, covers, and Drive URLs for the app |
+1. **Library UI** — open [`web/`](web/), run `cd web && npm install && npm run dev`
+2. **Markdown guides** — browse [`docs/`](docs/) on GitHub
+3. **Suggest a book** — open a [book suggestion](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the title (a link is optional; maintainers attach Drive files)
 
 Each guide is split by level: **Beginner → Intermediate → Advanced → Specialized → References**.
 
 ---
 
 ## Languages
+
+Click a badge to open that guide:
 
 <p align="center">
 <a href="docs/python.md"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
@@ -49,28 +49,22 @@ Each guide is split by level: **Beginner → Intermediate → Advanced → Speci
 <a href="docs/julia.md"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/></a>
 </p>
 
-| Language | Focus | Books |
-| --- | --- | ---: |
-| [Python](docs/python.md) | Data, web, automation, AI | 57 |
-| [JavaScript](docs/javascript.md) | Web & Node.js | 51 |
-| [Java](docs/java.md) | Backend & enterprise | 50 |
-| [C#](docs/csharp.md) | .NET & Unity | 39 |
-| [C](docs/c.md) | Systems & embedded | 30 |
-| [C++](docs/cpp.md) | Performance & games | 21 |
-| [TypeScript](docs/typescript.md) | Typed JavaScript | 17 |
-| [Go](docs/go.md) | Cloud & infrastructure | 19 |
-| [Rust](docs/rust.md) | Safe systems code | 21 |
-| [PHP](docs/php.md) | Server-side web | 19 |
-| [Kotlin](docs/kotlin.md) | Android & JVM | 17 |
-| [SQL](docs/sql.md) | Databases & analytics | 19 |
-| [Swift](docs/swift.md) | Apple platforms | 19 |
-| [Ruby](docs/ruby.md) | Rails & scripting | 24 |
-| [Dart](docs/dart.md) | Flutter apps | 18 |
-| [Scala](docs/scala.md) | JVM & big data | 9 |
-| [Elixir](docs/elixir.md) | Concurrent systems | 6 |
-| [Shell (Bash)](docs/shell.md) | Automation & DevOps | 8 |
-| [R](docs/r.md) | Stats & research | 17 |
-| [Julia](docs/julia.md) | Scientific computing | 8 |
+<details>
+<summary><strong>Catalog snapshot</strong> (counts by language)</summary>
+
+<br/>
+
+```text
+Python ........ 57    JavaScript .... 51    Java .......... 50
+C# ............ 39    C ............. 30    C++ ........... 21
+TypeScript .... 17    Go ............ 19    Rust .......... 21
+PHP ........... 19    Kotlin ........ 17    SQL ........... 19
+Swift ......... 19    Ruby .......... 24    Dart .......... 18
+Scala .........  9    Elixir ........  6    Shell .........  8
+R ............. 17    Julia .........  8
+```
+
+</details>
 
 ---
 
@@ -80,10 +74,13 @@ Each guide is split by level: **Beginner → Intermediate → Advanced → Speci
 The repo is [MIT](LICENSE). Books keep their own licenses — use legal sources in your region.
 
 **Where are the PDFs?**  
-Most titles use **public Google Drive** links. This repo stores Markdown + the web catalog, not binary files.
+Most titles use **public Google Drive** links maintained for this collection. This repo stores Markdown + the web catalog, not binary files.
 
-**How do I add a book?**  
-Update [`docs/`](docs/) and/or [`web/data/books.json`](web/data/books.json). See [CONTRIBUTING.md](CONTRIBUTING.md). Covers/authors go in `books.json` (`coverImage`, `author`).
+**How do I suggest a book?**  
+Open a [book suggestion issue](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the **title** (and author if you know it). A link is optional — maintainers find the file and attach the Drive link.
+
+**How do I add covers or authors in the app?**  
+Edit [`web/data/books.json`](web/data/books.json) (`author`, `coverImage`). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 **Broken link?**  
 Open a [broken-link issue](.github/ISSUE_TEMPLATE/broken-link.yml). Malicious links → [SECURITY.md](SECURITY.md).
@@ -97,11 +94,11 @@ More: [docs/faq.md](docs/faq.md)
 
 ## Contributing
 
-PRs welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md).
+PRs and suggestions welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-- Fix or replace broken Drive links  
-- Add a title to the right language + level  
-- Fill `author` / `coverImage` in the library JSON  
+- Suggest a book by title (no link required)
+- Report broken Drive links
+- Fill `author` / `coverImage` in the library JSON
 
 ```bash
 cd web && npm install && npm run import:docs   # sync JSON from docs (keeps author/cover)
