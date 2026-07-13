@@ -25,6 +25,7 @@ jobs:
             CONTRIBUTING.md
             CODE_OF_CONDUCT.md
             SECURITY.md
+            NOTICE.md
             docs/**/*.md
           config: cspell.json
           incremental_files_only: false

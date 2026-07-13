@@ -11,8 +11,10 @@ All dashboard / Vercel config lives in this folder (`web/`).
 
 | Route | Purpose |
 | --- | --- |
-| `/` | Home — pick a language shelf |
-| `/library` | Full library — search, language chips, category filters, books |
+| `/` | Home — language shelves (pick a language here) |
+| `/library?lang=python` | Full library for that language — search, level filters, book details |
+
+There is **no language chip bar** on `/library`. Change language via **← Change language** (back to home shelves).
 
 ## Run locally
 
