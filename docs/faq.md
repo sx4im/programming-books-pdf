@@ -28,7 +28,7 @@ Link to `https://github.com/sx4im/programming-books-pdf` or a specific language 
 
 ## How do I contribute?
 
-Read [CONTRIBUTING.md](../CONTRIBUTING.md). Use issue templates for book suggestions and broken links. All participants must follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
+Read [CONTRIBUTING.md](../CONTRIBUTING.md). The easiest path for new contributors is a **book suggestion issue** with the title (and author if known) — a Drive link is optional; maintainers attach files. Use issue templates for broken links too. All participants must follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## How do I report a security or phishing concern?
 

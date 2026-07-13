@@ -2,6 +2,8 @@
 
 Next.js dashboard for **Ultimate Programming Books**.
 
+All dashboard / Vercel config for this UI lives in this folder (`web/`).
+
 ## Run locally
 
 ```bash
@@ -21,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | `npm run start` | Serve production build |
 | `npm run import:docs` | Re-seed `data/books.json` from `../docs/*.md` (keeps existing `author` / `coverImage`) |
 
-## Add or edit a book
+## Add or edit a book in the app
 
 Edit [`data/books.json`](data/books.json):
 
@@ -42,19 +44,14 @@ Edit [`data/books.json`](data/books.json):
 - Leave `author` as `""` until you know it (UI shows “Author TBA”).
 - `driveUrl` is what **Read book** opens.
 
-## Deploy (Vercel)
+New contributors can suggest titles via GitHub issues without a link — see the root [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-### Option A — whole GitHub repo (recommended)
+## Deploy on Vercel
 
 1. Import `sx4im/programming-books-pdf` in Vercel.
-2. Leave Root Directory empty (repo root). Root [`vercel.json`](../vercel.json) builds the `web/` Next.js app.
-3. Deploy.
-
-### Option B — Root Directory = `web`
-
-1. Import the repo in Vercel.
 2. Set **Root Directory** to `web`.
-3. [`web/vercel.json`](vercel.json) handles install/build.
+3. Framework: Next.js (see [`vercel.json`](vercel.json)).
+4. Deploy.
 
 ## Design
 
