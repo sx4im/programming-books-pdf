@@ -1,0 +1,30 @@
+name: Spellcheck
+
+on:
+  push:
+    branches: [main]
+    paths: ["**/*.md", "cspell.json", ".github/workflows/spellcheck.yml"]
+  pull_request:
+    paths: ["**/*.md", "cspell.json", ".github/workflows/spellcheck.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  cspell:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run cspell
+        uses: streetsidesoftware/cspell-action@v6
+        with:
+          files: |
+            README.md
+            CONTRIBUTING.md
+            CODE_OF_CONDUCT.md
+            SECURITY.md
+            docs/**/*.md
+          config: cspell.json
+          incremental_files_only: false

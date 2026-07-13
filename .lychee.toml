@@ -1,0 +1,35 @@
+#############################
+# Lychee link checker config
+#############################
+
+# Prefer verbose failures in CI logs
+verbose = "warning"
+no_progress = true
+max_concurrency = 8
+timeout = 20
+retry_wait_time = 2
+max_retries = 2
+
+# Common transient / bot-block statuses
+accept = ["200", "206", "429", "999"]
+
+# Skip noisy or auth-walled patterns; still lint Markdown locally
+exclude = [
+  '^https://drive\.google\.com/',
+  '^https://www\.oreilly\.com/',
+  '^https://learning\.oreilly\.com/',
+  '^https://www\.amazon\.',
+  '^https://www\.goodreads\.com/',
+  '^https://www\.pearson\.',
+  '^https://www\.wiley\.',
+  '^https://www\.packtpub\.com/',
+  '^https://www\.manning\.com/',
+  '^https://twitter\.com/',
+  '^https://x\.com/',
+]
+
+exclude_path = [
+  "REPORT.md",
+]
+
+scheme = ["https", "http", "file"]

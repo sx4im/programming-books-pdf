@@ -1,0 +1,38 @@
+name: Link check
+
+on:
+  push:
+    branches: [main]
+    paths: ["**/*.md", ".lychee.toml", ".github/workflows/link-check.yml"]
+  pull_request:
+    paths: ["**/*.md", ".lychee.toml", ".github/workflows/link-check.yml"]
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --config .lychee.toml
+            --no-progress
+            README.md
+            CONTRIBUTING.md
+            CODE_OF_CONDUCT.md
+            SECURITY.md
+            docs/**/*.md
+          fail: true
+          format: markdown
+          jobSummary: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
