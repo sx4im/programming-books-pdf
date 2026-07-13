@@ -13,6 +13,7 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 - Improve categorization (Beginner / Intermediate / Advanced / Specialized / References)
 - Clarify language-page introductions or FAQ answers
 - Improve documentation structure or accessibility
+- Enrich the library app (`web/data/books.json`) with authors and cover image URLs
 
 ## Link policy
 
@@ -34,7 +35,20 @@ This project’s books are primarily shared via **public Google Drive links** ma
 
 Do **not** replace working public Google Drive share links with other hosts unless the Drive link is broken or the maintainer asks for a change.
 
-## Entry format
+## Library web app
+
+The browsable dashboard lives in [`web/`](web/). Catalog data for the UI is [`web/data/books.json`](web/data/books.json).
+
+To add or update a book in the dashboard:
+
+1. Edit `web/data/books.json` (or run `npm run import:docs` inside `web/` after updating Markdown, then fill fields).
+2. Set `driveUrl` to your public Google Drive share.
+3. Optionally set `author` and `coverImage` (Google-hosted image URL). Leave blank for placeholders.
+4. Categories: `beginner` | `intermediate` | `advanced` | `specialized` | `references`.
+
+See [`web/README.md`](web/README.md) for local run and Vercel deploy notes.
+
+## Entry format (Markdown docs)
 
 Add entries to the correct file under [`docs/`](docs/) using this pattern:
 

@@ -10,7 +10,11 @@ Curated programming books and learning resources for **20 languages**, organized
 
 **Ultimate Programming Books** is a maintained index of high-signal books and references across Python, JavaScript, Java, C#, C/C++, TypeScript, Go, Rust, and more. Use it as a learning roadmap, not a dump of random PDFs.
 
-[Browse the docs](docs/index.md) · [Contribute](CONTRIBUTING.md) · [FAQ](docs/faq.md) · [Star this repo](https://github.com/sx4im/programming-books-pdf)
+[Browse the library app](web/) · [Browse the docs](docs/index.md) · [Contribute](CONTRIBUTING.md) · [FAQ](docs/faq.md) · [Star this repo](https://github.com/sx4im/programming-books-pdf)
+
+### Library dashboard
+
+A Vercel-styled web library lives in [`web/`](web/): pick a language, filter by level, and click **Read book** to open the public Drive link. Run locally with `cd web && npm install && npm run dev`. Covers/authors are filled in [`web/data/books.json`](web/data/books.json).
 
 ---
 
