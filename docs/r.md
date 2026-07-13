@@ -41,7 +41,7 @@ Focus on applying R to machine learning, statistical learning, forecasting, and 
 - [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/) (*2nd Edition*)
 - [**Mastering Shiny**](https://mastering-shiny.org/) (*1st Edition*)
 - [**Text Mining with R**](https://www.tidytextmining.com/) (*1st Edition*)
-- [**Forecasting: Principles and Practice**](https://otexts.com/fpp3/) (*3rd Edition*)
+- [**Forecasting: Principles and Practice**](https://openforecasting.com/) (*3rd Edition*)
 - [**Geocomputation with R**](https://r.geocompx.org/) (*2nd Edition*)
 
 ## Comprehensive References

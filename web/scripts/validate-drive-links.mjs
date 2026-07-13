@@ -60,6 +60,7 @@ const ALLOWED_NON_DRIVE = [
   "mastering-shiny.org",
   "www.tidytextmining.com",
   "otexts.com",
+  "openforecasting.com",
   "r.geocompx.org",
   "rc2e.com",
   "benlauwens.github.io",

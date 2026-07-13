@@ -4766,7 +4766,7 @@
     "language": "r",
     "category": "specialized",
     "edition": "3rd Edition",
-    "driveUrl": "https://otexts.com/fpp3/",
+    "driveUrl": "https://openforecasting.com/",
     "coverImage": ""
   },
   {
@@ -4886,7 +4886,7 @@
     "language": "julia",
     "category": "advanced",
     "edition": "1st Edition",
-    "driveUrl": "https://algorithmsbook.com/optimization/",
+    "driveUrl": "https://www.amazon.com/Algorithms-Optimization-Mykel-Kochenderfer/dp/026202925X",
     "coverImage": ""
   },
   {
@@ -4896,7 +4896,7 @@
     "language": "julia",
     "category": "advanced",
     "edition": "1st Edition",
-    "driveUrl": "https://algorithmsbook.com/",
+    "driveUrl": "https://www.amazon.com/Algorithms-Decision-Making-Mykel-Kochenderfer/dp/0262047010",
     "coverImage": ""
   },
   {

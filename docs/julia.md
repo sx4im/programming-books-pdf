@@ -31,8 +31,8 @@ Once you know the basics, these books help you write efficient, idiomatic Julia 
 
 Dive deep into Julia's type system, multiple dispatch, metaprogramming, and performance tuning.
 
-- [**Algorithms for Optimization**](https://algorithmsbook.com/optimization/) (*1st Edition*)
-- [**Algorithms for Decision Making**](https://algorithmsbook.com/) (*1st Edition*)
+- [**Algorithms for Optimization**](https://www.amazon.com/Algorithms-Optimization-Mykel-Kochenderfer/dp/026202925X) (*1st Edition*)
+- [**Algorithms for Decision Making**](https://www.amazon.com/Algorithms-Decision-Making-Mykel-Kochenderfer/dp/0262047010) (*1st Edition*)
 - [**Julia 1.7 Cookbook**](https://www.packtpub.com/product/julia-17-cookbook/9781803237587) (*1st Edition*)
 
 ## For Specialized Fields
