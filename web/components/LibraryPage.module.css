@@ -36,6 +36,20 @@
   margin: 0;
   color: var(--muted);
   font-size: 14px;
+  max-width: 40rem;
+}
+
+.changeLang {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue);
+  text-decoration: none;
+}
+
+.changeLang:hover {
+  text-decoration: underline;
 }
 
 .count {
@@ -65,46 +79,6 @@
   outline: 2px solid var(--blue);
   outline-offset: 1px;
   border-color: transparent;
-}
-
-.langRail {
-  display: flex;
-  gap: 8px;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  padding-bottom: 4px;
-  scrollbar-width: thin;
-}
-
-.langChip,
-.langActive {
-  appearance: none;
-  flex: 0 0 auto;
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  min-height: 40px;
-  padding: 0 12px;
-  border-radius: var(--radius-pill);
-  border: 1px solid var(--hairline);
-  background: var(--surface-raised);
-  color: var(--body);
-  font-size: 13px;
-  font-weight: 500;
-  cursor: pointer;
-  white-space: nowrap;
-}
-
-.langActive {
-  background: var(--inverse);
-  color: var(--on-inverse);
-  border-color: transparent;
-}
-
-.langCount {
-  font-variant-numeric: tabular-nums;
-  opacity: 0.75;
-  font-size: 12px;
 }
 
 .chips {

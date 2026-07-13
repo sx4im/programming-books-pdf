@@ -32,8 +32,8 @@ If this helps you learn, please **[star the repo](https://github.com/sx4im/progr
 
 1. **Use the live dashboard (recommended)**  
    Open **[https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)**  
-   - Home: choose a language shelf  
-   - [Library](https://programming-books-pdf.vercel.app/library): search by book name, filter by level, click **Read book**
+   - Home: choose a **language shelf**  
+   - That opens the [library](https://programming-books-pdf.vercel.app/library) for that language — search by book name, filter by level, click **Read book**
 
 2. **Browse Markdown guides on GitHub**  
    Start from [`docs/`](docs/) (for example [Python](docs/python.md), [JavaScript](docs/javascript.md), [Rust](docs/rust.md)).
@@ -122,12 +122,13 @@ Popular entry points in the live app:
 ## How the library works
 
 1. Open [programming-books-pdf.vercel.app](https://programming-books-pdf.vercel.app/).
-2. Select a language shelf (or go straight to [/library](https://programming-books-pdf.vercel.app/library)).
-3. Use **search** to find a book by name or author.
-4. Filter by **Beginner / Intermediate / Advanced / Specialized / References**.
-5. Click **Read book** to open the public Google Drive (or docs) link.
+2. Select a **language shelf** on the home page.
+3. On the library page, use **search** and **level filters** (no second language picker).
+4. Click **Read book** to open the public Google Drive (or docs) link.
 
 Source for the UI catalog: [`web/data/books.json`](web/data/books.json). Markdown mirrors live under [`docs/`](docs/).
+
+**Project health:** See [NOTICE.md](NOTICE.md) for copyright / DMCA takedown handling so disputed links can be removed quickly.
 
 ---
 
@@ -189,6 +190,8 @@ Star the project if you use it — it improves GitHub ranking and discovery:
 ## License
 
 [MIT](LICENSE) for this repository’s curation and docs — not for third-party book contents.
+
+Copyright / DMCA takedown process: [NOTICE.md](NOTICE.md).
 
 > Book titles and linked files belong to their authors and publishers. Comply with copyright and each source’s terms.
 

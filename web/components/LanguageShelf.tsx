@@ -19,8 +19,7 @@ export function LanguageShelf({ languages, counts, selected }: Props) {
             Language shelves
           </h2>
           <p className={styles.sub}>
-            Tap a language to open its full library page — search, filter, and
-            read books without crowding the home screen.
+            Tap a language to open its library page — search and filter books for that shelf only.
           </p>
         </div>
         <div className={styles.grid}>
