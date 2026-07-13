@@ -44,10 +44,17 @@ Edit [`data/books.json`](data/books.json):
 
 ## Deploy (Vercel)
 
-1. Import this GitHub repo in Vercel.
+### Option A — whole GitHub repo (recommended)
+
+1. Import `sx4im/programming-books-pdf` in Vercel.
+2. Leave Root Directory empty (repo root). Root [`vercel.json`](../vercel.json) builds the `web/` Next.js app.
+3. Deploy.
+
+### Option B — Root Directory = `web`
+
+1. Import the repo in Vercel.
 2. Set **Root Directory** to `web`.
-3. Build command: `npm run build`
-4. Output: Next.js default.
+3. [`web/vercel.json`](vercel.json) handles install/build.
 
 ## Design
 
