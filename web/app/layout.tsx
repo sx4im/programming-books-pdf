@@ -8,11 +8,11 @@ const siteUrl = "https://programming-books-pdf.vercel.app";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Ultimate Programming Books — Curated library for 20+ languages",
+    default: "Ultimate Programming Books — Curated library for 30 languages",
     template: "%s · Ultimate Programming Books",
   },
   description:
-    "Browse 469+ curated programming books for Python, JavaScript, Java, Rust, Go, and more. Search by title, filter by skill level, and read via public Drive links.",
+    "Browse 581+ curated programming books for Python, JavaScript, Java, Rust, Go, and more. Search by title, filter by skill level, and read via public Drive links.",
   keywords: [
     "programming books",
     "programming ebooks",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: siteUrl,
-    title: "Ultimate Programming Books — Curated library for 20+ languages",
+    title: "Ultimate Programming Books — Curated library for 30 languages",
     description:
       "Searchable library of programming books by language and skill level. Python, JavaScript, Java, Rust, Go, and more.",
     siteName: "Ultimate Programming Books",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Ultimate Programming Books",
     description:
-      "Curated programming books for 20+ languages — beginner to advanced.",
+      "Curated programming books for 30 languages — beginner to advanced.",
   },
   alternates: {
     canonical: siteUrl,

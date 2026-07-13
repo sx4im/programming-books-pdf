@@ -6,7 +6,7 @@ The cloud agent token could not update repository metadata (HTTP 403). Apply the
 
 | Field | Recommended value |
 | --- | --- |
-| **Description** | `Curated programming books for 20+ languages — beginner to advanced. Python, JavaScript, Rust, Go, Java, and more.` |
+| **Description** | `Curated programming books for 30 languages — beginner to advanced. Python, JavaScript, Rust, Go, Java, HTML/CSS, and more.` |
 | **Website** | `https://programming-books-pdf.vercel.app/` |
 | **Releases** | Optional dated tags such as `2026.07` when the catalog changes substantially |
 
@@ -33,7 +33,7 @@ sql
 developer-resources
 ```
 
-Optional extras if you trim others: `books`, `r`, `julia`, `elixir`, `scala`, `php`, `dart`, `ruby`.
+Optional extras if you trim others: `books`, `r`, `php`, `dart`, `lua`, `haskell`, `solidity`, `zig`.
 
 ## GitHub Pages
 

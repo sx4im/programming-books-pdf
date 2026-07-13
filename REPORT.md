@@ -53,8 +53,8 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 
 | Metric | Value |
 | --- | ---: |
-| Language guides | 20 |
-| Curated entries with real URLs | **469** |
+| Language guides | 30 |
+| Curated entries with real URLs | **581** |
 | Placeholder entries remaining | **0** |
 
 ---
@@ -116,7 +116,7 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 
 **Gaps**
 
-- Language coverage depth uneven (Elixir/Scala thinner than Python/Java)
+- Language coverage depth uneven across newer shelves vs Python/Java
 - Edition metadata still inconsistent on older entries
 
 ### Repository health — 84/100
@@ -142,7 +142,7 @@ Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_S
 2. **Enable GitHub Pages** from `/docs` and set Website URL to the Pages site.
 3. **Add a 1280×640 social preview** image with the brand name and tagline.
 4. **Migrate Drive links** gradually to official free editions or publisher pages; track in issues labeled `link-migration`.
-5. **Expand thin language pages** (Elixir, Scala, Julia) with more legal free resources.
+5. **Expand thin language pages** (Shell, Zig, newer shelves) with more legal free resources.
 6. **Tag a release** (e.g. `2026.07`) when the catalog stabilizes for watchers.
 7. **Optional:** submit to the Awesome ecosystem once link policy and free-legal ratio meet community norms.
 8. **Optional:** add a simple search UI on Pages (client-side filter) if navigation demand grows.

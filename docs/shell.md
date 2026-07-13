@@ -4,7 +4,7 @@ Command-line scripting for automation, DevOps, and system administration.
 
 This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
 
-← [Elixir](elixir.md) · [All languages](../README.md#contents) · [R](r.md) →
+← [Dart](dart.md) · [All languages](../README.md#contents) · [R](r.md) →
 
 ---
 

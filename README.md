@@ -1,12 +1,12 @@
 # Ultimate Programming Books
 
-**Curated programming books and ebooks for 20+ languages** — Python, JavaScript, Java, C#, C/C++, TypeScript, Go, Rust, and more — organized from beginner to advanced.
+**Curated programming books and ebooks for 30 languages** — Python, JavaScript, Java, C#, C/C++, TypeScript, Go, Rust, HTML/CSS, and more — organized from beginner to advanced.
 
 Browse the live library, pick a language, filter by skill level, search by title, and open public Google Drive links to read.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Languages](https://img.shields.io/badge/Languages-20-blue)](#languages)
-[![Books](https://img.shields.io/badge/Books-469%2B-9cf)](web/data/books.json)
+[![Languages](https://img.shields.io/badge/Languages-30-blue)](#languages)
+[![Books](https://img.shields.io/badge/Books-581%2B-9cf)](web/data/books.json)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sx4im/programming-books-pdf?style=social)](https://github.com/sx4im/programming-books-pdf)
 
@@ -18,8 +18,8 @@ Browse the live library, pick a language, filter by skill level, search by title
 
 Developers searching for **programming books**, **learning paths**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog:
 
-- **20 programming languages** with beginner → advanced paths  
-- **469+ curated titles** (Drive PDFs + official docs where useful)  
+- **30 programming languages** with beginner → advanced paths  
+- **581+ curated titles** (Drive PDFs + official docs where useful)  
 - A **searchable web library** so you can find a book by name in seconds  
 - Clear contribution flow: suggest a title; maintainers attach Drive links  
 
@@ -81,13 +81,23 @@ Click a badge for the GitHub guide, or open the same language in the [live libra
 <a href="docs/kotlin.md"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin programming books"/></a>
 <a href="docs/sql.md"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL programming books"/></a>
 <a href="docs/swift.md"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift programming books"/></a>
-<a href="docs/ruby.md"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby programming books"/></a>
 <a href="docs/dart.md"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart programming books"/></a>
-<a href="docs/scala.md"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala programming books"/></a>
-<a href="docs/elixir.md"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir programming books"/></a>
 <a href="docs/shell.md"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash shell programming books"/></a>
 <a href="docs/r.md"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R programming books"/></a>
-<a href="docs/julia.md"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia programming books"/></a>
+<a href="docs/htmlcss.md"><img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS programming books"/></a>
+<a href="docs/lua.md"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua programming books"/></a>
+<a href="docs/matlab.md"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB programming books"/></a>
+<a href="docs/assembly.md"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly programming books"/></a>
+<a href="docs/haskell.md"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell programming books"/></a>
+<a href="docs/powershell.md"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell programming books"/></a>
+<a href="docs/zig.md"><img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig programming books"/></a>
+<a href="docs/solidity.md"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity programming books"/></a>
+<a href="docs/perl.md"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl programming books"/></a>
+<a href="docs/fortran.md"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran programming books"/></a>
+<a href="docs/objectivec.md"><img src="https://img.shields.io/badge/Objective--C-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C programming books"/></a>
+<a href="docs/clojure.md"><img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure programming books"/></a>
+<a href="docs/groovy.md"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy programming books"/></a>
+<a href="docs/vba.md"><img src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="VBA programming books"/></a>
 </p>
 
 <details>
@@ -100,9 +110,12 @@ Python ........ 57    JavaScript .... 51    Java .......... 50
 C# ............ 39    C ............. 30    C++ ........... 21
 TypeScript .... 17    Go ............ 19    Rust .......... 21
 PHP ........... 19    Kotlin ........ 17    SQL ........... 19
-Swift ......... 19    Ruby .......... 24    Dart .......... 18
-Scala .........  9    Elixir ........  6    Shell .........  8
-R ............. 17    Julia .........  8
+Swift ......... 19    Dart .......... 18    Shell .........  8
+R ............. 17    HTML/CSS ...... 15    Lua ........... 11
+MATLAB ........ 11    Assembly ...... 11    Haskell ....... 12
+PowerShell .... 11    Zig ........... 11    Solidity ...... 11
+Perl .......... 11    Fortran ....... 11    Objective-C ... 11
+Clojure ....... 11    Groovy ........ 11    VBA ........... 11
 ```
 
 </details>
@@ -112,9 +125,11 @@ Popular entry points in the live app:
 - [Python books](https://programming-books-pdf.vercel.app/library?lang=python)
 - [JavaScript books](https://programming-books-pdf.vercel.app/library?lang=javascript)
 - [Java books](https://programming-books-pdf.vercel.app/library?lang=java)
+- [HTML/CSS books](https://programming-books-pdf.vercel.app/library?lang=htmlcss)
 - [Rust books](https://programming-books-pdf.vercel.app/library?lang=rust)
 - [Go books](https://programming-books-pdf.vercel.app/library?lang=go)
 - [TypeScript books](https://programming-books-pdf.vercel.app/library?lang=typescript)
+- [Solidity books](https://programming-books-pdf.vercel.app/library?lang=solidity)
 
 ---
 
