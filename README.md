@@ -14,55 +14,6 @@ Browse the live library, pick a language, filter by skill level, search by title
 
 ---
 
-## Why this repository
-
-Developers searching for **programming books**, **learning paths**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog:
-
-- **32 programming languages** with beginner → advanced paths  
-- **634+ curated titles** (Drive PDFs + official docs where useful)  
-- A **searchable web library** so you can find a book by name in seconds  
-- Clear contribution flow: suggest a title; maintainers attach Drive links  
-
-If this helps you learn, please **[star the repo](https://github.com/sx4im/programming-books-pdf)** — it helps more developers discover it on GitHub and in search.
-
----
-
-## Quick start
-
-1. **Use the live dashboard (recommended)**  
-   Open **[https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)**  
-   - Home: choose a **language shelf**  
-   - That opens the [library](https://programming-books-pdf.vercel.app/library) for that language — search by book name, filter by level, click **Read book**
-
-2. **Browse Markdown guides on GitHub**  
-   Start from [`docs/`](docs/) (for example [Python](docs/python.md), [JavaScript](docs/javascript.md), [Rust](docs/rust.md)).
-
-3. **Suggest a book**  
-   Open a [book suggestion](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the **title only** (no links). Maintainers attach a valid Google Drive PDF.
-
-4. **Run the app locally (optional)**  
-   ```bash
-   cd web && npm install && npm run dev
-   ```
-
-Each language guide is organized: **Beginner → Intermediate → Advanced → Specialized → References**.
-
----
-
-## Contents
-
-- [Why this repository](#why-this-repository)
-- [Quick start](#quick-start)
-- [Languages](#languages)
-- [How the library works](#how-the-library-works)
-- [Who this is for](#who-this-is-for)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
-- [Related resources](#related-resources)
-
----
-
 ## Languages
 
 Click a badge for the GitHub guide, or open the same language in the [live library](https://programming-books-pdf.vercel.app/library).
@@ -123,18 +74,57 @@ Objective-C ... 11    Clojure ....... 11
 
 </details>
 
-Popular entry points in the live app:
+---
 
-- [Python books](https://programming-books-pdf.vercel.app/library?lang=python)
-- [JavaScript books](https://programming-books-pdf.vercel.app/library?lang=javascript)
-- [Java books](https://programming-books-pdf.vercel.app/library?lang=java)
-- [HTML/CSS books](https://programming-books-pdf.vercel.app/library?lang=htmlcss)
-- [Rust books](https://programming-books-pdf.vercel.app/library?lang=rust)
-- [Go books](https://programming-books-pdf.vercel.app/library?lang=go)
-- [TypeScript books](https://programming-books-pdf.vercel.app/library?lang=typescript)
-- [Solidity books](https://programming-books-pdf.vercel.app/library?lang=solidity)
+## Why this repository
+
+Developers searching for **programming books**, **learning paths**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog:
+
+- **32 programming languages** with beginner → advanced paths  
+- **634+ curated titles** (Drive PDFs + official docs where useful)  
+- A **searchable web library** so you can find a book by name in seconds  
+- Clear contribution flow: suggest a title; maintainers attach Drive links  
+
+If this helps you learn, please **[star the repo](https://github.com/sx4im/programming-books-pdf)** — it helps more developers discover it on GitHub and in search.
 
 ---
+
+## Quick start
+
+1. **Use the live dashboard (recommended)**  
+   Open **[https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)**  
+   - Home: choose a **language shelf**  
+   - That opens the [library](https://programming-books-pdf.vercel.app/library) for that language — search by book name, filter by level, click **Read book**
+
+2. **Browse Markdown guides on GitHub**  
+   Start from [`docs/`](docs/) (for example [Python](docs/python.md), [JavaScript](docs/javascript.md), [Rust](docs/rust.md)).
+
+3. **Suggest a book**  
+   Open a [book suggestion](.github/ISSUE_TEMPLATE/book-suggestion.yml) with the **title only** (no links). Maintainers attach a valid Google Drive PDF.
+
+4. **Run the app locally (optional)**  
+   ```bash
+   cd web && npm install && npm run dev
+   ```
+
+Each language guide is organized: **Beginner → Intermediate → Advanced → Specialized → References**.
+
+---
+
+## Contents
+
+- [Why this repository](#why-this-repository)
+- [Quick start](#quick-start)
+- [Languages](#languages)
+- [How the library works](#how-the-library-works)
+- [Who this is for](#who-this-is-for)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [License](#license)
+- [Related resources](#related-resources)
+
+---
+
 
 ## How the library works
 
