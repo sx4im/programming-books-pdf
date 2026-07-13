@@ -43,8 +43,8 @@ Focus on reverse engineering, malware analysis, and embedded assembly.
 
 These resources are perfect for quick lookups on instruction sets and ABI details.
 
-- [**Intel Software Developer Manuals**](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) (*Online Resource*)
-- [**ARM Architecture Reference Manuals**](https://developer.arm.com/documentation) (*Online Resource*)
+- [**x86 Instruction Reference**](https://www.felixcloutier.com/x86/) (*Online Resource*)
+- [**X86 Assembly (Wikibooks)**](https://en.wikibooks.org/wiki/X86_Assembly) (*Online Resource*)
 
 ---
 

@@ -30,14 +30,14 @@ Move beyond the basics to write modular, array-oriented scientific code.
 Deep dives into parallelism, coarrays, and high-performance numerical methods.
 
 - [**OpenMP Application Programming Interface**](https://www.openmp.org/specifications/) (*Online Resource*)
-- [**Numerical Computing with Modern Fortran**](https://epubs.siam.org/doi/book/10.1137/1.9781611973129) (*1st Edition*)
+- [**Numerical Computing with Modern Fortran**](https://www.amazon.com/Numerical-Computing-Modern-Fortran/dp/1611973129) (*1st Edition*)
 
 ## For Specialized Fields
 
 Focus on climate models, CFD, and scientific library development.
 
 - [**Computational Physics with Fortran**](https://www.amazon.com/Computational-Physics-Mark-Newman/dp/1480145513) (*Latest Edition*)
-- [**Scientific Software Design**](https://www.cambridge.org/core/books/scientific-software-design/9F8C0C0C0C0C0C0C0C0C0C0C0C0C0C0) (*1st Edition*)
+- [**Writing Scientific Software**](https://www.amazon.com/Writing-Scientific-Software-Guide-Good/dp/052186862X) (*1st Edition*)
 
 ## Comprehensive References
 

@@ -15,7 +15,7 @@ This page lists curated books and learning resources for this language, organize
 These books introduce Clojure's Lisp heritage and immutable data model.
 
 - [**Clojure for the Brave and True**](https://www.braveclojure.com/clojure-for-the-brave-and-true/) (*1st Edition*)
-- [**Getting Clojure**](https://pragprog.com/titles/amclojure/getting-clojure/) (*1st Edition*)
+- [**Clojure in Action**](https://www.manning.com/books/clojure-in-action) (*2nd Edition*)
 - [**Living Clojure**](https://www.oreilly.com/library/view/living-clojure/9781491909270/) (*1st Edition*)
 
 ## For Intermediate Developers
@@ -29,7 +29,7 @@ Move beyond the basics to write idiomatic Clojure and use the REPL effectively.
 
 Deep dives into macros, transducers, and concurrent design.
 
-- [**Clojure Applied**](https://pragprog.com/titles/vmclojurea/clojure-applied/) (*1st Edition*)
+- [**Clojure: The Essential Reference**](https://www.manning.com/books/clojure-the-essential-reference) (*1st Edition*)
 - [**Professional Clojure**](https://www.amazon.com/Professional-Clojure-Jeremy-Anderson/dp/1119267277) (*1st Edition*)
 
 ## For Specialized Fields

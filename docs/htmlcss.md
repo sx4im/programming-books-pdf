@@ -39,7 +39,7 @@ Deep dives into architecture, performance, and advanced CSS techniques.
 
 Focus on accessibility, design systems, and production front-end craft.
 
-- [**Inclusive Design Patterns**](https://www.smashingmagazine.com/printed-books/inclusive-design-patterns/) (*1st Edition*)
+- [**Inclusive Design Patterns**](https://www.smashingmagazine.com/books/) (*1st Edition*)
 - [**Designing Interfaces**](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/) (*3rd Edition*)
 
 ## Comprehensive References

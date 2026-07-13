@@ -14,7 +14,7 @@ This page lists curated books and learning resources for this language, organize
 
 These books are perfect if you are new to Haskell or functional programming.
 
-- [**Learn You a Haskell for Great Good!**](https://learnyouahaskell.com/) (*1st Edition*)
+- [**Learn You a Haskell for Great Good!**](https://learnyouahaskell.github.io/) (*1st Edition*)
 - [**Haskell Programming from First Principles**](https://haskellbook.com/) (*1st Edition*)
 - [**Get Programming with Haskell**](https://www.manning.com/books/get-programming-with-haskell) (*1st Edition*)
 
@@ -22,9 +22,9 @@ These books are perfect if you are new to Haskell or functional programming.
 
 Once you know the basics, these books help you write idiomatic, type-driven Haskell.
 
-- [**Programming in Haskell**](https://www.cambridge.org/core/books/programming-in-haskell/DE1BCB603C5A9EE053CC23F7548BDAA1) (*2nd Edition*)
+- [**Programming in Haskell**](https://www.amazon.com/Programming-Haskell-Graham-Hutton/dp/1316626229) (*2nd Edition*)
 - [**Haskell in Depth**](https://www.manning.com/books/haskell-in-depth) (*1st Edition*)
-- [**Real World Haskell**](https://book.realworldhaskell.org/) (*1st Edition*)
+- [**Real World Haskell**](https://github.com/realworldhaskell/book) (*1st Edition*)
 
 ## For Advanced Programmers
 
@@ -37,7 +37,7 @@ Deep dives into type systems, concurrency, and advanced abstractions.
 
 Focus on parsers, compilers, and production functional systems.
 
-- [**Pearls of Functional Algorithm Design**](https://www.cambridge.org/core/books/pearls-of-functional-algorithm-design/5AE150843BA02283F79376046B0A187A) (*1st Edition*)
+- [**Pearls of Functional Algorithm Design**](https://www.amazon.com/Pearls-Functional-Algorithm-Design/dp/0521513383) (*1st Edition*)
 - [**Functional Design and Architecture**](https://www.manning.com/books/functional-design-and-architecture) (*1st Edition*)
 
 ## Comprehensive References

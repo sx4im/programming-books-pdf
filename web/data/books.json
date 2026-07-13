@@ -4326,7 +4326,7 @@
     "language": "htmlcss",
     "category": "specialized",
     "edition": "1st Edition",
-    "driveUrl": "https://www.smashingmagazine.com/printed-books/inclusive-design-patterns/",
+    "driveUrl": "https://www.smashingmagazine.com/books/",
     "coverImage": ""
   },
   {
@@ -4496,7 +4496,7 @@
     "language": "matlab",
     "category": "beginner",
     "edition": "Online Resource",
-    "driveUrl": "https://www.mathworks.com/help/matlab/getting-started-with-matlab.html",
+    "driveUrl": "https://matlabacademy.mathworks.com/",
     "coverImage": ""
   },
   {
@@ -4516,7 +4516,7 @@
     "language": "matlab",
     "category": "intermediate",
     "edition": "3rd Edition",
-    "driveUrl": "https://epubs.siam.org/doi/book/10.1137/1.9781611974669",
+    "driveUrl": "https://www.pearson.com/en-us/subject-catalog/p/matlab-guide/P200000003315",
     "coverImage": ""
   },
   {
@@ -4576,7 +4576,7 @@
     "language": "matlab",
     "category": "references",
     "edition": "Online Resource",
-    "driveUrl": "https://www.mathworks.com/help/matlab/",
+    "driveUrl": "https://www.mathworks.com/help/releases/R2024a/matlab/index.html",
     "coverImage": ""
   },
   {
@@ -4680,23 +4680,23 @@
     "coverImage": ""
   },
   {
-    "id": "assembly-intel-software-developer-manuals",
-    "title": "Intel Software Developer Manuals",
+    "id": "assembly-x86-instruction-reference",
+    "title": "x86 Instruction Reference",
     "author": "",
     "language": "assembly",
     "category": "references",
     "edition": "Online Resource",
-    "driveUrl": "https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html",
+    "driveUrl": "https://www.felixcloutier.com/x86/",
     "coverImage": ""
   },
   {
-    "id": "assembly-arm-architecture-reference-manuals",
-    "title": "ARM Architecture Reference Manuals",
+    "id": "assembly-x86-assembly-wikibooks",
+    "title": "X86 Assembly (Wikibooks)",
     "author": "",
     "language": "assembly",
     "category": "references",
     "edition": "Online Resource",
-    "driveUrl": "https://developer.arm.com/documentation",
+    "driveUrl": "https://en.wikibooks.org/wiki/X86_Assembly",
     "coverImage": ""
   },
   {
@@ -4706,7 +4706,7 @@
     "language": "haskell",
     "category": "beginner",
     "edition": "1st Edition",
-    "driveUrl": "https://learnyouahaskell.com/",
+    "driveUrl": "https://learnyouahaskell.github.io/",
     "coverImage": ""
   },
   {
@@ -4736,7 +4736,7 @@
     "language": "haskell",
     "category": "intermediate",
     "edition": "2nd Edition",
-    "driveUrl": "https://www.cambridge.org/core/books/programming-in-haskell/DE1BCB603C5A9EE053CC23F7548BDAA1",
+    "driveUrl": "https://www.amazon.com/Programming-Haskell-Graham-Hutton/dp/1316626229",
     "coverImage": ""
   },
   {
@@ -4756,7 +4756,7 @@
     "language": "haskell",
     "category": "intermediate",
     "edition": "1st Edition",
-    "driveUrl": "https://book.realworldhaskell.org/",
+    "driveUrl": "https://github.com/realworldhaskell/book",
     "coverImage": ""
   },
   {
@@ -4786,7 +4786,7 @@
     "language": "haskell",
     "category": "specialized",
     "edition": "1st Edition",
-    "driveUrl": "https://www.cambridge.org/core/books/pearls-of-functional-algorithm-design/5AE150843BA02283F79376046B0A187A",
+    "driveUrl": "https://www.amazon.com/Pearls-Functional-Algorithm-Design/dp/0521513383",
     "coverImage": ""
   },
   {
@@ -5326,7 +5326,7 @@
     "language": "fortran",
     "category": "advanced",
     "edition": "1st Edition",
-    "driveUrl": "https://epubs.siam.org/doi/book/10.1137/1.9781611973129",
+    "driveUrl": "https://www.amazon.com/Numerical-Computing-Modern-Fortran/dp/1611973129",
     "coverImage": ""
   },
   {
@@ -5340,13 +5340,13 @@
     "coverImage": ""
   },
   {
-    "id": "fortran-scientific-software-design",
-    "title": "Scientific Software Design",
+    "id": "fortran-writing-scientific-software",
+    "title": "Writing Scientific Software",
     "author": "",
     "language": "fortran",
     "category": "specialized",
     "edition": "1st Edition",
-    "driveUrl": "https://www.cambridge.org/core/books/scientific-software-design/9F8C0C0C0C0C0C0C0C0C0C0C0C0C0C0",
+    "driveUrl": "https://www.amazon.com/Writing-Scientific-Software-Guide-Good/dp/052186862X",
     "coverImage": ""
   },
   {
@@ -5490,13 +5490,13 @@
     "coverImage": ""
   },
   {
-    "id": "clojure-getting-clojure",
-    "title": "Getting Clojure",
+    "id": "clojure-clojure-in-action",
+    "title": "Clojure in Action",
     "author": "",
     "language": "clojure",
     "category": "beginner",
-    "edition": "1st Edition",
-    "driveUrl": "https://pragprog.com/titles/amclojure/getting-clojure/",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.manning.com/books/clojure-in-action",
     "coverImage": ""
   },
   {
@@ -5530,13 +5530,13 @@
     "coverImage": ""
   },
   {
-    "id": "clojure-clojure-applied",
-    "title": "Clojure Applied",
+    "id": "clojure-clojure-the-essential-reference",
+    "title": "Clojure: The Essential Reference",
     "author": "",
     "language": "clojure",
     "category": "advanced",
     "edition": "1st Edition",
-    "driveUrl": "https://pragprog.com/titles/vmclojurea/clojure-applied/",
+    "driveUrl": "https://www.manning.com/books/clojure-the-essential-reference",
     "coverImage": ""
   },
   {
