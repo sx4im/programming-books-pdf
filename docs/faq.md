@@ -4,7 +4,9 @@ Answers to common questions about **Ultimate Programming Books** (`sx4im/program
 
 ## What is this repository?
 
-A curated index of programming books and learning resources across 20 languages, organized by skill level (Beginner → Intermediate → Advanced → Specialized → References). It is designed for discoverability, learning paths, and maintainable documentation—not as a file-hosting service.
+A curated index of programming books and learning resources across 20 languages, organized by skill level (Beginner → Intermediate → Advanced → Specialized → References).
+
+**Live library:** [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)
 
 ## Is the content free and open source?
 
@@ -24,7 +26,7 @@ Entries with `PDF_LINK`, empty URLs, or non-Drive dump-site hosts were removed b
 
 ## How should I cite or share this list?
 
-Link to `https://github.com/sx4im/programming-books-pdf` or a specific language page under `docs/`. Stars help others discover the project.
+Share the live app [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/) or the GitHub repo `https://github.com/sx4im/programming-books-pdf`. Stars help more developers discover the project.
 
 ## How do I contribute?
 
