@@ -114,13 +114,6 @@
   border: 1px solid var(--hairline);
 }
 
-.detail {
-  margin: 4px 0 0;
-  font-size: 12px;
-  color: var(--quiet);
-  line-height: 1.45;
-}
-
 .read {
   display: inline-flex;
   align-items: center;

@@ -7,19 +7,6 @@ type Props = {
   book: Book;
 };
 
-function sourceLabel(url: string): string {
-  try {
-    const host = new URL(url).hostname.replace(/^www\./, "");
-    if (host.includes("drive.google.com") || host.includes("docs.google.com")) {
-      return "Google Drive";
-    }
-    if (host.includes("github.com")) return "GitHub";
-    return "Official / web";
-  } catch {
-    return "External link";
-  }
-}
-
 function categoryLabel(id: Book["category"]): string {
   return CATEGORIES.find((c) => c.id === id)?.label ?? id;
 }
@@ -30,7 +17,6 @@ export function BookCard({ book }: Props) {
   const language =
     LANGUAGES.find((l) => l.id === book.language)?.label ?? book.language;
   const level = categoryLabel(book.category);
-  const source = sourceLabel(book.driveUrl);
 
   return (
     <article className={styles.card}>
@@ -61,12 +47,6 @@ export function BookCard({ book }: Props) {
         {book.edition ? (
           <p className={styles.edition}>{book.edition}</p>
         ) : null}
-        <p className={styles.detail}>
-          Source: {source}
-          {book.author?.trim()
-            ? ""
-            : " · Author can be added in books.json"}
-        </p>
       </div>
 
       <a
