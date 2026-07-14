@@ -10,13 +10,13 @@ Browse the live library, pick a language, filter by skill level, search by title
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sx4im/programming-books-pdf?style=social)](https://github.com/sx4im/programming-books-pdf)
 
-[Library](https://programming-books-pdf.vercel.app/)  · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
+[Library](https://freecodebooks.vercel.app/)  · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
 
 ---
 
 ## Languages
 
-Click a badge for the GitHub guide, or open the same language in the [live library](https://programming-books-pdf.vercel.app/library).
+Click a badge for the GitHub guide, or open the same language in the [live library](https://freecodebooks.vercel.app//library).
 
 <p align="center">
 <a href="docs/python.md"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming books"/></a>
@@ -92,9 +92,9 @@ If this helps you learn, please **[star the repo](https://github.com/sx4im/progr
 ## Quick start
 
 1. **Use the live dashboard (recommended)**  
-   Open **[https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)**  
+   Open **[Website](https://freecodebooks.vercel.app/)**  
    - Home: choose a **language shelf**  
-   - That opens the [library](https://programming-books-pdf.vercel.app/library) for that language — search by book name, filter by level, click **Read book**
+   - That opens the [library](https://freecodebooks.vercel.app//library) for that language — search by book name, filter by level, click **Read book**
 
 2. **Browse Markdown guides on GitHub**  
    Start from [`docs/`](docs/) (for example [Python](docs/python.md), [JavaScript](docs/javascript.md), [Rust](docs/rust.md)).
@@ -128,7 +128,7 @@ Each language guide is organized: **Beginner → Intermediate → Advanced → S
 
 ## How the library works
 
-1. Open [programming-books-pdf.vercel.app](https://programming-books-pdf.vercel.app/).
+1. Open [Website](https://freecodebooks.vercel.app/).
 2. Select a **language shelf** on the home page.
 3. On the library page, use **search** and **level filters** (no second language picker).
 4. Click **Read book** to open the public Google Drive (or docs) link.
@@ -151,7 +151,7 @@ Source for the UI catalog: [`web/data/books.json`](web/data/books.json). Markdow
 ## FAQ
 
 **Where is the live dashboard?**  
-[https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/) (library: [/library](https://programming-books-pdf.vercel.app/library)).
+[Website](https://freecodebooks.vercel.app/) (library: [/library](https://freecodebooks.vercel.app//library)).
 
 **Is this free / open source?**  
 The repository is [MIT](LICENSE). Individual books keep their own copyright and publisher licenses — use legal sources in your region.
@@ -169,7 +169,7 @@ Edit [`web/data/books.json`](web/data/books.json) (`author`, `coverImage`). See 
 Open a [broken-link issue](.github/ISSUE_TEMPLATE/broken-link.yml). Malicious links → [SECURITY.md](SECURITY.md).
 
 **How is this different from free-programming-books?**  
-[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) focuses on freely available books worldwide. This project adds **language + skill-level learning paths** and a **searchable library UI** at [programming-books-pdf.vercel.app](https://programming-books-pdf.vercel.app/).
+[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) focuses on freely available books worldwide. This project adds **language + skill-level learning paths** and a **searchable library UI** at [Website](https://freecodebooks.vercel.app/).
 
 More answers: [docs/faq.md](docs/faq.md)
 
@@ -206,7 +206,7 @@ Copyright / DMCA takedown process: [NOTICE.md](NOTICE.md).
 
 ## Related resources
 
-- Live library: [programming-books-pdf.vercel.app](https://programming-books-pdf.vercel.app/)
+- Live library: [Webiste](https://freecodebooks.vercel.app/)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — freely available programming books
 - [Awesome lists](https://github.com/sindresorhus/awesome) — curated lists across the ecosystem
 - [Developer Roadmaps](https://roadmap.sh/) — skill roadmaps for developers
