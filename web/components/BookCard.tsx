@@ -1,6 +1,8 @@
 import type { Book } from "../lib/types";
 import { CATEGORIES } from "../lib/types";
+import { coverSrcForBook } from "../lib/covers";
 import { LANGUAGES } from "../data/languages";
+import { BookCover } from "./BookCover";
 import styles from "./BookCard.module.css";
 
 type Props = {
@@ -12,29 +14,16 @@ function categoryLabel(id: Book["category"]): string {
 }
 
 export function BookCard({ book }: Props) {
-  const hasCover = Boolean(book.coverImage?.trim());
   const author = book.author?.trim() || "Author TBA";
   const language =
     LANGUAGES.find((l) => l.id === book.language)?.label ?? book.language;
   const level = categoryLabel(book.category);
+  const coverSrc = coverSrcForBook(book);
 
   return (
     <article className={styles.card}>
       <div className={styles.coverWrap}>
-        {hasCover ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            className={styles.cover}
-            src={book.coverImage}
-            alt={`Cover for ${book.title}`}
-            loading="lazy"
-          />
-        ) : (
-          <div className={styles.blank} aria-hidden>
-            <span className={styles.blankSpine} />
-            <span className={styles.blankLabel}>Cover</span>
-          </div>
-        )}
+        <BookCover src={coverSrc} title={book.title} />
       </div>
 
       <div className={styles.meta}>
