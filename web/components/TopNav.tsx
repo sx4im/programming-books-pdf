@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { BrandLogo } from "./BrandLogo";
 import { ThemeToggle } from "./ThemeToggle";
 import styles from "./TopNav.module.css";
 
@@ -13,9 +14,7 @@ export function TopNav({ active = "home" }: Props) {
     <header className={styles.nav}>
       <div className={`container ${styles.inner}`}>
         <Link className={styles.brand} href="/">
-          <span className={styles.mark} aria-hidden>
-            ▲
-          </span>
+          <BrandLogo className={styles.logo} />
           <span className={styles.brandText}>Ultimate Programming Books</span>
         </Link>
         <nav className={styles.links} aria-label="Primary">
