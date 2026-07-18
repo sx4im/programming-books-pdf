@@ -2,8 +2,8 @@
 
 Next.js dashboard for **Ultimate Programming Books**.
 
-**Live:** [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)  
-**Library:** [https://programming-books-pdf.vercel.app/library](https://programming-books-pdf.vercel.app/library)
+**Live:** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)  
+**Library:** [https://freecodebooks.vercel.app/library](https://freecodebooks.vercel.app/library)
 
 All dashboard / Vercel config lives in this folder (`web/`).
 

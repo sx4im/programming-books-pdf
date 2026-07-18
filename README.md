@@ -4,19 +4,20 @@
 
 Browse the live library, pick a language, filter by skill level, search by title, and open public Google Drive links to read.
 
+[![Live](https://img.shields.io/badge/Live-freecodebooks.vercel.app-000000?logo=vercel)](https://freecodebooks.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/Languages-32-blue)](#languages)
 [![Books](https://img.shields.io/badge/Books-634%2B-9cf)](web/data/books.json)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sx4im/programming-books-pdf?style=social)](https://github.com/sx4im/programming-books-pdf)
 
-[Library](https://freecodebooks.vercel.app/)  · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
+[Website](https://freecodebooks.vercel.app/) · [Library](https://freecodebooks.vercel.app/library) · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
 
 ---
 
 ## Languages
 
-Click a badge for the GitHub guide, or open the same language in the [live library](https://freecodebooks.vercel.app//library).
+Click a badge for the GitHub guide, or open the same language in the [live library](https://freecodebooks.vercel.app/library).
 
 <p align="center">
 <a href="docs/python.md"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming books"/></a>
@@ -94,7 +95,7 @@ If this helps you learn, please **[star the repo](https://github.com/sx4im/progr
 1. **Use the live dashboard (recommended)**  
    Open **[Website](https://freecodebooks.vercel.app/)**  
    - Home: choose a **language shelf**  
-   - That opens the [library](https://freecodebooks.vercel.app//library) for that language — search by book name, filter by level, click **Read book**
+   - That opens the [library](https://freecodebooks.vercel.app/library) for that language — search by book name, filter by level, click **Read book**
 
 2. **Browse Markdown guides on GitHub**  
    Start from [`docs/`](docs/) (for example [Python](docs/python.md), [JavaScript](docs/javascript.md), [Rust](docs/rust.md)).
@@ -151,7 +152,7 @@ Source for the UI catalog: [`web/data/books.json`](web/data/books.json). Markdow
 ## FAQ
 
 **Where is the live dashboard?**  
-[Website](https://freecodebooks.vercel.app/) (library: [/library](https://freecodebooks.vercel.app//library)).
+[Website](https://freecodebooks.vercel.app/) (library: [/library](https://freecodebooks.vercel.app/library)).
 
 **Is this free / open source?**  
 The repository is [MIT](LICENSE). Individual books keep their own copyright and publisher licenses — use legal sources in your region.
@@ -206,7 +207,7 @@ Copyright / DMCA takedown process: [NOTICE.md](NOTICE.md).
 
 ## Related resources
 
-- Live library: [Webiste](https://freecodebooks.vercel.app/)
+- Live library: [Website](https://freecodebooks.vercel.app/)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — freely available programming books
 - [Awesome lists](https://github.com/sindresorhus/awesome) — curated lists across the ecosystem
 - [Developer Roadmaps](https://roadmap.sh/) — skill roadmaps for developers
