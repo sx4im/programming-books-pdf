@@ -4,7 +4,6 @@
 
 Browse the live library, pick a language, filter by skill level, search by title, and open public Google Drive links to read.
 
-[![Live](https://img.shields.io/badge/Live-freecodebooks.vercel.app-000000?logo=vercel)](https://freecodebooks.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/Languages-32-blue)](#languages)
 [![Books](https://img.shields.io/badge/Books-634%2B-9cf)](web/data/books.json)
