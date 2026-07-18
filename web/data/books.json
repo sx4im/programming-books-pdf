@@ -527,7 +527,7 @@
     "category": "references",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/988215-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "python-python-testing-with-pytest",
@@ -537,7 +537,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1CanVLEhQ_XOgrq4YRm2fRUkfWx07CqF0/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508770-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "python-beyond-the-basic-stuff-with-python",
@@ -547,7 +547,7 @@
     "category": "references",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1txbFLEtmJrp4H9P7oUC048jwLUPOYHBa/view?usp=sharing",
-    "coverImage": "https://nostarch.com/sites/default/files/BeyondBasicPython.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "python-the-python-3-standard-library-by-example",
@@ -557,7 +557,7 @@
     "category": "references",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/134t_JdiXzJ6vKcEjaprmm8X7uCs7AHjH/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508847-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "python-learning-python",
@@ -567,7 +567,7 @@
     "category": "references",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/1312568-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-javascript-from-beginner-to-professional",
@@ -637,7 +637,7 @@
     "category": "intermediate",
     "edition": "Latest Edition",
     "driveUrl": "https://drive.google.com/file/d/19bfwUL8aTigDnEYxNFqpmX6y1uIo2WyO/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/10737959-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/9245523-L.jpg"
   },
   {
     "id": "javascript-effective-javascript-68-specific-ways-to-harness-the-power-of-javascript",
@@ -817,7 +817,7 @@
     "category": "specialized",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1xb98X17vjQMhe0_AvioEoABruQcEt3tk/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513336-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1595211284i/54419423.jpg"
   },
   {
     "id": "javascript-web-development-with-node-and-express",
@@ -867,7 +867,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1oOnmbcRtCA8Z4fWxJPxyvsSC0gpAaRc6/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513336-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1575531808i/49099745.jpg"
   },
   {
     "id": "javascript-distributed-systems-with-node-js",
@@ -1017,7 +1017,7 @@
     "category": "references",
     "edition": "7th Edition",
     "driveUrl": "https://drive.google.com/file/d/1ZlTJ_sVZst1Hp0o-TSQUM8DsdkpK7Ieq/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8512695-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-professional-javascript-for-web-developers",
@@ -1027,7 +1027,7 @@
     "category": "references",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1uGvyYs8Q0Pf5t3v1RGnRKawU7ond7E3K/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10724347-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-javascript-es2015-enlightenment",
@@ -1037,7 +1037,7 @@
     "category": "references",
     "edition": "2025 Digital Edition",
     "driveUrl": "https://frontendmasters.com/guides/javascript-enlightenment/",
-    "coverImage": "https://images.isbndb.com/covers/252673482704.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-javascript-allong",
@@ -1047,7 +1047,7 @@
     "category": "references",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1nYPIMuOO-VmPbGNj_WlxSlYim4jFb42u/view?usp=sharing",
-    "coverImage": "https://d2sofvawe08yqg.cloudfront.net/javascriptallongesix/s_hero2x?1620458665"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-javascript-the-first-20-years",
@@ -1057,7 +1057,7 @@
     "category": "references",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1iKIRAOUXqzpnQDdpQTx_iwTNBwcpAk8k/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10737959-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-mdn-web-docs",
@@ -1067,7 +1067,7 @@
     "category": "references",
     "edition": "Living Documentation",
     "driveUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-    "coverImage": "https://developer.mozilla.org/apple-touch-icon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "javascript-javascript-pocket-reference",
@@ -1077,7 +1077,7 @@
     "category": "references",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1TLqPvemKX4PaRs2zA5JN_09Vvb17BPTU/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/10724321-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-think-java",
@@ -1507,7 +1507,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/168IKLmFzRpiaVvRA5lHXvTMXc8g_rYTf/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/2320484-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-modern-concurrency-in-java-virtual-threads-structured-concurrency-and-beyond",
@@ -1517,7 +1517,7 @@
     "category": "references",
     "edition": "2025 Release",
     "driveUrl": "https://drive.google.com/file/d/1yHaxb6huZpRhDbe5bywR8VIwNziu1n4k/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/15169414-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-java-structured-concurrency",
@@ -1527,7 +1527,7 @@
     "category": "references",
     "edition": "2025 Edition",
     "driveUrl": "https://www.packtpub.com/en-us/product/java-structured-concurrency-9781806105038",
-    "coverImage": "https://covers.openlibrary.org/b/id/15169414-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-virtual-threads-structured-concurrency-and-scoped-values",
@@ -1537,7 +1537,7 @@
     "category": "references",
     "edition": "2024 Edition",
     "driveUrl": "https://drive.google.com/file/d/1celv84qkw8DPFHo8EZegSN8i3yzO8y3i/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721275588i/214102078.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-mastering-java-concurrency-threads-synchronization-and-parallel-processing",
@@ -1547,7 +1547,7 @@
     "category": "references",
     "edition": "2025 Edition",
     "driveUrl": "https://www.amazon.com/Mastering-Java-Concurrency-Synchronization-Processing-ebook/dp/B0DHTKSQJQ",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508777-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-java-the-complete-reference",
@@ -1557,7 +1557,7 @@
     "category": "references",
     "edition": "13th Edition",
     "driveUrl": "https://drive.google.com/file/d/1auXGujIKKFyw0WU9xB07LyX4Oz2h_yPb/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13660534-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-java-in-a-nutshell",
@@ -1567,7 +1567,7 @@
     "category": "references",
     "edition": "8th Edition",
     "driveUrl": "https://drive.google.com/file/d/1qIPTpVltTi02m6QdRvynIDtgr0HVE80n/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/805638-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "java-java-pocket-guide",
@@ -1577,7 +1577,7 @@
     "category": "references",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8514237-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "csharp-head-first-c",
@@ -1927,7 +1927,7 @@
     "category": "references",
     "edition": "",
     "driveUrl": "https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/",
-    "coverImage": "https://covers.openlibrary.org/b/id/12056174-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "csharp-c-12-in-a-nutshell-the-definitive-reference",
@@ -1937,7 +1937,7 @@
     "category": "references",
     "edition": "2023 Edition",
     "driveUrl": "https://drive.google.com/file/d/13or6QeIIosQcKZGIGoGE7M2Ki0TDeZ5d/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697850369i/195616085.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "csharp-functional-programming-in-c",
@@ -1947,7 +1947,7 @@
     "category": "references",
     "edition": "6th early release - 2024 Edition",
     "driveUrl": "https://drive.google.com/file/d/1o-BwSGn2l8tXFiRYOoCGxHGS263pItm3/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8651949-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "csharp-programming-c-12",
@@ -1957,7 +1957,7 @@
     "category": "references",
     "edition": "2024 Edition",
     "driveUrl": "https://drive.google.com/file/d/1LQCi_6puixk5lUEG4kJO90N-q0Men6Xa/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/192602-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "csharp-c-12-pocket-reference",
@@ -1967,7 +1967,7 @@
     "category": "references",
     "edition": "2023 Edition",
     "driveUrl": "https://drive.google.com/file/d/12L3Ktd2UTVrpnrQzyqQgEY6WXSvuULnj/view?usp=sharing",
-    "coverImage": "https://images.isbndb.com/covers/27108873482578.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "c-c-programming-a-modern-approach",
@@ -2117,7 +2117,7 @@
     "category": "advanced",
     "edition": "2020 Release",
     "driveUrl": "https://drive.google.com/file/d/14kFQJ7kX_xC2UYqV8Tgegc7UgmySKI4i/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/193724-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/12022311-L.jpg"
   },
   {
     "id": "c-expert-c-programming-deep-c-secrets",
@@ -2127,7 +2127,7 @@
     "category": "advanced",
     "edition": "1994 Edition",
     "driveUrl": "https://drive.google.com/file/d/13ZGiz-umwxXek9tmBBJ5vDtHl9DMmdi8/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/88161-L.jpg"
+    "coverImage": "https://images.isbndb.com/covers/24888063482234.jpg"
   },
   {
     "id": "c-tcp-ip-illustrated-volume-1-the-protocols",
@@ -2257,7 +2257,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1JNOX-OHCjTq6VP712BKJba3zq2wEsL0b/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8629281-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "c-beej-s-guide-to-c-programming",
@@ -2267,7 +2267,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://beej.us/guide/bgc/",
-    "coverImage": "https://beej.us/guide/favicon.gif"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "cpp-c-primer",
@@ -2407,7 +2407,7 @@
     "category": "advanced",
     "edition": "",
     "driveUrl": "https://drive.google.com/file/d/158N5zEbqhUg8i7GRcpJjMslNtXgxY0KB/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/88161-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/8508931-L.jpg"
   },
   {
     "id": "cpp-hands-on-design-patterns-with-c",
@@ -2467,7 +2467,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/19BD-BOKEZNsqXKtozVzA_dGkZMron0Qx/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/134618-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "cpp-c-pocket-reference",
@@ -2477,7 +2477,7 @@
     "category": "references",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1aDURg39oCc1zuME_JZL730IoFGNdyKs4/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/13819416-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "typescript-learning-typescript",
@@ -2517,7 +2517,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://www.typescriptlang.org/docs/handbook/intro.html",
-    "coverImage": "https://www.typescriptlang.org/icons/icon-48x48.png?v=8944a05a8b601855de116c8a56d3b3ae"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "typescript-effective-typescript",
@@ -2597,7 +2597,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1VALBli8K9_ZPgfnoRfDzhocIcbvmpPPz/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513336-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1575531808i/49099745.jpg"
   },
   {
     "id": "typescript-angular-development-with-typescript",
@@ -2627,7 +2627,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://basarat.gitbook.io/typescript/",
-    "coverImage": "https://basarat.gitbook.io/typescript/~gitbook/ogimage/-LxQ3jd_Z3snLZ7ef2c3"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "typescript-typescript-weekly",
@@ -2637,7 +2637,7 @@
     "category": "references",
     "edition": "Newsletter/Reference",
     "driveUrl": "https://www.typescript-weekly.com/",
-    "coverImage": "https://www.typescript-weekly.com/images/typescript-weekly-email-preview-958x1078@2x.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "typescript-utility-types-reference",
@@ -2647,7 +2647,7 @@
     "category": "references",
     "edition": "Official Reference",
     "driveUrl": "https://www.typescriptlang.org/docs/handbook/utility-types.html",
-    "coverImage": "https://www.typescriptlang.org/icons/icon-48x48.png?v=8944a05a8b601855de116c8a56d3b3ae"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "go-the-go-programming-language",
@@ -2727,7 +2727,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1HFnAUXW-_NkIou9evJUh3HX7JAt_t4He/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508549-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/8509379-L.jpg"
   },
   {
     "id": "go-go-in-practice",
@@ -2827,7 +2827,7 @@
     "category": "references",
     "edition": "",
     "driveUrl": "https://go.dev/doc/",
-    "coverImage": "https://go.dev/doc/gopher/gopherbelly300.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "go-go-standard-library-cookbook",
@@ -2837,7 +2837,7 @@
     "category": "references",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1_VBBGh5PhrSdmYemSOxk7sfOtUOHTeAa/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508549-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "rust-the-rust-programming-language",
@@ -2867,7 +2867,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://doc.rust-lang.org/rust-by-example/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509109-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "rust-beginning-rust",
@@ -2927,7 +2927,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://doc.rust-lang.org/nomicon/",
-    "coverImage": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "rust-programming-webassembly-with-rust",
@@ -2987,7 +2987,7 @@
     "category": "specialized",
     "edition": "Online Resource",
     "driveUrl": "https://drive.google.com/file/d/1nskPjDJBUesrfDuWp49In7DfFTFxDxoX/view?usp=sharing",
-    "coverImage": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "rust-rust-web-development",
@@ -3027,7 +3027,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://doc.rust-lang.org/cargo/",
-    "coverImage": "https://covers.openlibrary.org/b/id/13163304-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "rust-idiomatic-rust",
@@ -3037,7 +3037,7 @@
     "category": "references",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1OHEm3A2ydVj1g6gqwB6mCcJOeJNQGTWW/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13168046-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "rust-effective-rust",
@@ -3047,7 +3047,7 @@
     "category": "references",
     "edition": "1st Edition",
     "driveUrl": "https://www.lurklurk.org/effective-rust/",
-    "coverImage": "https://covers.openlibrary.org/b/id/12469430-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "php-head-first-php-mysql",
@@ -3217,7 +3217,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://phptherightway.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/388713-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "php-the-php-manual",
@@ -3227,7 +3227,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.php.net/manual/en/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8578103-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "php-php-8-quick-scripting-reference",
@@ -3237,7 +3237,7 @@
     "category": "references",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1plFybWhVvACeMgufK65FA5Rb6asoSefw/view?usp=sharing",
-    "coverImage": "https://images.isbndb.com/covers/12456183482716.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "kotlin-head-first-kotlin",
@@ -3397,7 +3397,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://kotlinlang.org/docs/home.html",
-    "coverImage": "https://kotlinlang.org/assets/images/open-graph/docs.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "kotlin-kotlin-hands-on",
@@ -3407,7 +3407,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://play.kotlinlang.org/byExample/overview",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508724-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "sql-sql-practice-problems",
@@ -3587,7 +3587,7 @@
     "category": "references",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1rEXIAP3fyJ4jIoW3HBQL6LhfVWcAiUaS/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/6616859-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "sql-modern-sql",
@@ -3597,7 +3597,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://modern-sql.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/11190655-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "swift-swift-apprentice",
@@ -3747,7 +3747,7 @@
     "category": "specialized",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1JOZ6UwAlg9BgJvg65dZ7P45dnk5xDHn7/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/14133335-L.jpg"
+    "coverImage": "https://www.objc.io/images/books/app-architecture/app-architecture-hero-original_a634187.png"
   },
   {
     "id": "swift-hacking-with-swift",
@@ -3767,7 +3767,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1bClNPwkQx9qBSG9kTndqjHOw2ps01rrx/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/14133335-L.jpg"
+    "coverImage": "https://assets.alexandria.raywenderlich.com/books/890cabe271136403326f8252c59cfdd47160fa63fe7a37801d3bffc1dbbf03f3/images/fdc8eaf7ef46db5a36077c3a61703956/original.png"
   },
   {
     "id": "swift-the-swift-programming-language",
@@ -3777,7 +3777,7 @@
     "category": "references",
     "edition": "Official Documentation",
     "driveUrl": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/",
-    "coverImage": "https://covers.openlibrary.org/b/id/12641066-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "swift-swiftui-views-mastery",
@@ -3787,7 +3787,7 @@
     "category": "references",
     "edition": "",
     "driveUrl": "https://drive.google.com/file/d/1GhSi3SP499yqX8ZX-qcldFalkIlB7Pue/view?usp=sharing",
-    "coverImage": "https://www.bigmountainstudio.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiN2w0MHBnbDY0b3BkZTc2dWVzZ21obmg3bHVxOSIsImRvbWFpbiI6Ind3dy5iaWdtb3VudGFpbnN0dWRpby5jb20ifQ.393smxjW311lDF3r9dDiVwyo5BdwCDyf8-d8IzY5JxU"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "ruby-the-well-grounded-rubyist",
@@ -3867,7 +3867,7 @@
     "category": "intermediate",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1qtL_lhD2tq2TB6rSpdVf5E7tjmXJYt0J/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509174-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1375527990i/18278735.jpg"
   },
   {
     "id": "ruby-ruby-under-a-microscope",
@@ -3977,7 +3977,7 @@
     "category": "specialized",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1b_Z0wSRlSOYzyns69uFsA7YUn3iDhBNz/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509174-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1491718143i/31338775.jpg"
   },
   {
     "id": "ruby-black-hat-ruby",
@@ -3997,7 +3997,7 @@
     "category": "references",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/15dMASM-GFoEMMnDm4m_3aJXPjDOsTz1O/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/1312587-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "ruby-ruby-cookbook",
@@ -4007,7 +4007,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1m7lBtlRlCdWrG_CIqyaSyRzrYHfZWvtn/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10361371-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "ruby-official-ruby-documentation",
@@ -4017,7 +4017,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.ruby-lang.org/en/documentation/",
-    "coverImage": "https://www.ruby-lang.org/images/og-image.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "ruby-the-ruby-style-guide",
@@ -4027,7 +4027,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://rubystyle.guide/",
-    "coverImage": "https://avatars.githubusercontent.com/u/226424?s=200&v=4"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "dart-flutter-for-dummies",
@@ -4157,7 +4157,7 @@
     "category": "specialized",
     "edition": "2023 Edition",
     "driveUrl": "https://drive.google.com/file/d/1-WCYcuFgqAIUOcKTh3xbOb2EGuP2H-te/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13281016-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1653704350i/61178784.jpg"
   },
   {
     "id": "dart-practical-flutter",
@@ -4177,7 +4177,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1yyV7cizosSVc0_qBIHZUTMdYqSF1rDzQ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13281016-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660591124i/60747284.jpg"
   },
   {
     "id": "dart-effective-dart",
@@ -4187,7 +4187,7 @@
     "category": "references",
     "edition": "Official Reference",
     "driveUrl": "https://dart.dev/effective-dart",
-    "coverImage": "https://dart.dev/assets/img/logo/dart-logo-for-shares.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "dart-dart-language-documentation",
@@ -4197,7 +4197,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://dart.dev/guides",
-    "coverImage": "https://dart.dev/assets/img/logo/dart-logo-for-shares.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "dart-a-tour-of-the-dart-language",
@@ -4207,7 +4207,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://dart.dev/language",
-    "coverImage": "https://dart.dev/assets/img/logo/dart-logo-for-shares.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "scala-scala-3-book",
@@ -4237,7 +4237,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://underscore.io/books/essential-scala/",
-    "coverImage": "https://covers.openlibrary.org/b/id/12985499-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "scala-programming-in-scala",
@@ -4267,7 +4267,7 @@
     "category": "intermediate",
     "edition": "Official language tour",
     "driveUrl": "https://docs.scala-lang.org/tour/",
-    "coverImage": "https://covers.openlibrary.org/b/id/6441552-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "scala-hands-on-scala-programming",
@@ -4367,7 +4367,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://docs.scala-lang.org/",
-    "coverImage": "https://docs.scala-lang.org/resources/img/scala-spiral-3d-2-toned-down.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "scala-a-tour-of-scala",
@@ -4377,7 +4377,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://docs.scala-lang.org/tour/tour-of-scala.html",
-    "coverImage": "https://covers.openlibrary.org/b/id/6441552-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "elixir-elixir-getting-started-guide",
@@ -4397,7 +4397,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://elixirschool.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/1357762-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "elixir-programming-elixir-1-6",
@@ -4527,7 +4527,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://elixir-lang.org/docs.html",
-    "coverImage": "https://elixir-lang.org/images/logo/logo.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "elixir-elixir-on-hexdocs",
@@ -4537,7 +4537,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://hexdocs.pm/elixir/",
-    "coverImage": "https://hexdocs.pm/assets/apple-touch-icon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "elixir-erlang-otp-documentation",
@@ -4547,7 +4547,7 @@
     "category": "references",
     "edition": "VM platform docs",
     "driveUrl": "https://www.erlang.org/docs",
-    "coverImage": "https://www.erlang.org/assets/img/erlang-228x200.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "elixir-hexdocs",
@@ -4557,7 +4557,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://hexdocs.pm/",
-    "coverImage": "https://hexdocs.pm/assets/apple-touch-icon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "shell-the-linux-command-line",
@@ -4577,7 +4577,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://tldp.org/LDP/Bash-Beginners-Guide/html/",
-    "coverImage": "https://covers.openlibrary.org/b/id/2720824-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "shell-advanced-bash-scripting-guide",
@@ -4587,7 +4587,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://tldp.org/LDP/abs/html/",
-    "coverImage": "https://covers.openlibrary.org/b/id/9351378-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "shell-data-science-at-the-command-line",
@@ -4607,7 +4607,7 @@
     "category": "references",
     "edition": "Official Reference",
     "driveUrl": "https://www.gnu.org/software/bash/manual/",
-    "coverImage": "https://covers.openlibrary.org/b/id/1688274-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "shell-greg-s-wiki-bashguide",
@@ -4617,7 +4617,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://mywiki.wooledge.org/BashGuide",
-    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "shell-shellcheck",
@@ -4627,7 +4627,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.shellcheck.net/",
-    "coverImage": "https://www.shellcheck.net/shellcheck.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "shell-google-shell-style-guide",
@@ -4637,7 +4637,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://google.github.io/styleguide/shellguide.html",
-    "coverImage": "https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "r-r-for-data-science",
@@ -4787,7 +4787,7 @@
     "category": "references",
     "edition": "Official Manual",
     "driveUrl": "https://cran.r-project.org/doc/manuals/r-release/R-intro.html",
-    "coverImage": "https://covers.openlibrary.org/b/id/723680-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "r-the-r-language-definition",
@@ -4797,7 +4797,7 @@
     "category": "references",
     "edition": "Official Manual",
     "driveUrl": "https://cran.r-project.org/doc/manuals/r-release/R-lang.html",
-    "coverImage": "https://covers.openlibrary.org/b/id/5702426-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "r-rdocumentation",
@@ -4807,7 +4807,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.rdocumentation.org/",
-    "coverImage": "https://www.r-project.org/logo/Rlogo.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "julia-think-julia-how-to-think-like-a-computer-scientist",
@@ -4827,7 +4827,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://en.wikibooks.org/wiki/Introducing_Julia",
-    "coverImage": "https://covers.openlibrary.org/b/id/13304403-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "julia-julia-programming-for-operations-research",
@@ -4917,7 +4917,7 @@
     "category": "specialized",
     "edition": "1st Edition",
     "driveUrl": "https://www.amazon.com/Statistics-Julia-Fundamentals-Data-Science/dp/3030401507",
-    "coverImage": "https://covers.openlibrary.org/b/id/12407243-L.jpg"
+    "coverImage": "https://statisticswithjulia.org/img/book1Cover.png"
   },
   {
     "id": "julia-machine-learning-with-julia",
@@ -4927,7 +4927,7 @@
     "category": "specialized",
     "edition": "1st Edition",
     "driveUrl": "https://www.packtpub.com/product/machine-learning-with-julia/9781839218408",
-    "coverImage": "https://covers.openlibrary.org/b/id/12407243-L.jpg"
+    "coverImage": ""
   },
   {
     "id": "julia-quantitative-economics-with-julia",
@@ -4937,7 +4937,7 @@
     "category": "specialized",
     "edition": "Online Resource",
     "driveUrl": "https://julia.quantecon.org/intro.html",
-    "coverImage": "https://assets.quantecon.org/img/qe-og-logo.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "julia-the-julia-language-documentation",
@@ -4947,7 +4947,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://docs.julialang.org/",
-    "coverImage": "https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "julia-julia-manual-getting-started",
@@ -4957,7 +4957,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://docs.julialang.org/en/v1/manual/getting-started/",
-    "coverImage": "https://covers.openlibrary.org/b/id/7697842-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "julia-juliaacademy",
@@ -4967,7 +4967,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://juliaacademy.com/",
-    "coverImage": "https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-color.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "htmlcss-html-and-css-design-and-build-websites",
@@ -5027,7 +5027,7 @@
     "category": "intermediate",
     "edition": "Online Resource",
     "driveUrl": "https://every-layout.dev/",
-    "coverImage": "https://covers.openlibrary.org/b/id/6381423-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "htmlcss-responsive-web-design",
@@ -5097,7 +5097,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-    "coverImage": "https://developer.mozilla.org/apple-touch-icon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "htmlcss-mdn-web-docs-css",
@@ -5107,7 +5107,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-    "coverImage": "https://developer.mozilla.org/apple-touch-icon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "htmlcss-can-i-use",
@@ -5117,7 +5117,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://caniuse.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/11753962-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "lua-programming-in-lua",
@@ -5177,7 +5177,7 @@
     "category": "advanced",
     "edition": "Official Reference",
     "driveUrl": "https://www.lua.org/manual/5.4/",
-    "coverImage": "https://www.lua.org/images/lua-logo.gif"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "lua-mastering-lua-programming",
@@ -5217,7 +5217,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.lua.org/docs.html",
-    "coverImage": "https://www.lua.org/images/lua-logo.gif"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "lua-lua-users-wiki",
@@ -5227,7 +5227,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://lua-users.org/wiki/",
-    "coverImage": "https://www.lua.org/images/lua-logo.gif"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "matlab-matlab-for-engineers",
@@ -5247,7 +5247,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://matlabacademy.mathworks.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/4937707-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "matlab-matlab-a-practical-introduction-to-programming-and-problem-solving",
@@ -5327,7 +5327,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.mathworks.com/help/releases/R2024a/matlab/index.html",
-    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "matlab-matlab-onramp",
@@ -5337,7 +5337,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://matlabacademy.mathworks.com/",
-    "coverImage": "https://matlabacademy.mathworks.com/images/course/panel_gettingstarted.webp"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "assembly-code-the-hidden-language-of-computer-hardware-and-software",
@@ -5437,7 +5437,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.felixcloutier.com/x86/",
-    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Intel_logo_%282020%2C_light_blue%29.svg/200px-Intel_logo_%282020%2C_light_blue%29.svg.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "assembly-x86-assembly-wikibooks",
@@ -5447,7 +5447,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://en.wikibooks.org/wiki/X86_Assembly",
-    "coverImage": "https://covers.openlibrary.org/b/id/7589176-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "haskell-learn-you-a-haskell-for-great-good",
@@ -5557,7 +5557,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.haskell.org/documentation/",
-    "coverImage": "https://www.haskell.org/img/haskell-logo.svg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "haskell-hoogle",
@@ -5567,7 +5567,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://hoogle.haskell.org/",
-    "coverImage": "https://covers.openlibrary.org/b/id/6829398-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "powershell-learn-windows-powershell-in-a-month-of-lunches",
@@ -5667,7 +5667,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://learn.microsoft.com/powershell/",
-    "coverImage": "https://learn.microsoft.com/media/logos/logo-powershell-social.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "powershell-powershell-gallery",
@@ -5677,7 +5677,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://www.powershellgallery.com/",
-    "coverImage": "https://powershellgallery.com/Content/Images/Branding/psgallerylogo-whiteinlay.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-zig-language-reference",
@@ -5687,7 +5687,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://ziglang.org/documentation/master/",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-introduction-to-zig",
@@ -5707,7 +5707,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://ziglearn.org/",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-zig-guide",
@@ -5717,7 +5717,7 @@
     "category": "intermediate",
     "edition": "Online Resource",
     "driveUrl": "https://zig.guide/",
-    "coverImage": "https://covers.openlibrary.org/b/id/5934634-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-learning-zig",
@@ -5727,7 +5727,7 @@
     "category": "intermediate",
     "edition": "Online Resource",
     "driveUrl": "https://www.openmymind.net/learning_zig/",
-    "coverImage": "https://covers.openlibrary.org/b/id/15235831-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-zig-documentation-advanced-language-features",
@@ -5737,7 +5737,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://ziglang.org/documentation/master/#Language-Reference",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-writing-an-os-in-zig-community-guides",
@@ -5747,7 +5747,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://github.com/ziglang/zig",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-zig-build-system-documentation",
@@ -5757,7 +5757,7 @@
     "category": "specialized",
     "edition": "Online Resource",
     "driveUrl": "https://ziglang.org/learn/build-system/",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-using-zig-as-a-c-compiler-cross-linker",
@@ -5767,7 +5767,7 @@
     "category": "specialized",
     "edition": "Online Resource",
     "driveUrl": "https://ziglang.org/learn/overview/",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-official-zig-documentation",
@@ -5777,7 +5777,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://ziglang.org/documentation/",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "zig-zig-standard-library-docs",
@@ -5787,7 +5787,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://ziglang.org/documentation/master/std/",
-    "coverImage": "https://ziglang.org/favicon.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-mastering-ethereum",
@@ -5807,7 +5807,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://solidity-by-example.org/",
-    "coverImage": "https://solidity-by-example.org/favicon.ico"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-cryptozombies",
@@ -5817,7 +5817,7 @@
     "category": "beginner",
     "edition": "Online Resource",
     "driveUrl": "https://cryptozombies.io/",
-    "coverImage": "https://cryptozombies.io/images/preview_image.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-mastering-blockchain-programming-with-solidity",
@@ -5847,7 +5847,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://consensys.github.io/smart-contract-best-practices/",
-    "coverImage": "https://consensys.io/favicon.ico"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-ethernaut-capture-the-ether-style-challenges",
@@ -5857,7 +5857,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://ethernaut.openzeppelin.com/",
-    "coverImage": "https://ethernaut.openzeppelin.com/imgs/metatag.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-building-ethereum-dapps",
@@ -5877,7 +5877,7 @@
     "category": "specialized",
     "edition": "Online Resource",
     "driveUrl": "https://ethereum.org/developers/docs/",
-    "coverImage": "https://ethereum.org/images/heroes/developers-hub-hero.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-solidity-language-documentation",
@@ -5887,7 +5887,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://docs.soliditylang.org/",
-    "coverImage": "https://docs.soliditylang.org/en/latest/_static/img/logo.svg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "solidity-ethereum-developer-docs",
@@ -5897,7 +5897,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://ethereum.org/developers/docs/",
-    "coverImage": "https://ethereum.org/images/heroes/developers-hub-hero.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "perl-learning-perl",
@@ -5997,7 +5997,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://perldoc.perl.org/",
-    "coverImage": "https://cdn.perl.org/perlweb/images/camel_head.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "perl-perl-maven",
@@ -6007,7 +6007,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://perlmaven.com/",
-    "coverImage": "https://perlmaven.com/img/index.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "fortran-modern-fortran-explained",
@@ -6067,7 +6067,7 @@
     "category": "advanced",
     "edition": "Online Resource",
     "driveUrl": "https://www.openmp.org/specifications/",
-    "coverImage": "https://covers.openlibrary.org/b/id/10181184-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "fortran-numerical-computing-with-modern-fortran",
@@ -6107,7 +6107,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://fortranwiki.org/",
-    "coverImage": "https://fortran-lang.org/_static/images/favicon.ico"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "fortran-fortran-discourse-community-docs",
@@ -6117,7 +6117,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://fortran-lang.org/learn/",
-    "coverImage": "https://global.discourse-cdn.com/free1/uploads/fortran_lang/original/1X/50078338be6df8cfc3e2277e9cb3c805f45c6ee6.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "objectivec-programming-in-objective-c",
@@ -6127,7 +6127,7 @@
     "category": "beginner",
     "edition": "6th Edition",
     "driveUrl": "https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607",
-    "coverImage": "https://covers.openlibrary.org/b/id/410970-L.jpg"
+    "coverImage": "https://images.isbndb.com/covers/16628183482235.jpg"
   },
   {
     "id": "objectivec-objective-c-programming-the-big-nerd-ranch-guide",
@@ -6137,7 +6137,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/Objective-C-Programming-Nerd-Ranch-Guides/dp/032194206X",
-    "coverImage": "https://covers.openlibrary.org/b/id/410970-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/12425409-L.jpg"
   },
   {
     "id": "objectivec-learn-objective-c-on-the-mac",
@@ -6217,7 +6217,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://developer.apple.com/documentation/objectivec",
-    "coverImage": "https://developer.apple.com/favicon.ico"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "objectivec-apple-cocoa-documentation",
@@ -6227,7 +6227,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://developer.apple.com/documentation/",
-    "coverImage": "https://developer.apple.com/favicon.ico"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "clojure-clojure-for-the-brave-and-true",
@@ -6287,7 +6287,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://www.manning.com/books/clojure-the-essential-reference",
-    "coverImage": "https://covers.openlibrary.org/b/id/7440852-L.jpg"
+    "coverImage": "https://images.manning.com/360/480/resize/book/d/68d30a9-7796-42f6-be7c-6d4a513b6c66/Borgatti-HI.png"
   },
   {
     "id": "clojure-professional-clojure",
@@ -6327,7 +6327,7 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://clojure.org/reference/documentation",
-    "coverImage": "https://clojure.org/images/clojure-logo-icon-256.png"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "clojure-clojuredocs",
@@ -6337,6 +6337,6 @@
     "category": "references",
     "edition": "Online Resource",
     "driveUrl": "https://clojuredocs.org/",
-    "coverImage": "https://avatars.githubusercontent.com/u/620509?s=200&v=4"
+    "coverImage": "/covers/reference.svg"
   }
 ]

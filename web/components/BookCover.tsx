@@ -9,12 +9,13 @@ type Props = {
 };
 
 export function BookCover({ src, title }: Props) {
+  const isLocalAsset = src.startsWith("/");
   const [status, setStatus] = useState<"loading" | "loaded" | "error">(
-    "loading",
+    isLocalAsset ? "loaded" : "loading",
   );
 
   useEffect(() => {
-    setStatus("loading");
+    setStatus(src.startsWith("/") ? "loaded" : "loading");
   }, [src]);
 
   if (!src.trim() || status === "error") {

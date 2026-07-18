@@ -1,5 +1,6 @@
 import type { Book } from "../lib/types";
 import { CATEGORIES } from "../lib/types";
+import { coverSrcForBook } from "../lib/covers";
 import { LANGUAGES } from "../data/languages";
 import { BookCover } from "./BookCover";
 import styles from "./BookCard.module.css";
@@ -17,7 +18,7 @@ export function BookCard({ book }: Props) {
   const language =
     LANGUAGES.find((l) => l.id === book.language)?.label ?? book.language;
   const level = categoryLabel(book.category);
-  const coverSrc = book.coverImage?.trim() || "";
+  const coverSrc = coverSrcForBook(book);
 
   return (
     <article className={styles.card}>
