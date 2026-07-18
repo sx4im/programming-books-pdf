@@ -6,8 +6,8 @@ The cloud agent token could not update repository metadata (HTTP 403). Apply the
 
 | Field | Recommended value |
 | --- | --- |
-| **Description** | `Curated programming books for 30 languages — beginner to advanced. Python, JavaScript, Rust, Go, Java, HTML/CSS, and more.` |
-| **Website** | `https://programming-books-pdf.vercel.app/` |
+| **Description** | `Curated programming books for 32 languages — beginner to advanced. Python, JavaScript, Rust, Go, Java, HTML/CSS, and more.` |
+| **Website** | `https://freecodebooks.vercel.app/` |
 | **Releases** | Optional dated tags such as `2026.07` when the catalog changes substantially |
 
 ## Topics (≤ 20)

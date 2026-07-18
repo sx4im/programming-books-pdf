@@ -6,7 +6,7 @@ Answers to common questions about **Ultimate Programming Books** (`sx4im/program
 
 A curated index of programming books and learning resources across 32 languages, organized by skill level (Beginner → Intermediate → Advanced → Specialized → References).
 
-**Live library:** [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/)
+**Live library:** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)
 
 ## Is the content free and open source?
 
@@ -26,7 +26,7 @@ Entries with `PDF_LINK`, empty URLs, or non-Drive dump-site hosts were removed b
 
 ## How should I cite or share this list?
 
-Share the live app [https://programming-books-pdf.vercel.app/](https://programming-books-pdf.vercel.app/) or the GitHub repo `https://github.com/sx4im/programming-books-pdf`. Stars help more developers discover the project.
+Share the live app [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/) or the GitHub repo `https://github.com/sx4im/programming-books-pdf`. Stars help more developers discover the project.
 
 ## How do I contribute?
 
