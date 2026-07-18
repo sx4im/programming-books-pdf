@@ -15,6 +15,7 @@
 }
 
 .coverWrap {
+  position: relative;
   aspect-ratio: 3 / 4;
   border-radius: var(--radius-lg);
   overflow: hidden;
@@ -27,6 +28,45 @@
   height: 100%;
   object-fit: cover;
   display: block;
+  opacity: 0;
+  transition: opacity 280ms ease;
+}
+
+.coverVisible {
+  opacity: 1;
+}
+
+.skeleton {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    110deg,
+    var(--surface) 0%,
+    var(--surface-raised) 40%,
+    var(--surface) 80%
+  );
+  background-size: 200% 100%;
+  animation: coverShimmer 1.2s ease-in-out infinite;
+}
+
+@keyframes coverShimmer {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton {
+    animation: none;
+    background: var(--surface-raised);
+  }
+
+  .cover {
+    transition: none;
+  }
 }
 
 .blank {
