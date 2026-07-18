@@ -37,10 +37,12 @@
   max-width: 42vw;
 }
 
-.mark {
-  font-size: 12px;
-  line-height: 1;
+.logo {
+  width: 22px;
+  height: 22px;
   flex-shrink: 0;
+  display: block;
+  color: var(--ink);
 }
 
 .links {
