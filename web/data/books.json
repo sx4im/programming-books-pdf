@@ -47,7 +47,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1FY7tFJ_TqOqokSHfUZwiDfUt_IzIYBfQ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/6681113-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781492051299-L.jpg"
   },
   {
     "id": "python-learn-python-3-the-hard-way",
@@ -167,7 +167,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8743408-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781492056355-L.jpg"
   },
   {
     "id": "python-serious-python-black-belt-advice-on-deployment-scalability-testing-and-more",
@@ -227,7 +227,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1EhoR0GurifXZUgZRyrROBw1-pR0aPy_B/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7548132-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781098104030-L.jpg"
   },
   {
     "id": "python-python-data-science-handbook",
@@ -237,7 +237,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1dXDoiPg9N4VGBgFLllYixG2p58IfKzqe/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8512092-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781098121228-L.jpg"
   },
   {
     "id": "python-effective-pandas-2",
@@ -287,7 +287,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1A-6FFzKsKH8KBWKe-Xex6x3nKUJRttpn/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781718501126-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/13776056-L.jpg"
   },
   {
     "id": "python-python-for-cybersecurity",
@@ -437,7 +437,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1wmqeThVLxX5SgRmioQcXGdRdBC6vN_Y7/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8507718-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781617296864-L.jpg"
   },
   {
     "id": "python-natural-language-processing-with-transformers",
@@ -737,7 +737,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1W6yznBiKcXJEtdGO-r4bE4cB12N1YHYP/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/7262420-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781098139872-L.jpg"
   },
   {
     "id": "javascript-just-javascript",
@@ -1127,7 +1127,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1q9WOzPk3jl1MZq8jH0Ab553HYLchE0ac/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/388761-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781491910771-L.jpg"
   },
   {
     "id": "java-java-a-beginner-s-guide",
@@ -1507,7 +1507,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/168IKLmFzRpiaVvRA5lHXvTMXc8g_rYTf/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/2320484-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780124159501-L.jpg"
   },
   {
     "id": "java-modern-concurrency-in-java-virtual-threads-structured-concurrency-and-beyond",
@@ -1657,7 +1657,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1Hb38MBdK_Bh8k1J10QBpWYGl_mzVUuSU/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/3063781-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781617294532-L.jpg"
   },
   {
     "id": "csharp-effective-c",
@@ -1977,7 +1977,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1_RX40f3AH4aZSgcQ7pydFdvDD-BIpaC4/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/762861-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393979503-L.jpg"
   },
   {
     "id": "c-head-first-c",
@@ -2077,7 +2077,7 @@
     "category": "advanced",
     "edition": "Edition 5, 2024",
     "driveUrl": "https://www.open-std.org/jtc1/sc22/wg14/",
-    "coverImage": "https://covers.openlibrary.org/b/id/11925036-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "c-the-standard-c-library",
@@ -2297,7 +2297,7 @@
     "category": "beginner",
     "edition": "10th Edition",
     "driveUrl": "https://drive.google.com/file/d/1NLM9okwAtcCPd85vr4B4YzGAtsuUk03O/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/2383716-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780134498379-L.jpg"
   },
   {
     "id": "cpp-c-for-dummies",
@@ -2347,7 +2347,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8514498-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780136816485-L.jpg"
   },
   {
     "id": "cpp-the-c-programming-language",
@@ -2357,7 +2357,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1-xjwSQI9zqn8ffkfVQs4eSgN74RRLXPc/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8633699-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780321563842-L.jpg"
   },
   {
     "id": "cpp-c-crash-course",
@@ -2847,7 +2847,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1EMwXxNDPLMugxczR1KsSakNTxCDlxFgm/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508621-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/14652280-L.jpg"
   },
   {
     "id": "rust-programming-rust",
@@ -3177,7 +3177,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1kea0S1ZmoKJ63gT9Fyxja5JUVMGQSPFJ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13730669-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/15156373-L.jpg"
   },
   {
     "id": "php-symfony-5-the-fast-track",
@@ -4857,7 +4857,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://www.packtpub.com/product/julia-high-performance-second-edition/9781789349414",
-    "coverImage": "https://covers.openlibrary.org/b/id/8512905-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/13847659-L.jpg"
   },
   {
     "id": "julia-learning-scientific-programming-with-julia",
@@ -5007,7 +5007,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/css-the-definitive/9781098117603/",
-    "coverImage": "https://covers.openlibrary.org/b/id/388504-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781449393199-L.jpg"
   },
   {
     "id": "htmlcss-css-in-depth",

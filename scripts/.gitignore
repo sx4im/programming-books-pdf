@@ -1,2 +1,4 @@
 .cover_cache.json
+.cover_audit.json
+.cover_fix_plan.json
 __pycache__/
