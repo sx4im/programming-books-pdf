@@ -1,6 +1,6 @@
 import { Suspense } from "react";
-import books from "../../data/books.json";
-import type { Book } from "../../lib/types";
+import { getAllBooks } from "../../lib/books-server";
+import { toPublicBooks } from "../../lib/public-books";
 import { LibraryPage } from "../../components/LibraryPage";
 
 export const metadata = {
@@ -18,9 +18,10 @@ function LibraryFallback() {
 }
 
 export default function LibraryRoute() {
+  const books = toPublicBooks(getAllBooks());
   return (
     <Suspense fallback={<LibraryFallback />}>
-      <LibraryPage books={books as Book[]} />
+      <LibraryPage books={books} />
     </Suspense>
   );
 }

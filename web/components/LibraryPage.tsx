@@ -3,17 +3,19 @@
 import { useMemo, useState, useEffect } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import type { Book, Category } from "../lib/types";
+import type { Category } from "../lib/types";
 import { CATEGORIES } from "../lib/types";
+import type { PublicBook } from "../lib/public-books";
 import { LANGUAGES } from "../data/languages";
 import { TopNav } from "./TopNav";
 import { SiteFooter } from "./SiteFooter";
 import { BookGrid } from "./BookGrid";
 import { EmptyState } from "./EmptyState";
+import { StarAccessProvider } from "./StarAccessProvider";
 import styles from "./LibraryPage.module.css";
 
 type Props = {
-  books: Book[];
+  books: PublicBook[];
 };
 
 export function LibraryPage({ books }: Props) {
@@ -55,7 +57,7 @@ export function LibraryPage({ books }: Props) {
   }
 
   return (
-    <>
+    <StarAccessProvider>
       <TopNav active="library" />
       <main className={styles.main}>
         <div className={`container ${styles.layout}`}>
@@ -144,6 +146,6 @@ export function LibraryPage({ books }: Props) {
         </div>
       </main>
       <SiteFooter />
-    </>
+    </StarAccessProvider>
   );
 }

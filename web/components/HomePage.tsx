@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo } from "react";
-import type { Book } from "../lib/types";
+import type { PublicBook } from "../lib/public-books";
 import { LANGUAGES } from "../data/languages";
 import { TopNav } from "./TopNav";
 import { Hero } from "./Hero";
@@ -9,7 +9,7 @@ import { LanguageShelf } from "./LanguageShelf";
 import { SiteFooter } from "./SiteFooter";
 
 type Props = {
-  books: Book[];
+  books: PublicBook[];
 };
 
 export function HomePage({ books }: Props) {

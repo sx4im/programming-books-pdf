@@ -45,4 +45,17 @@ Open [http://localhost:3000](http://localhost:3000).
 
 1. Import the GitHub repo.
 2. Set **Root Directory** to `web`.
-3. Deploy (see [`vercel.json`](vercel.json)).
+3. Set environment variables (recommended):
+   - `STAR_GATE_SECRET` — long random string used to sign the unlock cookie
+   - `GITHUB_TOKEN` — GitHub PAT (raises API rate limits for stargazer checks)
+4. Deploy (see [`vercel.json`](vercel.json)).
+
+## Star gate (read access)
+
+Clicking **Read book** opens a modal: star
+[`sx4im/programming-books-pdf`](https://github.com/sx4im/programming-books-pdf),
+enter your GitHub username, and the server checks the stargazer list.
+
+- Drive URLs are **not** sent to the browser until unlock succeeds.
+- Unlock sets an **httpOnly** signed cookie; `/api/books/[id]/read` redirects only when that cookie is valid.
+- Inspecting the page or forging a client flag cannot reveal book links.

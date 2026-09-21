@@ -1,9 +1,9 @@
-import type { Book } from "../lib/types";
+import type { PublicBook } from "../lib/public-books";
 import { BookCard } from "./BookCard";
 import styles from "./BookGrid.module.css";
 
 type Props = {
-  books: Book[];
+  books: PublicBook[];
 };
 
 export function BookGrid({ books }: Props) {
