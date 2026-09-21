@@ -3,8 +3,11 @@ type Props = {
   size?: number;
 };
 
-/** Open-book mark used in the site nav (inherits currentColor). */
-export function BrandLogo({ className, size = 22 }: Props) {
+/**
+ * Open-book mark with symmetric code chevrons (< >).
+ * Clean vectors — inherits currentColor for light/dark themes.
+ */
+export function BrandLogo({ className, size = 24 }: Props) {
   return (
     <svg
       className={className}
@@ -15,40 +18,49 @@ export function BrandLogo({ className, size = 22 }: Props) {
       xmlns="http://www.w3.org/2000/svg"
       aria-hidden
     >
+      {/* Open book */}
       <path
-        d="M6 5.5c0-.83.67-1.5 1.5-1.5H14c2.2 0 3.5 1.2 4 1.8.5-.6 1.8-1.8 4-1.8h6.5c.83 0 1.5.67 1.5 1.5V24c0 .83-.67 1.5-1.5 1.5H22c-1.7 0-2.9.55-3.6 1.05-.2.14-.45.14-.65 0C17.05 25.05 15.85 24.5 14 24.5H7.5c-.83 0-1.5-.67-1.5-1.5V5.5Z"
-        fill="currentColor"
-        opacity="0.18"
-      />
-      <path
-        d="M16 8.2c-.7-.55-2.2-1.7-4.5-1.7H7.75c-.41 0-.75.34-.75.75V22.4c0 .3.2.57.49.68 1.55.55 3.2.92 4.76.92 1.55 0 2.7-.45 3.75-1.1.2-.13.45-.13.65 0 1.05.65 2.2 1.1 3.75 1.1 1.56 0 3.21-.37 4.76-.92.29-.11.49-.38.49-.68V7.25c0-.41-.34-.75-.75-.75H20.5c-2.3 0-3.8 1.15-4.5 1.7Z"
+        d="M16 7.75c-1.2-1-3.2-2.25-6.35-2.25H6.75c-.7 0-1.25.55-1.25 1.25v16.5c0 .8.6 1.35 1.35 1.45 2.05.35 3.9.7 5.85.7 1.55 0 2.75-.4 3.7-1.05.2-.14.45-.14.65 0 .95.65 2.15 1.05 3.7 1.05 1.95 0 3.8-.35 5.85-.7.75-.1 1.35-.65 1.35-1.45V6.75c0-.7-.55-1.25-1.25-1.25h-2.9c-3.15 0-5.15 1.25-6.35 2.25Z"
         fill="currentColor"
       />
+      {/* Spine fold */}
       <path
-        d="M16 8.2V23.1"
+        d="M16 7.9v16.4"
         stroke="var(--canvas)"
-        strokeWidth="1.4"
+        strokeWidth="1.35"
         strokeLinecap="round"
       />
+      {/* Inner page lines — top */}
       <path
-        d="M11.2 14.2 9.4 16l1.8 1.8"
+        d="M6.9 7.35h3.6c1.7 0 2.85.45 3.7 1.05M25.1 7.35h-3.6c-1.7 0-2.85.45-3.7 1.05"
         stroke="var(--canvas)"
-        strokeWidth="1.5"
+        strokeWidth="1"
+        strokeLinecap="round"
+        opacity="0.55"
+      />
+      {/* Inner page lines — bottom */}
+      <path
+        d="M6.95 23.85c1.85.25 3.55.5 5.2.5 1.2 0 2.15-.25 2.9-.7M25.05 23.85c-1.85.25-3.55.5-5.2.5-1.2 0-2.15-.25-2.9-.7"
+        stroke="var(--canvas)"
+        strokeWidth="1"
+        strokeLinecap="round"
+        opacity="0.45"
+      />
+      {/* Left chevron < */}
+      <path
+        d="M12.35 12.15 9.1 16l3.25 3.85"
+        stroke="var(--canvas)"
+        strokeWidth="2.3"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
+      {/* Right chevron > */}
       <path
-        d="M20.8 14.2 22.6 16l-1.8 1.8"
+        d="M19.65 12.15 22.9 16l-3.25 3.85"
         stroke="var(--canvas)"
-        strokeWidth="1.5"
+        strokeWidth="2.3"
         strokeLinecap="round"
         strokeLinejoin="round"
-      />
-      <path
-        d="M17.1 13.4 14.9 18.6"
-        stroke="var(--canvas)"
-        strokeWidth="1.5"
-        strokeLinecap="round"
       />
     </svg>
   );
