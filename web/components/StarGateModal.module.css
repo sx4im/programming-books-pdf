@@ -14,9 +14,9 @@
 .dialog {
   position: relative;
   width: min(440px, calc(100vw - 32px));
-  aspect-ratio: 1 / 1;
-  max-height: min(440px, calc(100dvh - 48px));
-  padding: 32px 28px 28px;
+  min-height: min(520px, calc(100dvh - 48px));
+  max-height: calc(100dvh - 32px);
+  padding: 32px 28px 32px;
   border-radius: var(--radius-lg);
   border: 1px solid var(--hairline);
   background: var(--canvas);
@@ -197,9 +197,9 @@
 @media (max-width: 480px) {
   .dialog {
     width: min(100%, calc(100vw - 24px));
-    aspect-ratio: auto;
-    max-height: min(92dvh, 520px);
-    padding: 28px 20px 22px;
+    min-height: 0;
+    max-height: min(92dvh, 640px);
+    padding: 28px 20px 28px;
   }
 
   .title {
