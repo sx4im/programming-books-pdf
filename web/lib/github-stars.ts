@@ -1,7 +1,8 @@
 import { STAR_REPO } from "./repo";
 
-type StarredRepo = {
+type StarredRow = {
   full_name?: string;
+  repo?: { full_name?: string };
 };
 
 type StargazerRow = {
@@ -42,15 +43,20 @@ function rememberPositive(login: string) {
   positiveCache.set(login, Date.now() + CACHE_TTL_MS);
 }
 
-async function readJson(res: Response): Promise<unknown> {
-  return res.json();
+/** star+json nests the repo under `.repo`; default JSON is flat. */
+function starredFullName(row: StarredRow): string {
+  return (row.repo?.full_name || row.full_name || "").toLowerCase();
+}
+
+function stargazerLogin(row: StargazerRow): string {
+  return (row.user?.login || row.login || "").toLowerCase();
 }
 
 /**
- * Check the user's public starred repos (newest first with star media type).
- * Works without a token for public profiles.
+ * Check the user's starred repos (newest first with star media type).
+ * Handles both default and star+json response shapes.
  */
-async function userHasStarredRepo(username: string): Promise<boolean> {
+async function userHasStarredRepo(username: string): Promise<boolean | null> {
   const maxPages = 20; // up to 2,000 starred repos
   for (let page = 1; page <= maxPages; page += 1) {
     const url = new URL(
@@ -68,23 +74,18 @@ async function userHasStarredRepo(username: string): Promise<boolean> {
       throw new Error(`GitHub user @${username} was not found.`);
     }
     if (res.status === 403 || res.status === 429) {
-      throw new Error(
-        "GitHub rate limit reached. Try again shortly, or set GITHUB_TOKEN on the server.",
-      );
+      // Rate limited / blocked — try the other method instead of failing hard.
+      return null;
     }
     if (!res.ok) {
-      throw new Error(`GitHub API error (${res.status}).`);
+      return null;
     }
 
-    const data = (await readJson(res)) as StarredRepo[];
-    if (!Array.isArray(data)) {
-      throw new Error("Unexpected GitHub starred response.");
-    }
+    const data = (await res.json()) as StarredRow[];
+    if (!Array.isArray(data)) return null;
 
-    for (const repo of data) {
-      if ((repo.full_name || "").toLowerCase() === TARGET) {
-        return true;
-      }
+    for (const row of data) {
+      if (starredFullName(row) === TARGET) return true;
     }
     if (data.length < 100) return false;
   }
@@ -92,14 +93,13 @@ async function userHasStarredRepo(username: string): Promise<boolean> {
 }
 
 /**
- * Fallback: walk this repo's stargazer list (needs a token on many networks).
+ * Walk this repo's stargazer list (newest first with star media type).
+ * Works best with GITHUB_TOKEN; returns null if the API is unavailable.
  */
 async function loginInStargazerList(username: string): Promise<boolean | null> {
   const login = username.toLowerCase();
-  const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
-  if (!token) return null;
-
   const maxPages = 50;
+
   for (let page = 1; page <= maxPages; page += 1) {
     const url = new URL(
       `https://api.github.com/repos/${STAR_REPO.owner}/${STAR_REPO.name}/stargazers`,
@@ -117,12 +117,11 @@ async function loginInStargazerList(username: string): Promise<boolean | null> {
     }
     if (!res.ok) return null;
 
-    const data = (await readJson(res)) as StargazerRow[];
+    const data = (await res.json()) as StargazerRow[];
     if (!Array.isArray(data)) return null;
 
     for (const row of data) {
-      const entry = (row.user?.login || row.login || "").toLowerCase();
-      if (entry === login) return true;
+      if (stargazerLogin(row) === login) return true;
     }
     if (data.length < 100) return false;
   }
@@ -131,24 +130,33 @@ async function loginInStargazerList(username: string): Promise<boolean | null> {
 
 /**
  * True when `username` has starred this repository.
- * Prefer the user's starred list (no token required); fall back to the
- * repo stargazer list when a token is available.
+ *
+ * Tries the user's starred list first (best for "I just starred"), then the
+ * repo stargazer list. Succeeds if either method confirms — never short-circuits
+ * a false from one method without trying the other.
  */
 export async function isRepoStargazer(username: string): Promise<boolean> {
   const login = username.toLowerCase();
   if (cachedPositive(login)) return true;
 
-  // Fast path when token exists and the repo has relatively few stars.
+  const fromUser = await userHasStarredRepo(login);
+  if (fromUser === true) {
+    rememberPositive(login);
+    return true;
+  }
+
   const fromList = await loginInStargazerList(login);
   if (fromList === true) {
     rememberPositive(login);
     return true;
   }
-  if (fromList === false) {
+
+  // Only treat as not starred when at least one method completed a full scan.
+  if (fromUser === false || fromList === false) {
     return false;
   }
 
-  const starred = await userHasStarredRepo(login);
-  if (starred) rememberPositive(login);
-  return starred;
+  throw new Error(
+    "Could not reach GitHub to verify stars. Try again shortly, or set GITHUB_TOKEN on the server.",
+  );
 }
