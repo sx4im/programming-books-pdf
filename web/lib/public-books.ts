@@ -4,7 +4,8 @@ import type { Book } from "./types";
 export type PublicBook = Omit<Book, "driveUrl">;
 
 export function toPublicBook(book: Book): PublicBook {
-  const { driveUrl: _driveUrl, ...publicBook } = book;
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars -- strip Drive URL from client payload
+  const { driveUrl, ...publicBook } = book;
   return publicBook;
 }
 

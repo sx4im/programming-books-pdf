@@ -45,9 +45,9 @@ Open [http://localhost:3000](http://localhost:3000).
 
 1. Import the GitHub repo.
 2. Set **Root Directory** to `web`.
-3. Set environment variables (recommended):
-   - `STAR_GATE_SECRET` — long random string used to sign the unlock cookie
-   - `GITHUB_TOKEN` — GitHub PAT (raises API rate limits for stargazer checks)
+3. Set environment variables:
+   - `STAR_GATE_SECRET` — long random string used to sign the unlock cookie (**required** in production)
+   - `GITHUB_TOKEN` — GitHub PAT (recommended; raises rate limits and unlocks the stargazer-list API)
 4. Deploy (see [`vercel.json`](vercel.json)).
 
 ## Star gate (read access)

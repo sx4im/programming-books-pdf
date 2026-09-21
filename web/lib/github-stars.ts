@@ -1,23 +1,23 @@
 import { STAR_REPO } from "./repo";
 
+type StarredRepo = {
+  full_name?: string;
+};
+
 type StargazerRow = {
-  starred_at?: string;
   user?: { login?: string };
   login?: string;
 };
 
-type CacheState = {
-  logins: Set<string>;
-  fetchedAt: number;
-  complete: boolean;
-};
-
+const TARGET = `${STAR_REPO.owner}/${STAR_REPO.name}`.toLowerCase();
 const CACHE_TTL_MS = 5 * 60 * 1000;
-let cache: CacheState | null = null;
 
-function authHeaders(): HeadersInit {
+/** Positive verifications cached briefly (username → expiry). */
+const positiveCache = new Map<string, number>();
+
+function authHeaders(accept: string): HeadersInit {
   const headers: Record<string, string> = {
-    Accept: "application/vnd.github.star+json",
+    Accept: accept,
     "User-Agent": "programming-books-pdf-star-gate",
     "X-GitHub-Api-Version": "2022-11-28",
   };
@@ -28,86 +28,127 @@ function authHeaders(): HeadersInit {
   return headers;
 }
 
-function loginFromRow(row: StargazerRow): string | null {
-  const login = row.user?.login || row.login;
-  return login ? login.toLowerCase() : null;
+function cachedPositive(login: string): boolean {
+  const exp = positiveCache.get(login);
+  if (!exp) return false;
+  if (Date.now() > exp) {
+    positiveCache.delete(login);
+    return false;
+  }
+  return true;
 }
 
-async function fetchStargazerPage(page: number): Promise<{
-  logins: string[];
-  done: boolean;
-}> {
-  const url = new URL(
-    `https://api.github.com/repos/${STAR_REPO.owner}/${STAR_REPO.name}/stargazers`,
-  );
-  url.searchParams.set("per_page", "100");
-  url.searchParams.set("page", String(page));
+function rememberPositive(login: string) {
+  positiveCache.set(login, Date.now() + CACHE_TTL_MS);
+}
 
-  const res = await fetch(url, {
-    headers: authHeaders(),
-    next: { revalidate: 0 },
-  });
-
-  if (res.status === 404) {
-    throw new Error("Repository not found on GitHub.");
-  }
-  if (res.status === 403 || res.status === 429) {
-    throw new Error(
-      "GitHub rate limit reached. Try again in a few minutes, or set GITHUB_TOKEN on the server.",
-    );
-  }
-  if (!res.ok) {
-    throw new Error(`GitHub API error (${res.status}).`);
-  }
-
-  const data = (await res.json()) as StargazerRow[];
-  if (!Array.isArray(data)) {
-    throw new Error("Unexpected GitHub stargazer response.");
-  }
-
-  const logins = data
-    .map(loginFromRow)
-    .filter((login): login is string => Boolean(login));
-
-  return { logins, done: data.length < 100 };
+async function readJson(res: Response): Promise<unknown> {
+  return res.json();
 }
 
 /**
- * Check whether `username` appears in this repo's stargazer list.
- * Newest stargazers come first (star media type), so a just-starred user
- * is usually found on page 1. Results are cached briefly in memory.
+ * Check the user's public starred repos (newest first with star media type).
+ * Works without a token for public profiles.
+ */
+async function userHasStarredRepo(username: string): Promise<boolean> {
+  const maxPages = 20; // up to 2,000 starred repos
+  for (let page = 1; page <= maxPages; page += 1) {
+    const url = new URL(
+      `https://api.github.com/users/${encodeURIComponent(username)}/starred`,
+    );
+    url.searchParams.set("per_page", "100");
+    url.searchParams.set("page", String(page));
+
+    const res = await fetch(url, {
+      headers: authHeaders("application/vnd.github.star+json"),
+      cache: "no-store",
+    });
+
+    if (res.status === 404) {
+      throw new Error(`GitHub user @${username} was not found.`);
+    }
+    if (res.status === 403 || res.status === 429) {
+      throw new Error(
+        "GitHub rate limit reached. Try again shortly, or set GITHUB_TOKEN on the server.",
+      );
+    }
+    if (!res.ok) {
+      throw new Error(`GitHub API error (${res.status}).`);
+    }
+
+    const data = (await readJson(res)) as StarredRepo[];
+    if (!Array.isArray(data)) {
+      throw new Error("Unexpected GitHub starred response.");
+    }
+
+    for (const repo of data) {
+      if ((repo.full_name || "").toLowerCase() === TARGET) {
+        return true;
+      }
+    }
+    if (data.length < 100) return false;
+  }
+  return false;
+}
+
+/**
+ * Fallback: walk this repo's stargazer list (needs a token on many networks).
+ */
+async function loginInStargazerList(username: string): Promise<boolean | null> {
+  const login = username.toLowerCase();
+  const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+  if (!token) return null;
+
+  const maxPages = 50;
+  for (let page = 1; page <= maxPages; page += 1) {
+    const url = new URL(
+      `https://api.github.com/repos/${STAR_REPO.owner}/${STAR_REPO.name}/stargazers`,
+    );
+    url.searchParams.set("per_page", "100");
+    url.searchParams.set("page", String(page));
+
+    const res = await fetch(url, {
+      headers: authHeaders("application/vnd.github.star+json"),
+      cache: "no-store",
+    });
+
+    if (res.status === 401 || res.status === 403 || res.status === 429) {
+      return null;
+    }
+    if (!res.ok) return null;
+
+    const data = (await readJson(res)) as StargazerRow[];
+    if (!Array.isArray(data)) return null;
+
+    for (const row of data) {
+      const entry = (row.user?.login || row.login || "").toLowerCase();
+      if (entry === login) return true;
+    }
+    if (data.length < 100) return false;
+  }
+  return false;
+}
+
+/**
+ * True when `username` has starred this repository.
+ * Prefer the user's starred list (no token required); fall back to the
+ * repo stargazer list when a token is available.
  */
 export async function isRepoStargazer(username: string): Promise<boolean> {
   const login = username.toLowerCase();
-  const now = Date.now();
+  if (cachedPositive(login)) return true;
 
-  if (cache && now - cache.fetchedAt < CACHE_TTL_MS && cache.logins.has(login)) {
+  // Fast path when token exists and the repo has relatively few stars.
+  const fromList = await loginInStargazerList(login);
+  if (fromList === true) {
+    rememberPositive(login);
     return true;
   }
-
-  const logins = new Set<string>(
-    cache && now - cache.fetchedAt < CACHE_TTL_MS ? cache.logins : [],
-  );
-
-  // Walk pages (newest first) until we find the user or exhaust the list.
-  let page = 1;
-  let complete = false;
-  const maxPages = 50; // up to 5,000 stargazers per check pass
-
-  while (page <= maxPages) {
-    const { logins: pageLogins, done } = await fetchStargazerPage(page);
-    for (const entry of pageLogins) logins.add(entry);
-    if (logins.has(login)) {
-      cache = { logins, fetchedAt: now, complete: done && page === 1 ? false : complete };
-      return true;
-    }
-    if (done) {
-      complete = true;
-      break;
-    }
-    page += 1;
+  if (fromList === false) {
+    return false;
   }
 
-  cache = { logins, fetchedAt: now, complete };
-  return complete ? false : logins.has(login);
+  const starred = await userHasStarredRepo(login);
+  if (starred) rememberPositive(login);
+  return starred;
 }
