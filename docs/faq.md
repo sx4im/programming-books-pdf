@@ -45,6 +45,7 @@ This repository focuses on **language-first learning paths** with clear skill-le
 
 ## Related
 
+- [Getting started](getting-started.md)
 - [Documentation home](index.md)
 - [Repository README](../README.md)
 - [Contributing](../CONTRIBUTING.md)

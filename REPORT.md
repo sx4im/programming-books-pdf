@@ -1,168 +1,87 @@
-# Repository Health & SEO Report
+# Repository SEO & Discoverability Audit
 
-**Repository:** [sx4im/programming-books-pdf](https://github.com/sx4im/programming-books-pdf)  
-**Display name:** Ultimate Programming Books  
-**Report date:** 2026-07-13  
-**Branch audited:** `cursor/github-seo-docs-b988`
-
-This report measures discoverability, trust, documentation quality, and repository health before and after the optimization pass described in the implementation plan.
+**Repository:** [sx4im/programming-books-pdf](https://github.com/sx4im/programming-books-pdf)
+**Display name:** Ultimate Programming Books
+**Audit date:** 2026-09-21
+**Live site:** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)
 
 ---
 
-## Executive summary
+## Project identity
 
-The repository was transformed from a single 1,200-line README into a maintainable, LLM-friendly documentation set with community health files, CI, and honest positioning as a **curated programming-book index**. GitHub About/topics could not be updated by the automation token (HTTP 403); apply [`.github/REPOSITORY_SETTINGS.md`](.github/REPOSITORY_SETTINGS.md) manually for full metadata gains.
+| Field | Value |
+| --- | --- |
+| **What** | Curated index of programming books/ebooks + searchable Next.js library |
+| **Problem** | Language learning paths and book lists are scattered across the web |
+| **Users** | Students, self-taught developers, mentors, bootcamps |
+| **Stack** | Markdown `docs/`, Next.js 15 `web/`, Vercel, Google Drive links |
+| **Category** | Awesome-list / education / developer learning resources |
+| **Differentiators** | Skill-level paths per language + live searchable UI (vs list-only repos) |
 
-| Dimension | Before | After | Delta |
-| --- | ---: | ---: | ---: |
-| GitHub SEO | 28 | 78 | +50 |
-| Google SEO | 22 | 72 | +50 |
-| LLM discoverability | 35 | 82 | +47 |
-| Documentation quality | 40 | 86 | +46 |
-| Repository health | 18 | 84 | +66 |
-| **Overall (mean)** | **634** | **80** | **+51** |
+## Search intent
 
-Scores assume recommended About/topics/Pages settings from `.github/REPOSITORY_SETTINGS.md` are applied. Without those owner-only settings, GitHub SEO ≈ **68** and overall ≈ **76**.
+**Primary:** `programming books` / `programming ebooks` by language
 
----
+**Secondary:** `python programming books`, `javascript books pdf`, `learn rust books`, `coding reading list`, `beginner to advanced programming books`, `free code books library`, `programming books github`
 
-## What changed
+## Priority findings
 
-### Structure
+### P0
 
-- Split 20 language sections into self-contained [`docs/*.md`](docs/) pages with introductions, navigation, and related links
-- Rewrote [`README.md`](README.md) as a landing page (value proposition, Contents, how-to, language index, FAQ, contributing, license)
-- Added [`docs/index.md`](docs/index.md), [`docs/faq.md`](docs/faq.md), and Pages-ready [`docs/_config.yml`](docs/_config.yml)
+- GitHub **About description** is engagement-bait: `star repo to get programming-books` (hurts clarity in search results)
+- Topic `javascript-library` is **incorrect** (this is not a JS library)
 
-### Trust & link hygiene
+### P1
 
-- Removed **59** `PDF_LINK` placeholders and **2** empty links
-- Kept maintainer **public Google Drive** share links as the primary book sources
-- Restored Drive URLs that had been swapped to other hosts (e.g. Eloquent JavaScript, Automate the Boring Stuff, Effective C++, Python Cookbook)
-- Replaced misleading “Free & Open Source” badge with MIT / languages / resources / PRs welcome badges
-- Canonical URLs now point at `programming-books-pdf` (not `ultimate-programming-books`)
+- No site `robots.txt` / `sitemap.xml` (fixed in `web/app`)
+- No Open Graph image route (fixed)
+- No JSON-LD on the live site (fixed)
+- GitHub Pages not enabled despite `docs/_config.yml`
+- No custom GitHub social preview image
 
-### Community & CI
+### P2
 
-- Added `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`
-- Added issue templates (book suggestion, broken link, general) and PR template
-- Added GitHub Actions: markdownlint, lychee link check (PR + weekly), cspell
-- Documented owner-only metadata and Pages enablement
+- README H1 could name the offer more clearly (improved)
+- Getting-started doc for onboarding search intents (added)
+- CI badges missing from README (added)
 
-### Catalog size (honest count)
+### P3
 
-| Metric | Value |
-| --- | ---: |
-| Language guides | 32 |
-| Curated entries with real URLs | **581** |
-| Placeholder entries remaining | **0** |
+- Optional dated releases when catalog changes
+- External tutorials / community posts (human action)
 
----
+## Competitor patterns (do not copy)
 
-## Scorecards (after)
+| Project | Communicates well | Lesson for this repo |
+| --- | --- | --- |
+| EbookFoundation/free-programming-books | Clear “freely available” positioning + search site | Keep honest legal framing; differentiate with skill paths + UI |
+| mikhailkhorokhorin/developer-library | Simple category README | Keep scannable language entry points |
+| roadmap.sh | Audience clarity | Maintain “who this is for” + quick start |
 
-### GitHub SEO — 78/100
+## GitHub metadata (owner action required)
 
-**Strengths**
+Automation cannot PATCH About/topics (HTTP 403). Apply [`.github/REPOSITORY_SETTINGS.md`](.github/REPOSITORY_SETTINGS.md).
 
-- Keyword-clear README opening and language headings
-- Contents + deep links into per-language docs (more indexable surfaces)
-- Topics plan includes `awesome-list`, languages, and education intents
-- Honest badges; star CTA uses canonical repo URL
+**Recommended description:**
+`Curated programming books for 32 languages — beginner to advanced. Searchable library for Python, JavaScript, Rust, Go, and more.`
 
-**Gaps**
+**Homepage (already set):** `https://freecodebooks.vercel.app/`
 
-- About description still star-gated until owner applies settings (critical)
-- No social preview image yet
-- Repo name `programming-books-pdf` vs brand “Ultimate Programming Books” remains a mild split
+## Validation
 
-### Google SEO — 72/100
+After this pass, run:
 
-**Strengths**
+```bash
+cd web && npm run lint && npm run build
+npx --yes markdownlint-cli2 "**/*.md" "!REPORT.md"
+git diff --check
+```
 
-- Semantic heading hierarchy; FAQ with natural questions
-- Multiple durable pages under `docs/` for long-tail queries (`python programming books`, `rust learning resources`, …)
-- Internal linking between README, FAQ, and language pages
-- Pages-ready Jekyll config with SEO/sitemap plugins
+## Rename recommendation (not executed)
 
-**Gaps**
-
-- GitHub Pages not yet enabled (owner action)
-- Maintainer Google Drive share links are intentional and treated as the primary catalog source
-- No custom domain or standalone HTML search UI
-
-### LLM discoverability — 82/100
-
-**Strengths**
-
-- First-paragraph summary extractable as a one-liner
-- Consistent H1/H2 taxonomy and skill-level labels
-- FAQ answers copyright, scope, and contribution questions explicitly
-- Each language page is understandable alone with context + related links
-- Clear differentiation vs free-programming-books
-
-**Gaps**
-
-- No `llms.txt` on a public docs site yet (optional follow-up once Pages is live)
-- Remaining third-party Drive links may reduce recommendation confidence for some models
-
-### Documentation quality — 86/100
-
-**Strengths**
-
-- Scalable architecture; contribution format documented
-- Empty/placeholder sections cleaned; markdownlint clean
-- Accessibility: text Contents plus badge row; alt text on icons
-
-**Gaps**
-
-- Language coverage depth uneven across newer shelves vs Python/Java
-- Edition metadata still inconsistent on older entries
-
-### Repository health — 84/100
-
-**Strengths**
-
-- Community profile files present
-- CI for lint, links, spelling
-- Security path for malicious links
-- Link policy reduces future rot and legal risk from new PRs
-
-**Gaps**
-
-- Owner must enable Pages and update About/topics
-- No CODEOWNERS / release cadence yet
-- Full migration off unauthorized mirrors still outstanding
-
----
-
-## Actionable recommendations (priority order)
-
-1. **Apply repository settings** in [`.github/REPOSITORY_SETTINGS.md`](.github/REPOSITORY_SETTINGS.md) (About, topics, Pages) — highest remaining SEO unlock.
-2. **Enable GitHub Pages** from `/docs` and set Website URL to the Pages site.
-3. **Add a 1280×640 social preview** image with the brand name and tagline.
-4. **Migrate Drive links** gradually to official free editions or publisher pages; track in issues labeled `link-migration`.
-5. **Expand thin language pages** (Shell, Zig, newer shelves) with more legal free resources.
-6. **Tag a release** (e.g. `2026.07`) when the catalog stabilizes for watchers.
-7. **Optional:** submit to the Awesome ecosystem once link policy and free-legal ratio meet community norms.
-8. **Optional:** add a simple search UI on Pages (client-side filter) if navigation demand grows.
-
----
-
-## Measurement checklist
-
-After merging and applying owner settings, verify:
-
-- [ ] About description is keyword-rich (no star-gate)
-- [ ] Topics include `awesome-list` and major languages
-- [ ] `https://sx4im.github.io/programming-books-pdf/` loads
-- [ ] Actions: Markdown lint, Link check, Spellcheck are green on `main`
-- [ ] Community profile checklist shows README, License, CoC, Contributing, Security, templates
-
----
-
-## Method notes
-
-- Scores are expert heuristic assessments (0–100), not lab measurements.
-- “Before” scores reflect the audited main-branch state prior to this branch.
-- Automation could not mutate GitHub repository metadata (API 403); in-repo documentation covers the required values.
+```text
+Current: programming-books-pdf
+Proposed: (none — keep)
+Reason: Name already matches primary search intent (programming books + pdf)
+Potential risks: Rename would break stars, forks, clones, and inbound links
+```

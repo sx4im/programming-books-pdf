@@ -1,16 +1,18 @@
-# Ultimate Programming Books
+# Ultimate Programming Books — Curated programming books for 32 languages
 
-**Curated programming books and ebooks for 32 languages** — Python, JavaScript, Java, C#, C/C++, TypeScript, Go, Rust, HTML/CSS, and more — organized from beginner to advanced.
+**Curated programming books and ebooks** for Python, JavaScript, Java, C#, C/C++, TypeScript, Go, Rust, HTML/CSS, and 23 more languages — organized from **beginner to advanced**.
 
-Browse the live library, pick a language, filter by skill level, search by title, and open public Google Drive links to read.
+Browse the [live library](https://freecodebooks.vercel.app/), pick a language, filter by skill level, search by title, and open public Google Drive links to read.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/Languages-32-blue)](#languages)
 [![Books](https://img.shields.io/badge/Books-634%2B-9cf)](web/data/books.json)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![CI: Markdown](https://github.com/sx4im/programming-books-pdf/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/sx4im/programming-books-pdf/actions/workflows/markdown-lint.yml)
+[![CI: Book links](https://github.com/sx4im/programming-books-pdf/actions/workflows/validate-book-links.yml/badge.svg)](https://github.com/sx4im/programming-books-pdf/actions/workflows/validate-book-links.yml)
 [![GitHub stars](https://img.shields.io/github/stars/sx4im/programming-books-pdf?style=social)](https://github.com/sx4im/programming-books-pdf)
 
-[Website](https://freecodebooks.vercel.app/) · [Library](https://freecodebooks.vercel.app/library) · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
+[Website](https://freecodebooks.vercel.app/) · [Library](https://freecodebooks.vercel.app/library) · [Getting started](docs/getting-started.md) · [Docs](docs/index.md) · [FAQ](docs/faq.md) · [Contribute](CONTRIBUTING.md)
 
 ---
 
@@ -78,12 +80,12 @@ Objective-C ... 11    Clojure ....... 11
 
 ## Why this repository
 
-Developers searching for **programming books**, **learning paths**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog:
+Developers searching for **programming books**, **coding ebooks**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog:
 
-- **32 programming languages** with beginner → advanced paths  
-- **634+ curated titles** (Drive PDFs + official docs where useful)  
-- A **searchable web library** so you can find a book by name in seconds  
-- Clear contribution flow: suggest a title; maintainers attach Drive links  
+- **32 programming languages** with beginner → advanced paths
+- **634+ curated titles** (Drive PDFs + official docs where useful)
+- A **searchable web library** so you can find a book by name in seconds
+- Clear contribution flow: suggest a title; maintainers attach Drive links
 
 If this helps you learn, please **[star the repo](https://github.com/sx4im/programming-books-pdf)** — it helps more developers discover it on GitHub and in search.
 
@@ -107,6 +109,8 @@ If this helps you learn, please **[star the repo](https://github.com/sx4im/progr
    cd web && npm install && npm run dev
    ```
 
+Full walkthrough: [Getting started](docs/getting-started.md).
+
 Each language guide is organized: **Beginner → Intermediate → Advanced → Specialized → References**.
 
 ---
@@ -125,7 +129,6 @@ Each language guide is organized: **Beginner → Intermediate → Advanced → S
 
 ---
 
-
 ## How the library works
 
 1. Open [Website](https://freecodebooks.vercel.app/).
@@ -137,14 +140,16 @@ Source for the UI catalog: [`web/data/books.json`](web/data/books.json). Markdow
 
 **Project health:** See [NOTICE.md](NOTICE.md) for copyright / DMCA takedown handling so disputed links can be removed quickly.
 
+Owner checklist for GitHub About, topics, Pages, and social preview: [`.github/REPOSITORY_SETTINGS.md`](.github/REPOSITORY_SETTINGS.md).
+
 ---
 
 ## Who this is for
 
-- Students building a **programming reading list** by language  
-- Self-taught developers looking for **beginner to advanced** paths  
-- Mentors and bootcamps that need a **shared book index**  
-- Contributors who want to **suggest titles** without hunting for files  
+- Students building a **programming reading list** by language
+- Self-taught developers looking for **beginner to advanced** paths
+- Mentors and bootcamps that need a **shared book index**
+- Contributors who want to **suggest titles** without hunting for files
 
 ---
 
@@ -171,7 +176,7 @@ Open a [broken-link issue](.github/ISSUE_TEMPLATE/broken-link.yml). Malicious li
 **How is this different from free-programming-books?**  
 [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) focuses on freely available books worldwide. This project adds **language + skill-level learning paths** and a **searchable library UI** at [Website](https://freecodebooks.vercel.app/).
 
-More answers: [docs/faq.md](docs/faq.md)
+More answers: [docs/faq.md](docs/faq.md) · [Getting started](docs/getting-started.md)
 
 ---
 

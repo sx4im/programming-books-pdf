@@ -2,7 +2,7 @@
 
 Curated programming books and learning resources for **32 languages**, organized from beginner to advanced.
 
-This documentation site mirrors the language guides in the repository. Start from a language below, or return to the [repository README](../README.md) for the full landing page, FAQ summary, and contribution links.
+This documentation site mirrors the language guides in the repository. New here? Read [Getting started](getting-started.md). Or return to the [repository README](../README.md) for the full landing page, FAQ summary, and contribution links.
 
 ## Languages
 
@@ -43,8 +43,10 @@ This documentation site mirrors the language guides in the repository. Start fro
 
 ## More
 
+- [Getting started](getting-started.md)
 - [FAQ](faq.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Code of Conduct](../CODE_OF_CONDUCT.md)
 - [Security](../SECURITY.md)
 - [License](../LICENSE)
+- [GitHub About / topics checklist](../.github/REPOSITORY_SETTINGS.md)
