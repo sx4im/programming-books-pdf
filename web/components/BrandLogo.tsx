@@ -4,8 +4,8 @@ type Props = {
 };
 
 /**
- * Open-book mark with symmetric code chevrons (< >).
- * Clean vectors — inherits currentColor for light/dark themes.
+ * Open-book brand mark with code chevrons (< >).
+ * Classic book silhouette: pages rise to the spine, bottom dips at the fold.
  */
 export function BrandLogo({ className, size = 24 }: Props) {
   return (
@@ -18,47 +18,103 @@ export function BrandLogo({ className, size = 24 }: Props) {
       xmlns="http://www.w3.org/2000/svg"
       aria-hidden
     >
+      {/* Cover thickness */}
+      <path
+        d="M3.75 8.25C3.75 8.25 7.75 5.25 12.5 5.25c2.15 0 3.2 1.55 3.5 3.1.3-1.55 1.35-3.1 3.5-3.1 4.75 0 8.75 3 8.75 3v17.25s-4 3.25-8.75 3.25c-2.15 0-3.2-1.55-3.5-3.2-.3 1.65-1.35 3.2-3.5 3.2-4.75 0-8.75-3.25-8.75-3.25V8.25Z"
+        stroke="currentColor"
+        strokeWidth="1.2"
+        strokeLinejoin="round"
+        opacity="0.3"
+      />
+
       {/* Open book */}
       <path
-        d="M16 7.75c-1.2-1-3.2-2.25-6.35-2.25H6.75c-.7 0-1.25.55-1.25 1.25v16.5c0 .8.6 1.35 1.35 1.45 2.05.35 3.9.7 5.85.7 1.55 0 2.75-.4 3.7-1.05.2-.14.45-.14.65 0 .95.65 2.15 1.05 3.7 1.05 1.95 0 3.8-.35 5.85-.7.75-.1 1.35-.65 1.35-1.45V6.75c0-.7-.55-1.25-1.25-1.25h-2.9c-3.15 0-5.15 1.25-6.35 2.25Z"
+        d="M4.75 8.75C4.75 8.75 8.4 6.15 12.55 6.15c1.95 0 2.95 1.4 3.3 2.9.08.3.2.45.35.45h.1c.15 0 .27-.15.35-.45.35-1.5 1.35-2.9 3.3-2.9 4.15 0 7.8 2.6 7.8 2.6v14.7s-3.65 2.7-7.8 2.7c-1.95 0-2.95-1.4-3.3-2.95-.08-.3-.2-.45-.35-.45h-.1c-.15 0-.27.15-.35.45-.35 1.55-1.35 2.95-3.3 2.95-4.15 0-7.8-2.7-7.8-2.7V8.75Z"
         fill="currentColor"
       />
-      {/* Spine fold */}
+
+      {/* Spine */}
       <path
-        d="M16 7.9v16.4"
+        d="M16.05 8.85v14.5"
         stroke="var(--canvas)"
-        strokeWidth="1.35"
+        strokeWidth="1.5"
         strokeLinecap="round"
       />
-      {/* Inner page lines — top */}
+
+      {/* Top page edges */}
       <path
-        d="M6.9 7.35h3.6c1.7 0 2.85.45 3.7 1.05M25.1 7.35h-3.6c-1.7 0-2.85.45-3.7 1.05"
+        d="M5.4 7.85c2.35-.7 4.85-.85 7.05.15"
         stroke="var(--canvas)"
-        strokeWidth="1"
+        strokeWidth="0.9"
         strokeLinecap="round"
-        opacity="0.55"
+        opacity="0.5"
       />
-      {/* Inner page lines — bottom */}
       <path
-        d="M6.95 23.85c1.85.25 3.55.5 5.2.5 1.2 0 2.15-.25 2.9-.7M25.05 23.85c-1.85.25-3.55.5-5.2.5-1.2 0-2.15-.25-2.9-.7"
+        d="M5.55 8.7c2.15-.55 4.4-.65 6.4.1"
         stroke="var(--canvas)"
-        strokeWidth="1"
+        strokeWidth="0.75"
+        strokeLinecap="round"
+        opacity="0.3"
+      />
+      <path
+        d="M26.6 7.85c-2.35-.7-4.85-.85-7.05.15"
+        stroke="var(--canvas)"
+        strokeWidth="0.9"
+        strokeLinecap="round"
+        opacity="0.5"
+      />
+      <path
+        d="M26.45 8.7c-2.15-.55-4.4-.65-6.4.1"
+        stroke="var(--canvas)"
+        strokeWidth="0.75"
+        strokeLinecap="round"
+        opacity="0.3"
+      />
+
+      {/* Bottom page edges */}
+      <path
+        d="M5.45 22.35c2.5.65 5.05.95 7.35.35 1.05-.3 1.95-.85 2.8-1.6"
+        stroke="var(--canvas)"
+        strokeWidth="0.9"
         strokeLinecap="round"
         opacity="0.45"
       />
-      {/* Left chevron < */}
       <path
-        d="M12.35 12.15 9.1 16l3.25 3.85"
+        d="M5.55 23.3c2.6.7 5.3 1.05 7.7.4 1-.3 1.9-.85 2.7-1.55"
         stroke="var(--canvas)"
-        strokeWidth="2.3"
+        strokeWidth="0.75"
+        strokeLinecap="round"
+        opacity="0.28"
+      />
+      <path
+        d="M26.55 22.35c-2.5.65-5.05.95-7.35.35-1.05-.3-1.95-.85-2.8-1.6"
+        stroke="var(--canvas)"
+        strokeWidth="0.9"
+        strokeLinecap="round"
+        opacity="0.45"
+      />
+      <path
+        d="M26.45 23.3c-2.6.7-5.3 1.05-7.7.4-1-.3-1.9-.85-2.7-1.55"
+        stroke="var(--canvas)"
+        strokeWidth="0.75"
+        strokeLinecap="round"
+        opacity="0.28"
+      />
+
+      {/* < */}
+      <path
+        d="M12.4 11.9 8.95 15.95l3.45 4.05"
+        stroke="var(--canvas)"
+        strokeWidth="2.35"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      {/* Right chevron > */}
+
+      {/* > */}
       <path
-        d="M19.65 12.15 22.9 16l-3.25 3.85"
+        d="M19.6 11.9 23.05 15.95l-3.45 4.05"
         stroke="var(--canvas)"
-        strokeWidth="2.3"
+        strokeWidth="2.35"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
