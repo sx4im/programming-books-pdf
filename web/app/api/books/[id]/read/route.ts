@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { getBookById } from "../../../../../lib/books-server";
+import { isDrivePdfUrl } from "../../../../../lib/public-books";
 import { getAccessFromCookies } from "../../../../../lib/star-access";
 
 export const runtime = "nodejs";
@@ -27,13 +28,23 @@ export async function GET(_req: Request, { params }: Params) {
   }
 
   const book = getBookById(id);
-  if (!book?.driveUrl) {
+  if (!book) {
     return NextResponse.json(
       { ok: false, error: "Book not found." },
       { status: 404 },
     );
   }
 
+  if (!isDrivePdfUrl(book.driveUrl)) {
+    return NextResponse.json(
+      {
+        ok: false,
+        error: "No Drive PDF for this title yet. Use Request book to email us.",
+      },
+      { status: 404 },
+    );
+  }
+
   // Never embed the URL in HTML/JSON for anonymous clients — redirect only.
-  return NextResponse.redirect(book.driveUrl, 302);
+  return NextResponse.redirect(book.driveUrl.trim(), 302);
 }

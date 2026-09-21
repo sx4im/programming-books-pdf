@@ -5,6 +5,7 @@ import type { PublicBook } from "../lib/public-books";
 import { CATEGORIES } from "../lib/types";
 import { coverSrcForBook } from "../lib/covers";
 import { LANGUAGES } from "../data/languages";
+import { requestBookMailto } from "../lib/contact";
 import { BookCover } from "./BookCover";
 import { StarGateModal } from "./StarGateModal";
 import { useStarAccess } from "./StarAccessProvider";
@@ -23,6 +24,10 @@ function openBook(bookId: string) {
   window.location.assign(`/api/books/${encodeURIComponent(bookId)}/read`);
 }
 
+function requestBook(title: string) {
+  window.location.assign(requestBookMailto(title));
+}
+
 export function BookCard({ book }: Props) {
   const author = book.author?.trim() || "Author TBA";
   const language =
@@ -34,6 +39,11 @@ export function BookCard({ book }: Props) {
   const [opening, setOpening] = useState(false);
 
   async function onReadClick() {
+    if (!book.hasDrivePdf) {
+      requestBook(book.title);
+      return;
+    }
+
     if (unlocked) {
       setOpening(true);
       const ok = await ensureAccessCookie();
@@ -48,6 +58,14 @@ export function BookCard({ book }: Props) {
     }
     setGateOpen(true);
   }
+
+  const label = !book.hasDrivePdf
+    ? "Request book"
+    : !ready
+      ? "Loading…"
+      : opening
+        ? "Opening…"
+        : "Read book";
 
   return (
     <article className={styles.card}>
@@ -69,23 +87,25 @@ export function BookCard({ book }: Props) {
 
       <button
         type="button"
-        className={styles.read}
+        className={book.hasDrivePdf ? styles.read : styles.request}
         onClick={() => void onReadClick()}
-        disabled={!ready || opening}
-        aria-haspopup="dialog"
+        disabled={book.hasDrivePdf && (!ready || opening)}
+        aria-haspopup={book.hasDrivePdf ? "dialog" : undefined}
       >
-        {!ready ? "Loading…" : opening ? "Opening…" : "Read book"}
+        {label}
       </button>
 
-      <StarGateModal
-        open={gateOpen}
-        bookTitle={book.title}
-        onClose={() => setGateOpen(false)}
-        onUnlocked={() => {
-          setGateOpen(false);
-          openBook(book.id);
-        }}
-      />
+      {book.hasDrivePdf ? (
+        <StarGateModal
+          open={gateOpen}
+          bookTitle={book.title}
+          onClose={() => setGateOpen(false)}
+          onUnlocked={() => {
+            setGateOpen(false);
+            openBook(book.id);
+          }}
+        />
+      ) : null}
     </article>
   );
 }

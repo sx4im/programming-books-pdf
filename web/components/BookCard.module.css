@@ -180,6 +180,26 @@
   cursor: wait;
 }
 
+.request {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-md);
+  background: var(--canvas);
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.request:hover {
+  background: var(--surface-raised);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .card:hover {
     transform: translateY(-1px);
