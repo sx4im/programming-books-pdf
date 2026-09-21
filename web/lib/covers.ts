@@ -30,7 +30,9 @@ export function isReferenceCoverBook(
   return false;
 }
 
-export function coverSrcForBook(book: Book): string {
+export function coverSrcForBook(
+  book: Pick<Book, "category" | "edition" | "title" | "coverImage">,
+): string {
   const src = book.coverImage?.trim() || "";
   // Always prefer an explicit remote cover when present.
   if (/^https?:\/\//i.test(src)) return src;

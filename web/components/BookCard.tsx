@@ -1,16 +1,26 @@
-import type { Book } from "../lib/types";
+"use client";
+
+import { useState } from "react";
+import type { PublicBook } from "../lib/public-books";
 import { CATEGORIES } from "../lib/types";
 import { coverSrcForBook } from "../lib/covers";
 import { LANGUAGES } from "../data/languages";
 import { BookCover } from "./BookCover";
+import { StarGateModal } from "./StarGateModal";
+import { useStarAccess } from "./StarAccessProvider";
 import styles from "./BookCard.module.css";
 
 type Props = {
-  book: Book;
+  book: PublicBook;
 };
 
-function categoryLabel(id: Book["category"]): string {
+function categoryLabel(id: PublicBook["category"]): string {
   return CATEGORIES.find((c) => c.id === id)?.label ?? id;
+}
+
+function openBook(bookId: string) {
+  // Server checks the httpOnly access cookie before redirecting.
+  window.location.assign(`/api/books/${encodeURIComponent(bookId)}/read`);
 }
 
 export function BookCard({ book }: Props) {
@@ -19,6 +29,16 @@ export function BookCard({ book }: Props) {
     LANGUAGES.find((l) => l.id === book.language)?.label ?? book.language;
   const level = categoryLabel(book.category);
   const coverSrc = coverSrcForBook(book);
+  const { ready, unlocked } = useStarAccess();
+  const [gateOpen, setGateOpen] = useState(false);
+
+  function onReadClick() {
+    if (unlocked) {
+      openBook(book.id);
+      return;
+    }
+    setGateOpen(true);
+  }
 
   return (
     <article className={styles.card}>
@@ -38,14 +58,25 @@ export function BookCard({ book }: Props) {
         ) : null}
       </div>
 
-      <a
+      <button
+        type="button"
         className={styles.read}
-        href={book.driveUrl}
-        target="_blank"
-        rel="noopener noreferrer"
+        onClick={onReadClick}
+        disabled={!ready}
+        aria-haspopup="dialog"
       >
-        Read book
-      </a>
+        {ready ? "Read book" : "Checking access…"}
+      </button>
+
+      <StarGateModal
+        open={gateOpen}
+        bookTitle={book.title}
+        onClose={() => setGateOpen(false)}
+        onUnlocked={() => {
+          setGateOpen(false);
+          openBook(book.id);
+        }}
+      />
     </article>
   );
 }

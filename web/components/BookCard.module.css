@@ -159,17 +159,25 @@
   align-items: center;
   justify-content: center;
   min-height: 44px;
+  border: none;
   border-radius: var(--radius-md);
   background: var(--inverse);
   color: var(--on-inverse);
   font-size: 14px;
   font-weight: 500;
   text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .read:hover {
   text-decoration: none;
   opacity: 0.92;
+}
+
+.read:disabled {
+  opacity: 0.65;
+  cursor: wait;
 }
 
 @media (prefers-reduced-motion: no-preference) {

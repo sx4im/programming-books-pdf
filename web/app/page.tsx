@@ -1,7 +1,7 @@
-import books from "../data/books.json";
-import type { Book } from "../lib/types";
+import { getAllBooks } from "../lib/books-server";
+import { toPublicBooks } from "../lib/public-books";
 import { HomePage } from "../components/HomePage";
 
 export default function Page() {
-  return <HomePage books={books as Book[]} />;
+  return <HomePage books={toPublicBooks(getAllBooks())} />;
 }
