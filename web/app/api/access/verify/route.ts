@@ -83,7 +83,7 @@ export async function POST(req: Request) {
       {
         ok: false,
         starred: false,
-        error: `We could not find @${username} in the stargazer list. Star ${STAR_REPO.owner}/${STAR_REPO.name} on GitHub, wait a few seconds, then try again.`,
+        error: "We could not find this username.",
         starUrl: STAR_REPO.starUrl,
       },
       { status: 403 },

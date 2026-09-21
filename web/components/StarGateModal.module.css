@@ -13,27 +13,32 @@
 
 .dialog {
   position: relative;
-  width: min(720px, calc(100vw - 32px));
-  min-height: 280px;
-  padding: 32px 36px;
+  width: min(440px, calc(100vw - 32px));
+  aspect-ratio: 1 / 1;
+  max-height: min(440px, calc(100dvh - 48px));
+  padding: 32px 28px 28px;
   border-radius: var(--radius-lg);
   border: 1px solid var(--hairline);
   background: var(--canvas);
   box-shadow: var(--shadow-md);
   animation: riseIn 200ms ease;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
 }
 
 .layout {
-  display: grid;
-  grid-template-columns: 1.15fr 0.85fr;
-  gap: 28px 36px;
-  align-items: start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 1;
+  min-height: 0;
 }
 
 .close {
   position: absolute;
-  top: 12px;
-  right: 14px;
+  top: 10px;
+  right: 12px;
   appearance: none;
   border: none;
   background: transparent;
@@ -47,7 +52,6 @@
 
 .copy {
   min-width: 0;
-  padding-right: 8px;
 }
 
 .kicker {
@@ -61,7 +65,7 @@
 
 .title {
   margin: 8px 0 0;
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: -0.02em;
   color: var(--ink);
@@ -70,7 +74,7 @@
 
 .body {
   margin: 12px 0 0;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.55;
   color: var(--body);
 }
@@ -80,12 +84,12 @@
 }
 
 .steps {
-  margin: 20px 0 0;
+  margin: 16px 0 0;
   padding-left: 18px;
   font-size: 14px;
   color: var(--body);
   display: grid;
-  gap: 12px;
+  gap: 10px;
 }
 
 .starBtn {
@@ -112,7 +116,8 @@
   display: grid;
   gap: 10px;
   align-content: start;
-  padding: 20px;
+  margin-top: auto;
+  padding: 16px;
   border: 1px solid var(--hairline);
   border-radius: var(--radius-md);
   background: var(--surface);
@@ -151,7 +156,7 @@
 }
 
 .submit {
-  margin-top: 6px;
+  margin-top: 4px;
   appearance: none;
   height: 44px;
   border: none;
@@ -189,20 +194,12 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 480px) {
   .dialog {
     width: min(100%, calc(100vw - 24px));
-    padding: 28px 20px 24px;
-    min-height: 0;
-  }
-
-  .layout {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-
-  .copy {
-    padding-right: 0;
+    aspect-ratio: auto;
+    max-height: min(92dvh, 520px);
+    padding: 28px 20px 22px;
   }
 
   .title {
