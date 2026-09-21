@@ -2,7 +2,8 @@ import { createHmac, timingSafeEqual } from "crypto";
 import { cookies } from "next/headers";
 
 export const ACCESS_COOKIE = "book_star_access";
-export const ACCESS_MAX_AGE_SEC = 60 * 60 * 24 * 30; // 30 days
+/** Short-lived: only covers the immediate read redirect after verify. */
+export const ACCESS_MAX_AGE_SEC = 60 * 5; // 5 minutes
 
 function getSecret(): string {
   const secret =

@@ -13,8 +13,9 @@ type AccessState = {
   ready: boolean;
   unlocked: boolean;
   username: string | null;
-  refresh: () => Promise<void>;
   markUnlocked: (username: string) => void;
+  /** Re-verify stored username and refresh the short-lived read cookie. */
+  ensureAccessCookie: () => Promise<boolean>;
 };
 
 const AccessContext = createContext<AccessState | null>(null);
@@ -24,26 +25,29 @@ export function StarAccessProvider({ children }: { children: ReactNode }) {
   const [unlocked, setUnlocked] = useState(false);
   const [username, setUsername] = useState<string | null>(null);
 
-  const refresh = useCallback(async () => {
-    try {
-      const res = await fetch("/api/access/status", { cache: "no-store" });
-      const data = (await res.json()) as {
-        unlocked?: boolean;
-        username?: string;
-      };
-      setUnlocked(Boolean(data.unlocked));
-      setUsername(data.username ?? null);
-    } catch {
-      setUnlocked(false);
-      setUsername(null);
-    } finally {
-      setReady(true);
-    }
-  }, []);
-
+  // Every full page load starts locked and wipes any leftover unlock cookie.
   useEffect(() => {
-    void refresh();
-  }, [refresh]);
+    let cancelled = false;
+    (async () => {
+      try {
+        await fetch("/api/access/clear", {
+          method: "POST",
+          cache: "no-store",
+        });
+      } catch {
+        // Ignore — UI still starts locked.
+      } finally {
+        if (!cancelled) {
+          setUnlocked(false);
+          setUsername(null);
+          setReady(true);
+        }
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   const markUnlocked = useCallback((name: string) => {
     setUnlocked(true);
@@ -51,9 +55,24 @@ export function StarAccessProvider({ children }: { children: ReactNode }) {
     setReady(true);
   }, []);
 
+  const ensureAccessCookie = useCallback(async () => {
+    if (!username) return false;
+    try {
+      const res = await fetch("/api/access/verify", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ username }),
+      });
+      const data = (await res.json()) as { ok?: boolean };
+      return Boolean(res.ok && data.ok);
+    } catch {
+      return false;
+    }
+  }, [username]);
+
   return (
     <AccessContext.Provider
-      value={{ ready, unlocked, username, refresh, markUnlocked }}
+      value={{ ready, unlocked, username, markUnlocked, ensureAccessCookie }}
     >
       {children}
     </AccessContext.Provider>

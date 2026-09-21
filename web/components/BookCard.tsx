@@ -29,12 +29,21 @@ export function BookCard({ book }: Props) {
     LANGUAGES.find((l) => l.id === book.language)?.label ?? book.language;
   const level = categoryLabel(book.category);
   const coverSrc = coverSrcForBook(book);
-  const { ready, unlocked } = useStarAccess();
+  const { ready, unlocked, ensureAccessCookie } = useStarAccess();
   const [gateOpen, setGateOpen] = useState(false);
+  const [opening, setOpening] = useState(false);
 
-  function onReadClick() {
+  async function onReadClick() {
     if (unlocked) {
-      openBook(book.id);
+      setOpening(true);
+      const ok = await ensureAccessCookie();
+      setOpening(false);
+      if (ok) {
+        openBook(book.id);
+        return;
+      }
+      // Star may have been removed — ask again.
+      setGateOpen(true);
       return;
     }
     setGateOpen(true);
@@ -61,11 +70,11 @@ export function BookCard({ book }: Props) {
       <button
         type="button"
         className={styles.read}
-        onClick={onReadClick}
-        disabled={!ready}
+        onClick={() => void onReadClick()}
+        disabled={!ready || opening}
         aria-haspopup="dialog"
       >
-        {ready ? "Read book" : "Checking access…"}
+        {!ready ? "Loading…" : opening ? "Opening…" : "Read book"}
       </button>
 
       <StarGateModal
