@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="8" fill="#000000"/>
-  <path d="M3.75 8.25C3.75 8.25 7.75 5.25 12.5 5.25c2.15 0 3.2 1.55 3.5 3.1.3-1.55 1.35-3.1 3.5-3.1 4.75 0 8.75 3 8.75 3v17.25s-4 3.25-8.75 3.25c-2.15 0-3.2-1.55-3.5-3.2-.3 1.65-1.35 3.2-3.5 3.2-4.75 0-8.75-3.25-8.75-3.25V8.25Z" stroke="#ffffff" stroke-width="1.15" stroke-linejoin="round" opacity="0.4"/>
-  <path d="M4.75 8.75C4.75 8.75 8.4 6.15 12.55 6.15c1.95 0 2.95 1.4 3.3 2.9.08.3.2.45.35.45h.1c.15 0 .27-.15.35-.45.35-1.5 1.35-2.9 3.3-2.9 4.15 0 7.8 2.6 7.8 2.6v14.7s-3.65 2.7-7.8 2.7c-1.95 0-2.95-1.4-3.3-2.95-.08-.3-.2-.45-.35-.45h-.1c-.15 0-.27.15-.35.45-.35 1.55-1.35 2.95-3.3 2.95-4.15 0-7.8-2.7-7.8-2.7V8.75Z" fill="#ffffff"/>
-  <path d="M16.05 8.85v14.5" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M5.4 7.85c2.35-.7 4.85-.85 7.05.15" stroke="#000000" stroke-width="0.9" stroke-linecap="round" opacity="0.4"/>
-  <path d="M5.55 8.7c2.15-.55 4.4-.65 6.4.1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" opacity="0.25"/>
-  <path d="M26.6 7.85c-2.35-.7-4.85-.85-7.05.15" stroke="#000000" stroke-width="0.9" stroke-linecap="round" opacity="0.4"/>
-  <path d="M26.45 8.7c-2.15-.55-4.4-.65-6.4.1" stroke="#000000" stroke-width="0.75" stroke-linecap="round" opacity="0.25"/>
-  <path d="M5.45 22.35c2.5.65 5.05.95 7.35.35 1.05-.3 1.95-.85 2.8-1.6" stroke="#000000" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
-  <path d="M5.55 23.3c2.6.7 5.3 1.05 7.7.4 1-.3 1.9-.85 2.7-1.55" stroke="#000000" stroke-width="0.75" stroke-linecap="round" opacity="0.22"/>
-  <path d="M26.55 22.35c-2.5.65-5.05.95-7.35.35-1.05-.3-1.95-.85-2.8-1.6" stroke="#000000" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
-  <path d="M26.45 23.3c-2.6.7-5.3 1.05-7.7.4-1-.3-1.9-.85-2.7-1.55" stroke="#000000" stroke-width="0.75" stroke-linecap="round" opacity="0.22"/>
-  <path d="M12.4 11.9 8.95 15.95l3.45 4.05" stroke="#000000" stroke-width="2.35" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M19.6 11.9 23.05 15.95l-3.45 4.05" stroke="#000000" stroke-width="2.35" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#000000"/>
+  <path d="M8 16.5C8 16.5 14.5 10 24 10c4.2 0 6.4 3.2 8 6.5C33.6 13.2 35.8 10 40 10c9.5 0 16 6.5 16 6.5v28s-6.5 7-16 7c-4.2 0-6.4-3.3-8-6.5C30.4 48.2 28.2 51.5 24 51.5c-9.5 0-16-7-16-7v-28Z" stroke="#ffffff" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M32 16.5v28.5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M28.5 51.2c1.3 2.2 5.7 2.2 7 0" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M10.5 19.2c4.3-3.8 9.3-5.6 13.7-5.6 3 0 5.2 1.8 6.6 4.2" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M11.2 21.6c3.8-3.2 8.2-4.8 12.4-4.8 2.8 0 4.9 1.5 6.2 3.6" stroke="#ffffff" stroke-width="1.35" stroke-linecap="round" opacity="0.55"/>
+  <path d="M53.5 19.2c-4.3-3.8-9.3-5.6-13.7-5.6-3 0-5.2 1.8-6.6 4.2" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M52.8 21.6c-3.8-3.2-8.2-4.8-12.4-4.8-2.8 0-4.9 1.5-6.2 3.6" stroke="#ffffff" stroke-width="1.35" stroke-linecap="round" opacity="0.55"/>
+  <path d="M10.5 42c4.5 4 9.3 6 13.7 6 3 0 5.2-1.9 6.6-4.4" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M11.2 39.6c4 3.6 8.4 5.4 12.6 5.4 2.8 0 4.9-1.6 6.2-3.8" stroke="#ffffff" stroke-width="1.35" stroke-linecap="round" opacity="0.55"/>
+  <path d="M53.5 42c-4.5 4-9.3 6-13.7 6-3 0-5.2-1.9-6.6-4.4" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M52.8 39.6c-4 3.6-8.4 5.4-12.6 5.4-2.8 0-4.9-1.6-6.2-3.8" stroke="#ffffff" stroke-width="1.35" stroke-linecap="round" opacity="0.55"/>
+  <path d="M26.2 23.2 17.4 32l8.8 8.8" stroke="#ffffff" stroke-width="5.2" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M37.8 23.2 46.6 32l-8.8 8.8" stroke="#ffffff" stroke-width="5.2" stroke-linecap="square" stroke-linejoin="miter"/>
 </svg>
