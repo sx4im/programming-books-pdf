@@ -57,5 +57,6 @@ Clicking **Read book** opens a modal: star
 enter your GitHub username, and the server checks the stargazer list.
 
 - Drive URLs are **not** sent to the browser until unlock succeeds.
-- Unlock sets an **httpOnly** signed cookie; `/api/books/[id]/read` redirects only when that cookie is valid.
+- Unlock is **per page visit**: a refresh clears access and asks for the username again.
+- A short-lived **httpOnly** cookie is set only so `/api/books/[id]/read` can redirect after verify.
 - Inspecting the page or forging a client flag cannot reveal book links.
