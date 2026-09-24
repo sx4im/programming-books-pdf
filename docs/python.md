@@ -14,6 +14,7 @@ This page lists curated books and learning resources for this language, organize
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
+- [**Grokking Algorithms**](https://www.manning.com/books/grokking-algorithms-second-edition) (*2nd Edition*)
 - [**Python for Everyone**](https://drive.google.com/file/d/1uQAJEhukgO4JmJGMJpKM_jqxNLX7NM8_/view?usp=sharing) (*3rd Edition*)
 - [**Python Crash Course**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
 - [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1NbLN0H0_nait6xOildlg0RSehU5PXzDP/view?usp=sharing) (*3rd Edition*)
@@ -25,6 +26,7 @@ These books are perfect if you are new to programming or new to Python. They req
 
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
+- [**The Pragmatic Programmer**](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (*20th Anniversary Edition*)
 - [**The Quick Python Book**](https://drive.google.com/file/d/1Iqq_s71shEtgb5j7Y0g2-7gFU-UMtjiH/view?usp=sharing) (*4th Edition*)
 - [**Effective Python: 125 Specific Ways to Write Better Python**](https://drive.google.com/file/d/104VUEoNCp00NPc4-3h3QtDUb7xIM9Qrb/view?usp=sharing) (*3rd Edition*)
 - [**Refactoring: Improving the Design of Existing Code**](https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing) (*2nd Edition*)
@@ -76,6 +78,10 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - [**Natural Language Processing with Transformers**](https://drive.google.com/file/d/1a3pv09qyxMtJxSnfZwSOrqXf8zt4dQO8/view?usp=sharing) (*Revised Edition*)
 - [**Build a Large Language Model (From Scratch)**](https://drive.google.com/file/d/1qgnbndzOPoViT4eJ7gU9bWkTkF1CjN0O/view?usp=sharing) (*1st Edition*)
 - [**LLM Engineer's Handbook**](https://drive.google.com/file/d/1Yfzv4pICwMugTm11xPleiLwgR3TPePLv/view?usp=sharing) (*1st Edition*)
+- [**AI Engineering: Building Applications with Foundation Models**](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302) (*1st Edition — 2025*)
+- [**The Hundred-Page Language Models Book**](https://www.goodreads.com/book/show/211128192-the-hundred-page-language-models-book) (*1st Edition*)
+- [**The Hundred-Page Machine Learning Book**](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X) (*1st Edition*)
+- [**Prompt Engineering for LLMs**](https://www.amazon.com/Prompt-Engineering-LLMs-Large-Language/dp/1098153436) (*1st Edition*)
 - [**Generative AI with Python and PyTorch**](https://drive.google.com/file/d/1twRF-j2ktalTCE89ThfI51eHzp64kf6w/view?usp=sharing) (*2nd Edition*)
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
 - [**Django for Professional**](https://drive.google.com/file/d/1IYtzXesvaaMi2twWpSQlC1Bi0Wdi03YI/view?usp=sharing) (*4.0 Edition*)

@@ -17,6 +17,13 @@ These books provide a solid foundation in navigating the command line and writin
 - [**The Linux Command Line**](https://linuxcommand.org/tlcl.php) (*2nd Edition*)
 - [**Bash Guide for Beginners**](https://tldp.org/LDP/Bash-Beginners-Guide/html/) (*Online Resource*)
 
+## For Intermediate Developers
+
+Once you can write basic scripts, these books help you write safer, more idiomatic shell tooling.
+
+- [**bash Cookbook**](https://www.amazon.com/bash-Cookbook-Solutions-Examples-Shell/dp/1492090119) (*2nd Edition*)
+- [**Classic Shell Scripting**](https://www.amazon.com/Classic-Shell-Scripting-Hidden-Commands/dp/0596005954) (*1st Edition*)
+
 ## For Advanced Programmers
 
 Deep dives into advanced scripting techniques, performance, and command-line data processing.

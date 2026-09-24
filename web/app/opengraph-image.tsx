@@ -29,7 +29,7 @@ export default function OpenGraphImage() {
             Ultimate Programming Books
           </div>
           <div style={{ display: "flex", fontSize: 32, opacity: 0.9, maxWidth: 900, lineHeight: 1.35 }}>
-            634+ curated programming books across 32 languages — beginner to advanced
+            670+ curated programming books across 32 languages — beginner to advanced
           </div>
         </div>
         <div style={{ display: "flex", fontSize: 24, opacity: 0.7 }}>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     template: "%s · Ultimate Programming Books",
   },
   description:
-    "Browse 634+ curated programming books for Python, JavaScript, Java, Rust, Go, and more. Search by title, filter by skill level, and read via public Drive links.",
+    "Browse 670+ curated programming books for Python, JavaScript, Java, Rust, Go, and more. Search by title, filter by skill level, and read via public Drive links.",
   keywords: [
     "programming books",
     "programming ebooks",
