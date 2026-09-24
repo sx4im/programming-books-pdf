@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     "developer learning resources",
   ],
   authors: [{ name: "Ultimate Programming Books" }],
+  creator: "Ultimate Programming Books",
   openGraph: {
     type: "website",
     url: siteUrl,
@@ -32,6 +33,7 @@ export const metadata: Metadata = {
     description:
       "Searchable library of programming books by language and skill level. Python, JavaScript, Java, Rust, Go, and more.",
     siteName: "Ultimate Programming Books",
+    locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
@@ -42,6 +44,38 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteUrl,
   },
+  category: "education",
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": `${siteUrl}/#website`,
+      url: siteUrl,
+      name: "Ultimate Programming Books",
+      description:
+        "Curated programming books for 32 languages with a searchable web library.",
+      publisher: { "@id": `${siteUrl}/#organization` },
+    },
+    {
+      "@type": "Organization",
+      "@id": `${siteUrl}/#organization`,
+      name: "Ultimate Programming Books",
+      url: siteUrl,
+      sameAs: ["https://github.com/sx4im/programming-books-pdf"],
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": `${siteUrl}/library#collection`,
+      url: `${siteUrl}/library`,
+      name: "Programming books library",
+      description:
+        "Browse programming books by language, filter by skill level, and search by title.",
+      isPartOf: { "@id": `${siteUrl}/#website` },
+    },
+  ],
 };
 
 export default function RootLayout({
@@ -51,7 +85,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${GeistSans.variable} ${GeistMono.variable}`}>
-      <body>{children}</body>
+      <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        {children}
+      </body>
     </html>
   );
 }

@@ -1,11 +1,11 @@
 # Library web app
 
-Next.js dashboard for **Ultimate Programming Books**.
+Next.js dashboard for **Ultimate Programming Books** — the searchable UI over the curated programming-book catalog.
 
 **Live:** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)  
 **Library:** [https://freecodebooks.vercel.app/library](https://freecodebooks.vercel.app/library)
 
-All dashboard / Vercel config lives in this folder (`web/`).
+All dashboard / Vercel config lives in this folder (`web/`). Repository landing page: [../README.md](../README.md).
 
 ## Pages
 
@@ -13,6 +13,9 @@ All dashboard / Vercel config lives in this folder (`web/`).
 | --- | --- |
 | `/` | Home — language shelves (pick a language here) |
 | `/library?lang=python` | Full library for that language — search, level filters, book details |
+| `/robots.txt` | Crawler rules (generated) |
+| `/sitemap.xml` | Sitemap for home, library, and language shelves (generated) |
+| `/opengraph-image` | Social / Open Graph preview image (generated) |
 
 There is **no language chip bar** on `/library`. Change language via **← Change language** (back to home shelves).
 
@@ -33,6 +36,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | `npm run dev` | Dev server |
 | `npm run build` | Production build |
 | `npm run start` | Serve production build |
+| `npm run lint` | ESLint |
 | `npm run import:docs` | Re-seed `data/books.json` from `../docs/*.md` |
 | `npm run validate:links` | Reject placeholder hosts (`example.com`, etc.); require Drive/approved URLs |
 

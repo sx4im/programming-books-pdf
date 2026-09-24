@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Ultimate Programming Books social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1419"/>
+      <stop offset="55%" stop-color="#1a2332"/>
+      <stop offset="100%" stop-color="#243044"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <text x="72" y="100" fill="#9aa7b5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="28">freecodebooks.vercel.app</text>
+  <text x="72" y="280" fill="#f4f6f8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="700">Ultimate Programming Books</text>
+  <text x="72" y="350" fill="#d7dde5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30">634+ curated programming books across 32 languages</text>
+  <text x="72" y="400" fill="#d7dde5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30">Beginner ’ advanced paths · searchable web library</text>
+  <text x="72" y="560" fill="#9aa7b5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="24">github.com/sx4im/programming-books-pdf</text>
+</svg>
