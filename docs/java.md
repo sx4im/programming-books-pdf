@@ -35,11 +35,17 @@ Once you understand the syntax, these books will teach you how to write robust, 
 - [**Core Java Volume II — Advanced Features**](https://drive.google.com/file/d/1UBeNIyG0ax3F0lGFwHtNpyqO9iXDgVyE/view?usp=sharing) (*13th Edition*)
 - [**The Well-Grounded Java Developer**](https://drive.google.com/file/d/1pLhjwG9rYLzr3PHwaCREk_Scyrn483-y/view?usp=drive_link) (*2nd Edition*)
 - [**100 Java Mistakes and How to Avoid Them**](https://drive.google.com/file/d/1QoNRXcqkdB-Yi9X4ZK0Qsu6H19d0tknq/view?usp=sharing) (*2023 Edition*)
+- [**A Philosophy of Software Design**](https://www.amazon.com/Philosophy-Software-Design-2nd-Edition/dp/173210221X) (*2nd Edition*)
+- [**The Missing README: A Guide for the New Software Engineer**](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838) (*1st Edition*)
 
 ## For Advanced Programmers
 
 These books tackle complex topics like concurrency, performance, and application architecture.
 - [**Test-Driven Development: By Example**](https://drive.google.com/file/d/1zqmpNXHIthz6HqqEG6162Oa1rZLpftLV/view?usp=sharing) (*1st Edition*)
+- [**Code Complete**](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) (*2nd Edition*)
+- [**Working Effectively with Legacy Code**](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) (*1st Edition*)
+- [**Modern Software Engineering**](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914) (*1st Edition*)
+- [**Continuous Delivery**](https://www.amazon.com/Continuous-Delivery-Reliable-Systems-Deployment/dp/0321601912) (*1st Edition*)
 - [**Effective Unit Testing**](https://drive.google.com/file/d/15eohtjlEiShueNmnNiJX9FWXhUXm4IhU/view?usp=sharing) (*First & only edition*)
 - [**Oracle Certified Professional Java SE 21 Developer Study**](https://drive.google.com/file/d/18TQlpzzIgXYg0Y6jELXUCFAvmjjk5tDw/view?usp=sharing) (*Official Modern Reference*)
 - [**Patterns of Enterprise Application Architecture (PEAA)**](https://drive.google.com/file/d/1yvaVkOGWxvZXTbgWLvQXfU3L8mxTUF-D/view?usp=sharing) (*First & only edition*)
@@ -62,6 +68,23 @@ Focus on applying Java to a specific professional domain, particularly with the 
 - [**Optimizing Cloud Native Java**](https://drive.google.com/file/d/1Amh1f_WCTCFIdiD9P9xaPHKgEzC6X1SQ/view?usp=sharing) (*2nd Edition*)
 - [**Spring Security in Action**](https://drive.google.com/file/d/11I4zGm0Fye0cu_Elsg7iCacab_R5JkOx/view?usp=sharing) (*2nd Edition*)
 - [**Designing Data-Intensive Applications**](https://drive.google.com/file/d/1T1dffFshpson2EsHIxfoGuYdb4BJ6vpg/view?usp=sharing) (*2nd Edition*)
+- [**System Design Interview – An Insider's Guide**](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) (*Volume 1*)
+- [**System Design Interview – An Insider's Guide: Volume 2**](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/B08QJ8JSWH) (*Volume 2*)
+- [**Fundamentals of Software Architecture**](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) (*1st Edition*)
+- [**Software Architecture: The Hard Parts**](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894) (*1st Edition*)
+- [**Learning Domain-Driven Design**](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning/dp/1098100131) (*1st Edition*)
+- [**Building Microservices**](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034022) (*2nd Edition*)
+- [**Microservices Patterns**](https://www.manning.com/books/microservices-patterns) (*1st Edition*)
+- [**Kubernetes in Action**](https://www.manning.com/books/kubernetes-in-action-second-edition) (*2nd Edition*)
+- [**Terraform: Up and Running**](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747) (*3rd Edition*)
+- [**Site Reliability Engineering**](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X) (*1st Edition*)
+- [**The DevOps Handbook**](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404) (*2nd Edition*)
+- [**Observability Engineering**](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449) (*1st Edition*)
+- [**The Phoenix Project**](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) (*5th Anniversary Edition*)
+- [**The Staff Engineer's Path**](https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731) (*1st Edition*)
+- [**The Manager's Path**](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) (*1st Edition*)
+- [**The Software Engineer's Guidebook**](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-senior/dp/908338182X) (*1st Edition*)
+- [**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (*6th Edition*)
 - [**Test-Driven Java Development**](https://drive.google.com/file/d/1ofKqwv0JNkvcuB-1uatTNKGnQ7__wSfJ/view?usp=sharing) (*2nd Edition*)
 - [**Java Persistence with Spring Data and Hibernate**](https://drive.google.com/file/d/1b7BBQI2S59yL6ZKNM4zQTHN_cSCLuf0x/view?usp=sharing) (*2023 Edition*)
 - [**Building Modern Web Apps with Spring Boot and Vaadin**](https://pages.vaadin.com/en/build-a-modern-web-app-with-spring-boot-vaadin-pdf) (*2025 Guide*)
@@ -75,6 +98,8 @@ Focus on applying Java to a specific professional domain, particularly with the 
 
 A massive, detailed guide that is best used as a companion throughout your learning journey.
 
+- [**Introduction to Algorithms**](https://www.amazon.com/Introduction-Algorithms-4th-MIT-Press/dp/026204630X) (*4th Edition*)
+- [**The Mythical Man-Month**](https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering/dp/0201835959) (*Anniversary Edition*)
 - [**The Art of Multiprocessor Programming**](https://drive.google.com/file/d/168IKLmFzRpiaVvRA5lHXvTMXc8g_rYTf/view?usp=sharing) (*2nd Edition*)
 - [**Modern Concurrency in Java: Virtual Threads, Structured Concurrency, and Beyond**](https://drive.google.com/file/d/1yHaxb6huZpRhDbe5bywR8VIwNziu1n4k/view?usp=sharing) (*2025 Release*)
 - [**Java Structured Concurrency**](https://www.packtpub.com/en-us/product/java-structured-concurrency-9781806105038) (*2025 Edition*)

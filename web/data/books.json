@@ -1,5 +1,15 @@
 [
   {
+    "id": "python-grokking-algorithms",
+    "title": "Grokking Algorithms",
+    "author": "Aditya Y. Bhargava",
+    "language": "python",
+    "category": "beginner",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.manning.com/books/grokking-algorithms-second-edition",
+    "coverImage": ""
+  },
+  {
     "id": "python-python-for-everyone",
     "title": "Python for Everyone",
     "author": "",
@@ -58,6 +68,16 @@
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/18DYbGGuxNqtcXHXpncT2dE-I6N1czoKe/view?usp=sharing",
     "coverImage": "https://covers.openlibrary.org/b/id/8510257-L.jpg"
+  },
+  {
+    "id": "python-the-pragmatic-programmer",
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas & Andrew Hunt",
+    "language": "python",
+    "category": "intermediate",
+    "edition": "20th Anniversary Edition",
+    "driveUrl": "https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/",
+    "coverImage": ""
   },
   {
     "id": "python-the-quick-python-book",
@@ -468,6 +488,46 @@
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1Yfzv4pICwMugTm11xPleiLwgR3TPePLv/view?usp=sharing",
     "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1721757928i/216260213.jpg"
+  },
+  {
+    "id": "python-ai-engineering-building-applications-with-foundation-models",
+    "title": "AI Engineering: Building Applications with Foundation Models",
+    "author": "Chip Huyen",
+    "language": "python",
+    "category": "specialized",
+    "edition": "1st Edition \u2014 2025",
+    "driveUrl": "https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302",
+    "coverImage": ""
+  },
+  {
+    "id": "python-the-hundred-page-language-models-book",
+    "title": "The Hundred-Page Language Models Book",
+    "author": "Andriy Burkov",
+    "language": "python",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.goodreads.com/book/show/211128192-the-hundred-page-language-models-book",
+    "coverImage": ""
+  },
+  {
+    "id": "python-the-hundred-page-machine-learning-book",
+    "title": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "language": "python",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X",
+    "coverImage": ""
+  },
+  {
+    "id": "python-prompt-engineering-for-llms",
+    "title": "Prompt Engineering for LLMs",
+    "author": "John Berryman & Albert Ziegler",
+    "language": "python",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Prompt-Engineering-LLMs-Large-Language/dp/1098153436",
+    "coverImage": ""
   },
   {
     "id": "python-generative-ai-with-python-and-pytorch",
@@ -1041,7 +1101,7 @@
   },
   {
     "id": "javascript-javascript-allong",
-    "title": "JavaScript Allongé",
+    "title": "JavaScript Allong\u00e9",
     "author": "",
     "language": "javascript",
     "category": "references",
@@ -1201,7 +1261,7 @@
   },
   {
     "id": "java-core-java-volume-i-fundamentals",
-    "title": "Core Java Volume I — Fundamentals",
+    "title": "Core Java Volume I \u2014 Fundamentals",
     "author": "",
     "language": "java",
     "category": "intermediate",
@@ -1211,7 +1271,7 @@
   },
   {
     "id": "java-core-java-volume-ii-advanced-features",
-    "title": "Core Java Volume II — Advanced Features",
+    "title": "Core Java Volume II \u2014 Advanced Features",
     "author": "",
     "language": "java",
     "category": "intermediate",
@@ -1240,6 +1300,26 @@
     "coverImage": "https://images.manning.com/360/480/resize/book/9/9b7d008-5a11-41d3-85b4-421628c75405/Valeev-HI.png"
   },
   {
+    "id": "java-a-philosophy-of-software-design",
+    "title": "A Philosophy of Software Design",
+    "author": "John Ousterhout",
+    "language": "java",
+    "category": "intermediate",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.amazon.com/Philosophy-Software-Design-2nd-Edition/dp/173210221X",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-missing-readme-a-guide-for-the-new-software-engineer",
+    "title": "The Missing README: A Guide for the New Software Engineer",
+    "author": "Chris Riccomini & Dmitriy Ryaboy",
+    "language": "java",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838",
+    "coverImage": ""
+  },
+  {
     "id": "java-test-driven-development-by-example",
     "title": "Test-Driven Development: By Example",
     "author": "",
@@ -1248,6 +1328,46 @@
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1zqmpNXHIthz6HqqEG6162Oa1rZLpftLV/view?usp=sharing",
     "coverImage": "https://covers.openlibrary.org/b/id/8508910-L.jpg"
+  },
+  {
+    "id": "java-code-complete",
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "language": "java",
+    "category": "advanced",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670",
+    "coverImage": ""
+  },
+  {
+    "id": "java-working-effectively-with-legacy-code",
+    "title": "Working Effectively with Legacy Code",
+    "author": "Michael Feathers",
+    "language": "java",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052",
+    "coverImage": ""
+  },
+  {
+    "id": "java-modern-software-engineering",
+    "title": "Modern Software Engineering",
+    "author": "David Farley",
+    "language": "java",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914",
+    "coverImage": ""
+  },
+  {
+    "id": "java-continuous-delivery",
+    "title": "Continuous Delivery",
+    "author": "Jez Humble & David Farley",
+    "language": "java",
+    "category": "advanced",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Continuous-Delivery-Reliable-Systems-Deployment/dp/0321601912",
+    "coverImage": ""
   },
   {
     "id": "java-effective-unit-testing",
@@ -1420,6 +1540,176 @@
     "coverImage": "https://covers.openlibrary.org/b/id/8434671-L.jpg"
   },
   {
+    "id": "java-system-design-interview-an-insider-s-guide",
+    "title": "System Design Interview \u2013 An Insider's Guide",
+    "author": "Alex Xu",
+    "language": "java",
+    "category": "specialized",
+    "edition": "Volume 1",
+    "driveUrl": "https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF",
+    "coverImage": ""
+  },
+  {
+    "id": "java-system-design-interview-an-insider-s-guide-volume-2",
+    "title": "System Design Interview \u2013 An Insider's Guide: Volume 2",
+    "author": "Alex Xu & Sahn Lam",
+    "language": "java",
+    "category": "specialized",
+    "edition": "Volume 2",
+    "driveUrl": "https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/B08QJ8JSWH",
+    "coverImage": ""
+  },
+  {
+    "id": "java-fundamentals-of-software-architecture",
+    "title": "Fundamentals of Software Architecture",
+    "author": "Mark Richards & Neal Ford",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451",
+    "coverImage": ""
+  },
+  {
+    "id": "java-software-architecture-the-hard-parts",
+    "title": "Software Architecture: The Hard Parts",
+    "author": "Neal Ford, Mark Richards, Pramod Sadalage & Zhamak Dehghani",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894",
+    "coverImage": ""
+  },
+  {
+    "id": "java-learning-domain-driven-design",
+    "title": "Learning Domain-Driven Design",
+    "author": "Vladik Khononov",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Learning-Domain-Driven-Design-Aligning/dp/1098100131",
+    "coverImage": ""
+  },
+  {
+    "id": "java-building-microservices",
+    "title": "Building Microservices",
+    "author": "Sam Newman",
+    "language": "java",
+    "category": "specialized",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034022",
+    "coverImage": ""
+  },
+  {
+    "id": "java-microservices-patterns",
+    "title": "Microservices Patterns",
+    "author": "Chris Richardson",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.manning.com/books/microservices-patterns",
+    "coverImage": ""
+  },
+  {
+    "id": "java-kubernetes-in-action",
+    "title": "Kubernetes in Action",
+    "author": "Marko Luk\u0161a",
+    "language": "java",
+    "category": "specialized",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.manning.com/books/kubernetes-in-action-second-edition",
+    "coverImage": ""
+  },
+  {
+    "id": "java-terraform-up-and-running",
+    "title": "Terraform: Up and Running",
+    "author": "Yevgeniy Brikman",
+    "language": "java",
+    "category": "specialized",
+    "edition": "3rd Edition",
+    "driveUrl": "https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747",
+    "coverImage": ""
+  },
+  {
+    "id": "java-site-reliability-engineering",
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer et al. (Google)",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-devops-handbook",
+    "title": "The DevOps Handbook",
+    "author": "Gene Kim, Jez Humble, Patrick Debois & John Willis",
+    "language": "java",
+    "category": "specialized",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404",
+    "coverImage": ""
+  },
+  {
+    "id": "java-observability-engineering",
+    "title": "Observability Engineering",
+    "author": "Charity Majors, Liz Fong-Jones & George Miranda",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-phoenix-project",
+    "title": "The Phoenix Project",
+    "author": "Gene Kim, Kevin Behr & George Spafford",
+    "language": "java",
+    "category": "specialized",
+    "edition": "5th Anniversary Edition",
+    "driveUrl": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-staff-engineer-s-path",
+    "title": "The Staff Engineer's Path",
+    "author": "Tanya Reilly",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-manager-s-path",
+    "title": "The Manager's Path",
+    "author": "Camille Fournier",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-software-engineer-s-guidebook",
+    "title": "The Software Engineer's Guidebook",
+    "author": "Gergely Orosz",
+    "language": "java",
+    "category": "specialized",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Software-Engineers-Guidebook-Navigating-senior/dp/908338182X",
+    "coverImage": ""
+  },
+  {
+    "id": "java-cracking-the-coding-interview",
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "language": "java",
+    "category": "specialized",
+    "edition": "6th Edition",
+    "driveUrl": "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850",
+    "coverImage": ""
+  },
+  {
     "id": "java-test-driven-java-development",
     "title": "Test-Driven Java Development",
     "author": "",
@@ -1500,6 +1790,26 @@
     "coverImage": "https://images.manning.com/360/480/resize/book/f/735179a-e5b6-40d7-a497-bfe187c92080/massol.png"
   },
   {
+    "id": "java-introduction-to-algorithms",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen et al.",
+    "language": "java",
+    "category": "references",
+    "edition": "4th Edition",
+    "driveUrl": "https://www.amazon.com/Introduction-Algorithms-4th-MIT-Press/dp/026204630X",
+    "coverImage": ""
+  },
+  {
+    "id": "java-the-mythical-man-month",
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "language": "java",
+    "category": "references",
+    "edition": "Anniversary Edition",
+    "driveUrl": "https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering/dp/0201835959",
+    "coverImage": ""
+  },
+  {
     "id": "java-the-art-of-multiprocessor-programming",
     "title": "The Art of Multiprocessor Programming",
     "author": "",
@@ -1575,7 +1885,7 @@
     "author": "",
     "language": "java",
     "category": "references",
-    "edition": "4th Edition",
+    "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781491938690-L.jpg"
   },
@@ -1601,7 +1911,7 @@
   },
   {
     "id": "csharp-c-13-and-net-9-modern-cross-platform-development-fundamentals",
-    "title": "C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals",
+    "title": "C# 13 and .NET 9 \u2013 Modern Cross-Platform Development Fundamentals",
     "author": "",
     "language": "csharp",
     "category": "beginner",
@@ -1611,7 +1921,7 @@
   },
   {
     "id": "csharp-c-14-and-net-10-modern-cross-platform-development-fundamentals",
-    "title": "C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals",
+    "title": "C# 14 and .NET 10 \u2013 Modern Cross-Platform Development Fundamentals",
     "author": "",
     "language": "csharp",
     "category": "beginner",
@@ -2320,6 +2630,16 @@
     "coverImage": "https://covers.openlibrary.org/b/id/193724-L.jpg"
   },
   {
+    "id": "cpp-effective-modern-c",
+    "title": "Effective Modern C++",
+    "author": "Scott Meyers",
+    "language": "cpp",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996",
+    "coverImage": ""
+  },
+  {
     "id": "cpp-professional-c",
     "title": "Professional C++",
     "author": "",
@@ -2548,6 +2868,26 @@
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1gGTqSjyMasbC5AtV6qPf8-upEVGNh3L-/view?usp=sharing",
     "coverImage": "https://covers.openlibrary.org/b/id/13250283-L.jpg"
+  },
+  {
+    "id": "typescript-total-typescript",
+    "title": "Total TypeScript",
+    "author": "Matt Pocock with Taylor Bell",
+    "language": "typescript",
+    "category": "intermediate",
+    "edition": "1st Edition \u2014 2026",
+    "driveUrl": "https://nostarch.com/total-typescript",
+    "coverImage": ""
+  },
+  {
+    "id": "typescript-typescript-cookbook",
+    "title": "TypeScript Cookbook",
+    "author": "Stefan Baumgartner",
+    "language": "typescript",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/TypeScript-Cookbook-Recipes-Level-Programming/dp/1098136659",
+    "coverImage": ""
   },
   {
     "id": "typescript-tackling-typescript",
@@ -3521,7 +3861,7 @@
   },
   {
     "id": "sql-joe-celko-s-sql-puzzles-and-answers",
-    "title": "Joe Celko’s SQL Puzzles and Answers",
+    "title": "Joe Celko\u2019s SQL Puzzles and Answers",
     "author": "",
     "language": "sql",
     "category": "intermediate",
@@ -4580,6 +4920,26 @@
     "coverImage": "/covers/reference.svg"
   },
   {
+    "id": "shell-bash-cookbook",
+    "title": "bash Cookbook",
+    "author": "Carl Albing & JP Vossen",
+    "language": "shell",
+    "category": "intermediate",
+    "edition": "2nd Edition",
+    "driveUrl": "https://www.amazon.com/bash-Cookbook-Solutions-Examples-Shell/dp/1492090119",
+    "coverImage": ""
+  },
+  {
+    "id": "shell-classic-shell-scripting",
+    "title": "Classic Shell Scripting",
+    "author": "Arnold Robbins & Nelson H. F. Beebe",
+    "language": "shell",
+    "category": "intermediate",
+    "edition": "1st Edition",
+    "driveUrl": "https://www.amazon.com/Classic-Shell-Scripting-Hidden-Commands/dp/0596005954",
+    "coverImage": ""
+  },
+  {
     "id": "shell-advanced-bash-scripting-guide",
     "title": "Advanced Bash-Scripting Guide",
     "author": "",
@@ -4611,7 +4971,7 @@
   },
   {
     "id": "shell-greg-s-wiki-bashguide",
-    "title": "Greg's Wiki — BashGuide",
+    "title": "Greg's Wiki \u2014 BashGuide",
     "author": "",
     "language": "shell",
     "category": "references",
@@ -4951,7 +5311,7 @@
   },
   {
     "id": "julia-julia-manual-getting-started",
-    "title": "Julia Manual — Getting Started",
+    "title": "Julia Manual \u2014 Getting Started",
     "author": "",
     "language": "julia",
     "category": "references",
@@ -5091,7 +5451,7 @@
   },
   {
     "id": "htmlcss-mdn-web-docs-html",
-    "title": "MDN Web Docs — HTML",
+    "title": "MDN Web Docs \u2014 HTML",
     "author": "",
     "language": "htmlcss",
     "category": "references",
@@ -5101,7 +5461,7 @@
   },
   {
     "id": "htmlcss-mdn-web-docs-css",
-    "title": "MDN Web Docs — CSS",
+    "title": "MDN Web Docs \u2014 CSS",
     "author": "",
     "language": "htmlcss",
     "category": "references",
@@ -5731,7 +6091,7 @@
   },
   {
     "id": "zig-zig-documentation-advanced-language-features",
-    "title": "Zig Documentation — Advanced Language Features",
+    "title": "Zig Documentation \u2014 Advanced Language Features",
     "author": "",
     "language": "zig",
     "category": "advanced",

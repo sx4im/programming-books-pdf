@@ -6,7 +6,7 @@ import { LibraryPage } from "../../components/LibraryPage";
 export const metadata = {
   title: "Library",
   description:
-    "Browse 634+ programming books by language and skill level. Search Python, JavaScript, Java, Rust, Go, and more — then open public Drive links to read.",
+    "Browse 670+ programming books by language and skill level. Search Python, JavaScript, Java, Rust, Go, and more — then open public Drive links to read.",
   alternates: {
     canonical: "https://freecodebooks.vercel.app/library",
   },

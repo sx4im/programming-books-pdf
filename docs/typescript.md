@@ -26,6 +26,8 @@ These books will help you bridge the gap between "writing code that compiles" an
 - [**Effective TypeScript**](https://drive.google.com/file/d/1X4Nyrf-xnGUteyVhvu-_-K-X1o_6r9UW/view?usp=sharing)
 - [**Programming TypeScript**](https://drive.google.com/file/d/1fVWQSsrgFPqdWboebSLCBmLwG0f-WAW3/view?usp=sharing) (*1st Edition*)
 - [**Mastering TypeScript**](https://drive.google.com/file/d/1gGTqSjyMasbC5AtV6qPf8-upEVGNh3L-/view?usp=sharing) (*4th Edition*)
+- [**Total TypeScript**](https://nostarch.com/total-typescript) (*1st Edition — 2026*)
+- [**TypeScript Cookbook**](https://www.amazon.com/TypeScript-Cookbook-Recipes-Level-Programming/dp/1098136659) (*1st Edition*)
 
 ## For Advanced Programmers
 

@@ -6,7 +6,7 @@ Browse the [live library](https://freecodebooks.vercel.app/), pick a language, f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/Languages-32-blue)](#languages)
-[![Books](https://img.shields.io/badge/Books-634%2B-9cf)](web/data/books.json)
+[![Books](https://img.shields.io/badge/Books-670%2B-9cf)](web/data/books.json)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![CI: Markdown](https://github.com/sx4im/programming-books-pdf/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/sx4im/programming-books-pdf/actions/workflows/markdown-lint.yml)
 [![CI: Book links](https://github.com/sx4im/programming-books-pdf/actions/workflows/validate-book-links.yml/badge.svg)](https://github.com/sx4im/programming-books-pdf/actions/workflows/validate-book-links.yml)
@@ -61,12 +61,12 @@ Click a badge for the GitHub guide, or open the same language in the [live libra
 <br/>
 
 ```text
-Python ........ 57    JavaScript .... 51    Java .......... 50
-C# ............ 39    C ............. 30    C++ ........... 21
-TypeScript .... 17    Go ............ 19    Rust .......... 21
+Python ........ 63    JavaScript .... 51    Java .......... 75
+C# ............ 39    C ............. 30    C++ ........... 22
+TypeScript .... 19    Go ............ 19    Rust .......... 21
 PHP ........... 19    Kotlin ........ 17    SQL ........... 19
 Swift ......... 19    Ruby .......... 24    Dart .......... 18
-Scala ......... 17    Elixir ........ 18    Shell .........  8
+Scala ......... 17    Elixir ........ 18    Shell ......... 10
 R ............. 17    Julia ......... 16    HTML/CSS ...... 15
 Lua ........... 11    MATLAB ........ 11    Assembly ...... 11
 Haskell ....... 12    PowerShell .... 11    Zig ........... 11
@@ -83,7 +83,7 @@ Objective-C ... 11    Clojure ....... 11
 Developers searching for **programming books**, **coding ebooks**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog:
 
 - **32 programming languages** with beginner → advanced paths
-- **634+ curated titles** (Drive PDFs + official docs where useful)
+- **670+ curated titles** (Drive PDFs + official docs where useful)
 - A **searchable web library** so you can find a book by name in seconds
 - Clear contribution flow: suggest a title; maintainers attach Drive links
 

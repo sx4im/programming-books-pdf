@@ -24,6 +24,7 @@ These books are for those new to C++ and provide a solid, comprehensive foundati
 These books are essential for moving beyond the basics and learning to write effective, modern, and idiomatic C++ code.
 
 - [**Effective C++**](https://drive.google.com/file/d/1WNJxLYF0vCYjtQR0RzmrRSqT3jj2KYLK/view?usp=drive_link) (*3rd Edition*)
+- [**Effective Modern C++**](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996) (*1st Edition*)
 - [**Professional C++**](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394217199) (**6th Edition - 2024**)
 - [**C++ Core Guidelines Explained**](https://www.pearson.com/en-us/subject-catalog/p/c-core-guidelines-explained-best-practices-for-modern-c/P200000009536/)
 - [**A Tour of C++**](https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link) (*3rd Edition*)

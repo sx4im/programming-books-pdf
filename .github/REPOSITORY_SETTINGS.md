@@ -13,7 +13,7 @@ The automation token cannot update repository metadata (HTTP 403). Apply these i
 ### Description candidates (pick one)
 
 1. **Preferred:** `Curated programming books for 32 languages — beginner to advanced. Searchable library for Python, JavaScript, Rust, Go, and more.`
-2. `634+ programming books organized by language and skill level, with a searchable web library.`
+2. `670+ programming books organized by language and skill level, with a searchable web library.`
 3. `Language-first programming book catalog: Markdown guides + live library for 32 languages.`
 
 Avoid vague or engagement-bait descriptions (for example “star repo to get programming-books”).
