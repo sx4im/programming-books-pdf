@@ -6,7 +6,11 @@ Answers to common questions about **Ultimate Programming Books** (`sx4im/program
 
 A curated index of programming books and learning resources across 32 languages, organized by skill level (Beginner → Intermediate → Advanced → Specialized → References).
 
-**Live library:** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)
+**Live library (read here):** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)
+
+## Where do I read the books?
+
+Only on the [live website](https://freecodebooks.vercel.app/). This GitHub repo does not publish download or Drive links in Markdown. Use **Read book** in the library UI.
 
 ## Is the content free and open source?
 
@@ -14,15 +18,7 @@ The **list and documentation** are MIT-licensed. Linked books and websites keep 
 
 ## Do you host PDF files in git?
 
-No. This repository stores Markdown documentation and **links**. Book files are stored in cloud storage (mainly Google Drive) and shared with public links.
-
-## Why are so many links Google Drive?
-
-The maintainer stores the book collection in the cloud and shares **public Drive links** from this index. That is intentional. Please keep working Drive links; only replace them if a file is missing, private, or the wrong title.
-
-## Why were placeholders and some links removed?
-
-Entries with `PDF_LINK`, empty URLs, or non-Drive dump-site hosts were removed because they did not work. Suggest a public Drive (or official docs) replacement via issues or pull requests.
+No. Book files are not stored in git. Readers open titles through the live library after a short GitHub star check.
 
 ## How should I cite or share this list?
 
@@ -30,7 +26,7 @@ Share the live app [https://freecodebooks.vercel.app/](https://freecodebooks.ver
 
 ## How do I contribute?
 
-Read [CONTRIBUTING.md](../CONTRIBUTING.md). Suggest a **book title only** (no download links). Maintainers attach valid Google Drive PDFs. Use issue templates for broken links too. Follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
+Read [Contributing](../CONTRIBUTING.md). Suggest a **book title only** (no download links). Maintainers add titles to the library. Use issue templates for broken library links. Follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## How do I report a security or phishing concern?
 
@@ -41,7 +37,7 @@ See [SECURITY.md](../SECURITY.md). Do not open a public issue for suspected mali
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — focus on freely available books
 - [roadmap.sh](https://roadmap.sh/) — career and skill roadmaps
 
-This repository focuses on **language-first learning paths** with clear skill-level structure.
+This repository focuses on **language-first learning paths** with a **searchable library UI**.
 
 ## Related
 

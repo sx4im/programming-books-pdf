@@ -8,8 +8,8 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Ways to contribute
 
-- **Suggest a book by title only** (no links — maintainers attach Google Drive PDFs)
-- Report a broken or outdated Drive link
+- **Suggest a book by title only** (no links — maintainers add PDFs in the library app)
+- Report a broken library link via the issue template
 - Improve categorization or docs clarity
 - Enrich the library app (`web/data/books.json`) with `author` / `coverImage` (maintainers)
 
@@ -25,13 +25,19 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
    - Author (if known)
    - Edition (optional)
    - Why it belongs
-3. Maintainers find the book, upload a **public Google Drive PDF**, and add it to [`docs/`](docs/) + [`web/data/books.json`](web/data/books.json).
+3. Maintainers find the book, upload a **public Google Drive PDF**, and add it to [`web/data/books.json`](web/data/books.json). Optionally mirror the **title only** (no URL) under [`docs/`](docs/).
 
 Fake or placeholder URLs (`https://example.com`, `PDF_LINK`, empty links) are rejected by validation.
 
+## Where readers open books
+
+Readers use **only** the live library: [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/).
+
+Do **not** put Drive, publisher, or download URLs in README or `docs/*.md`. Those files list titles and point people to the site.
+
 ## Link policy (maintainers only)
 
-When adding or fixing a book URL:
+Book URLs live **only** in [`web/data/books.json`](web/data/books.json) (`driveUrl`), never in public Markdown guides.
 
 **Required for PDF books**
 
@@ -47,6 +53,7 @@ When adding or fixing a book URL:
 - Empty `()`, `PDF_LINK`, `#`
 - Random third-party dump sites
 - Contributor-submitted unverified download links
+- Drive / download URLs in `docs/` or README
 
 Validate before merge:
 
@@ -65,30 +72,31 @@ Maintainer fields:
 
 ```bash
 cd web
-npm run import:docs      # sync from docs/*.md (keeps author/cover)
+npm run import:docs      # sync titles/categories from docs/*.md (keeps existing driveUrl/author/cover)
 npm run validate:links   # reject placeholders / invalid hosts
 npm run dev
 ```
 
 Set Vercel **Root Directory** to `web`.
 
-## Entry format (Markdown — maintainers)
+## Entry format (Markdown — titles only)
 
 ```markdown
-- [**Book Title**](https://drive.google.com/file/d/FILE_ID/view?usp=sharing) (*Edition*)
+- **Book Title** (*Edition*)
 ```
 
 Rules:
 
 1. Correct skill-level section
-2. Real Drive (or approved docs) URL — never example.com
-3. Accurate title + edition
-4. No duplicates on the same page
+2. Accurate title + edition — **no URL**
+3. No duplicates on the same page
+4. Point readers to `https://freecodebooks.vercel.app/library?lang=…`
 
 ## Pull request checklist
 
 - [ ] Contributors suggested **titles only** (no links in issues/PRs from new contributors)
-- [ ] Any URL added by maintainers passes `npm run validate:links`
+- [ ] Any URL added by maintainers is in `web/data/books.json` and passes `npm run validate:links`
+- [ ] `docs/` and README have **no** Drive/download book links
 - [ ] Correct language + section when editing docs
 - [ ] No duplicate titles
 - [ ] Markdown renders correctly

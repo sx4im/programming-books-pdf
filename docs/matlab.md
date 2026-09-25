@@ -2,9 +2,13 @@
 
 Industry-standard language for numerical computing, engineering, and scientific analysis.
 
-This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+Titles only — **read every book on the live library**, not from this Markdown file:
 
-← [Lua](lua.md) · [All languages](../README.md#contents) · [Assembly](assembly.md) →
+**[Open Matlab books →](https://freecodebooks.vercel.app/library?lang=matlab)**
+
+See [Contributing](../CONTRIBUTING.md) to suggest a title.
+
+← [Lua](lua.md) · [All languages](../README.md#languages) · [Assembly](assembly.md) →
 
 ---
 
@@ -14,43 +18,43 @@ This page lists curated books and learning resources for this language, organize
 
 These books are perfect if you are new to MATLAB or numerical computing.
 
-- [**MATLAB for Engineers**](https://www.pearson.com/en-us/subject-catalog/p/matlab-for-engineers/P200000003316) (*6th Edition*)
-- [**Getting Started with MATLAB**](https://matlabacademy.mathworks.com/) (*Online Resource*)
-- [**MATLAB: A Practical Introduction to Programming and Problem Solving**](https://www.amazon.com/MATLAB-Practical-Introduction-Programming-Problem/dp/0128154799) (*5th Edition*)
+- **MATLAB for Engineers** (*6th Edition*)
+- **Getting Started with MATLAB** (*Online Resource*)
+- **MATLAB: A Practical Introduction to Programming and Problem Solving** (*5th Edition*)
 
 ## For Intermediate Developers
 
 Once you know the basics, these books help you write efficient numerical and engineering code.
 
-- [**MATLAB Guide**](https://www.pearson.com/en-us/subject-catalog/p/matlab-guide/P200000003315) (*3rd Edition*)
-- [**Essential MATLAB for Engineers and Scientists**](https://www.amazon.com/Essential-MATLAB-Engineers-Scientists-Hahn/dp/0081029977) (*7th Edition*)
+- **MATLAB Guide** (*3rd Edition*)
+- **Essential MATLAB for Engineers and Scientists** (*7th Edition*)
 
 ## For Advanced Programmers
 
 Deep dives into performance, toolboxes, and large-scale numerical workflows.
 
-- [**Accelerating MATLAB Performance**](https://www.amazon.com/Accelerating-MATLAB-Performance-Yair-Altman/dp/1482211297) (*1st Edition*)
-- [**MATLAB Differential Equations**](https://www.amazon.com/MATLAB-Differential-Equations-Stormy-Attaway/dp/0123945800) (*Latest Edition*)
+- **Accelerating MATLAB Performance** (*1st Edition*)
+- **MATLAB Differential Equations** (*Latest Edition*)
 
 ## For Specialized Fields
 
 Focus on signal processing, control systems, machine learning, and simulation.
 
-- [**MATLAB Machine Learning Recipes**](https://www.amazon.com/MATLAB-Machine-Learning-Recipes-Beginners/dp/1484254570) (*2nd Edition*)
-- [**Digital Signal Processing Using MATLAB**](https://www.amazon.com/Digital-Signal-Processing-Using-MATLAB/dp/1305635195) (*4th Edition*)
+- **MATLAB Machine Learning Recipes** (*2nd Edition*)
+- **Digital Signal Processing Using MATLAB** (*4th Edition*)
 
 ## Comprehensive References
 
 These resources are perfect for quick lookups and staying current with MATLAB.
 
-- [**MathWorks MATLAB Documentation**](https://www.mathworks.com/help/releases/R2024a/matlab/index.html) (*Online Resource*)
-- [**MATLAB Onramp**](https://matlabacademy.mathworks.com/) (*Online Resource*)
+- **MathWorks MATLAB Documentation** (*Online Resource*)
+- **MATLAB Onramp** (*Online Resource*)
 
 ---
 
 ## Related
 
-- [Contents (all languages)](../README.md#contents)
+- [Contents (all languages)](../README.md#languages)
 - [FAQ](faq.md)
 - [How to contribute](../CONTRIBUTING.md)
 - [License](../LICENSE)

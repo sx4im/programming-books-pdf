@@ -2,44 +2,48 @@
 
 Curated programming books and learning resources for **32 languages**, organized from beginner to advanced.
 
-This documentation site mirrors the language guides in the repository. New here? Read [Getting started](getting-started.md). Or return to the [repository README](../README.md) for the full landing page, FAQ summary, and contribution links.
+**Read books only on the live site:** [https://freecodebooks.vercel.app/](https://freecodebooks.vercel.app/)
+
+This folder keeps title lists for maintainers. It does **not** include download or Drive links — open every book from the library UI.
+
+New here? Read [Getting started](getting-started.md). Landing page: [repository README](../README.md).
 
 ## Languages
 
-| Language | Guide | Focus |
+| Language | Live library | Focus |
 | --- | --- | --- |
-| Python | [python.md](python.md) | Data science, web, automation, AI |
-| JavaScript | [javascript.md](javascript.md) | Web, Node.js, full-stack |
-| Java | [java.md](java.md) | Backend, Android, enterprise |
-| C# | [csharp.md](csharp.md) | .NET, Unity, cross-platform |
-| C | [c.md](c.md) | Systems, embedded, performance |
-| C++ | [cpp.md](cpp.md) | Systems, games, high performance |
-| TypeScript | [typescript.md](typescript.md) | Typed JavaScript at scale |
-| Go | [go.md](go.md) | Cloud, CLI, infrastructure |
-| Rust | [rust.md](rust.md) | Memory-safe systems programming |
-| PHP | [php.md](php.md) | Server-side web |
-| Kotlin | [kotlin.md](kotlin.md) | Android, JVM |
-| SQL | [sql.md](sql.md) | Databases and analytics |
-| Swift | [swift.md](swift.md) | Apple platforms |
-| Ruby | [ruby.md](ruby.md) | Rails and expressive web apps |
-| Dart | [dart.md](dart.md) | Flutter cross-platform apps |
-| Scala | [scala.md](scala.md) | JVM, functional + OOP |
-| Elixir | [elixir.md](elixir.md) | Concurrent, fault-tolerant systems |
-| Shell (Bash) | [shell.md](shell.md) | Automation and DevOps |
-| R | [r.md](r.md) | Statistics and data analysis |
-| Julia | [julia.md](julia.md) | Numerical computing and science |
-| HTML/CSS | [htmlcss.md](htmlcss.md) | Web markup and styling |
-| Lua | [lua.md](lua.md) | Games, scripting, embedded |
-| MATLAB | [matlab.md](matlab.md) | Engineering and numerical computing |
-| Assembly | [assembly.md](assembly.md) | Low-level systems programming |
-| Haskell | [haskell.md](haskell.md) | Pure functional programming |
-| PowerShell | [powershell.md](powershell.md) | Windows automation and DevOps |
-| Zig | [zig.md](zig.md) | Modern systems programming |
-| Solidity | [solidity.md](solidity.md) | Smart contracts and Web3 |
-| Perl | [perl.md](perl.md) | Text processing and scripting |
-| Fortran | [fortran.md](fortran.md) | Scientific and HPC computing |
-| Objective-C | [objectivec.md](objectivec.md) | Apple legacy and Cocoa |
-| Clojure | [clojure.md](clojure.md) | Lisp on the JVM |
+| Python | [Open →](https://freecodebooks.vercel.app/library?lang=python) | Data science, web, automation, AI |
+| JavaScript | [Open →](https://freecodebooks.vercel.app/library?lang=javascript) | Web, Node.js, full-stack |
+| Java | [Open →](https://freecodebooks.vercel.app/library?lang=java) | Backend, Android, enterprise |
+| C# | [Open →](https://freecodebooks.vercel.app/library?lang=csharp) | .NET, Unity, cross-platform |
+| C | [Open →](https://freecodebooks.vercel.app/library?lang=c) | Systems, embedded, performance |
+| C++ | [Open →](https://freecodebooks.vercel.app/library?lang=cpp) | Systems, games, high performance |
+| TypeScript | [Open →](https://freecodebooks.vercel.app/library?lang=typescript) | Typed JavaScript at scale |
+| Go | [Open →](https://freecodebooks.vercel.app/library?lang=go) | Cloud, CLI, infrastructure |
+| Rust | [Open →](https://freecodebooks.vercel.app/library?lang=rust) | Memory-safe systems programming |
+| PHP | [Open →](https://freecodebooks.vercel.app/library?lang=php) | Server-side web |
+| Kotlin | [Open →](https://freecodebooks.vercel.app/library?lang=kotlin) | Android, JVM |
+| SQL | [Open →](https://freecodebooks.vercel.app/library?lang=sql) | Databases and analytics |
+| Swift | [Open →](https://freecodebooks.vercel.app/library?lang=swift) | Apple platforms |
+| Ruby | [Open →](https://freecodebooks.vercel.app/library?lang=ruby) | Rails and expressive web apps |
+| Dart | [Open →](https://freecodebooks.vercel.app/library?lang=dart) | Flutter cross-platform apps |
+| Scala | [Open →](https://freecodebooks.vercel.app/library?lang=scala) | JVM, functional + OOP |
+| Elixir | [Open →](https://freecodebooks.vercel.app/library?lang=elixir) | Concurrent, fault-tolerant systems |
+| Shell (Bash) | [Open →](https://freecodebooks.vercel.app/library?lang=shell) | Automation and DevOps |
+| R | [Open →](https://freecodebooks.vercel.app/library?lang=r) | Statistics and data analysis |
+| Julia | [Open →](https://freecodebooks.vercel.app/library?lang=julia) | Numerical computing and science |
+| HTML/CSS | [Open →](https://freecodebooks.vercel.app/library?lang=htmlcss) | Web markup and styling |
+| Lua | [Open →](https://freecodebooks.vercel.app/library?lang=lua) | Games, scripting, embedded |
+| MATLAB | [Open →](https://freecodebooks.vercel.app/library?lang=matlab) | Engineering and numerical computing |
+| Assembly | [Open →](https://freecodebooks.vercel.app/library?lang=assembly) | Low-level systems programming |
+| Haskell | [Open →](https://freecodebooks.vercel.app/library?lang=haskell) | Pure functional programming |
+| PowerShell | [Open →](https://freecodebooks.vercel.app/library?lang=powershell) | Windows automation and DevOps |
+| Zig | [Open →](https://freecodebooks.vercel.app/library?lang=zig) | Modern systems programming |
+| Solidity | [Open →](https://freecodebooks.vercel.app/library?lang=solidity) | Smart contracts and Web3 |
+| Perl | [Open →](https://freecodebooks.vercel.app/library?lang=perl) | Text processing and scripting |
+| Fortran | [Open →](https://freecodebooks.vercel.app/library?lang=fortran) | Scientific and HPC computing |
+| Objective-C | [Open →](https://freecodebooks.vercel.app/library?lang=objectivec) | Apple legacy and Cocoa |
+| Clojure | [Open →](https://freecodebooks.vercel.app/library?lang=clojure) | Lisp on the JVM |
 
 ## More
 

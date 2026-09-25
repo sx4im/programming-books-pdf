@@ -10,8 +10,9 @@ body:
   - type: input
     id: file
     attributes:
-      label: File path
-      placeholder: docs/python.md
+      label: Where did you see it?
+      description: Prefer the live library URL or books.json id. Do not paste working Drive links in public issues if avoidable.
+      placeholder: https://freecodebooks.vercel.app/library?lang=python  or  python-fluent-python
     validations:
       required: true
   - type: input
@@ -24,10 +25,10 @@ body:
   - type: input
     id: url
     attributes:
-      label: Current URL
+      label: Current URL (optional — leave blank if unknown)
       placeholder: https://
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: problem
     attributes:
@@ -37,14 +38,15 @@ body:
         - Permission denied / private
         - Redirects to unrelated content
         - Wrong book or edition
+        - Read book fails on the website
         - Other
     validations:
       required: true
   - type: input
     id: replacement
     attributes:
-      label: Suggested replacement URL (optional)
-      placeholder: https://
+      label: Suggested replacement (maintainers only — optional)
+      placeholder: leave blank as a contributor
   - type: textarea
     id: notes
     attributes:

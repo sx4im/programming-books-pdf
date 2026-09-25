@@ -37,13 +37,14 @@ Open [http://localhost:3000](http://localhost:3000).
 | `npm run build` | Production build |
 | `npm run start` | Serve production build |
 | `npm run lint` | ESLint |
-| `npm run import:docs` | Re-seed `data/books.json` from `../docs/*.md` |
+| `npm run import:docs` | Sync titles/categories from `../docs/*.md` (keeps existing `driveUrl`) |
 | `npm run validate:links` | Reject placeholder hosts (`example.com`, etc.); require Drive/approved URLs |
 
 ## Contributors vs maintainers
 
 - **Contributors** suggest book **titles only** via GitHub issues — never paste Drive or example.com links.
-- **Maintainers** attach real `https://drive.google.com/file/d/…` links and run `npm run validate:links`.
+- **Maintainers** set `driveUrl` in `data/books.json` only (not in `docs/` Markdown) and run `npm run validate:links`.
+- Readers open books on the **live site** only — public Markdown lists titles, not download links.
 
 ## Deploy on Vercel
 

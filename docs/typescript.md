@@ -2,9 +2,13 @@
 
 Typed JavaScript for safer large-scale front-end and Node.js applications.
 
-This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+Titles only — **read every book on the live library**, not from this Markdown file:
 
-← [C++](cpp.md) · [All languages](../README.md#contents) · [Go](go.md) →
+**[Open Typescript books →](https://freecodebooks.vercel.app/library?lang=typescript)**
+
+See [Contributing](../CONTRIBUTING.md) to suggest a title.
+
+← [C++](cpp.md) · [All languages](../README.md#languages) · [Go](go.md) →
 
 ---
 
@@ -14,51 +18,51 @@ This page lists curated books and learning resources for this language, organize
 
 These books are for newcomers to TypeScript and provide a solid foundation in how it layers on top of JavaScript to add type safety and better developer ergonomics.
 
-- [**Learning TypeScript**](https://drive.google.com/file/d/1RB5XMfQEVhfjNPNw6yxpLHwSlSfmnbY5/view?usp=sharing) (*1st Edition*)
-- [**TypeScript Quickly**](https://drive.google.com/file/d/11KxULpStEskCTr4FJszGUx9qV1TY4AOw/view?usp=sharing) (*1st Edition*)
-- [**Essential TypeScript 5**](https://drive.google.com/file/d/1EMmIEPtq4WN03-jd93kz6qhwiYk0vOQe/view?usp=sharing) (*3rd Edition*)
-- [**The TypeScript Handbook**](https://www.typescriptlang.org/docs/handbook/intro.html) (*Online Resource*)
+- **Learning TypeScript** (*1st Edition*)
+- **TypeScript Quickly** (*1st Edition*)
+- **Essential TypeScript 5** (*3rd Edition*)
+- **The TypeScript Handbook** (*Online Resource*)
 
 ## For Intermediate Developers
 
 These books will help you bridge the gap between "writing code that compiles" and "writing idiomatic, scalable TypeScript."
 
-- [**Effective TypeScript**](https://drive.google.com/file/d/1X4Nyrf-xnGUteyVhvu-_-K-X1o_6r9UW/view?usp=sharing)
-- [**Programming TypeScript**](https://drive.google.com/file/d/1fVWQSsrgFPqdWboebSLCBmLwG0f-WAW3/view?usp=sharing) (*1st Edition*)
-- [**Mastering TypeScript**](https://drive.google.com/file/d/1gGTqSjyMasbC5AtV6qPf8-upEVGNh3L-/view?usp=sharing) (*4th Edition*)
-- [**Total TypeScript**](https://nostarch.com/total-typescript) (*1st Edition — 2026*)
-- [**TypeScript Cookbook**](https://www.amazon.com/TypeScript-Cookbook-Recipes-Level-Programming/dp/1098136659) (*1st Edition*)
+- **Effective TypeScript**
+- **Programming TypeScript** (*1st Edition*)
+- **Mastering TypeScript** (*4th Edition*)
+- **Total TypeScript** (*1st Edition — 2026*)
+- **TypeScript Cookbook** (*1st Edition*)
 
 ## For Advanced Programmers
 
 Dive deep into the most complex aspects of the type system, including conditional types, mapped types, and advanced compiler configurations.
 
-- [**Tackling TypeScript**](https://drive.google.com/file/d/1zagInA-YXWuNuWpwryNPrxZ-X5bPo5VV/view?usp=sharing) (*1st Edition*)
-- [**Advanced TypeScript Programming Projects**](https://drive.google.com/file/d/1hkPnebqoCNfPBg3OvfyZ_xJeHP0nvsf5/view?usp=sharing) (*1st Edition*)
-- [**TypeScript Design Patterns**](https://drive.google.com/file/d/15QfYUiO4bClWPa0jlOBSxAYwxZZyKK9J/view?usp=sharing) (*1st Edition*)
+- **Tackling TypeScript** (*1st Edition*)
+- **Advanced TypeScript Programming Projects** (*1st Edition*)
+- **TypeScript Design Patterns** (*1st Edition*)
 
 ## For Specialized Fields
 
 Focus on applying TypeScript to specific professional domains, such as React development, Node.js backend services, or Angular architecture.
 
-- [**Fullstack React with TypeScript**](https://drive.google.com/file/d/1sfINkiFKuVGmRKIP6YvV3bCA6CutZ2mM/view?usp=sharing) (*1st Edition*)
-- [**Node.js Design Patterns**](https://drive.google.com/file/d/1VALBli8K9_ZPgfnoRfDzhocIcbvmpPPz/view?usp=sharing) (*3rd Edition*)
-- [**Angular Development with TypeScript**](https://drive.google.com/file/d/1JiDMygUGpuLIpGjeLE9e1VI6MMWkB7V3/view?usp=sharing) (*2nd Edition*)
-- [**Pro Angular**](https://drive.google.com/file/d/11-QJl9cDqXap-qBlkAvu6NBfh5iBCzPz/view?usp=sharing) (*5th Edition*)
+- **Fullstack React with TypeScript** (*1st Edition*)
+- **Node.js Design Patterns** (*3rd Edition*)
+- **Angular Development with TypeScript** (*2nd Edition*)
+- **Pro Angular** (*5th Edition*)
 
 ## Comprehensive References
 
 These resources are perfect for quick lookups, staying current with the rapidly evolving compiler, and deep-diving into specific syntax.
 
-- [**TypeScript Deep Dive**](https://basarat.gitbook.io/typescript/) (*Online Resource*)
-- [**TypeScript Weekly**](https://www.typescript-weekly.com/) (*Newsletter/Reference*)
-- [**Utility Types Reference**](https://www.typescriptlang.org/docs/handbook/utility-types.html) (*Official Reference*)
+- **TypeScript Deep Dive** (*Online Resource*)
+- **TypeScript Weekly** (*Newsletter/Reference*)
+- **Utility Types Reference** (*Official Reference*)
 
 ---
 
 ## Related
 
-- [Contents (all languages)](../README.md#contents)
+- [Contents (all languages)](../README.md#languages)
 - [FAQ](faq.md)
 - [How to contribute](../CONTRIBUTING.md)
 - [License](../LICENSE)
