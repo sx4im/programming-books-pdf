@@ -12,7 +12,7 @@ Instead:
 
 1. Contact the repository owner via the email or contact method on their [GitHub profile](https://github.com/sx4im).
 2. Include:
-   - File path and section (for example `docs/python.md` → For Beginners) or `web/data/books.json` id
+   - Book id from the live library / `web/data/books.json` (or language + title)
    - The problematic URL
    - Why you believe it is malicious, phishing, or unsafe
    - Optional: suggested replacement

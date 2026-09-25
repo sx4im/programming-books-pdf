@@ -2,9 +2,13 @@
 
 Command-line scripting for automation, DevOps, and system administration.
 
-This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+Titles only — **read every book on the live library**, not from this Markdown file:
 
-← [Elixir](elixir.md) · [All languages](../README.md#contents) · [R](r.md) →
+**[Open Shell books →](https://freecodebooks.vercel.app/library?lang=shell)**
+
+See [Contributing](../CONTRIBUTING.md) to suggest a title.
+
+← [Elixir](elixir.md) · [All languages](../README.md#languages) · [R](r.md) →
 
 ---
 
@@ -14,37 +18,37 @@ This page lists curated books and learning resources for this language, organize
 
 These books provide a solid foundation in navigating the command line and writing your first shell scripts.
 
-- [**The Linux Command Line**](https://linuxcommand.org/tlcl.php) (*2nd Edition*)
-- [**Bash Guide for Beginners**](https://tldp.org/LDP/Bash-Beginners-Guide/html/) (*Online Resource*)
+- **The Linux Command Line** (*2nd Edition*)
+- **Bash Guide for Beginners** (*Online Resource*)
 
 ## For Intermediate Developers
 
 Once you can write basic scripts, these books help you write safer, more idiomatic shell tooling.
 
-- [**bash Cookbook**](https://www.amazon.com/bash-Cookbook-Solutions-Examples-Shell/dp/1492090119) (*2nd Edition*)
-- [**Classic Shell Scripting**](https://www.amazon.com/Classic-Shell-Scripting-Hidden-Commands/dp/0596005954) (*1st Edition*)
+- **bash Cookbook** (*2nd Edition*)
+- **Classic Shell Scripting** (*1st Edition*)
 
 ## For Advanced Programmers
 
 Deep dives into advanced scripting techniques, performance, and command-line data processing.
 
-- [**Advanced Bash-Scripting Guide**](https://tldp.org/LDP/abs/html/) (*Online Resource*)
-- [**Data Science at the Command Line**](https://jeroenjanssens.com/dsatcl/) (*2nd Edition*)
+- **Advanced Bash-Scripting Guide** (*Online Resource*)
+- **Data Science at the Command Line** (*2nd Edition*)
 
 ## Comprehensive References
 
 These resources are perfect for quick lookups and writing safer scripts.
 
-- [**GNU Bash Reference Manual**](https://www.gnu.org/software/bash/manual/) (*Official Reference*)
-- [**Greg's Wiki — BashGuide**](https://mywiki.wooledge.org/BashGuide) (*Online Resource*)
-- [**ShellCheck**](https://www.shellcheck.net/) (*Online Resource*)
-- [**Google Shell Style Guide**](https://google.github.io/styleguide/shellguide.html) (*Online Resource*)
+- **GNU Bash Reference Manual** (*Official Reference*)
+- **Greg's Wiki — BashGuide** (*Online Resource*)
+- **ShellCheck** (*Online Resource*)
+- **Google Shell Style Guide** (*Online Resource*)
 
 ---
 
 ## Related
 
-- [Contents (all languages)](../README.md#contents)
+- [Contents (all languages)](../README.md#languages)
 - [FAQ](faq.md)
 - [How to contribute](../CONTRIBUTING.md)
 - [License](../LICENSE)

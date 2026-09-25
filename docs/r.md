@@ -2,9 +2,13 @@
 
 Statistical computing language for data analysis, visualization, and research.
 
-This page lists curated books and learning resources for this language, organized from beginner to advanced. Most books are shared via public Google Drive links maintained by the project. See [Contributing](../CONTRIBUTING.md) before suggesting new links.
+Titles only — **read every book on the live library**, not from this Markdown file:
 
-← [Shell (Bash)](shell.md) · [All languages](../README.md#contents) · [Julia](julia.md) →
+**[Open R books →](https://freecodebooks.vercel.app/library?lang=r)**
+
+See [Contributing](../CONTRIBUTING.md) to suggest a title.
+
+← [Shell (Bash)](shell.md) · [All languages](../README.md#languages) · [Julia](julia.md) →
 
 ---
 
@@ -14,49 +18,49 @@ This page lists curated books and learning resources for this language, organize
 
 These books provide a solid foundation in R for statistics, data manipulation, and visualization — no prior experience required.
 
-- [**R for Data Science**](https://r4ds.hadley.nz/) (*2nd Edition*)
-- [**Hands-On Programming with R**](https://rstudio-education.github.io/hopr/) (*1st Edition*)
+- **R for Data Science** (*2nd Edition*)
+- **Hands-On Programming with R** (*1st Edition*)
 
 ## For Intermediate Developers
 
 Move beyond the basics to master data wrangling, visualization with ggplot2, and effective R workflows.
 
-- [**R Cookbook**](https://rc2e.com/) (*2nd Edition*)
-- [**ggplot2: Elegant Graphics for Data Analysis**](https://ggplot2-book.org/) (*3rd Edition*)
-- [**R Graphics Cookbook**](https://r-graphics.org/) (*2nd Edition*)
+- **R Cookbook** (*2nd Edition*)
+- **ggplot2: Elegant Graphics for Data Analysis** (*3rd Edition*)
+- **R Graphics Cookbook** (*2nd Edition*)
 
 ## For Advanced Programmers
 
 Dive deep into R's object systems, metaprogramming, package development, and performance.
 
-- [**Advanced R**](https://adv-r.hadley.nz/) (*2nd Edition*)
-- [**R Packages**](https://r-pkgs.org/) (*2nd Edition*)
-- [**Efficient R Programming**](https://csgillespie.github.io/efficientR/) (*1st Edition*)
+- **Advanced R** (*2nd Edition*)
+- **R Packages** (*2nd Edition*)
+- **Efficient R Programming** (*1st Edition*)
 
 ## For Specialized Fields
 
 Focus on applying R to machine learning, statistical learning, forecasting, and interactive apps.
 
-- [**An Introduction to Statistical Learning**](https://www.statlearning.com/) (*2nd Edition*)
-- [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/) (*2nd Edition*)
-- [**Mastering Shiny**](https://mastering-shiny.org/) (*1st Edition*)
-- [**Text Mining with R**](https://www.tidytextmining.com/) (*1st Edition*)
-- [**Forecasting: Principles and Practice**](https://openforecasting.com/) (*3rd Edition*)
-- [**Geocomputation with R**](https://r.geocompx.org/) (*2nd Edition*)
+- **An Introduction to Statistical Learning** (*2nd Edition*)
+- **The Elements of Statistical Learning** (*2nd Edition*)
+- **Mastering Shiny** (*1st Edition*)
+- **Text Mining with R** (*1st Edition*)
+- **Forecasting: Principles and Practice** (*3rd Edition*)
+- **Geocomputation with R** (*2nd Edition*)
 
 ## Comprehensive References
 
 These guides are perfect for quick lookups and understanding the language internals.
 
-- [**An Introduction to R**](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) (*Official Manual*)
-- [**The R Language Definition**](https://cran.r-project.org/doc/manuals/r-release/R-lang.html) (*Official Manual*)
-- [**RDocumentation**](https://www.rdocumentation.org/) (*Online Resource*)
+- **An Introduction to R** (*Official Manual*)
+- **The R Language Definition** (*Official Manual*)
+- **RDocumentation** (*Online Resource*)
 
 ---
 
 ## Related
 
-- [Contents (all languages)](../README.md#contents)
+- [Contents (all languages)](../README.md#languages)
 - [FAQ](faq.md)
 - [How to contribute](../CONTRIBUTING.md)
 - [License](../LICENSE)

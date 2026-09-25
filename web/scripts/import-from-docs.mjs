@@ -87,14 +87,17 @@ function parseDoc(language, text) {
       continue;
     }
 
-    const m = line.match(/^- \[\*\*(.+?)\*\*\]\((.+?)\)(?:\s*\((.+)\))?/);
-    if (!m) continue;
+    // Linked form (legacy) or title-only: - **Title** (*Edition*)
+    const linked = line.match(/^- \[\*\*(.+?)\*\*\]\((.+?)\)(?:\s*\((.+)\))?/);
+    const plain = line.match(/^- \*\*(.+?)\*\*(?:\s*\((.+)\))?/);
+    if (!linked && !plain) continue;
 
-    const title = m[1].trim();
-    const driveUrl = m[2].trim();
+    const title = (linked ? linked[1] : plain[1]).trim();
+    const driveUrlFromDocs = linked ? linked[2].trim() : "";
     let edition = "";
-    if (m[3]) {
-      edition = m[3].replace(/^\*|\*$/g, "").trim();
+    const editionRaw = linked ? linked[3] : plain[2];
+    if (editionRaw) {
+      edition = editionRaw.replace(/^\*|\*$/g, "").trim();
     }
 
     const id = `${language}-${slugify(title)}`;
@@ -107,7 +110,8 @@ function parseDoc(language, text) {
       language,
       category,
       edition,
-      driveUrl,
+      // Prefer URL from docs when present; otherwise keep existing books.json URL
+      driveUrl: driveUrlFromDocs || prev?.driveUrl || "",
       coverImage: prev?.coverImage ?? "",
     });
   }

@@ -13,8 +13,9 @@ Briefly describe your change.
 ## Checklist
 
 - [ ] Contributors did **not** add example.com or other placeholder links
+- [ ] Book URLs (if any) are only in `web/data/books.json` — not in README or `docs/`
 - [ ] Any URL added is a real `https://drive.google.com/…` (or approved docs host) and passes `cd web && npm run validate:links`
-- [ ] Correct language file and skill-level section (when editing docs)
+- [ ] Correct language file and skill-level section (when editing docs — titles only)
 - [ ] No duplicate titles
 - [ ] Markdown / UI renders correctly
 
