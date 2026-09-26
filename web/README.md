@@ -15,7 +15,7 @@ All dashboard / Vercel config lives in this folder (`web/`). Repository landing 
 | `/library?lang=python` | Full library for that language — search, level filters, book details |
 | `/robots.txt` | Crawler rules (generated) |
 | `/sitemap.xml` | Sitemap for home, library, and language shelves (generated) |
-| `/opengraph-image` | Social / Open Graph preview image (generated) |
+| `/opengraph-image` | Social / Open Graph preview (`app/opengraph-image.png`) |
 
 There is **no language chip bar** on `/library`. Change language via **← Change language** (back to home shelves).
 

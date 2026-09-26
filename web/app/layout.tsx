@@ -34,12 +34,21 @@ export const metadata: Metadata = {
       "Searchable library of programming books by language and skill level. Python, JavaScript, Java, Rust, Go, and more.",
     siteName: "Ultimate Programming Books",
     locale: "en_US",
+    images: [
+      {
+        url: "/og.png",
+        width: 1200,
+        height: 630,
+        alt: "Ultimate Programming Books — 670+ curated books across 32 languages",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Ultimate Programming Books",
     description:
       "Curated programming books for 32 languages — beginner to advanced.",
+    images: ["/og.png"],
   },
   alternates: {
     canonical: siteUrl,
