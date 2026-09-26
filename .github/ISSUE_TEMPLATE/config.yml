@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/sx4im/programming-books-pdf/blob/main/CONTRIBUTING.md
+    about: Read the link policy and entry format before opening an issue.
+  - name: Security policy
+    url: https://github.com/sx4im/programming-books-pdf/blob/main/SECURITY.md
+    about: Report malicious or phishing links privately when possible.

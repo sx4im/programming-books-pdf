@@ -1,0 +1,30 @@
+.wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 2px;
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-pill);
+  background: var(--surface-raised);
+}
+
+.btn,
+.active {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1;
+  height: 28px;
+  padding: 0 10px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+}
+
+.active {
+  background: var(--canvas);
+  color: var(--ink);
+  box-shadow: var(--shadow-sm);
+}

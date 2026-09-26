@@ -1,0 +1,79 @@
+.hero {
+  padding: 48px 0 40px;
+  border-bottom: 1px solid var(--hairline);
+  background: var(--canvas);
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.title {
+  margin: 0;
+  max-width: 18ch;
+  font-size: clamp(28px, 7vw, 56px);
+  font-weight: 600;
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+
+.sub {
+  margin: 16px 0 0;
+  max-width: 36rem;
+  color: var(--muted);
+  font-size: clamp(15px, 2.5vw, 18px);
+  line-height: 1.6;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.primary,
+.secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 16px;
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.primary {
+  background: var(--inverse);
+  color: var(--on-inverse);
+}
+
+.primary:hover {
+  text-decoration: none;
+  opacity: 0.92;
+}
+
+.secondary {
+  background: var(--canvas);
+  color: var(--body);
+  border: 1px solid var(--hairline);
+}
+
+.secondary:hover {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .hero {
+    padding: 80px 0 56px;
+  }
+}

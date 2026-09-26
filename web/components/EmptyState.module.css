@@ -1,0 +1,36 @@
+.wrap {
+  margin: 24px 0 64px;
+  padding: 32px;
+  border: 1px dashed var(--hairline-strong);
+  border-radius: var(--radius-xl);
+  background: var(--surface);
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.body {
+  margin: 8px auto 0;
+  max-width: 32rem;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.action {
+  margin-top: 16px;
+  appearance: none;
+  height: var(--control-h);
+  padding: 0 14px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--hairline);
+  background: var(--canvas);
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
