@@ -189,6 +189,17 @@ Star the project if you use it:
 
 ---
 
+## How to Share
+
+Know someone learning to code? Help them find this library:
+
+- [Share on X (Twitter)](https://twitter.com/intent/tweet?text=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages&url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
+- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf&text=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf&title=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages)
+- [Share on WhatsApp](https://wa.me/?text=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages%20https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
+
 ## License
 
 [MIT](LICENSE) for this repository’s curation and docs — not for third-party book contents.
