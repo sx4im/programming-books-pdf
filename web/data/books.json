@@ -12,7 +12,7 @@
   {
     "id": "python-python-for-everyone",
     "title": "Python for Everyone",
-    "author": "",
+    "author": "Cay S. Horstmann, Rance D. Necaise",
     "language": "python",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -22,7 +22,7 @@
   {
     "id": "python-python-crash-course",
     "title": "Python Crash Course",
-    "author": "",
+    "author": "Eric Matthes",
     "language": "python",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -32,7 +32,7 @@
   {
     "id": "python-automate-the-boring-stuff-with-python",
     "title": "Automate the Boring Stuff with Python",
-    "author": "",
+    "author": "Al Sweigart",
     "language": "python",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -42,7 +42,7 @@
   {
     "id": "python-introducing-python-modern-computing-in-simple-packages",
     "title": "Introducing Python: Modern Computing in Simple Packages",
-    "author": "",
+    "author": "Bill Lubanovic",
     "language": "python",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -52,7 +52,7 @@
   {
     "id": "python-head-first-python",
     "title": "Head First Python",
-    "author": "",
+    "author": "Paul Barry",
     "language": "python",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -62,7 +62,7 @@
   {
     "id": "python-learn-python-3-the-hard-way",
     "title": "Learn Python 3 the Hard Way",
-    "author": "",
+    "author": "Zed Shaw",
     "language": "python",
     "category": "beginner",
     "edition": "5th Edition",
@@ -82,7 +82,7 @@
   {
     "id": "python-the-quick-python-book",
     "title": "The Quick Python Book",
-    "author": "",
+    "author": "Naomi Ceder",
     "language": "python",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -92,7 +92,7 @@
   {
     "id": "python-effective-python-125-specific-ways-to-write-better-python",
     "title": "Effective Python: 125 Specific Ways to Write Better Python",
-    "author": "",
+    "author": "Brett Slatkin",
     "language": "python",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -102,7 +102,7 @@
   {
     "id": "python-refactoring-improving-the-design-of-existing-code",
     "title": "Refactoring: Improving the Design of Existing Code",
-    "author": "",
+    "author": "Martin Fowler",
     "language": "python",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -112,7 +112,7 @@
   {
     "id": "python-clean-architecture-with-python",
     "title": "Clean Architecture with Python",
-    "author": "",
+    "author": "Sam Keen",
     "language": "python",
     "category": "intermediate",
     "edition": "2025 Edition",
@@ -122,7 +122,7 @@
   {
     "id": "python-python-cookbook",
     "title": "Python Cookbook",
-    "author": "",
+    "author": "David Beazley, Brian K. Jones",
     "language": "python",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -132,7 +132,7 @@
   {
     "id": "python-python-distilled",
     "title": "Python Distilled",
-    "author": "",
+    "author": "David M. Beazley",
     "language": "python",
     "category": "intermediate",
     "edition": "Latest Edition",
@@ -142,7 +142,7 @@
   {
     "id": "python-python-tricks-a-buffet-of-awesome-features",
     "title": "Python Tricks: A Buffet of Awesome Features",
-    "author": "",
+    "author": "Dan Bader",
     "language": "python",
     "category": "intermediate",
     "edition": "Latest Edition",
@@ -152,7 +152,7 @@
   {
     "id": "python-clean-code-in-python",
     "title": "Clean Code in Python",
-    "author": "",
+    "author": "Mariano Anaya",
     "language": "python",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -162,7 +162,7 @@
   {
     "id": "python-high-performance-python",
     "title": "High Performance Python",
-    "author": "",
+    "author": "Micha Gorelick, Ian Ozsvald",
     "language": "python",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -172,7 +172,7 @@
   {
     "id": "python-expert-python-programming",
     "title": "Expert Python Programming",
-    "author": "",
+    "author": "Tarek Ziadé",
     "language": "python",
     "category": "advanced",
     "edition": "4th Edition",
@@ -182,7 +182,7 @@
   {
     "id": "python-fluent-python",
     "title": "Fluent Python",
-    "author": "",
+    "author": "Luciano Ramalho",
     "language": "python",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -192,7 +192,7 @@
   {
     "id": "python-serious-python-black-belt-advice-on-deployment-scalability-testing-and-more",
     "title": "Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More",
-    "author": "",
+    "author": "Julien Danjou",
     "language": "python",
     "category": "advanced",
     "edition": "",
@@ -202,7 +202,7 @@
   {
     "id": "python-robust-python",
     "title": "Robust Python",
-    "author": "",
+    "author": "Patrick Viafore",
     "language": "python",
     "category": "advanced",
     "edition": "1st Edition",
@@ -212,7 +212,7 @@
   {
     "id": "python-python-microservices-development",
     "title": "Python Microservices Development",
-    "author": "",
+    "author": "Simon Fraser, Tarek Ziadé",
     "language": "python",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -222,7 +222,7 @@
   {
     "id": "python-python-concurrency-with-asyncio",
     "title": "Python Concurrency with asyncio",
-    "author": "",
+    "author": "Matthew Fowler",
     "language": "python",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -232,7 +232,7 @@
   {
     "id": "python-cpython-internals",
     "title": "CPython Internals",
-    "author": "",
+    "author": "Anthony Shaw",
     "language": "python",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -242,7 +242,7 @@
   {
     "id": "python-python-for-data-analysis",
     "title": "Python for Data Analysis",
-    "author": "",
+    "author": "Wes McKinney",
     "language": "python",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -252,7 +252,7 @@
   {
     "id": "python-python-data-science-handbook",
     "title": "Python Data Science Handbook",
-    "author": "",
+    "author": "Jake VanderPlas",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -262,7 +262,7 @@
   {
     "id": "python-effective-pandas-2",
     "title": "Effective Pandas 2",
-    "author": "",
+    "author": "Matt Harrison",
     "language": "python",
     "category": "specialized",
     "edition": "Latest Edition",
@@ -272,7 +272,7 @@
   {
     "id": "python-building-data-science-applications-with-fastapi",
     "title": "Building Data Science Applications with FastAPI",
-    "author": "",
+    "author": "François Voron",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -282,7 +282,7 @@
   {
     "id": "python-python-for-finance",
     "title": "Python for Finance",
-    "author": "",
+    "author": "Yuxing Yan",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -292,7 +292,7 @@
   {
     "id": "python-advances-in-financial-machine-learning",
     "title": "Advances in Financial Machine Learning",
-    "author": "",
+    "author": "Marcos Lopez de Prado",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -302,7 +302,7 @@
   {
     "id": "python-black-hat-python",
     "title": "Black Hat Python",
-    "author": "",
+    "author": "Justin Seitz, Tim Arnold",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -312,7 +312,7 @@
   {
     "id": "python-python-for-cybersecurity",
     "title": "Python for Cybersecurity",
-    "author": "",
+    "author": "Howard E. Poston",
     "language": "python",
     "category": "specialized",
     "edition": "1st Edition",
@@ -322,7 +322,7 @@
   {
     "id": "python-violent-python",
     "title": "Violent Python",
-    "author": "",
+    "author": "T. J. O'Connor",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -332,7 +332,7 @@
   {
     "id": "python-python-for-devops",
     "title": "Python for DevOps",
-    "author": "",
+    "author": "Noah Gift, Kennedy Behrman, Alfredo Deza",
     "language": "python",
     "category": "specialized",
     "edition": "1st Edition",
@@ -342,7 +342,7 @@
   {
     "id": "python-architecture-patterns-with-python",
     "title": "Architecture Patterns with Python",
-    "author": "",
+    "author": "Harry J.W. Percival, Bob Gregory",
     "language": "python",
     "category": "specialized",
     "edition": "Latest Edition",
@@ -352,7 +352,7 @@
   {
     "id": "python-test-driven-development-with-python",
     "title": "Test-Driven Development with Python",
-    "author": "",
+    "author": "Harry J.W. Percival",
     "language": "python",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -362,7 +362,7 @@
   {
     "id": "python-the-recursive-book-of-recursion",
     "title": "The Recursive Book of Recursion",
-    "author": "",
+    "author": "Al Sweigart",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -372,7 +372,7 @@
   {
     "id": "python-learning-robotics-using-python",
     "title": "Learning Robotics using Python",
-    "author": "",
+    "author": "Lentin Joseph",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -382,7 +382,7 @@
   {
     "id": "python-create-gui-applications-with-python-qt5",
     "title": "Create GUI Applications with Python & Qt5",
-    "author": "",
+    "author": "Martin Fitzpatrick",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -392,7 +392,7 @@
   {
     "id": "python-python-gui-programming-with-tkinter",
     "title": "Python GUI Programming with Tkinter",
-    "author": "",
+    "author": "Alan D. Moore",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -402,7 +402,7 @@
   {
     "id": "python-raspberry-pi-cookbook",
     "title": "Raspberry Pi Cookbook",
-    "author": "",
+    "author": "Simon Monk",
     "language": "python",
     "category": "specialized",
     "edition": "4th Edition",
@@ -412,7 +412,7 @@
   {
     "id": "python-introduction-to-machine-learning-with-python",
     "title": "Introduction to Machine Learning with Python",
-    "author": "",
+    "author": "Andreas C. Müller, Sarah Guido",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -422,7 +422,7 @@
   {
     "id": "python-designing-machine-learning-systems",
     "title": "Designing Machine Learning Systems",
-    "author": "",
+    "author": "Chip Huyen",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -432,7 +432,7 @@
   {
     "id": "python-hands-on-machine-learning-with-scikit-learn-keras-tensorflow",
     "title": "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow",
-    "author": "",
+    "author": "Aurélien Géron",
     "language": "python",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -442,7 +442,7 @@
   {
     "id": "python-machine-learning-engineering-in-action",
     "title": "Machine Learning Engineering in Action",
-    "author": "",
+    "author": "Ben Wilson",
     "language": "python",
     "category": "specialized",
     "edition": "",
@@ -452,7 +452,7 @@
   {
     "id": "python-deep-learning-with-python",
     "title": "Deep Learning with Python",
-    "author": "",
+    "author": "François Chollet, Matthew Watson",
     "language": "python",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -462,7 +462,7 @@
   {
     "id": "python-natural-language-processing-with-transformers",
     "title": "Natural Language Processing with Transformers",
-    "author": "",
+    "author": "Lewis Tunstall, Leandro von Werra, Thomas Wolf",
     "language": "python",
     "category": "specialized",
     "edition": "Revised Edition",
@@ -472,7 +472,7 @@
   {
     "id": "python-build-a-large-language-model-from-scratch",
     "title": "Build a Large Language Model (From Scratch)",
-    "author": "",
+    "author": "Sebastian Raschka",
     "language": "python",
     "category": "specialized",
     "edition": "1st Edition",
@@ -482,7 +482,7 @@
   {
     "id": "python-llm-engineer-s-handbook",
     "title": "LLM Engineer's Handbook",
-    "author": "",
+    "author": "Paul Iusztin, Maxime Labonne, Alex Vesa",
     "language": "python",
     "category": "specialized",
     "edition": "1st Edition",
@@ -532,7 +532,7 @@
   {
     "id": "python-generative-ai-with-python-and-pytorch",
     "title": "Generative AI with Python and PyTorch",
-    "author": "",
+    "author": "Joseph Babcock, Raghav Bali",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -542,7 +542,7 @@
   {
     "id": "python-flask-web-development",
     "title": "Flask Web Development",
-    "author": "",
+    "author": "Miguel Grinberg",
     "language": "python",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -552,7 +552,7 @@
   {
     "id": "python-django-for-professional",
     "title": "Django for Professional",
-    "author": "",
+    "author": "William S. Vincent",
     "language": "python",
     "category": "specialized",
     "edition": "4.0 Edition",
@@ -562,7 +562,7 @@
   {
     "id": "python-fastapi-modern-python-web-development",
     "title": "FastAPI: Modern Python Web Development",
-    "author": "",
+    "author": "Bill Lubanovic",
     "language": "python",
     "category": "specialized",
     "edition": "1st Edition",
@@ -572,7 +572,7 @@
   {
     "id": "python-two-scoops-of-django",
     "title": "Two Scoops of Django",
-    "author": "",
+    "author": "Daniel Roy Greenfeld, Audrey Roy Greenfeld",
     "language": "python",
     "category": "specialized",
     "edition": "*3.x Edition*",
@@ -582,7 +582,7 @@
   {
     "id": "python-python-pocket-reference",
     "title": "Python Pocket Reference",
-    "author": "",
+    "author": "Mark Lutz",
     "language": "python",
     "category": "references",
     "edition": "5th Edition",
@@ -592,7 +592,7 @@
   {
     "id": "python-python-testing-with-pytest",
     "title": "Python Testing with pytest",
-    "author": "",
+    "author": "Brian Okken",
     "language": "python",
     "category": "references",
     "edition": "2nd Edition",
@@ -602,7 +602,7 @@
   {
     "id": "python-beyond-the-basic-stuff-with-python",
     "title": "Beyond the Basic Stuff with Python",
-    "author": "",
+    "author": "Al Sweigart",
     "language": "python",
     "category": "references",
     "edition": "First & only edition",
@@ -612,7 +612,7 @@
   {
     "id": "python-the-python-3-standard-library-by-example",
     "title": "The Python 3 Standard Library by Example",
-    "author": "",
+    "author": "Doug Hellmann",
     "language": "python",
     "category": "references",
     "edition": "First & only edition",
@@ -622,7 +622,7 @@
   {
     "id": "python-learning-python",
     "title": "Learning Python",
-    "author": "",
+    "author": "Mark Lutz",
     "language": "python",
     "category": "references",
     "edition": "5th Edition",
@@ -632,7 +632,7 @@
   {
     "id": "javascript-javascript-from-beginner-to-professional",
     "title": "JavaScript from Beginner to Professional",
-    "author": "",
+    "author": "Laurence Lars Svekis, Maaike van Putten, Rob Percival",
     "language": "javascript",
     "category": "beginner",
     "edition": "1st Edition",
@@ -642,7 +642,7 @@
   {
     "id": "javascript-eloquent-javascript",
     "title": "Eloquent JavaScript",
-    "author": "",
+    "author": "Marijn Haverbeke",
     "language": "javascript",
     "category": "beginner",
     "edition": "4th Edition",
@@ -652,7 +652,7 @@
   {
     "id": "javascript-head-first-javascript-programming",
     "title": "Head First JavaScript Programming",
-    "author": "",
+    "author": "Eric T. Freeman, Elisabeth Robson",
     "language": "javascript",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -662,7 +662,7 @@
   {
     "id": "javascript-a-smarter-way-to-learn-javascript",
     "title": "A Smarter Way to Learn JavaScript",
-    "author": "",
+    "author": "Mark Myers",
     "language": "javascript",
     "category": "beginner",
     "edition": "1st Edition",
@@ -672,7 +672,7 @@
   {
     "id": "javascript-learn-javascript-quickly",
     "title": "Learn JavaScript Quickly",
-    "author": "",
+    "author": "Code Quickly",
     "language": "javascript",
     "category": "beginner",
     "edition": "2025 Edition",
@@ -682,7 +682,7 @@
   {
     "id": "javascript-you-don-t-know-js-yet-series",
     "title": "You Don't Know JS Yet Series",
-    "author": "",
+    "author": "Kyle Simpson",
     "language": "javascript",
     "category": "intermediate",
     "edition": "Complete Series",
@@ -692,7 +692,7 @@
   {
     "id": "javascript-javascript-the-good-parts",
     "title": "JavaScript: The Good Parts",
-    "author": "",
+    "author": "Douglas Crockford",
     "language": "javascript",
     "category": "intermediate",
     "edition": "Latest Edition",
@@ -702,7 +702,7 @@
   {
     "id": "javascript-effective-javascript-68-specific-ways-to-harness-the-power-of-javascript",
     "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
-    "author": "",
+    "author": "David Herman",
     "language": "javascript",
     "category": "intermediate",
     "edition": "",
@@ -712,7 +712,7 @@
   {
     "id": "javascript-exploring-javascript",
     "title": "Exploring JavaScript",
-    "author": "",
+    "author": "Axel Rauschmayer",
     "language": "javascript",
     "category": "intermediate",
     "edition": "ES2024 Edition",
@@ -722,7 +722,7 @@
   {
     "id": "javascript-the-principles-of-object-oriented-javascript",
     "title": "The Principles of Object-Oriented JavaScript",
-    "author": "",
+    "author": "Nicholas C. Zakas",
     "language": "javascript",
     "category": "intermediate",
     "edition": "First & only edition",
@@ -732,7 +732,7 @@
   {
     "id": "javascript-learning-javascript-javascript-essentials-for-modern-application-development",
     "title": "Learning JavaScript: JavaScript Essentials for Modern Application Development",
-    "author": "",
+    "author": "Ethan Brown",
     "language": "javascript",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -742,7 +742,7 @@
   {
     "id": "javascript-clean-code-in-javascript",
     "title": "Clean Code in JavaScript",
-    "author": "",
+    "author": "James Padolsey",
     "language": "javascript",
     "category": "intermediate",
     "edition": "First & only edition",
@@ -752,7 +752,7 @@
   {
     "id": "javascript-understanding-ecmascript-6",
     "title": "Understanding ECMAScript 6",
-    "author": "",
+    "author": "Nicholas C. Zakas",
     "language": "javascript",
     "category": "intermediate",
     "edition": "2016 Edition",
@@ -762,7 +762,7 @@
   {
     "id": "javascript-maintainable-javascript",
     "title": "Maintainable JavaScript",
-    "author": "",
+    "author": "Nicholas C. Zakas",
     "language": "javascript",
     "category": "intermediate",
     "edition": "2012 Edition",
@@ -772,7 +772,7 @@
   {
     "id": "javascript-high-performance-javascript",
     "title": "High Performance JavaScript",
-    "author": "",
+    "author": "Nicholas C. Zakas",
     "language": "javascript",
     "category": "intermediate",
     "edition": "2010 Edition",
@@ -782,7 +782,7 @@
   {
     "id": "javascript-functional-light-javascript",
     "title": "Functional-Light JavaScript",
-    "author": "",
+    "author": "Kyle Simpson",
     "language": "javascript",
     "category": "advanced",
     "edition": "",
@@ -792,7 +792,7 @@
   {
     "id": "javascript-learning-javascript-design-patterns",
     "title": "Learning JavaScript Design Patterns",
-    "author": "",
+    "author": "Addy Osmani",
     "language": "javascript",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -802,7 +802,7 @@
   {
     "id": "javascript-just-javascript",
     "title": "Just JavaScript",
-    "author": "",
+    "author": "Ian Elliot",
     "language": "javascript",
     "category": "advanced",
     "edition": "First & only edition",
@@ -812,7 +812,7 @@
   {
     "id": "javascript-professor-frisby-s-mostly-adequate-guide-to-functional-programming",
     "title": "Professor Frisby's Mostly Adequate Guide to Functional Programming",
-    "author": "",
+    "author": "Brian Lonsdorf",
     "language": "javascript",
     "category": "advanced",
     "edition": "",
@@ -822,7 +822,7 @@
   {
     "id": "javascript-deep-javascript-theory-and-techniques",
     "title": "Deep JavaScript: Theory and Techniques",
-    "author": "",
+    "author": "Axel Rauschmayer",
     "language": "javascript",
     "category": "advanced",
     "edition": "First & only edition",
@@ -832,7 +832,7 @@
   {
     "id": "javascript-secrets-of-the-javascript-ninja",
     "title": "Secrets of the JavaScript Ninja",
-    "author": "",
+    "author": "John Resig, Bear Bibeault, Josip Maras",
     "language": "javascript",
     "category": "advanced",
     "edition": "3rd Edition",
@@ -842,7 +842,7 @@
   {
     "id": "javascript-hands-on-javascript-high-performance",
     "title": "Hands-On JavaScript High Performance",
-    "author": "",
+    "author": "Justin Scherer",
     "language": "javascript",
     "category": "advanced",
     "edition": "First & only edition",
@@ -852,7 +852,7 @@
   {
     "id": "javascript-multithreaded-javascript",
     "title": "Multithreaded JavaScript",
-    "author": "",
+    "author": "Thomas Hunter II, Bryan English",
     "language": "javascript",
     "category": "advanced",
     "edition": "First & only edition",
@@ -862,7 +862,7 @@
   {
     "id": "javascript-the-road-to-react",
     "title": "The Road to React",
-    "author": "",
+    "author": "Robin Wieruch",
     "language": "javascript",
     "category": "specialized",
     "edition": "2025 Edition",
@@ -872,7 +872,7 @@
   {
     "id": "javascript-efficient-node-js-a-beyond-the-basics-guide",
     "title": "Efficient Node.js: A Beyond-the-Basics Guide",
-    "author": "",
+    "author": "Samer Buna",
     "language": "javascript",
     "category": "specialized",
     "edition": "First & only edition",
@@ -882,7 +882,7 @@
   {
     "id": "javascript-web-development-with-node-and-express",
     "title": "Web Development with Node and Express",
-    "author": "",
+    "author": "Ethan Brown",
     "language": "javascript",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -892,7 +892,7 @@
   {
     "id": "javascript-learning-react",
     "title": "Learning React",
-    "author": "",
+    "author": "Kirupa Chinnathambi",
     "language": "javascript",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -902,7 +902,7 @@
   {
     "id": "javascript-fullstack-vue",
     "title": "Fullstack Vue",
-    "author": "",
+    "author": "Hassan Djirdeh, Nate Murray, Ari Lerner",
     "language": "javascript",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -912,17 +912,17 @@
   {
     "id": "javascript-web-security-for-developers",
     "title": "Web Security for Developers",
-    "author": "",
+    "author": "Malcolm McDonald",
     "language": "javascript",
     "category": "specialized",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1O3KspVdZxUyb4Jh-hSRia1z1Byn4KK4W/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/14566977-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1593279949.01.L.jpg"
   },
   {
     "id": "javascript-node-js-design-patterns",
     "title": "Node.js Design Patterns",
-    "author": "",
+    "author": "Mario Casciaro, Luciano Mammino",
     "language": "javascript",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -932,7 +932,7 @@
   {
     "id": "javascript-distributed-systems-with-node-js",
     "title": "Distributed Systems with Node.js",
-    "author": "",
+    "author": "Thomas Hunter II",
     "language": "javascript",
     "category": "specialized",
     "edition": "",
@@ -942,7 +942,7 @@
   {
     "id": "javascript-node-js-cookbook",
     "title": "Node.js Cookbook",
-    "author": "",
+    "author": "Bethany Griggs, Manuel Spigolon",
     "language": "javascript",
     "category": "specialized",
     "edition": "5th Edition",
@@ -952,7 +952,7 @@
   {
     "id": "javascript-learning-patterns",
     "title": "Learning Patterns",
-    "author": "",
+    "author": "Lydia Hallie, Addy Osmani",
     "language": "javascript",
     "category": "specialized",
     "edition": "Latest Edition",
@@ -962,7 +962,7 @@
   {
     "id": "javascript-react-native-in-action",
     "title": "React Native in Action",
-    "author": "",
+    "author": "Nader Dabit",
     "language": "javascript",
     "category": "specialized",
     "edition": "2019 Edition",
@@ -972,7 +972,7 @@
   {
     "id": "javascript-javascript-for-data-science",
     "title": "JavaScript for data science",
-    "author": "",
+    "author": "Maya Gans, Toby Hodges, Greg Wilson",
     "language": "javascript",
     "category": "specialized",
     "edition": "2020 Edition",
@@ -982,7 +982,7 @@
   {
     "id": "javascript-generative-art-in-javascript",
     "title": "Generative Art in JavaScript",
-    "author": "",
+    "author": "David Matthew",
     "language": "javascript",
     "category": "specialized",
     "edition": "Latest Edition",
@@ -992,7 +992,7 @@
   {
     "id": "javascript-testing-javascript-applications",
     "title": "Testing JavaScript Applications",
-    "author": "",
+    "author": "Lucas da Costa",
     "language": "javascript",
     "category": "specialized",
     "edition": "2021 Edition",
@@ -1002,7 +1002,7 @@
   {
     "id": "javascript-composing-software",
     "title": "Composing Software",
-    "author": "",
+    "author": "Eric Elliott",
     "language": "javascript",
     "category": "specialized",
     "edition": "1st edition, 2018",
@@ -1012,7 +1012,7 @@
   {
     "id": "javascript-real-time-3d-graphics-with-webgl-2",
     "title": "Real-Time 3D Graphics with WebGL 2",
-    "author": "",
+    "author": "Farhad Ghayour, Diego Cantor",
     "language": "javascript",
     "category": "specialized",
     "edition": "2nd edition",
@@ -1022,7 +1022,7 @@
   {
     "id": "javascript-llm-engineer-s-handbook",
     "title": "LLM Engineer's Handbook",
-    "author": "",
+    "author": "Paul Iusztin, Maxime Labonne, Alex Vesa",
     "language": "javascript",
     "category": "specialized",
     "edition": "1st Edition",
@@ -1032,7 +1032,7 @@
   {
     "id": "javascript-learn-three-js",
     "title": "Learn Three.js",
-    "author": "",
+    "author": "Jos Dirksen",
     "language": "javascript",
     "category": "specialized",
     "edition": "4th Edition",
@@ -1042,7 +1042,7 @@
   {
     "id": "javascript-deep-learning-with-javascript",
     "title": "Deep Learning with JavaScript",
-    "author": "",
+    "author": "Shanqing Cai, Stanley Bileschi, Eric D. Nielsen",
     "language": "javascript",
     "category": "specialized",
     "edition": "1st edition, 2020",
@@ -1052,7 +1052,7 @@
   {
     "id": "javascript-browser-machine-learning-mastery",
     "title": "Browser Machine Learning Mastery",
-    "author": "",
+    "author": "Aura Fenwick",
     "language": "javascript",
     "category": "specialized",
     "edition": "2025 Edition",
@@ -1072,7 +1072,7 @@
   {
     "id": "javascript-javascript-the-definitive-guide",
     "title": "JavaScript: The Definitive Guide",
-    "author": "",
+    "author": "David Flanagan",
     "language": "javascript",
     "category": "references",
     "edition": "7th Edition",
@@ -1082,7 +1082,7 @@
   {
     "id": "javascript-professional-javascript-for-web-developers",
     "title": "Professional JavaScript for Web Developers",
-    "author": "",
+    "author": "Matt Frisbie",
     "language": "javascript",
     "category": "references",
     "edition": "5th Edition",
@@ -1102,7 +1102,7 @@
   {
     "id": "javascript-javascript-allong",
     "title": "JavaScript Allongé",
-    "author": "",
+    "author": "Reginald Braithwaite",
     "language": "javascript",
     "category": "references",
     "edition": "First & only edition",
@@ -1132,7 +1132,7 @@
   {
     "id": "javascript-javascript-pocket-reference",
     "title": "JavaScript Pocket Reference",
-    "author": "",
+    "author": "David Flanagan",
     "language": "javascript",
     "category": "references",
     "edition": "3rd Edition",
@@ -1142,7 +1142,7 @@
   {
     "id": "java-think-java",
     "title": "Think Java",
-    "author": "",
+    "author": "Allen B. Downey, Chris Mayfield",
     "language": "java",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -1152,7 +1152,7 @@
   {
     "id": "java-java-23-for-absolute-beginners",
     "title": "Java 23 for Absolute Beginners",
-    "author": "",
+    "author": "Iuliana Cosmina",
     "language": "java",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -1162,7 +1162,7 @@
   {
     "id": "java-java-programming-from-problem-analysis-to-program-design",
     "title": "Java Programming: From Problem Analysis to Program Design",
-    "author": "",
+    "author": "D.S. Malik",
     "language": "java",
     "category": "beginner",
     "edition": "5th Edition",
@@ -1172,7 +1172,7 @@
   {
     "id": "java-beginning-java-programming",
     "title": "Beginning Java Programming",
-    "author": "",
+    "author": "Bart Baesens, Aimée Backiel, Seppe vanden Broucke",
     "language": "java",
     "category": "beginner",
     "edition": "7th Edition - 2011",
@@ -1182,7 +1182,7 @@
   {
     "id": "java-head-first-java",
     "title": "Head First Java",
-    "author": "",
+    "author": "Kathy Sierra, Bert Bates, Trisha Gee",
     "language": "java",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -1192,7 +1192,7 @@
   {
     "id": "java-java-a-beginner-s-guide",
     "title": "Java: A Beginner's Guide",
-    "author": "",
+    "author": "Herbert Schildt",
     "language": "java",
     "category": "beginner",
     "edition": "9th Edition",
@@ -1202,7 +1202,7 @@
   {
     "id": "java-learning-java",
     "title": "Learning Java",
-    "author": "",
+    "author": "Marc Loy, Patrick Niemeyer, Daniel Leuck",
     "language": "java",
     "category": "beginner",
     "edition": "5th Edition",
@@ -1212,7 +1212,7 @@
   {
     "id": "java-head-first-design-patterns",
     "title": "Head First Design Patterns",
-    "author": "",
+    "author": "Eric Freeman, Elisabeth Robson",
     "language": "java",
     "category": "intermediate",
     "edition": "2nd Edition - 2020",
@@ -1222,7 +1222,7 @@
   {
     "id": "java-effective-java",
     "title": "Effective Java",
-    "author": "",
+    "author": "Joshua Bloch",
     "language": "java",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -1232,7 +1232,7 @@
   {
     "id": "java-java-cookbook",
     "title": "Java Cookbook",
-    "author": "",
+    "author": "Ian F. Darwin",
     "language": "java",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -1242,7 +1242,7 @@
   {
     "id": "java-refactoring-improving-the-design-of-existing-code",
     "title": "Refactoring: Improving the Design of Existing Code",
-    "author": "",
+    "author": "Martin Fowler",
     "language": "java",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -1252,7 +1252,7 @@
   {
     "id": "java-clean-code-a-handbook-of-agile-software-craftsmanship",
     "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-    "author": "",
+    "author": "Robert C. Martin",
     "language": "java",
     "category": "intermediate",
     "edition": "First & only edition",
@@ -1262,7 +1262,7 @@
   {
     "id": "java-core-java-volume-i-fundamentals",
     "title": "Core Java Volume I — Fundamentals",
-    "author": "",
+    "author": "Cay S. Horstmann",
     "language": "java",
     "category": "intermediate",
     "edition": "13th Edition",
@@ -1272,7 +1272,7 @@
   {
     "id": "java-core-java-volume-ii-advanced-features",
     "title": "Core Java Volume II — Advanced Features",
-    "author": "",
+    "author": "Cay S. Horstmann",
     "language": "java",
     "category": "intermediate",
     "edition": "13th Edition",
@@ -1282,7 +1282,7 @@
   {
     "id": "java-the-well-grounded-java-developer",
     "title": "The Well-Grounded Java Developer",
-    "author": "",
+    "author": "Benjamin J. Evans, Jason Clark, Martijn Verburg",
     "language": "java",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -1292,7 +1292,7 @@
   {
     "id": "java-100-java-mistakes-and-how-to-avoid-them",
     "title": "100 Java Mistakes and How to Avoid Them",
-    "author": "",
+    "author": "Tagir Valeev",
     "language": "java",
     "category": "intermediate",
     "edition": "2023 Edition",
@@ -1322,7 +1322,7 @@
   {
     "id": "java-test-driven-development-by-example",
     "title": "Test-Driven Development: By Example",
-    "author": "",
+    "author": "Kent Beck",
     "language": "java",
     "category": "advanced",
     "edition": "1st Edition",
@@ -1372,7 +1372,7 @@
   {
     "id": "java-effective-unit-testing",
     "title": "Effective Unit Testing",
-    "author": "",
+    "author": "Lasse Koskela",
     "language": "java",
     "category": "advanced",
     "edition": "First & only edition",
@@ -1382,7 +1382,7 @@
   {
     "id": "java-oracle-certified-professional-java-se-21-developer-study",
     "title": "Oracle Certified Professional Java SE 21 Developer Study",
-    "author": "",
+    "author": "Jeanne Boyarsky, Scott Selikoff",
     "language": "java",
     "category": "advanced",
     "edition": "Official Modern Reference",
@@ -1392,7 +1392,7 @@
   {
     "id": "java-patterns-of-enterprise-application-architecture-peaa",
     "title": "Patterns of Enterprise Application Architecture (PEAA)",
-    "author": "",
+    "author": "Martin Fowler",
     "language": "java",
     "category": "advanced",
     "edition": "First & only edition",
@@ -1402,7 +1402,7 @@
   {
     "id": "java-java-concurrency-in-practice",
     "title": "Java Concurrency in Practice",
-    "author": "",
+    "author": "Brian Goetz, Joshua Bloch, Joseph Bowbeer",
     "language": "java",
     "category": "advanced",
     "edition": "First & only edition",
@@ -1412,7 +1412,7 @@
   {
     "id": "java-agile-software-development-principles-patterns-and-practices",
     "title": "Agile Software Development, Principles, Patterns, and Practices",
-    "author": "",
+    "author": "Robert C. Martin",
     "language": "java",
     "category": "advanced",
     "edition": "First & only edition",
@@ -1422,7 +1422,7 @@
   {
     "id": "java-java-performance-in-depth-advice-for-tuning-and-optimization",
     "title": "Java Performance: In-Depth Advice for Tuning and Optimization",
-    "author": "",
+    "author": "Scott Oaks",
     "language": "java",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -1432,7 +1432,7 @@
   {
     "id": "java-modern-java-in-action",
     "title": "Modern Java in Action",
-    "author": "",
+    "author": "Raoul-Gabriel Urma, Alan Mycroft, Mario Fusco",
     "language": "java",
     "category": "advanced",
     "edition": "First & only edition",
@@ -1442,7 +1442,7 @@
   {
     "id": "java-java-puzzlers-traps-pitfalls-and-corner-cases",
     "title": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
-    "author": "",
+    "author": "Joshua Bloch, Neal Gafter",
     "language": "java",
     "category": "advanced",
     "edition": "First & only edition",
@@ -1452,7 +1452,7 @@
   {
     "id": "java-release-it-design-and-deploy-production-ready-software",
     "title": "Release It!: Design and Deploy Production-Ready Software",
-    "author": "",
+    "author": "Michael T. Nygard",
     "language": "java",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -1462,7 +1462,7 @@
   {
     "id": "java-design-patterns-elements-of-reusable-object-oriented-software",
     "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
-    "author": "",
+    "author": "Erich Gamma, John Vlissides, Richard Helm",
     "language": "java",
     "category": "advanced",
     "edition": "1994 edition",
@@ -1472,7 +1472,7 @@
   {
     "id": "java-java-performance-companion",
     "title": "Java Performance Companion",
-    "author": "",
+    "author": "Charlie Hunt, Monica Beckwith, Poonam Parhar",
     "language": "java",
     "category": "specialized",
     "edition": "First & only edition",
@@ -1482,7 +1482,7 @@
   {
     "id": "java-java-memory-management",
     "title": "Java Memory Management",
-    "author": "",
+    "author": "Maaike van Putten, Sean Kennedy",
     "language": "java",
     "category": "specialized",
     "edition": "First & only edition",
@@ -1492,7 +1492,7 @@
   {
     "id": "java-spring-boot-in-practice",
     "title": "Spring Boot in Practice",
-    "author": "",
+    "author": "Somnath Musib",
     "language": "java",
     "category": "specialized",
     "edition": "2022 Edition",
@@ -1502,7 +1502,7 @@
   {
     "id": "java-spring-in-action",
     "title": "Spring in Action",
-    "author": "",
+    "author": "Craig Walls",
     "language": "java",
     "category": "specialized",
     "edition": "6th Edition",
@@ -1512,7 +1512,7 @@
   {
     "id": "java-optimizing-cloud-native-java",
     "title": "Optimizing Cloud Native Java",
-    "author": "",
+    "author": "Benjamin J. Evans, James Gough",
     "language": "java",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -1522,7 +1522,7 @@
   {
     "id": "java-spring-security-in-action",
     "title": "Spring Security in Action",
-    "author": "",
+    "author": "Laurentiu Spilca",
     "language": "java",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -1532,7 +1532,7 @@
   {
     "id": "java-designing-data-intensive-applications",
     "title": "Designing Data-Intensive Applications",
-    "author": "",
+    "author": "Martin Kleppmann",
     "language": "java",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -1712,7 +1712,7 @@
   {
     "id": "java-test-driven-java-development",
     "title": "Test-Driven Java Development",
-    "author": "",
+    "author": "Alex Garcia, Viktor Farcic",
     "language": "java",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -1722,7 +1722,7 @@
   {
     "id": "java-java-persistence-with-spring-data-and-hibernate",
     "title": "Java Persistence with Spring Data and Hibernate",
-    "author": "",
+    "author": "Catalin Tudose",
     "language": "java",
     "category": "specialized",
     "edition": "2023 Edition",
@@ -1742,7 +1742,7 @@
   {
     "id": "java-quarkus-in-action",
     "title": "Quarkus in Action",
-    "author": "",
+    "author": "Martin Stefanko, Jan Martiska",
     "language": "java",
     "category": "specialized",
     "edition": "1st Edition - 2025",
@@ -1752,7 +1752,7 @@
   {
     "id": "java-the-java-language-specification",
     "title": "The Java Language Specification",
-    "author": "",
+    "author": "James Gosling, Bill Joy, Guy L. Steele Jr.",
     "language": "java",
     "category": "specialized",
     "edition": "Java SE 19 Edition",
@@ -1762,7 +1762,7 @@
   {
     "id": "java-spring-microservices-in-action",
     "title": "Spring Microservices in Action",
-    "author": "",
+    "author": "John Carnell, Illary Huaylupo Sánchez",
     "language": "java",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -1772,7 +1772,7 @@
   {
     "id": "java-high-performance-java-persistence",
     "title": "High-Performance Java Persistence",
-    "author": "",
+    "author": "Vlad Mihalcea",
     "language": "java",
     "category": "specialized",
     "edition": "New Edition",
@@ -1782,7 +1782,7 @@
   {
     "id": "java-junit-in-action",
     "title": "JUnit in Action",
-    "author": "",
+    "author": "Cătălin Tudose",
     "language": "java",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -1812,7 +1812,7 @@
   {
     "id": "java-the-art-of-multiprocessor-programming",
     "title": "The Art of Multiprocessor Programming",
-    "author": "",
+    "author": "Maurice Herlihy, Nir Shavit, Victor Luchangco, Michael Spear",
     "language": "java",
     "category": "references",
     "edition": "2nd Edition",
@@ -1862,7 +1862,7 @@
   {
     "id": "java-java-the-complete-reference",
     "title": "Java: The Complete Reference",
-    "author": "",
+    "author": "Herbert Schildt",
     "language": "java",
     "category": "references",
     "edition": "13th Edition",
@@ -1872,7 +1872,7 @@
   {
     "id": "java-java-in-a-nutshell",
     "title": "Java in a Nutshell",
-    "author": "",
+    "author": "Benjamin J. Evans, Jason Clark, David Flanagan",
     "language": "java",
     "category": "references",
     "edition": "8th Edition",
@@ -1882,7 +1882,7 @@
   {
     "id": "java-java-pocket-guide",
     "title": "Java Pocket Guide",
-    "author": "",
+    "author": "Robert Liguori, Patricia Liguori",
     "language": "java",
     "category": "references",
     "edition": "5th Edition",
@@ -1892,7 +1892,7 @@
   {
     "id": "csharp-head-first-c",
     "title": "Head First C#",
-    "author": "",
+    "author": "Andrew Stellman, Jennifer Greene",
     "language": "csharp",
     "category": "beginner",
     "edition": "5th Edition",
@@ -1902,7 +1902,7 @@
   {
     "id": "csharp-essential-c-12-0",
     "title": "Essential C# 12.0",
-    "author": "",
+    "author": "Mark Michaelis",
     "language": "csharp",
     "category": "beginner",
     "edition": "8th Edition",
@@ -1912,7 +1912,7 @@
   {
     "id": "csharp-c-13-and-net-9-modern-cross-platform-development-fundamentals",
     "title": "C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals",
-    "author": "",
+    "author": "Mark J. Price",
     "language": "csharp",
     "category": "beginner",
     "edition": "9th Edition - 2024",
@@ -1922,7 +1922,7 @@
   {
     "id": "csharp-c-14-and-net-10-modern-cross-platform-development-fundamentals",
     "title": "C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals",
-    "author": "",
+    "author": "Mark J. Price",
     "language": "csharp",
     "category": "beginner",
     "edition": "10th Edition - 2025",
@@ -1932,7 +1932,7 @@
   {
     "id": "csharp-the-c-player-s-guide",
     "title": "The C# Player's Guide",
-    "author": "",
+    "author": "RB Whitaker",
     "language": "csharp",
     "category": "beginner",
     "edition": "5th Edition",
@@ -1952,7 +1952,7 @@
   {
     "id": "csharp-illustrated-c",
     "title": "Illustrated C#",
-    "author": "",
+    "author": "Daniel Solis, Cal Schrotenboer",
     "language": "csharp",
     "category": "beginner",
     "edition": "5th Edition",
@@ -1962,7 +1962,7 @@
   {
     "id": "csharp-c-in-depth",
     "title": "C# in Depth",
-    "author": "",
+    "author": "Jon Skeet",
     "language": "csharp",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -1972,7 +1972,7 @@
   {
     "id": "csharp-effective-c",
     "title": "Effective C#",
-    "author": "",
+    "author": "Bill Wagner",
     "language": "csharp",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -1982,7 +1982,7 @@
   {
     "id": "csharp-concurrency-in-c-cookbook",
     "title": "Concurrency in C# Cookbook",
-    "author": "",
+    "author": "Stephen Cleary",
     "language": "csharp",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -1992,7 +1992,7 @@
   {
     "id": "csharp-unit-testing-principles-practices-and-patterns",
     "title": "Unit Testing Principles, Practices, and Patterns",
-    "author": "",
+    "author": "Vladimir Khorikov",
     "language": "csharp",
     "category": "intermediate",
     "edition": "2020 Edition",
@@ -2002,7 +2002,7 @@
   {
     "id": "csharp-pro-asp-net-core-6",
     "title": "Pro ASP.NET Core 6",
-    "author": "",
+    "author": "Adam Freeman",
     "language": "csharp",
     "category": "intermediate",
     "edition": "9th Edition",
@@ -2012,7 +2012,7 @@
   {
     "id": "csharp-pro-c-10-with-net-6",
     "title": "Pro C# 10 with .NET 6",
-    "author": "",
+    "author": "Andrew Troelsen, Philip Japikse",
     "language": "csharp",
     "category": "intermediate",
     "edition": "11th Edition",
@@ -2022,7 +2022,7 @@
   {
     "id": "csharp-clean-code-in-c",
     "title": "Clean Code in C#",
-    "author": "",
+    "author": "Jason Alls",
     "language": "csharp",
     "category": "intermediate",
     "edition": "2020 Edition",
@@ -2032,7 +2032,7 @@
   {
     "id": "csharp-software-architecture-with-c-12-and-net-8",
     "title": "Software Architecture with C# 12 and .NET 8",
-    "author": "",
+    "author": "Gabriel Baptista, Francesco Abbruzzese",
     "language": "csharp",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -2042,7 +2042,7 @@
   {
     "id": "csharp-pragmatic-microservices-with-c-and-azure",
     "title": "Pragmatic Microservices with C# and Azure",
-    "author": "",
+    "author": "Christian Nagel",
     "language": "csharp",
     "category": "intermediate",
     "edition": "2024 Release",
@@ -2052,7 +2052,7 @@
   {
     "id": "csharp-pro-net-memory-management",
     "title": "Pro .NET Memory Management",
-    "author": "",
+    "author": "Konrad Kokosa",
     "language": "csharp",
     "category": "advanced",
     "edition": "2nd edition",
@@ -2062,7 +2062,7 @@
   {
     "id": "csharp-writing-high-performance-net-code",
     "title": "Writing High-Performance .NET Code",
-    "author": "",
+    "author": "Ben Watson",
     "language": "csharp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2072,7 +2072,7 @@
   {
     "id": "csharp-more-effective-c-50-specific-ways-to-improve-your-c",
     "title": "More Effective C#: 50 Specific Ways to Improve Your C#",
-    "author": "",
+    "author": "Bill Wagner",
     "language": "csharp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2082,7 +2082,7 @@
   {
     "id": "csharp-xunit-test-patterns-refactoring-test-code",
     "title": "xUnit Test Patterns: Refactoring Test Code",
-    "author": "",
+    "author": "Gerard Meszaros",
     "language": "csharp",
     "category": "advanced",
     "edition": "2007 Edition",
@@ -2092,7 +2092,7 @@
   {
     "id": "csharp-clr-via-c",
     "title": "CLR via C#",
-    "author": "",
+    "author": "Jeffrey Richter",
     "language": "csharp",
     "category": "advanced",
     "edition": "4th Edition",
@@ -2102,7 +2102,7 @@
   {
     "id": "csharp-framework-design-guidelines-conventions-idioms-and-patterns-for-reusable-net-lib",
     "title": "Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries",
-    "author": "",
+    "author": "Krzysztof Cwalina, Jeremy Barton, Brad Abrams",
     "language": "csharp",
     "category": "advanced",
     "edition": "3rd Edition",
@@ -2112,7 +2112,7 @@
   {
     "id": "csharp-the-art-of-unit-testing",
     "title": "The Art of Unit Testing",
-    "author": "",
+    "author": "Roy Osherove",
     "language": "csharp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2122,7 +2122,7 @@
   {
     "id": "csharp-adaptive-code-agile-coding-with-design-patterns-and-solid-principles",
     "title": "Adaptive Code: Agile coding with design patterns and SOLID principles",
-    "author": "",
+    "author": "Gary McLean Hall",
     "language": "csharp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2132,7 +2132,7 @@
   {
     "id": "csharp-dependency-injection-principles-practices-and-patterns",
     "title": "Dependency Injection Principles, Practices, and Patterns",
-    "author": "",
+    "author": "Mark Seemann, Steven van Deursen",
     "language": "csharp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2142,7 +2142,7 @@
   {
     "id": "csharp-clean-architecture-a-craftsman-s-guide-to-software-structure-and-design",
     "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
-    "author": "",
+    "author": "Robert C. Martin",
     "language": "csharp",
     "category": "advanced",
     "edition": "First & only edition",
@@ -2152,7 +2152,7 @@
   {
     "id": "csharp-architecting-modern-web-applications-with-asp-net-core-and-azure",
     "title": "Architecting Modern Web Applications with ASP.NET Core and Azure",
-    "author": "",
+    "author": "Steve Smith",
     "language": "csharp",
     "category": "specialized",
     "edition": "Edition - 2022",
@@ -2162,7 +2162,7 @@
   {
     "id": "csharp-building-ai-applications-with-microsoft-semantic-kernel",
     "title": "Building AI Applications with Microsoft Semantic Kernel",
-    "author": "",
+    "author": "Lucas A. Meyer",
     "language": "csharp",
     "category": "specialized",
     "edition": "2024 Release",
@@ -2172,7 +2172,7 @@
   {
     "id": "csharp-web-development-with-blazor",
     "title": "Web Development with Blazor",
-    "author": "",
+    "author": "Jimmy Engström",
     "language": "csharp",
     "category": "specialized",
     "edition": "3rd Edition - Updated for .NET 9",
@@ -2182,7 +2182,7 @@
   {
     "id": "csharp-net-internals-cookbook",
     "title": ".NET Internals Cookbook",
-    "author": "",
+    "author": "Adam Furmanek",
     "language": "csharp",
     "category": "specialized",
     "edition": "",
@@ -2192,7 +2192,7 @@
   {
     "id": "csharp-unity-in-action",
     "title": "Unity in Action",
-    "author": "",
+    "author": "Joe Hocking",
     "language": "csharp",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -2202,7 +2202,7 @@
   {
     "id": "csharp-asp-net-core-in-action",
     "title": "ASP.NET Core in Action",
-    "author": "",
+    "author": "Andrew Lock",
     "language": "csharp",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -2212,7 +2212,7 @@
   {
     "id": "csharp-entity-framework-core-in-action",
     "title": "Entity Framework Core in Action",
-    "author": "",
+    "author": "Jon Smith",
     "language": "csharp",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2222,7 +2222,7 @@
   {
     "id": "csharp-microservices-in-net-core",
     "title": "Microservices in .NET core",
-    "author": "",
+    "author": "Christian Horsdal Gammelgaard",
     "language": "csharp",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2242,7 +2242,7 @@
   {
     "id": "csharp-c-12-in-a-nutshell-the-definitive-reference",
     "title": "C# 12 in a Nutshell: The Definitive Reference",
-    "author": "",
+    "author": "Joseph Albahari",
     "language": "csharp",
     "category": "references",
     "edition": "2023 Edition",
@@ -2252,7 +2252,7 @@
   {
     "id": "csharp-functional-programming-in-c",
     "title": "Functional Programming in C#",
-    "author": "",
+    "author": "Enrico Buonanno",
     "language": "csharp",
     "category": "references",
     "edition": "6th early release - 2024 Edition",
@@ -2262,7 +2262,7 @@
   {
     "id": "csharp-programming-c-12",
     "title": "Programming C# 12",
-    "author": "",
+    "author": "Ian Griffiths",
     "language": "csharp",
     "category": "references",
     "edition": "2024 Edition",
@@ -2282,7 +2282,7 @@
   {
     "id": "c-c-programming-a-modern-approach",
     "title": "C Programming: A Modern Approach",
-    "author": "",
+    "author": "K. N. King",
     "language": "c",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -2292,7 +2292,7 @@
   {
     "id": "c-head-first-c",
     "title": "Head First C",
-    "author": "",
+    "author": "Dawn Griffiths, David Griffiths",
     "language": "c",
     "category": "beginner",
     "edition": "",
@@ -2302,7 +2302,7 @@
   {
     "id": "c-the-c-programming-language",
     "title": "The C Programming Language",
-    "author": "",
+    "author": "Brian W. Kernighan, Dennis M. Ritchie",
     "language": "c",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -2312,7 +2312,7 @@
   {
     "id": "c-c-programming-absolute-beginner-s-guide",
     "title": "C Programming Absolute Beginner's Guide",
-    "author": "",
+    "author": "Greg Perry, Dean Miller",
     "language": "c",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -2322,7 +2322,7 @@
   {
     "id": "c-c-primer-plus",
     "title": "C Primer Plus",
-    "author": "",
+    "author": "Stephen Prata",
     "language": "c",
     "category": "beginner",
     "edition": "6th Edition",
@@ -2332,7 +2332,7 @@
   {
     "id": "c-learn-c-the-hard-way",
     "title": "Learn C the Hard Way",
-    "author": "",
+    "author": "Zed Shaw",
     "language": "c",
     "category": "intermediate",
     "edition": "2015 Edition",
@@ -2342,7 +2342,7 @@
   {
     "id": "c-understanding-and-using-c-pointers",
     "title": "Understanding and Using C Pointers",
-    "author": "",
+    "author": "Richard Reese",
     "language": "c",
     "category": "intermediate",
     "edition": "2013 Edition",
@@ -2352,7 +2352,7 @@
   {
     "id": "c-modern-c",
     "title": "Modern C",
-    "author": "",
+    "author": "Jens Gustedt",
     "language": "c",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -2362,7 +2362,7 @@
   {
     "id": "c-low-level-programming",
     "title": "Low-Level Programming",
-    "author": "",
+    "author": "Igor Zhirkov",
     "language": "c",
     "category": "intermediate",
     "edition": "First & only edition",
@@ -2372,7 +2372,7 @@
   {
     "id": "c-intermediate-c-programming",
     "title": "Intermediate C Programming",
-    "author": "",
+    "author": "Yung-Hsiang Lu",
     "language": "c",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -2392,7 +2392,7 @@
   {
     "id": "c-the-standard-c-library",
     "title": "The Standard C Library",
-    "author": "",
+    "author": "P. J. Plauger",
     "language": "c",
     "category": "advanced",
     "edition": "First & only edition",
@@ -2402,7 +2402,7 @@
   {
     "id": "c-c-interfaces-and-implementations",
     "title": "C Interfaces and Implementations",
-    "author": "",
+    "author": "David R. Hanson",
     "language": "c",
     "category": "advanced",
     "edition": "1994 Edition",
@@ -2412,7 +2412,7 @@
   {
     "id": "c-21st-century-c",
     "title": "21st Century C",
-    "author": "",
+    "author": "Ben Klemens",
     "language": "c",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2422,7 +2422,7 @@
   {
     "id": "c-effective-c-an-introduction-to-professional-c-programming",
     "title": "Effective C: An Introduction to Professional C Programming",
-    "author": "",
+    "author": "Robert C. Seacord",
     "language": "c",
     "category": "advanced",
     "edition": "2020 Release",
@@ -2432,7 +2432,7 @@
   {
     "id": "c-expert-c-programming-deep-c-secrets",
     "title": "Expert C Programming: Deep C Secrets",
-    "author": "",
+    "author": "Peter van der Linden",
     "language": "c",
     "category": "advanced",
     "edition": "1994 Edition",
@@ -2442,7 +2442,7 @@
   {
     "id": "c-tcp-ip-illustrated-volume-1-the-protocols",
     "title": "TCP/IP Illustrated, Volume 1: The Protocols",
-    "author": "",
+    "author": "Kevin R. Fall, W. Richard Stevens",
     "language": "c",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2452,7 +2452,7 @@
   {
     "id": "c-embedded-c-coding-standard",
     "title": "Embedded C Coding Standard",
-    "author": "",
+    "author": "Michael Barr",
     "language": "c",
     "category": "specialized",
     "edition": "2018 Edition",
@@ -2462,7 +2462,7 @@
   {
     "id": "c-extreme-c-taking-the-c-language-to-its-limits",
     "title": "Extreme C: Taking the C Language to Its Limits",
-    "author": "",
+    "author": "Kamran Amini",
     "language": "c",
     "category": "specialized",
     "edition": "2019 Release",
@@ -2472,7 +2472,7 @@
   {
     "id": "c-advanced-programming-in-the-unix-environment",
     "title": "Advanced Programming in the UNIX Environment",
-    "author": "",
+    "author": "W. Richard Stevens, Stephen A. Rago",
     "language": "c",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -2482,7 +2482,7 @@
   {
     "id": "c-the-linux-programming-interface",
     "title": "The Linux Programming Interface",
-    "author": "",
+    "author": "Michael Kerrisk",
     "language": "c",
     "category": "specialized",
     "edition": "2010 Release",
@@ -2492,7 +2492,7 @@
   {
     "id": "c-making-embedded-systems",
     "title": "Making Embedded Systems",
-    "author": "",
+    "author": "Elecia White",
     "language": "c",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2502,7 +2502,7 @@
   {
     "id": "c-computer-systems-a-programmer-s-perspective",
     "title": "Computer Systems: A Programmer's Perspective",
-    "author": "",
+    "author": "Randal E. Bryant, David R. O'Hallaron",
     "language": "c",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -2512,7 +2512,7 @@
   {
     "id": "c-programming-embedded-systems-in-c",
     "title": "Programming Embedded Systems in C",
-    "author": "",
+    "author": "Michael Barr",
     "language": "c",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2522,7 +2522,7 @@
   {
     "id": "c-hands-on-network-programming-with-c",
     "title": "Hands-On Network Programming with C",
-    "author": "",
+    "author": "Lewis Van Winkle",
     "language": "c",
     "category": "specialized",
     "edition": "1st Edition",
@@ -2532,7 +2532,7 @@
   {
     "id": "c-linux-kernel-development",
     "title": "Linux Kernel Development",
-    "author": "",
+    "author": "Robert Love",
     "language": "c",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -2542,7 +2542,7 @@
   {
     "id": "c-the-art-of-debugging-with-gdb-ddd-and-eclipse",
     "title": "The Art of Debugging with GDB, DDD, and Eclipse",
-    "author": "",
+    "author": "Norman S. Matloff, Peter Salzman",
     "language": "c",
     "category": "specialized",
     "edition": "1st Edition",
@@ -2552,7 +2552,7 @@
   {
     "id": "c-introduction-to-high-performance-computing-for-scientists-and-engineers",
     "title": "Introduction to High Performance Computing for Scientists and Engineers",
-    "author": "",
+    "author": "Georg Hager, Gerhard Wellein",
     "language": "c",
     "category": "specialized",
     "edition": "1st Edition",
@@ -2562,7 +2562,7 @@
   {
     "id": "c-c-in-a-nutshell",
     "title": "C in a Nutshell",
-    "author": "",
+    "author": "Peter Prinz, Tony Crawford",
     "language": "c",
     "category": "references",
     "edition": "2nd Edition",
@@ -2582,7 +2582,7 @@
   {
     "id": "cpp-c-primer",
     "title": "C++ Primer",
-    "author": "",
+    "author": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",
     "language": "cpp",
     "category": "beginner",
     "edition": "5th Edition",
@@ -2592,7 +2592,7 @@
   {
     "id": "cpp-programming-principles-and-practice-using-c",
     "title": "Programming: Principles and Practice Using C++",
-    "author": "",
+    "author": "Bjarne Stroustrup",
     "language": "cpp",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -2602,7 +2602,7 @@
   {
     "id": "cpp-starting-out-with-c-from-control-structures-through-objects",
     "title": "Starting Out with C++: From Control Structures through Objects",
-    "author": "",
+    "author": "Tony Gaddis",
     "language": "cpp",
     "category": "beginner",
     "edition": "10th Edition",
@@ -2612,7 +2612,7 @@
   {
     "id": "cpp-c-for-dummies",
     "title": "C++ for Dummies",
-    "author": "",
+    "author": "Stephen Randy Davis",
     "language": "cpp",
     "category": "beginner",
     "edition": "7th Edition",
@@ -2622,7 +2622,7 @@
   {
     "id": "cpp-effective-c",
     "title": "Effective C++",
-    "author": "",
+    "author": "Scott Meyers",
     "language": "cpp",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -2642,7 +2642,7 @@
   {
     "id": "cpp-professional-c",
     "title": "Professional C++",
-    "author": "",
+    "author": "Marc Gregoire",
     "language": "cpp",
     "category": "intermediate",
     "edition": "*6th Edition - 2024*",
@@ -2652,7 +2652,7 @@
   {
     "id": "cpp-c-core-guidelines-explained",
     "title": "C++ Core Guidelines Explained",
-    "author": "",
+    "author": "Rainer Grimm",
     "language": "cpp",
     "category": "intermediate",
     "edition": "",
@@ -2662,7 +2662,7 @@
   {
     "id": "cpp-a-tour-of-c",
     "title": "A Tour of C++",
-    "author": "",
+    "author": "Bjarne Stroustrup",
     "language": "cpp",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -2672,7 +2672,7 @@
   {
     "id": "cpp-the-c-programming-language",
     "title": "The C++ Programming Language",
-    "author": "",
+    "author": "Bjarne Stroustrup",
     "language": "cpp",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -2682,7 +2682,7 @@
   {
     "id": "cpp-c-crash-course",
     "title": "C++ Crash Course",
-    "author": "",
+    "author": "Josh Lospinoso",
     "language": "cpp",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -2692,7 +2692,7 @@
   {
     "id": "cpp-100-c-mistakes-and-how-to-avoid-them",
     "title": "100 C++ Mistakes and How to Avoid Them",
-    "author": "",
+    "author": "Rich Yonts",
     "language": "cpp",
     "category": "intermediate",
     "edition": "2025 Edition",
@@ -2702,7 +2702,7 @@
   {
     "id": "cpp-c-concurrency-in-action",
     "title": "C++ Concurrency in Action",
-    "author": "",
+    "author": "Anthony Williams",
     "language": "cpp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2712,7 +2712,7 @@
   {
     "id": "cpp-c-templates-the-complete-guide",
     "title": "C++ Templates: The Complete Guide",
-    "author": "",
+    "author": "David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor",
     "language": "cpp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2722,7 +2722,7 @@
   {
     "id": "cpp-expert-c-programming",
     "title": "Expert C++ Programming",
-    "author": "",
+    "author": "Jeganathan Swaminathan, Maya Posch, Jacek Galowicz",
     "language": "cpp",
     "category": "advanced",
     "edition": "",
@@ -2732,7 +2732,7 @@
   {
     "id": "cpp-hands-on-design-patterns-with-c",
     "title": "Hands-On Design Patterns with C++",
-    "author": "",
+    "author": "Fedor G. Pikus",
     "language": "cpp",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -2742,7 +2742,7 @@
   {
     "id": "cpp-hands-on-machine-learning-with-c",
     "title": "Hands-On Machine Learning with C++",
-    "author": "",
+    "author": "Kirill Kolodiazhnyi",
     "language": "cpp",
     "category": "specialized",
     "edition": "",
@@ -2752,7 +2752,7 @@
   {
     "id": "cpp-beginning-c-game-programming",
     "title": "Beginning C++ Game Programming",
-    "author": "",
+    "author": "John Horton",
     "language": "cpp",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2762,7 +2762,7 @@
   {
     "id": "cpp-hands-on-gui-programming-with-c-and-qt5",
     "title": "Hands-On GUI Programming with C++ and Qt5",
-    "author": "",
+    "author": "Lee Zhi Eng",
     "language": "cpp",
     "category": "specialized",
     "edition": "1st Edition",
@@ -2772,7 +2772,7 @@
   {
     "id": "cpp-mastering-the-c-17-stl",
     "title": "Mastering the C++17 STL",
-    "author": "",
+    "author": "Arthur O'Dwyer",
     "language": "cpp",
     "category": "specialized",
     "edition": "1st Edition",
@@ -2782,7 +2782,7 @@
   {
     "id": "cpp-the-c-standard-library-a-tutorial-and-reference",
     "title": "The C++ Standard Library: A Tutorial and Reference",
-    "author": "",
+    "author": "Nicolai M. Josuttis",
     "language": "cpp",
     "category": "references",
     "edition": "2nd Edition",
@@ -2792,7 +2792,7 @@
   {
     "id": "cpp-c-pocket-reference",
     "title": "C++ Pocket Reference",
-    "author": "",
+    "author": "Kyle Loudon",
     "language": "cpp",
     "category": "references",
     "edition": "1st Edition",
@@ -2802,7 +2802,7 @@
   {
     "id": "typescript-learning-typescript",
     "title": "Learning TypeScript",
-    "author": "",
+    "author": "Josh Goldberg",
     "language": "typescript",
     "category": "beginner",
     "edition": "1st Edition",
@@ -2812,7 +2812,7 @@
   {
     "id": "typescript-typescript-quickly",
     "title": "TypeScript Quickly",
-    "author": "",
+    "author": "Yakov Fain, Anton Moiseev",
     "language": "typescript",
     "category": "beginner",
     "edition": "1st Edition",
@@ -2822,7 +2822,7 @@
   {
     "id": "typescript-essential-typescript-5",
     "title": "Essential TypeScript 5",
-    "author": "",
+    "author": "Adam Freeman",
     "language": "typescript",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -2842,7 +2842,7 @@
   {
     "id": "typescript-effective-typescript",
     "title": "Effective TypeScript",
-    "author": "",
+    "author": "Dan Vanderkam",
     "language": "typescript",
     "category": "intermediate",
     "edition": "",
@@ -2852,7 +2852,7 @@
   {
     "id": "typescript-programming-typescript",
     "title": "Programming TypeScript",
-    "author": "",
+    "author": "Boris Cherny",
     "language": "typescript",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -2862,7 +2862,7 @@
   {
     "id": "typescript-mastering-typescript",
     "title": "Mastering TypeScript",
-    "author": "",
+    "author": "Nathan Rozentals",
     "language": "typescript",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -2892,7 +2892,7 @@
   {
     "id": "typescript-tackling-typescript",
     "title": "Tackling TypeScript",
-    "author": "",
+    "author": "Axel Rauschmayer",
     "language": "typescript",
     "category": "advanced",
     "edition": "1st Edition",
@@ -2902,7 +2902,7 @@
   {
     "id": "typescript-advanced-typescript-programming-projects",
     "title": "Advanced TypeScript Programming Projects",
-    "author": "",
+    "author": "Peter O'Hanlon",
     "language": "typescript",
     "category": "advanced",
     "edition": "1st Edition",
@@ -2912,7 +2912,7 @@
   {
     "id": "typescript-typescript-design-patterns",
     "title": "TypeScript Design Patterns",
-    "author": "",
+    "author": "Vilic Vane",
     "language": "typescript",
     "category": "advanced",
     "edition": "1st Edition",
@@ -2922,7 +2922,7 @@
   {
     "id": "typescript-fullstack-react-with-typescript",
     "title": "Fullstack React with TypeScript",
-    "author": "",
+    "author": "Maksim Ivanov, Alex Bespoyasov",
     "language": "typescript",
     "category": "specialized",
     "edition": "1st Edition",
@@ -2932,7 +2932,7 @@
   {
     "id": "typescript-node-js-design-patterns",
     "title": "Node.js Design Patterns",
-    "author": "",
+    "author": "Mario Casciaro, Luciano Mammino",
     "language": "typescript",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -2942,7 +2942,7 @@
   {
     "id": "typescript-angular-development-with-typescript",
     "title": "Angular Development with TypeScript",
-    "author": "",
+    "author": "Yakov Fain, Anton Moiseev",
     "language": "typescript",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -2952,7 +2952,7 @@
   {
     "id": "typescript-pro-angular",
     "title": "Pro Angular",
-    "author": "",
+    "author": "Adam Freeman",
     "language": "typescript",
     "category": "specialized",
     "edition": "5th Edition",
@@ -2992,7 +2992,7 @@
   {
     "id": "go-the-go-programming-language",
     "title": "The Go Programming Language",
-    "author": "",
+    "author": "Alan A. A. Donovan, Brian W. Kernighan",
     "language": "go",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3002,7 +3002,7 @@
   {
     "id": "go-learning-go",
     "title": "Learning Go",
-    "author": "",
+    "author": "Jon Bodner",
     "language": "go",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -3012,7 +3012,7 @@
   {
     "id": "go-head-first-go",
     "title": "Head First Go",
-    "author": "",
+    "author": "Jay McGavren",
     "language": "go",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3022,7 +3022,7 @@
   {
     "id": "go-get-programming-with-go",
     "title": "Get Programming with Go",
-    "author": "",
+    "author": "Nathan Youngman, Roger Peppe",
     "language": "go",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3032,7 +3032,7 @@
   {
     "id": "go-go-in-action",
     "title": "Go in Action",
-    "author": "",
+    "author": "William Kennedy, Brian Ketelsen, Erik St. Martin",
     "language": "go",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3042,7 +3042,7 @@
   {
     "id": "go-concurrency-in-go",
     "title": "Concurrency in Go",
-    "author": "",
+    "author": "Katherine Cox-Buday",
     "language": "go",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3052,7 +3052,7 @@
   {
     "id": "go-mastering-go",
     "title": "Mastering Go",
-    "author": "",
+    "author": "Mihalis Tsoukalos",
     "language": "go",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -3062,7 +3062,7 @@
   {
     "id": "go-go-programming-cookbook",
     "title": "Go Programming Cookbook",
-    "author": "",
+    "author": "Aaron Torres",
     "language": "go",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3072,7 +3072,7 @@
   {
     "id": "go-go-in-practice",
     "title": "Go in Practice",
-    "author": "",
+    "author": "Matt Farina, Matt Butcher",
     "language": "go",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3082,7 +3082,7 @@
   {
     "id": "go-designing-data-intensive-applications",
     "title": "Designing Data-Intensive Applications",
-    "author": "",
+    "author": "Martin Kleppmann",
     "language": "go",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3092,7 +3092,7 @@
   {
     "id": "go-cloud-native-go",
     "title": "Cloud Native Go",
-    "author": "",
+    "author": "Matthew A. Titmus",
     "language": "go",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -3102,7 +3102,7 @@
   {
     "id": "go-network-programming-with-go",
     "title": "Network Programming with Go",
-    "author": "",
+    "author": "Adam Woodbeck",
     "language": "go",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3112,7 +3112,7 @@
   {
     "id": "go-100-go-mistakes-and-how-to-avoid-them",
     "title": "100 Go Mistakes and How to Avoid Them",
-    "author": "",
+    "author": "Teiva Harsanyi",
     "language": "go",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3122,7 +3122,7 @@
   {
     "id": "go-let-s-go",
     "title": "Let's Go",
-    "author": "",
+    "author": "Alex Edwards",
     "language": "go",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -3132,7 +3132,7 @@
   {
     "id": "go-let-s-go-further",
     "title": "Let's Go Further",
-    "author": "",
+    "author": "Alex Edwards",
     "language": "go",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3142,7 +3142,7 @@
   {
     "id": "go-black-hat-go",
     "title": "Black Hat Go",
-    "author": "",
+    "author": "Tom Steele, Chris Patten, Dan Kottmann",
     "language": "go",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3152,7 +3152,7 @@
   {
     "id": "go-writing-an-interpreter-in-go",
     "title": "Writing An Interpreter In Go",
-    "author": "",
+    "author": "Thorsten Ball",
     "language": "go",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3172,7 +3172,7 @@
   {
     "id": "go-go-standard-library-cookbook",
     "title": "Go Standard Library Cookbook",
-    "author": "",
+    "author": "Radomír Sohlich",
     "language": "go",
     "category": "references",
     "edition": "1st Edition",
@@ -3182,7 +3182,7 @@
   {
     "id": "rust-the-rust-programming-language",
     "title": "The Rust Programming Language",
-    "author": "",
+    "author": "Steve Klabnik, Carol Nichols",
     "language": "rust",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -3192,7 +3192,7 @@
   {
     "id": "rust-programming-rust",
     "title": "Programming Rust",
-    "author": "",
+    "author": "Jim Blandy, Jason Orendorff, Leonora F. s. Tindall",
     "language": "rust",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -3212,7 +3212,7 @@
   {
     "id": "rust-beginning-rust",
     "title": "Beginning Rust",
-    "author": "",
+    "author": "Carlo Milanesi",
     "language": "rust",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -3222,7 +3222,7 @@
   {
     "id": "rust-rust-for-rustaceans",
     "title": "Rust for Rustaceans",
-    "author": "",
+    "author": "Jon Gjengset",
     "language": "rust",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3232,7 +3232,7 @@
   {
     "id": "rust-rust-in-action",
     "title": "Rust in Action",
-    "author": "",
+    "author": "Tim McNamara",
     "language": "rust",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3242,7 +3242,7 @@
   {
     "id": "rust-command-line-rust",
     "title": "Command-Line Rust",
-    "author": "",
+    "author": "Ken Youens-Clark",
     "language": "rust",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3252,7 +3252,7 @@
   {
     "id": "rust-mastering-rust",
     "title": "Mastering Rust",
-    "author": "",
+    "author": "Rahul Sharma, Vesa Kaihlavirta",
     "language": "rust",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3272,7 +3272,7 @@
   {
     "id": "rust-programming-webassembly-with-rust",
     "title": "Programming WebAssembly with Rust",
-    "author": "",
+    "author": "Kevin Hoffman",
     "language": "rust",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3282,7 +3282,7 @@
   {
     "id": "rust-hands-on-concurrency-with-rust",
     "title": "Hands-On Concurrency with Rust",
-    "author": "",
+    "author": "Brian L. Troutwine",
     "language": "rust",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3292,7 +3292,7 @@
   {
     "id": "rust-rust-high-performance",
     "title": "Rust High Performance",
-    "author": "",
+    "author": "Iban Eguia Moraza",
     "language": "rust",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -3302,7 +3302,7 @@
   {
     "id": "rust-black-hat-rust",
     "title": "Black Hat Rust",
-    "author": "",
+    "author": "Sylvain Kerkour",
     "language": "rust",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3312,7 +3312,7 @@
   {
     "id": "rust-zero-to-production-in-rust",
     "title": "Zero To Production In Rust",
-    "author": "",
+    "author": "Luca Palmieri",
     "language": "rust",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3332,7 +3332,7 @@
   {
     "id": "rust-rust-web-development",
     "title": "Rust Web development",
-    "author": "",
+    "author": "Bastian Gruber",
     "language": "rust",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -3342,7 +3342,7 @@
   {
     "id": "rust-game-development-with-rust",
     "title": "Game Development with Rust",
-    "author": "",
+    "author": "Eric Smith",
     "language": "rust",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3352,7 +3352,7 @@
   {
     "id": "rust-hands-on-data-structures-and-algorithms-with-rust",
     "title": "Hands-On Data Structures and Algorithms with Rust",
-    "author": "",
+    "author": "Claus Matzinger",
     "language": "rust",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -3372,7 +3372,7 @@
   {
     "id": "rust-idiomatic-rust",
     "title": "Idiomatic Rust",
-    "author": "",
+    "author": "Brenden Matthews",
     "language": "rust",
     "category": "references",
     "edition": "1st Edition",
@@ -3382,7 +3382,7 @@
   {
     "id": "rust-effective-rust",
     "title": "Effective Rust",
-    "author": "",
+    "author": "David Drysdale",
     "language": "rust",
     "category": "references",
     "edition": "1st Edition",
@@ -3392,7 +3392,7 @@
   {
     "id": "php-head-first-php-mysql",
     "title": "Head First PHP & MySQL",
-    "author": "",
+    "author": "Lynn Beighley",
     "language": "php",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3402,7 +3402,7 @@
   {
     "id": "php-learning-php-mysql-javascript",
     "title": "Learning PHP, MySQL & JavaScript",
-    "author": "",
+    "author": "Robin Nixon",
     "language": "php",
     "category": "beginner",
     "edition": "6th Edition",
@@ -3412,7 +3412,7 @@
   {
     "id": "php-php-mysql-novice-to-ninja",
     "title": "PHP & MySQL: Novice to Ninja",
-    "author": "",
+    "author": "Tom Butler",
     "language": "php",
     "category": "beginner",
     "edition": "7th Edition",
@@ -3422,7 +3422,7 @@
   {
     "id": "php-the-joy-of-php",
     "title": "The Joy of PHP",
-    "author": "",
+    "author": "Alan Forbes",
     "language": "php",
     "category": "beginner",
     "edition": "",
@@ -3432,7 +3432,7 @@
   {
     "id": "php-php-and-mysql-web-development",
     "title": "PHP and MySQL Web Development",
-    "author": "",
+    "author": "Luke Welling, Laura Thomson",
     "language": "php",
     "category": "intermediate",
     "edition": "5th Edition",
@@ -3442,7 +3442,7 @@
   {
     "id": "php-php-mysql-the-missing-manual",
     "title": "PHP & MySQL: The Missing Manual",
-    "author": "",
+    "author": "Brett McLaughlin",
     "language": "php",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3452,7 +3452,7 @@
   {
     "id": "php-murach-s-php-and-mysql",
     "title": "Murach's PHP and MySQL",
-    "author": "",
+    "author": "Joel Murach, Ray Harris",
     "language": "php",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -3462,7 +3462,7 @@
   {
     "id": "php-php-8-programming-tips-tricks-and-best-practices",
     "title": "PHP 8 Programming Tips, Tricks and Best Practices",
-    "author": "",
+    "author": "Doug Bierer",
     "language": "php",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3472,7 +3472,7 @@
   {
     "id": "php-modern-php-new-features-and-good-practices",
     "title": "Modern PHP: New Features and Good Practices",
-    "author": "",
+    "author": "Josh Lockhart",
     "language": "php",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3482,7 +3482,7 @@
   {
     "id": "php-php-8-objects-patterns-and-practice",
     "title": "PHP 8 Objects, Patterns, and Practice",
-    "author": "",
+    "author": "Matt Zandstra",
     "language": "php",
     "category": "advanced",
     "edition": "6th Edition",
@@ -3492,7 +3492,7 @@
   {
     "id": "php-programming-php",
     "title": "Programming PHP",
-    "author": "",
+    "author": "Rasmus Lerdorf, Kevin Tatroe, Peter MacIntyre",
     "language": "php",
     "category": "advanced",
     "edition": "4th Edition",
@@ -3502,7 +3502,7 @@
   {
     "id": "php-php-cookbook",
     "title": "PHP Cookbook",
-    "author": "",
+    "author": "David Sklar, Adam Trachtenberg",
     "language": "php",
     "category": "advanced",
     "edition": "3rd Edition",
@@ -3512,7 +3512,7 @@
   {
     "id": "php-laravel-up-running",
     "title": "Laravel: Up & Running",
-    "author": "",
+    "author": "Matt Stauffer",
     "language": "php",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -3522,7 +3522,7 @@
   {
     "id": "php-symfony-5-the-fast-track",
     "title": "Symfony 5: The Fast Track",
-    "author": "",
+    "author": "Fabien Potencier",
     "language": "php",
     "category": "specialized",
     "edition": "",
@@ -3532,7 +3532,7 @@
   {
     "id": "php-domain-driven-design-in-php",
     "title": "Domain-Driven Design in PHP",
-    "author": "",
+    "author": "Carlos Buenosvinos, Christian Soronellas, Keyvan Akbary",
     "language": "php",
     "category": "specialized",
     "edition": "",
@@ -3542,7 +3542,7 @@
   {
     "id": "php-php-web-services",
     "title": "PHP Web Services",
-    "author": "",
+    "author": "Lorna Jane Mitchell",
     "language": "php",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3582,7 +3582,7 @@
   {
     "id": "kotlin-head-first-kotlin",
     "title": "Head First Kotlin",
-    "author": "",
+    "author": "Dawn Griffiths, David Griffiths",
     "language": "kotlin",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3592,7 +3592,7 @@
   {
     "id": "kotlin-atomic-kotlin",
     "title": "Atomic Kotlin",
-    "author": "",
+    "author": "Bruce Eckel, Svetlana Isakova",
     "language": "kotlin",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3602,7 +3602,7 @@
   {
     "id": "kotlin-kotlin-programming-the-big-nerd-ranch-guide",
     "title": "Kotlin Programming: The Big Nerd Ranch Guide",
-    "author": "",
+    "author": "Andrew Bailey, David Greenhalgh, Josh Skeen",
     "language": "kotlin",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -3612,7 +3612,7 @@
   {
     "id": "kotlin-kotlin-in-action",
     "title": "Kotlin in Action",
-    "author": "",
+    "author": "Dmitry Jemerov, Svetlana Isakova",
     "language": "kotlin",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3622,17 +3622,17 @@
   {
     "id": "kotlin-programming-kotlin",
     "title": "Programming Kotlin",
-    "author": "",
+    "author": "Venkat Subramaniam",
     "language": "kotlin",
     "category": "intermediate",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1LYx8xU91kJN4v8TrJGqi4NFlDxTXKQHh/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13219969-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1680506358.01.L.jpg"
   },
   {
     "id": "kotlin-effective-kotlin",
     "title": "Effective Kotlin",
-    "author": "",
+    "author": "Marcin Moskala",
     "language": "kotlin",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3642,7 +3642,7 @@
   {
     "id": "kotlin-software-architecture-with-kotlin",
     "title": "Software Architecture with Kotlin",
-    "author": "",
+    "author": "Jason (Tsz Shun) Chow",
     "language": "kotlin",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3652,7 +3652,7 @@
   {
     "id": "kotlin-kotlin-design-patterns-and-best-practices",
     "title": "Kotlin Design Patterns and Best Practices",
-    "author": "",
+    "author": "Alexey Soshin, Anton Arhipov",
     "language": "kotlin",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -3662,7 +3662,7 @@
   {
     "id": "kotlin-the-joy-of-kotlin",
     "title": "The Joy of Kotlin",
-    "author": "",
+    "author": "Pierre-Yves Saumont",
     "language": "kotlin",
     "category": "advanced",
     "edition": "1st Edition",
@@ -3672,7 +3672,7 @@
   {
     "id": "kotlin-kotlin-coroutines",
     "title": "Kotlin Coroutines",
-    "author": "",
+    "author": "Marcin Moskała",
     "language": "kotlin",
     "category": "advanced",
     "edition": "",
@@ -3682,7 +3682,7 @@
   {
     "id": "kotlin-kotlin-for-android-developers",
     "title": "Kotlin for Android Developers",
-    "author": "",
+    "author": "Antonio Leiva",
     "language": "kotlin",
     "category": "specialized",
     "edition": "6th Edition",
@@ -3692,7 +3692,7 @@
   {
     "id": "kotlin-pro-android-with-kotlin",
     "title": "Pro Android with Kotlin",
-    "author": "",
+    "author": "Peter Späth",
     "language": "kotlin",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -3702,7 +3702,7 @@
   {
     "id": "kotlin-android-programming-the-big-nerd-ranch-guide",
     "title": "Android Programming: The Big Nerd Ranch Guide",
-    "author": "",
+    "author": "Bill Phillips, Chris Stewart, Kristin Marsicano, Brian Gardner",
     "language": "kotlin",
     "category": "specialized",
     "edition": "5th Edition",
@@ -3712,7 +3712,7 @@
   {
     "id": "kotlin-programming-android-with-kotlin",
     "title": "Programming Android with Kotlin",
-    "author": "",
+    "author": "Pierre-Olivier Laurence, Amanda Hinchman-Dominguez, G. Blake Meike",
     "language": "kotlin",
     "category": "specialized",
     "edition": "1st Edition",
@@ -3722,7 +3722,7 @@
   {
     "id": "kotlin-kotlin-multiplatform-by-tutorials",
     "title": "Kotlin Multiplatform by Tutorials",
-    "author": "",
+    "author": "Kevin D. Moore, Carlos Mota, Saeed Taheri",
     "language": "kotlin",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -3752,7 +3752,7 @@
   {
     "id": "sql-sql-practice-problems",
     "title": "SQL Practice Problems",
-    "author": "",
+    "author": "Sylvia Moestl Vasilik",
     "language": "sql",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3762,7 +3762,7 @@
   {
     "id": "sql-head-first-sql",
     "title": "Head First SQL",
-    "author": "",
+    "author": "Lynn Beighley",
     "language": "sql",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -3772,7 +3772,7 @@
   {
     "id": "sql-sql-in-10-minutes-sams-teach-yourself",
     "title": "SQL in 10 Minutes, Sams Teach Yourself",
-    "author": "",
+    "author": "Ben Forta",
     "language": "sql",
     "category": "beginner",
     "edition": "5th Edition",
@@ -3782,7 +3782,7 @@
   {
     "id": "sql-learning-sql",
     "title": "Learning SQL",
-    "author": "",
+    "author": "Alan Beaulieu",
     "language": "sql",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -3792,7 +3792,7 @@
   {
     "id": "sql-getting-started-with-sql",
     "title": "Getting Started with SQL",
-    "author": "",
+    "author": "Thomas Nield",
     "language": "sql",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3802,7 +3802,7 @@
   {
     "id": "sql-sql-for-smarties-advanced-t-sql-recipes",
     "title": "SQL for Smarties: Advanced T-SQL Recipes",
-    "author": "",
+    "author": "Joe Celko",
     "language": "sql",
     "category": "intermediate",
     "edition": "5th Edition",
@@ -3812,7 +3812,7 @@
   {
     "id": "sql-sql-queries-for-mere-mortals",
     "title": "SQL Queries for Mere Mortals",
-    "author": "",
+    "author": "John Viescas",
     "language": "sql",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -3822,7 +3822,7 @@
   {
     "id": "sql-practical-sql-a-beginner-s-guide-to-storytelling-with-data",
     "title": "Practical SQL: A Beginner's Guide to Storytelling with Data",
-    "author": "",
+    "author": "Anthony DeBarros",
     "language": "sql",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3832,7 +3832,7 @@
   {
     "id": "sql-database-design-for-mere-mortals",
     "title": "Database Design for Mere Mortals",
-    "author": "",
+    "author": "Michael J. Hernandez",
     "language": "sql",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -3842,7 +3842,7 @@
   {
     "id": "sql-sql-performance-explained",
     "title": "SQL Performance Explained",
-    "author": "",
+    "author": "Markus Winand",
     "language": "sql",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3852,7 +3852,7 @@
   {
     "id": "sql-the-art-of-sql",
     "title": "The Art of SQL",
-    "author": "",
+    "author": "Stephane Faroult, Peter Robson",
     "language": "sql",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3862,7 +3862,7 @@
   {
     "id": "sql-joe-celko-s-sql-puzzles-and-answers",
     "title": "Joe Celko’s SQL Puzzles and Answers",
-    "author": "",
+    "author": "Joe Celko",
     "language": "sql",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3872,7 +3872,7 @@
   {
     "id": "sql-high-performance-mysql",
     "title": "High Performance MySQL",
-    "author": "",
+    "author": "Silvia Botros, Jeremy Tinley",
     "language": "sql",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -3882,7 +3882,7 @@
   {
     "id": "sql-sql-for-data-analysis",
     "title": "SQL for Data Analysis",
-    "author": "",
+    "author": "Cathy Tanimura",
     "language": "sql",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3892,7 +3892,7 @@
   {
     "id": "sql-sql-cookbook",
     "title": "SQL Cookbook",
-    "author": "",
+    "author": "Anthony Molinaro, Robert de Graaf",
     "language": "sql",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3902,7 +3902,7 @@
   {
     "id": "sql-database-internals",
     "title": "Database Internals",
-    "author": "",
+    "author": "Alex Petrov",
     "language": "sql",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -3912,7 +3912,7 @@
   {
     "id": "sql-seven-databases-in-seven-weeks",
     "title": "Seven Databases in Seven Weeks",
-    "author": "",
+    "author": "Luc Perkins, Eric Redmond, Jim R. Wilson",
     "language": "sql",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -3922,7 +3922,7 @@
   {
     "id": "sql-sql-in-a-nutshell",
     "title": "SQL in a Nutshell",
-    "author": "",
+    "author": "Kevin Kline, Regina O. Obe, Leo S. Hsu",
     "language": "sql",
     "category": "references",
     "edition": "4th Edition",
@@ -3942,7 +3942,7 @@
   {
     "id": "swift-swift-apprentice",
     "title": "Swift Apprentice",
-    "author": "",
+    "author": "Ehab Amer, Alexis Gallagher, Matt Galloway",
     "language": "swift",
     "category": "beginner",
     "edition": "7th Edition",
@@ -3952,7 +3952,7 @@
   {
     "id": "swift-head-first-swift",
     "title": "Head First Swift",
-    "author": "",
+    "author": "Paris Buttfield-Addison, Jon Manning",
     "language": "swift",
     "category": "beginner",
     "edition": "1st Edition",
@@ -3962,7 +3962,7 @@
   {
     "id": "swift-swift-programming-the-big-nerd-ranch-guide",
     "title": "Swift Programming: The Big Nerd Ranch Guide",
-    "author": "",
+    "author": "Mikey Ward",
     "language": "swift",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -3982,7 +3982,7 @@
   {
     "id": "swift-swiftui-for-masterminds",
     "title": "SwiftUI for Masterminds",
-    "author": "",
+    "author": "John D. Gauchat",
     "language": "swift",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -3992,7 +3992,7 @@
   {
     "id": "swift-ios-development-with-swift",
     "title": "IOS Development with Swift",
-    "author": "",
+    "author": "Craig Grummitt",
     "language": "swift",
     "category": "beginner",
     "edition": "",
@@ -4002,7 +4002,7 @@
   {
     "id": "swift-learning-swift",
     "title": "Learning Swift",
-    "author": "",
+    "author": "Paris Buttfield-Addison, Jon Manning, Tim Nugent",
     "language": "swift",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -4012,7 +4012,7 @@
   {
     "id": "swift-swift-in-depth",
     "title": "Swift in Depth",
-    "author": "",
+    "author": "Tjeerd in 't Veen",
     "language": "swift",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4022,7 +4022,7 @@
   {
     "id": "swift-swift-gems",
     "title": "Swift Gems",
-    "author": "",
+    "author": "Natalia Panferova",
     "language": "swift",
     "category": "intermediate",
     "edition": "1st Edition - 2025",
@@ -4032,7 +4032,7 @@
   {
     "id": "swift-practical-swift",
     "title": "Practical Swift",
-    "author": "",
+    "author": "Eric Downey",
     "language": "swift",
     "category": "intermediate",
     "edition": "",
@@ -4042,7 +4042,7 @@
   {
     "id": "swift-advanced-swift",
     "title": "Advanced Swift",
-    "author": "",
+    "author": "Chris Eidhof, Ole Begemann, Airspeed Velocity",
     "language": "swift",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -4052,7 +4052,7 @@
   {
     "id": "swift-modern-concurrency-in-swift",
     "title": "Modern Concurrency in Swift",
-    "author": "",
+    "author": "Marin Todorov",
     "language": "swift",
     "category": "advanced",
     "edition": "",
@@ -4062,7 +4062,7 @@
   {
     "id": "swift-expert-swift",
     "title": "Expert Swift",
-    "author": "",
+    "author": "Ehab Amer, Marin Bencevic, Ray Fix, Shai Mishali",
     "language": "swift",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4072,7 +4072,7 @@
   {
     "id": "swift-thinking-in-swiftui",
     "title": "Thinking in SwiftUI",
-    "author": "",
+    "author": "Florian Kugler, Chris Eidhof",
     "language": "swift",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -4082,7 +4082,7 @@
   {
     "id": "swift-app-architecture",
     "title": "App Architecture",
-    "author": "",
+    "author": "Chris Eidhof, Matt Gallagher, Florian Kugler",
     "language": "swift",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4092,7 +4092,7 @@
   {
     "id": "swift-hacking-with-swift",
     "title": "Hacking with Swift",
-    "author": "",
+    "author": "Paul Hudson",
     "language": "swift",
     "category": "specialized",
     "edition": "",
@@ -4102,7 +4102,7 @@
   {
     "id": "swift-advanced-ios-app-architecture",
     "title": "Advanced iOS App Architecture",
-    "author": "",
+    "author": "Josh Berlin, René Cacheaux",
     "language": "swift",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -4132,7 +4132,7 @@
   {
     "id": "ruby-the-well-grounded-rubyist",
     "title": "The Well-Grounded Rubyist",
-    "author": "",
+    "author": "David A. Black",
     "language": "ruby",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -4142,7 +4142,7 @@
   {
     "id": "ruby-learn-to-program",
     "title": "Learn to Program",
-    "author": "",
+    "author": "Chris Pine",
     "language": "ruby",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -4152,7 +4152,7 @@
   {
     "id": "ruby-head-first-ruby",
     "title": "Head First Ruby",
-    "author": "",
+    "author": "Jay McGavren",
     "language": "ruby",
     "category": "beginner",
     "edition": "1st Edition",
@@ -4162,7 +4162,7 @@
   {
     "id": "ruby-beginning-ruby-from-novice-to-professional",
     "title": "Beginning Ruby: From Novice to Professional",
-    "author": "",
+    "author": "Peter Cooper",
     "language": "ruby",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -4172,7 +4172,7 @@
   {
     "id": "ruby-the-ruby-way",
     "title": "The Ruby Way",
-    "author": "",
+    "author": "Hal Fulton",
     "language": "ruby",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -4182,7 +4182,7 @@
   {
     "id": "ruby-eloquent-ruby",
     "title": "Eloquent Ruby",
-    "author": "",
+    "author": "Russ Olsen",
     "language": "ruby",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4192,7 +4192,7 @@
   {
     "id": "ruby-practical-object-oriented-design-in-ruby-poodr",
     "title": "Practical Object-Oriented Design in Ruby (POODR)",
-    "author": "",
+    "author": "Sandi Metz",
     "language": "ruby",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4202,7 +4202,7 @@
   {
     "id": "ruby-confident-ruby",
     "title": "Confident Ruby",
-    "author": "",
+    "author": "Avdi Grimm",
     "language": "ruby",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4212,7 +4212,7 @@
   {
     "id": "ruby-ruby-under-a-microscope",
     "title": "Ruby Under a Microscope",
-    "author": "",
+    "author": "Pat Shaughnessy",
     "language": "ruby",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4222,7 +4222,7 @@
   {
     "id": "ruby-programming-ruby-3-3-the-pickaxe-book",
     "title": "Programming Ruby 3.3 (The Pickaxe Book)",
-    "author": "",
+    "author": "Noel Rappin, Dave Thomas",
     "language": "ruby",
     "category": "intermediate",
     "edition": "5th Edition",
@@ -4232,7 +4232,7 @@
   {
     "id": "ruby-metaprogramming-ruby-2",
     "title": "Metaprogramming Ruby 2",
-    "author": "",
+    "author": "Paolo Perrotta",
     "language": "ruby",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -4242,7 +4242,7 @@
   {
     "id": "ruby-design-patterns-in-ruby",
     "title": "Design Patterns in Ruby",
-    "author": "",
+    "author": "Russ Olsen",
     "language": "ruby",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4252,7 +4252,7 @@
   {
     "id": "ruby-refactoring-ruby-edition",
     "title": "Refactoring: Ruby Edition",
-    "author": "",
+    "author": "Jay Fields, Shane Harvie, Martin Fowler, Kent Beck",
     "language": "ruby",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4262,7 +4262,7 @@
   {
     "id": "ruby-ruby-performance-optimization",
     "title": "Ruby Performance Optimization",
-    "author": "",
+    "author": "Alexander Dymo",
     "language": "ruby",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4272,7 +4272,7 @@
   {
     "id": "ruby-ruby-on-rails-tutorial",
     "title": "Ruby on Rails Tutorial",
-    "author": "",
+    "author": "Michael Hartl",
     "language": "ruby",
     "category": "specialized",
     "edition": "7th Edition",
@@ -4282,7 +4282,7 @@
   {
     "id": "ruby-agile-web-development-with-rails-7",
     "title": "Agile Web Development with Rails 7",
-    "author": "",
+    "author": "Sam Ruby, Dave Thomas",
     "language": "ruby",
     "category": "specialized",
     "edition": "2022 Edition",
@@ -4292,7 +4292,7 @@
   {
     "id": "ruby-the-rails-7-way",
     "title": "The Rails 7 Way",
-    "author": "",
+    "author": "Obie Fernandez",
     "language": "ruby",
     "category": "specialized",
     "edition": "4th Edition",
@@ -4302,7 +4302,7 @@
   {
     "id": "ruby-sustainable-web-development-with-ruby-on-rails",
     "title": "Sustainable Web Development with Ruby on Rails",
-    "author": "",
+    "author": "David Bryant Copeland",
     "language": "ruby",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4312,7 +4312,7 @@
   {
     "id": "ruby-effective-testing-with-rspec-3",
     "title": "Effective Testing with RSpec 3",
-    "author": "",
+    "author": "Myron Marston, Ian Dees",
     "language": "ruby",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4322,7 +4322,7 @@
   {
     "id": "ruby-black-hat-ruby",
     "title": "Black Hat Ruby",
-    "author": "",
+    "author": "Sabri Hassanyah",
     "language": "ruby",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4332,7 +4332,7 @@
   {
     "id": "ruby-the-ruby-programming-language",
     "title": "The Ruby Programming Language",
-    "author": "",
+    "author": "David Flanagan, Yukihiro Matsumoto",
     "language": "ruby",
     "category": "references",
     "edition": "1st Edition",
@@ -4342,7 +4342,7 @@
   {
     "id": "ruby-ruby-cookbook",
     "title": "Ruby Cookbook",
-    "author": "",
+    "author": "Lucas Carlson, Leonard Richardson",
     "language": "ruby",
     "category": "references",
     "edition": "2nd Edition",
@@ -4372,7 +4372,7 @@
   {
     "id": "dart-flutter-for-dummies",
     "title": "Flutter for Dummies",
-    "author": "",
+    "author": "Barry Burd",
     "language": "dart",
     "category": "beginner",
     "edition": "1st Edition",
@@ -4382,7 +4382,7 @@
   {
     "id": "dart-dart-apprentice-fundamentals",
     "title": "Dart Apprentice: Fundamentals",
-    "author": "",
+    "author": "Jonathan Sande",
     "language": "dart",
     "category": "beginner",
     "edition": "1st Edition",
@@ -4392,7 +4392,7 @@
   {
     "id": "dart-flutter-apprentice",
     "title": "Flutter Apprentice",
-    "author": "",
+    "author": "Mike Katz, Kevin David Moore, Vincent Ngo, Vincenzo Guzzi",
     "language": "dart",
     "category": "beginner",
     "edition": "4th Edition",
@@ -4402,7 +4402,7 @@
   {
     "id": "dart-dart-up-and-running",
     "title": "Dart: Up and Running",
-    "author": "",
+    "author": "Kathy Walrath, Seth Ladd",
     "language": "dart",
     "category": "beginner",
     "edition": "1st Edition",
@@ -4412,7 +4412,7 @@
   {
     "id": "dart-beginning-app-development-with-flutter",
     "title": "Beginning App Development with Flutter",
-    "author": "",
+    "author": "Rap Payne",
     "language": "dart",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -4422,7 +4422,7 @@
   {
     "id": "dart-programming-flutter",
     "title": "Programming Flutter",
-    "author": "",
+    "author": "Carmine Zaccagnino",
     "language": "dart",
     "category": "intermediate",
     "edition": "2020 Edition",
@@ -4432,7 +4432,7 @@
   {
     "id": "dart-flutter-in-action",
     "title": "Flutter in Action",
-    "author": "",
+    "author": "Eric Windmill",
     "language": "dart",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4442,7 +4442,7 @@
   {
     "id": "dart-dart-apprentice-beyond-the-basics",
     "title": "Dart Apprentice: Beyond the Basics",
-    "author": "",
+    "author": "Jonathan Sande",
     "language": "dart",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4452,7 +4452,7 @@
   {
     "id": "dart-pragmatic-flutter",
     "title": "Pragmatic Flutter",
-    "author": "",
+    "author": "Priyanka Tyagi",
     "language": "dart",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4462,7 +4462,7 @@
   {
     "id": "dart-real-world-flutter-by-tutorials",
     "title": "Real-World Flutter by Tutorials",
-    "author": "",
+    "author": "Edson Bueno, Vid Palčar",
     "language": "dart",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4472,7 +4472,7 @@
   {
     "id": "dart-mastering-dart",
     "title": "Mastering Dart",
-    "author": "",
+    "author": "Sergey Akopkokhyants",
     "language": "dart",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4482,7 +4482,7 @@
   {
     "id": "dart-flutter-for-beginners",
     "title": "Flutter for Beginners",
-    "author": "",
+    "author": "Alessandro Biessek",
     "language": "dart",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -4492,7 +4492,7 @@
   {
     "id": "dart-flutter-and-dart-cookbook",
     "title": "Flutter and Dart Cookbook",
-    "author": "",
+    "author": "Rich Rose",
     "language": "dart",
     "category": "specialized",
     "edition": "2023 Edition",
@@ -4502,7 +4502,7 @@
   {
     "id": "dart-practical-flutter",
     "title": "Practical Flutter",
-    "author": "",
+    "author": "Frank Zammetti",
     "language": "dart",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4512,7 +4512,7 @@
   {
     "id": "dart-flutter-cookbook",
     "title": "Flutter Cookbook",
-    "author": "",
+    "author": "Simone Alessandria",
     "language": "dart",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -4582,7 +4582,7 @@
   {
     "id": "scala-programming-in-scala",
     "title": "Programming in Scala",
-    "author": "",
+    "author": "Martin Odersky, Lex Spoon, Bill Venners",
     "language": "scala",
     "category": "beginner",
     "edition": "5th Edition",
@@ -4592,7 +4592,7 @@
   {
     "id": "scala-scala-for-the-impatient",
     "title": "Scala for the Impatient",
-    "author": "",
+    "author": "Cay S. Horstmann",
     "language": "scala",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -4612,7 +4612,7 @@
   {
     "id": "scala-hands-on-scala-programming",
     "title": "Hands-on Scala Programming",
-    "author": "",
+    "author": "Haoyi Li",
     "language": "scala",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4622,7 +4622,7 @@
   {
     "id": "scala-functional-programming-in-scala",
     "title": "Functional Programming in Scala",
-    "author": "",
+    "author": "Paul Chiusano, Rúnar Bjarnason",
     "language": "scala",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4632,7 +4632,7 @@
   {
     "id": "scala-scala-cookbook",
     "title": "Scala Cookbook",
-    "author": "",
+    "author": "Alvin Alexander",
     "language": "scala",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4642,7 +4642,7 @@
   {
     "id": "scala-scala-with-cats",
     "title": "Scala with Cats",
-    "author": "",
+    "author": "Noel Welsh, Dave Gurnell",
     "language": "scala",
     "category": "advanced",
     "edition": "Online Resource",
@@ -4652,7 +4652,7 @@
   {
     "id": "scala-zionomicon",
     "title": "Zionomicon",
-    "author": "",
+    "author": "John A. De Goes, Adam Fraser",
     "language": "scala",
     "category": "advanced",
     "edition": "Online Resource",
@@ -4662,7 +4662,7 @@
   {
     "id": "scala-functional-programming-for-mortals-with-scalaz",
     "title": "Functional Programming for Mortals with Scalaz",
-    "author": "",
+    "author": "Sam Halliday",
     "language": "scala",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -4672,7 +4672,7 @@
   {
     "id": "scala-spark-the-definitive-guide",
     "title": "Spark: The Definitive Guide",
-    "author": "",
+    "author": "Bill Chambers, Matei Zaharia",
     "language": "scala",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4682,7 +4682,7 @@
   {
     "id": "scala-scala-and-spark-for-big-data-analytics",
     "title": "Scala and Spark for Big Data Analytics",
-    "author": "",
+    "author": "Md. Rezaul Karim, Sridhar Alla",
     "language": "scala",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4692,7 +4692,7 @@
   {
     "id": "scala-akka-in-action",
     "title": "Akka in Action",
-    "author": "",
+    "author": "Raymond Roestenburg, Rob Bakker, Rob Williams",
     "language": "scala",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -4742,7 +4742,7 @@
   {
     "id": "elixir-programming-elixir-1-6",
     "title": "Programming Elixir 1.6",
-    "author": "",
+    "author": "Dave Thomas",
     "language": "elixir",
     "category": "beginner",
     "edition": "1.6 Edition",
@@ -4752,7 +4752,7 @@
   {
     "id": "elixir-learn-functional-programming-with-elixir",
     "title": "Learn Functional Programming with Elixir",
-    "author": "",
+    "author": "Ulisses Almeida",
     "language": "elixir",
     "category": "beginner",
     "edition": "1st Edition",
@@ -4762,7 +4762,7 @@
   {
     "id": "elixir-introducing-elixir",
     "title": "Introducing Elixir",
-    "author": "",
+    "author": "Simon St Laurent, J. David Eisenberg",
     "language": "elixir",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -4772,7 +4772,7 @@
   {
     "id": "elixir-elixir-in-action",
     "title": "Elixir in Action",
-    "author": "",
+    "author": "Saša Jurić",
     "language": "elixir",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -4782,7 +4782,7 @@
   {
     "id": "elixir-craft-graphql-apis-in-elixir-with-absinthe",
     "title": "Craft GraphQL APIs in Elixir with Absinthe",
-    "author": "",
+    "author": "Bruce Williams, Ben Wilson",
     "language": "elixir",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4792,7 +4792,7 @@
   {
     "id": "elixir-adopting-elixir",
     "title": "Adopting Elixir",
-    "author": "",
+    "author": "Ben Marx, José Valim, Bruce Tate",
     "language": "elixir",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -4802,7 +4802,7 @@
   {
     "id": "elixir-metaprogramming-elixir",
     "title": "Metaprogramming Elixir",
-    "author": "",
+    "author": "Chris McCord",
     "language": "elixir",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4812,7 +4812,7 @@
   {
     "id": "elixir-designing-elixir-systems-with-otp",
     "title": "Designing Elixir Systems with OTP",
-    "author": "",
+    "author": "James Edward Gray II, Bruce Tate",
     "language": "elixir",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4822,7 +4822,7 @@
   {
     "id": "elixir-property-based-testing-with-proper-erlang-and-elixir",
     "title": "Property-Based Testing with PropEr, Erlang, and Elixir",
-    "author": "",
+    "author": "Fred Hebert",
     "language": "elixir",
     "category": "advanced",
     "edition": "1st Edition",
@@ -4832,7 +4832,7 @@
   {
     "id": "elixir-programming-phoenix-1-4",
     "title": "Programming Phoenix 1.4",
-    "author": "",
+    "author": "Chris McCord, Bruce Tate, Jose Valim",
     "language": "elixir",
     "category": "specialized",
     "edition": "1.4 Edition",
@@ -4842,7 +4842,7 @@
   {
     "id": "elixir-programming-ecto",
     "title": "Programming Ecto",
-    "author": "",
+    "author": "Darin Wilson, Eric Meadows-Jönsson",
     "language": "elixir",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4852,7 +4852,7 @@
   {
     "id": "elixir-programming-phoenix-liveview",
     "title": "Programming Phoenix LiveView",
-    "author": "",
+    "author": "Bruce Tate, Sophie DeBenedetto",
     "language": "elixir",
     "category": "specialized",
     "edition": "1st Edition",
@@ -4902,7 +4902,7 @@
   {
     "id": "shell-the-linux-command-line",
     "title": "The Linux Command Line",
-    "author": "",
+    "author": "William Shotts",
     "language": "shell",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -4952,7 +4952,7 @@
   {
     "id": "shell-data-science-at-the-command-line",
     "title": "Data Science at the Command Line",
-    "author": "",
+    "author": "Jeroen Janssens",
     "language": "shell",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -4962,7 +4962,7 @@
   {
     "id": "shell-gnu-bash-reference-manual",
     "title": "GNU Bash Reference Manual",
-    "author": "",
+    "author": "Chet Ramey, Brian Fox",
     "language": "shell",
     "category": "references",
     "edition": "Official Reference",
@@ -5002,7 +5002,7 @@
   {
     "id": "r-r-for-data-science",
     "title": "R for Data Science",
-    "author": "",
+    "author": "Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund",
     "language": "r",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -5012,7 +5012,7 @@
   {
     "id": "r-hands-on-programming-with-r",
     "title": "Hands-On Programming with R",
-    "author": "",
+    "author": "Garrett Grolemund",
     "language": "r",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5022,7 +5022,7 @@
   {
     "id": "r-r-cookbook",
     "title": "R Cookbook",
-    "author": "",
+    "author": "J.D. Long, Paul Teetor",
     "language": "r",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5032,7 +5032,7 @@
   {
     "id": "r-ggplot2-elegant-graphics-for-data-analysis",
     "title": "ggplot2: Elegant Graphics for Data Analysis",
-    "author": "",
+    "author": "Hadley Wickham",
     "language": "r",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -5042,7 +5042,7 @@
   {
     "id": "r-r-graphics-cookbook",
     "title": "R Graphics Cookbook",
-    "author": "",
+    "author": "Winston Chang",
     "language": "r",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5052,7 +5052,7 @@
   {
     "id": "r-advanced-r",
     "title": "Advanced R",
-    "author": "",
+    "author": "Hadley Wickham",
     "language": "r",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -5062,7 +5062,7 @@
   {
     "id": "r-r-packages",
     "title": "R Packages",
-    "author": "",
+    "author": "Hadley Wickham, Jennifer Bryan",
     "language": "r",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -5072,7 +5072,7 @@
   {
     "id": "r-efficient-r-programming",
     "title": "Efficient R Programming",
-    "author": "",
+    "author": "Colin Gillespie, Robin Lovelace",
     "language": "r",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5082,7 +5082,7 @@
   {
     "id": "r-an-introduction-to-statistical-learning",
     "title": "An Introduction to Statistical Learning",
-    "author": "",
+    "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
     "language": "r",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -5092,7 +5092,7 @@
   {
     "id": "r-the-elements-of-statistical-learning",
     "title": "The Elements of Statistical Learning",
-    "author": "",
+    "author": "Trevor Hastie, Robert Tibshirani, Jerome Friedman",
     "language": "r",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -5102,7 +5102,7 @@
   {
     "id": "r-mastering-shiny",
     "title": "Mastering Shiny",
-    "author": "",
+    "author": "Hadley Wickham",
     "language": "r",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5112,7 +5112,7 @@
   {
     "id": "r-text-mining-with-r",
     "title": "Text Mining with R",
-    "author": "",
+    "author": "Julia Silge, David Robinson",
     "language": "r",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5122,7 +5122,7 @@
   {
     "id": "r-forecasting-principles-and-practice",
     "title": "Forecasting: Principles and Practice",
-    "author": "",
+    "author": "Rob J. Hyndman, George Athanasopoulos",
     "language": "r",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -5132,7 +5132,7 @@
   {
     "id": "r-geocomputation-with-r",
     "title": "Geocomputation with R",
-    "author": "",
+    "author": "Robin Lovelace, Jakub Nowosad, Jannes Muenchow",
     "language": "r",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -5172,7 +5172,7 @@
   {
     "id": "julia-think-julia-how-to-think-like-a-computer-scientist",
     "title": "Think Julia: How to Think Like a Computer Scientist",
-    "author": "",
+    "author": "Ben Lauwens, Allen B. Downey",
     "language": "julia",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5192,7 +5192,7 @@
   {
     "id": "julia-julia-programming-for-operations-research",
     "title": "Julia Programming for Operations Research",
-    "author": "",
+    "author": "Changhyun Kwon",
     "language": "julia",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -5212,7 +5212,7 @@
   {
     "id": "julia-julia-high-performance",
     "title": "Julia High Performance",
-    "author": "",
+    "author": "Avik Sengupta",
     "language": "julia",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5232,7 +5232,7 @@
   {
     "id": "julia-julia-data-science",
     "title": "Julia Data Science",
-    "author": "",
+    "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso",
     "language": "julia",
     "category": "intermediate",
     "edition": "Free online book",
@@ -5242,7 +5242,7 @@
   {
     "id": "julia-algorithms-for-optimization",
     "title": "Algorithms for Optimization",
-    "author": "",
+    "author": "Mykel J. Kochenderfer, Tim A. Wheeler",
     "language": "julia",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5252,7 +5252,7 @@
   {
     "id": "julia-algorithms-for-decision-making",
     "title": "Algorithms for Decision Making",
-    "author": "",
+    "author": "Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray",
     "language": "julia",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5272,7 +5272,7 @@
   {
     "id": "julia-statistics-with-julia",
     "title": "Statistics with Julia",
-    "author": "",
+    "author": "Yoni Nazarathy, Hayden Klok",
     "language": "julia",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5332,7 +5332,7 @@
   {
     "id": "htmlcss-html-and-css-design-and-build-websites",
     "title": "HTML and CSS: Design and Build Websites",
-    "author": "",
+    "author": "Jon Duckett",
     "language": "htmlcss",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5342,7 +5342,7 @@
   {
     "id": "htmlcss-learning-web-design",
     "title": "Learning Web Design",
-    "author": "",
+    "author": "Jennifer Niederst Robbins",
     "language": "htmlcss",
     "category": "beginner",
     "edition": "5th Edition",
@@ -5352,7 +5352,7 @@
   {
     "id": "htmlcss-html5-for-web-designers",
     "title": "HTML5 for Web Designers",
-    "author": "",
+    "author": "Jeremy Keith",
     "language": "htmlcss",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -5362,7 +5362,7 @@
   {
     "id": "htmlcss-css-the-definitive-guide",
     "title": "CSS: The Definitive Guide",
-    "author": "",
+    "author": "Eric A. Meyer, Estelle Weyl",
     "language": "htmlcss",
     "category": "beginner",
     "edition": "5th Edition",
@@ -5372,7 +5372,7 @@
   {
     "id": "htmlcss-css-in-depth",
     "title": "CSS in Depth",
-    "author": "",
+    "author": "Keith J. Grant",
     "language": "htmlcss",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -5392,7 +5392,7 @@
   {
     "id": "htmlcss-responsive-web-design",
     "title": "Responsive Web Design",
-    "author": "",
+    "author": "Ethan Marcotte",
     "language": "htmlcss",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5402,7 +5402,7 @@
   {
     "id": "htmlcss-css-secrets",
     "title": "CSS Secrets",
-    "author": "",
+    "author": "Lea Verou",
     "language": "htmlcss",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -5412,7 +5412,7 @@
   {
     "id": "htmlcss-css-the-missing-manual",
     "title": "CSS: The Missing Manual",
-    "author": "",
+    "author": "David Sawyer McFarland",
     "language": "htmlcss",
     "category": "advanced",
     "edition": "4th Edition",
@@ -5422,7 +5422,7 @@
   {
     "id": "htmlcss-transcending-css",
     "title": "Transcending CSS",
-    "author": "",
+    "author": "Andy Clarke, Molly E. Holzschlag",
     "language": "htmlcss",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5432,7 +5432,7 @@
   {
     "id": "htmlcss-inclusive-design-patterns",
     "title": "Inclusive Design Patterns",
-    "author": "",
+    "author": "Heydon Pickering",
     "language": "htmlcss",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5442,7 +5442,7 @@
   {
     "id": "htmlcss-designing-interfaces",
     "title": "Designing Interfaces",
-    "author": "",
+    "author": "Jenifer Tidwell",
     "language": "htmlcss",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -5482,7 +5482,7 @@
   {
     "id": "lua-programming-in-lua",
     "title": "Programming in Lua",
-    "author": "",
+    "author": "Roberto Ierusalimschy",
     "language": "lua",
     "category": "beginner",
     "edition": "4th Edition",
@@ -5492,7 +5492,7 @@
   {
     "id": "lua-beginning-lua-programming",
     "title": "Beginning Lua Programming",
-    "author": "",
+    "author": "Kurt Jung, Aaron Brown",
     "language": "lua",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5502,7 +5502,7 @@
   {
     "id": "lua-lua-quick-start-guide",
     "title": "Lua Quick Start Guide",
-    "author": "",
+    "author": "Gabor Szauer",
     "language": "lua",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5512,7 +5512,7 @@
   {
     "id": "lua-lua-programming-gems",
     "title": "Lua Programming Gems",
-    "author": "",
+    "author": "Luiz Henrique de Figueiredo, Waldemar Celes, Roberto Ierusalimschy",
     "language": "lua",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -5522,7 +5522,7 @@
   {
     "id": "lua-creating-solid-apis-with-lua",
     "title": "Creating Solid APIs with Lua",
-    "author": "",
+    "author": "Andre Alves Garzia",
     "language": "lua",
     "category": "intermediate",
     "edition": "Online Resource",
@@ -5542,7 +5542,7 @@
   {
     "id": "lua-mastering-lua-programming",
     "title": "Mastering Lua Programming",
-    "author": "",
+    "author": "William Smith",
     "language": "lua",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5562,7 +5562,7 @@
   {
     "id": "lua-crafting-interpreters-lua-friendly-patterns",
     "title": "Crafting Interpreters (Lua-friendly patterns)",
-    "author": "",
+    "author": "Robert Nystrom",
     "language": "lua",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5592,7 +5592,7 @@
   {
     "id": "matlab-matlab-for-engineers",
     "title": "MATLAB for Engineers",
-    "author": "",
+    "author": "Holly Moore",
     "language": "matlab",
     "category": "beginner",
     "edition": "6th Edition",
@@ -5612,7 +5612,7 @@
   {
     "id": "matlab-matlab-a-practical-introduction-to-programming-and-problem-solving",
     "title": "MATLAB: A Practical Introduction to Programming and Problem Solving",
-    "author": "",
+    "author": "Stormy Attaway",
     "language": "matlab",
     "category": "beginner",
     "edition": "5th Edition",
@@ -5622,7 +5622,7 @@
   {
     "id": "matlab-matlab-guide",
     "title": "MATLAB Guide",
-    "author": "",
+    "author": "Desmond J. Higham, Nicholas J. Higham",
     "language": "matlab",
     "category": "intermediate",
     "edition": "3rd Edition",
@@ -5632,7 +5632,7 @@
   {
     "id": "matlab-essential-matlab-for-engineers-and-scientists",
     "title": "Essential MATLAB for Engineers and Scientists",
-    "author": "",
+    "author": "Brian D. Hahn, Daniel T. Valentine",
     "language": "matlab",
     "category": "intermediate",
     "edition": "7th Edition",
@@ -5642,7 +5642,7 @@
   {
     "id": "matlab-accelerating-matlab-performance",
     "title": "Accelerating MATLAB Performance",
-    "author": "",
+    "author": "Yair M. Altman",
     "language": "matlab",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5652,7 +5652,7 @@
   {
     "id": "matlab-matlab-differential-equations",
     "title": "MATLAB Differential Equations",
-    "author": "",
+    "author": "César Pérez López",
     "language": "matlab",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -5662,7 +5662,7 @@
   {
     "id": "matlab-matlab-machine-learning-recipes",
     "title": "MATLAB Machine Learning Recipes",
-    "author": "",
+    "author": "Michael Paluszek, Stephanie Thomas",
     "language": "matlab",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -5672,7 +5672,7 @@
   {
     "id": "matlab-digital-signal-processing-using-matlab",
     "title": "Digital Signal Processing Using MATLAB",
-    "author": "",
+    "author": "Vinay K. Ingle, John G. Proakis",
     "language": "matlab",
     "category": "specialized",
     "edition": "4th Edition",
@@ -5702,7 +5702,7 @@
   {
     "id": "assembly-code-the-hidden-language-of-computer-hardware-and-software",
     "title": "Code: The Hidden Language of Computer Hardware and Software",
-    "author": "",
+    "author": "Charles Petzold",
     "language": "assembly",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -5712,7 +5712,7 @@
   {
     "id": "assembly-programming-from-the-ground-up",
     "title": "Programming from the Ground Up",
-    "author": "",
+    "author": "Jonathan Bartlett",
     "language": "assembly",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5722,7 +5722,7 @@
   {
     "id": "assembly-assembly-language-step-by-step",
     "title": "Assembly Language Step-by-Step",
-    "author": "",
+    "author": "Jeff Duntemann",
     "language": "assembly",
     "category": "beginner",
     "edition": "3rd Edition",
@@ -5732,7 +5732,7 @@
   {
     "id": "assembly-x86-64-assembly-language-programming-with-ubuntu",
     "title": "x86-64 Assembly Language Programming with Ubuntu",
-    "author": "",
+    "author": "Ed Jorgensen",
     "language": "assembly",
     "category": "intermediate",
     "edition": "Latest Edition",
@@ -5742,7 +5742,7 @@
   {
     "id": "assembly-the-art-of-assembly-language",
     "title": "The Art of Assembly Language",
-    "author": "",
+    "author": "Randall Hyde",
     "language": "assembly",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5752,7 +5752,7 @@
   {
     "id": "assembly-computer-systems-a-programmer-s-perspective",
     "title": "Computer Systems: A Programmer's Perspective",
-    "author": "",
+    "author": "Randal E. Bryant, David R. O'Hallaron",
     "language": "assembly",
     "category": "advanced",
     "edition": "3rd Edition",
@@ -5762,7 +5762,7 @@
   {
     "id": "assembly-hacker-s-delight",
     "title": "Hacker's Delight",
-    "author": "",
+    "author": "Henry S. Warren Jr.",
     "language": "assembly",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -5772,7 +5772,7 @@
   {
     "id": "assembly-practical-reverse-engineering",
     "title": "Practical Reverse Engineering",
-    "author": "",
+    "author": "Bruce Dang, Alexandre Gazet, Elias Bachaalany",
     "language": "assembly",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5782,7 +5782,7 @@
   {
     "id": "assembly-practical-malware-analysis",
     "title": "Practical Malware Analysis",
-    "author": "",
+    "author": "Michael Sikorski, Andrew Honig",
     "language": "assembly",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5812,7 +5812,7 @@
   {
     "id": "haskell-learn-you-a-haskell-for-great-good",
     "title": "Learn You a Haskell for Great Good!",
-    "author": "",
+    "author": "Miran Lipovača",
     "language": "haskell",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5822,7 +5822,7 @@
   {
     "id": "haskell-haskell-programming-from-first-principles",
     "title": "Haskell Programming from First Principles",
-    "author": "",
+    "author": "Christopher Allen, Julie Moronuki",
     "language": "haskell",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5832,7 +5832,7 @@
   {
     "id": "haskell-get-programming-with-haskell",
     "title": "Get Programming with Haskell",
-    "author": "",
+    "author": "Will Kurt",
     "language": "haskell",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5842,7 +5842,7 @@
   {
     "id": "haskell-programming-in-haskell",
     "title": "Programming in Haskell",
-    "author": "",
+    "author": "Graham Hutton",
     "language": "haskell",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5852,7 +5852,7 @@
   {
     "id": "haskell-haskell-in-depth",
     "title": "Haskell in Depth",
-    "author": "",
+    "author": "Vitaly Bragilevsky",
     "language": "haskell",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -5862,7 +5862,7 @@
   {
     "id": "haskell-real-world-haskell",
     "title": "Real World Haskell",
-    "author": "",
+    "author": "Bryan O'Sullivan, John Goerzen, Don Stewart",
     "language": "haskell",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -5872,7 +5872,7 @@
   {
     "id": "haskell-parallel-and-concurrent-programming-in-haskell",
     "title": "Parallel and Concurrent Programming in Haskell",
-    "author": "",
+    "author": "Simon Marlow",
     "language": "haskell",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5882,7 +5882,7 @@
   {
     "id": "haskell-thinking-with-types",
     "title": "Thinking with Types",
-    "author": "",
+    "author": "Sandy Maguire",
     "language": "haskell",
     "category": "advanced",
     "edition": "1st Edition",
@@ -5892,7 +5892,7 @@
   {
     "id": "haskell-pearls-of-functional-algorithm-design",
     "title": "Pearls of Functional Algorithm Design",
-    "author": "",
+    "author": "Richard Bird",
     "language": "haskell",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5902,7 +5902,7 @@
   {
     "id": "haskell-functional-design-and-architecture",
     "title": "Functional Design and Architecture",
-    "author": "",
+    "author": "Alexander Granin",
     "language": "haskell",
     "category": "specialized",
     "edition": "1st Edition",
@@ -5932,7 +5932,7 @@
   {
     "id": "powershell-learn-windows-powershell-in-a-month-of-lunches",
     "title": "Learn Windows PowerShell in a Month of Lunches",
-    "author": "",
+    "author": "Travis Plunk, James Petty, Tyler Leonhardt",
     "language": "powershell",
     "category": "beginner",
     "edition": "4th Edition",
@@ -5942,7 +5942,7 @@
   {
     "id": "powershell-powershell-for-sysadmins",
     "title": "PowerShell for Sysadmins",
-    "author": "",
+    "author": "Adam Bertram",
     "language": "powershell",
     "category": "beginner",
     "edition": "1st Edition",
@@ -5952,7 +5952,7 @@
   {
     "id": "powershell-windows-powershell-cookbook",
     "title": "Windows PowerShell Cookbook",
-    "author": "",
+    "author": "Lee Holmes",
     "language": "powershell",
     "category": "beginner",
     "edition": "4th Edition",
@@ -5962,7 +5962,7 @@
   {
     "id": "powershell-powershell-in-depth",
     "title": "PowerShell in Depth",
-    "author": "",
+    "author": "Don Jones, Jeffery Hicks, Richard Siddaway",
     "language": "powershell",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5972,7 +5972,7 @@
   {
     "id": "powershell-learn-powershell-scripting-in-a-month-of-lunches",
     "title": "Learn PowerShell Scripting in a Month of Lunches",
-    "author": "",
+    "author": "Don Jones, Jeffery Hicks",
     "language": "powershell",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -5982,7 +5982,7 @@
   {
     "id": "powershell-the-powershell-scripting-and-toolmaking-book",
     "title": "The PowerShell Scripting and Toolmaking Book",
-    "author": "",
+    "author": "Don Jones, Jeffery Hicks",
     "language": "powershell",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -5992,7 +5992,7 @@
   {
     "id": "powershell-powershell-for-pentesting",
     "title": "PowerShell for Pentesting",
-    "author": "",
+    "author": "Andrew Blyth",
     "language": "powershell",
     "category": "advanced",
     "edition": "1st Edition",
@@ -6002,7 +6002,7 @@
   {
     "id": "powershell-learn-azure-in-a-month-of-lunches",
     "title": "Learn Azure in a Month of Lunches",
-    "author": "",
+    "author": "Iain Foulds",
     "language": "powershell",
     "category": "specialized",
     "edition": "2nd Edition",
@@ -6012,7 +6012,7 @@
   {
     "id": "powershell-azure-powershell-quick-start-guide",
     "title": "Azure PowerShell Quick Start Guide",
-    "author": "",
+    "author": "Thomas Mitchell",
     "language": "powershell",
     "category": "specialized",
     "edition": "1st Edition",
@@ -6052,7 +6052,7 @@
   {
     "id": "zig-introduction-to-zig",
     "title": "Introduction to Zig",
-    "author": "",
+    "author": "Pedro Duarte Faria",
     "language": "zig",
     "category": "beginner",
     "edition": "Free online book",
@@ -6152,7 +6152,7 @@
   {
     "id": "solidity-mastering-ethereum",
     "title": "Mastering Ethereum",
-    "author": "",
+    "author": "Andreas M. Antonopoulos, Gavin Wood",
     "language": "solidity",
     "category": "beginner",
     "edition": "1st Edition",
@@ -6182,7 +6182,7 @@
   {
     "id": "solidity-mastering-blockchain-programming-with-solidity",
     "title": "Mastering Blockchain Programming with Solidity",
-    "author": "",
+    "author": "Jitendra Chittoda",
     "language": "solidity",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -6192,7 +6192,7 @@
   {
     "id": "solidity-hands-on-smart-contract-development-with-solidity-and-ethereum",
     "title": "Hands-On Smart Contract Development with Solidity and Ethereum",
-    "author": "",
+    "author": "Dave H. Hoover, Kevin Solorio, Randall Kanna",
     "language": "solidity",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -6222,7 +6222,7 @@
   {
     "id": "solidity-building-ethereum-dapps",
     "title": "Building Ethereum DApps",
-    "author": "",
+    "author": "Roberto Infante",
     "language": "solidity",
     "category": "specialized",
     "edition": "1st Edition",
@@ -6262,7 +6262,7 @@
   {
     "id": "perl-learning-perl",
     "title": "Learning Perl",
-    "author": "",
+    "author": "Randal L. Schwartz, Tom Phoenix, brian d foy",
     "language": "perl",
     "category": "beginner",
     "edition": "8th Edition",
@@ -6272,7 +6272,7 @@
   {
     "id": "perl-intermediate-perl",
     "title": "Intermediate Perl",
-    "author": "",
+    "author": "Randal L. Schwartz, brian d foy, Tom Phoenix",
     "language": "perl",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -6282,7 +6282,7 @@
   {
     "id": "perl-beginning-perl",
     "title": "Beginning Perl",
-    "author": "",
+    "author": "Curtis Poe",
     "language": "perl",
     "category": "beginner",
     "edition": "1st Edition",
@@ -6292,7 +6292,7 @@
   {
     "id": "perl-modern-perl",
     "title": "Modern Perl",
-    "author": "",
+    "author": "chromatic",
     "language": "perl",
     "category": "intermediate",
     "edition": "2014 Edition",
@@ -6302,7 +6302,7 @@
   {
     "id": "perl-programming-perl-the-camel-book",
     "title": "Programming Perl (the Camel Book)",
-    "author": "",
+    "author": "Larry Wall, Tom Christiansen, Jon Orwant",
     "language": "perl",
     "category": "intermediate",
     "edition": "4th Edition",
@@ -6312,7 +6312,7 @@
   {
     "id": "perl-higher-order-perl",
     "title": "Higher-Order Perl",
-    "author": "",
+    "author": "Mark Jason Dominus",
     "language": "perl",
     "category": "advanced",
     "edition": "1st Edition",
@@ -6322,7 +6322,7 @@
   {
     "id": "perl-mastering-perl",
     "title": "Mastering Perl",
-    "author": "",
+    "author": "brian d foy",
     "language": "perl",
     "category": "advanced",
     "edition": "2nd Edition",
@@ -6332,7 +6332,7 @@
   {
     "id": "perl-beginning-perl-for-bioinformatics",
     "title": "Beginning Perl for Bioinformatics",
-    "author": "",
+    "author": "James D. Tisdall",
     "language": "perl",
     "category": "specialized",
     "edition": "1st Edition",
@@ -6342,7 +6342,7 @@
   {
     "id": "perl-network-programming-with-perl",
     "title": "Network Programming with Perl",
-    "author": "",
+    "author": "Lincoln D. Stein",
     "language": "perl",
     "category": "specialized",
     "edition": "1st Edition",
@@ -6372,7 +6372,7 @@
   {
     "id": "fortran-modern-fortran-explained",
     "title": "Modern Fortran Explained",
-    "author": "",
+    "author": "Michael Metcalf, John Reid, Malcolm Cohen",
     "language": "fortran",
     "category": "beginner",
     "edition": "5th Edition",
@@ -6382,7 +6382,7 @@
   {
     "id": "fortran-fortran-for-scientists-and-engineers",
     "title": "Fortran for Scientists and Engineers",
-    "author": "",
+    "author": "Stephen J. Chapman",
     "language": "fortran",
     "category": "beginner",
     "edition": "4th Edition",
@@ -6392,7 +6392,7 @@
   {
     "id": "fortran-introduction-to-programming-with-fortran",
     "title": "Introduction to Programming with Fortran",
-    "author": "",
+    "author": "Ian Chivers, Jane Sleightholme",
     "language": "fortran",
     "category": "beginner",
     "edition": "4th Edition",
@@ -6402,7 +6402,7 @@
   {
     "id": "fortran-modern-fortran-building-efficient-parallel-applications",
     "title": "Modern Fortran: Building Efficient Parallel Applications",
-    "author": "",
+    "author": "Milan Curcic",
     "language": "fortran",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -6412,7 +6412,7 @@
   {
     "id": "fortran-fortran-95-2003-explained",
     "title": "Fortran 95/2003 Explained",
-    "author": "",
+    "author": "Michael Metcalf, John Reid, Malcolm Cohen",
     "language": "fortran",
     "category": "intermediate",
     "edition": "Latest Edition",
@@ -6432,7 +6432,7 @@
   {
     "id": "fortran-numerical-computing-with-modern-fortran",
     "title": "Numerical Computing with Modern Fortran",
-    "author": "",
+    "author": "Richard J. Hanson, Tim Hopkins",
     "language": "fortran",
     "category": "advanced",
     "edition": "1st Edition",
@@ -6452,7 +6452,7 @@
   {
     "id": "fortran-writing-scientific-software",
     "title": "Writing Scientific Software",
-    "author": "",
+    "author": "Suely Oliveira, David E. Stewart",
     "language": "fortran",
     "category": "specialized",
     "edition": "1st Edition",
@@ -6482,7 +6482,7 @@
   {
     "id": "objectivec-programming-in-objective-c",
     "title": "Programming in Objective-C",
-    "author": "",
+    "author": "Stephen G. Kochan",
     "language": "objectivec",
     "category": "beginner",
     "edition": "6th Edition",
@@ -6492,7 +6492,7 @@
   {
     "id": "objectivec-objective-c-programming-the-big-nerd-ranch-guide",
     "title": "Objective-C Programming: The Big Nerd Ranch Guide",
-    "author": "",
+    "author": "Aaron Hillegass, Mikey Ward",
     "language": "objectivec",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -6502,7 +6502,7 @@
   {
     "id": "objectivec-learn-objective-c-on-the-mac",
     "title": "Learn Objective-C on the Mac",
-    "author": "",
+    "author": "Scott Knaster, Waqar Malik, Mark Dalrymple",
     "language": "objectivec",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -6512,7 +6512,7 @@
   {
     "id": "objectivec-cocoa-programming-for-os-x",
     "title": "Cocoa Programming for OS X",
-    "author": "",
+    "author": "Aaron Hillegass, Adam Preble, Nate Chandler",
     "language": "objectivec",
     "category": "intermediate",
     "edition": "5th Edition",
@@ -6522,7 +6522,7 @@
   {
     "id": "objectivec-ios-programming-the-big-nerd-ranch-guide",
     "title": "iOS Programming: The Big Nerd Ranch Guide",
-    "author": "",
+    "author": "Christian Keur, Aaron Hillegass",
     "language": "objectivec",
     "category": "intermediate",
     "edition": "7th Edition",
@@ -6532,7 +6532,7 @@
   {
     "id": "objectivec-effective-objective-c-2-0",
     "title": "Effective Objective-C 2.0",
-    "author": "",
+    "author": "Matt Galloway",
     "language": "objectivec",
     "category": "advanced",
     "edition": "1st Edition",
@@ -6542,7 +6542,7 @@
   {
     "id": "objectivec-advanced-mac-os-x-programming",
     "title": "Advanced Mac OS X Programming",
-    "author": "",
+    "author": "Mark Dalrymple",
     "language": "objectivec",
     "category": "advanced",
     "edition": "Latest Edition",
@@ -6552,7 +6552,7 @@
   {
     "id": "objectivec-learning-cocoa-with-objective-c",
     "title": "Learning Cocoa with Objective-C",
-    "author": "",
+    "author": "Paris Buttfield-Addison, Jon Manning, Tim Nugent",
     "language": "objectivec",
     "category": "specialized",
     "edition": "4th Edition",
@@ -6562,7 +6562,7 @@
   {
     "id": "objectivec-objective-c-for-absolute-beginners-ios-path",
     "title": "Objective-C for Absolute Beginners (iOS path)",
-    "author": "",
+    "author": "Gary Bennett, Mitch Fisher, Brad Lees",
     "language": "objectivec",
     "category": "specialized",
     "edition": "5th Edition",
@@ -6592,7 +6592,7 @@
   {
     "id": "clojure-clojure-for-the-brave-and-true",
     "title": "Clojure for the Brave and True",
-    "author": "",
+    "author": "Daniel Higginbotham",
     "language": "clojure",
     "category": "beginner",
     "edition": "1st Edition",
@@ -6602,7 +6602,7 @@
   {
     "id": "clojure-clojure-in-action",
     "title": "Clojure in Action",
-    "author": "",
+    "author": "Amit Rathore, Francis Avila",
     "language": "clojure",
     "category": "beginner",
     "edition": "2nd Edition",
@@ -6612,7 +6612,7 @@
   {
     "id": "clojure-living-clojure",
     "title": "Living Clojure",
-    "author": "",
+    "author": "Carin Meier",
     "language": "clojure",
     "category": "beginner",
     "edition": "1st Edition",
@@ -6622,7 +6622,7 @@
   {
     "id": "clojure-clojure-programming",
     "title": "Clojure Programming",
-    "author": "",
+    "author": "Chas Emerick, Brian Carper, Christophe Grand",
     "language": "clojure",
     "category": "intermediate",
     "edition": "1st Edition",
@@ -6632,7 +6632,7 @@
   {
     "id": "clojure-the-joy-of-clojure",
     "title": "The Joy of Clojure",
-    "author": "",
+    "author": "Michael Fogus, Chris Houser",
     "language": "clojure",
     "category": "intermediate",
     "edition": "2nd Edition",
@@ -6642,7 +6642,7 @@
   {
     "id": "clojure-clojure-the-essential-reference",
     "title": "Clojure: The Essential Reference",
-    "author": "",
+    "author": "Renzo Borgatti",
     "language": "clojure",
     "category": "advanced",
     "edition": "1st Edition",
@@ -6652,7 +6652,7 @@
   {
     "id": "clojure-professional-clojure",
     "title": "Professional Clojure",
-    "author": "",
+    "author": "Jeremy Anderson, Michael Gaare, Justin Holguín",
     "language": "clojure",
     "category": "advanced",
     "edition": "1st Edition",
@@ -6662,7 +6662,7 @@
   {
     "id": "clojure-web-development-with-clojure",
     "title": "Web Development with Clojure",
-    "author": "",
+    "author": "Dmitri Sotnikov, Scot Brown",
     "language": "clojure",
     "category": "specialized",
     "edition": "3rd Edition",
@@ -6672,7 +6672,7 @@
   {
     "id": "clojure-clojurescript-unraveled",
     "title": "ClojureScript Unraveled",
-    "author": "",
+    "author": "Andrey Antukh, Alejandro Gómez",
     "language": "clojure",
     "category": "specialized",
     "edition": "Latest Edition",
