@@ -47,7 +47,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1-_8Zcoh2K9iIY2yQ_kcnuXw5d187wk8b/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7503511-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492051365.01.L.jpg"
   },
   {
     "id": "python-head-first-python",
@@ -57,7 +57,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1FY7tFJ_TqOqokSHfUZwiDfUt_IzIYBfQ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781492051299-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492051292.01.L.jpg"
   },
   {
     "id": "python-learn-python-3-the-hard-way",
@@ -87,7 +87,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1Iqq_s71shEtgb5j7Y0g2-7gFU-UMtjiH/view?usp=sharing",
-    "coverImage": "https://images.manning.com/360/480/resize/book/8/7806c05-d584-4f7e-a72b-e11e653a184d/harms.png"
+    "coverImage": "https://images.manning.com/264/352/resize/book/b/a0d5d67-535d-457f-bc52-0a21f2f6b3e0/Ceder-4ed-HI.png"
   },
   {
     "id": "python-effective-python-125-specific-ways-to-write-better-python",
@@ -97,7 +97,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/104VUEoNCp00NPc4-3h3QtDUb7xIM9Qrb/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7363706-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0138172188.01.L.jpg"
   },
   {
     "id": "python-refactoring-improving-the-design-of-existing-code",
@@ -107,7 +107,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7087623-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0134757599.01.L.jpg"
   },
   {
     "id": "python-clean-architecture-with-python",
@@ -127,7 +127,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508883-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1449340377.01.L.jpg"
   },
   {
     "id": "python-python-distilled",
@@ -277,7 +277,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/12T1F60yUscujv-dnqZqKqj2K2XVPWGoD/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13314942-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1837637261.01.L.jpg"
   },
   {
     "id": "python-python-for-finance",
@@ -357,7 +357,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1_P1u1TDWiWD6DTAIqmgQL-W21TsD7FkQ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508810-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098148711.01.L.jpg"
   },
   {
     "id": "python-the-recursive-book-of-recursion",
@@ -407,7 +407,7 @@
     "category": "specialized",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1MsNorEk-M_9uHR6L-xAXMjtAekDlfF31/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/9159681-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098130928.01.L.jpg"
   },
   {
     "id": "python-introduction-to-machine-learning-with-python",
@@ -437,7 +437,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1jMLJE4NA7tdSBIE-KZkWznJxdKQr8UrO/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/9388208-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/13141163-L.jpg"
   },
   {
     "id": "python-machine-learning-engineering-in-action",
@@ -457,7 +457,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1wmqeThVLxX5SgRmioQcXGdRdBC6vN_Y7/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781617296864-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/15233827-L.jpg"
   },
   {
     "id": "python-natural-language-processing-with-transformers",
@@ -597,7 +597,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1CanVLEhQ_XOgrq4YRm2fRUkfWx07CqF0/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508770-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1680508601.01.L.jpg"
   },
   {
     "id": "python-beyond-the-basic-stuff-with-python",
@@ -607,7 +607,7 @@
     "category": "references",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1txbFLEtmJrp4H9P7oUC048jwLUPOYHBa/view?usp=sharing",
-    "coverImage": "https://nostarch.com/sites/default/files/BeyondBasicPython.jpg"
+    "coverImage": "https://books.google.com/books/content?vid=ISBN9781593279660&printsec=frontcover&img=1&zoom=1"
   },
   {
     "id": "python-the-python-3-standard-library-by-example",
@@ -637,7 +637,7 @@
     "category": "beginner",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1GKtF2crx0wmUIku4jwCgbuTy9eDoxo3_/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699864552i/198480854.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1837025339.01.L.jpg"
   },
   {
     "id": "javascript-eloquent-javascript",
@@ -657,7 +657,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1fYezQ9QtxOqnS_99ETaWVYMlOPsUtJfF/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/12772880-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098147944.01.L.jpg"
   },
   {
     "id": "javascript-a-smarter-way-to-learn-javascript",
@@ -717,7 +717,7 @@
     "category": "intermediate",
     "edition": "ES2024 Edition",
     "driveUrl": "https://drive.google.com/file/d/1_3tn2ih0sYJkmOQ2a1SHuSNRg1zMQe6-/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/9710412-L.jpg"
+    "coverImage": ""
   },
   {
     "id": "javascript-the-principles-of-object-oriented-javascript",
@@ -837,7 +837,7 @@
     "category": "advanced",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1RqzHBs-_3vxKkf3A3YCY8PBkv1huE3rO/view?usp=sharing",
-    "coverImage": "https://images.manning.com/360/480/resize/book/a/b85f344-edd7-4833-adf3-d98878088441/resig.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617292850.01.L.jpg"
   },
   {
     "id": "javascript-hands-on-javascript-high-performance",
@@ -877,7 +877,7 @@
     "category": "specialized",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1xb98X17vjQMhe0_AvioEoABruQcEt3tk/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1595211284i/54419423.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098145194.01.L.jpg"
   },
   {
     "id": "javascript-web-development-with-node-and-express",
@@ -887,7 +887,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/13u-aBTDYEEExZdewZLV1Ejytij92q0vJ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513971-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1491988649.01.L.jpg"
   },
   {
     "id": "javascript-learning-react",
@@ -927,7 +927,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1oOnmbcRtCA8Z4fWxJPxyvsSC0gpAaRc6/view?usp=drive_link",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1575531808i/49099745.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1839214112.01.L.jpg"
   },
   {
     "id": "javascript-distributed-systems-with-node-js",
@@ -947,7 +947,7 @@
     "category": "specialized",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1P-FbgwqdEzm8O73kTDyGOiHLSyIZTY1K/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8510166-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1804619817.01.L.jpg"
   },
   {
     "id": "javascript-learning-patterns",
@@ -977,7 +977,7 @@
     "category": "specialized",
     "edition": "2020 Edition",
     "driveUrl": "https://drive.google.com/file/d/1-YmV5PoOdmBybOwTmXDAFBUeFSJpDP4M/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10737959-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/036785418X.01.L.jpg"
   },
   {
     "id": "javascript-generative-art-in-javascript",
@@ -1007,7 +1007,7 @@
     "category": "specialized",
     "edition": "1st edition, 2018",
     "driveUrl": "https://drive.google.com/file/d/1-AQfWlKrcFaEL3cM16PiEYQ_n9Fyj0LZ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10018621-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1661212565.01.L.jpg"
   },
   {
     "id": "javascript-real-time-3d-graphics-with-webgl-2",
@@ -1037,7 +1037,7 @@
     "category": "specialized",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1IrWRQiU1Zgf2tn0solmwcgkiLLC6Bqr-/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508046-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1803235861.01.L.jpg"
   },
   {
     "id": "javascript-deep-learning-with-javascript",
@@ -1087,7 +1087,7 @@
     "category": "references",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1uGvyYs8Q0Pf5t3v1RGnRKawU7ond7E3K/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1568670487i/34428125.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1119366445.01.L.jpg"
   },
   {
     "id": "javascript-javascript-es2015-enlightenment",
@@ -1137,7 +1137,7 @@
     "category": "references",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1TLqPvemKX4PaRs2zA5JN_09Vvb17BPTU/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/10724321-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1449316859.01.L.jpg"
   },
   {
     "id": "java-think-java",
@@ -1197,7 +1197,7 @@
     "category": "beginner",
     "edition": "9th Edition",
     "driveUrl": "https://drive.google.com/file/d/12YW6xUFbxuQqIFk69IwIbJhxfd4BsUPU/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8507958-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1260463559.01.L.jpg"
   },
   {
     "id": "java-learning-java",
@@ -1237,7 +1237,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1dVX0IMKequlab-Y57dBkX0Oljt812XQ4/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/388941-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492072583.01.L.jpg"
   },
   {
     "id": "java-refactoring-improving-the-design-of-existing-code",
@@ -1247,7 +1247,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1ba9n8rsoSMMUyMrLqfZIitsgoYau_7C6/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7087623-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0134757599.01.L.jpg"
   },
   {
     "id": "java-clean-code-a-handbook-of-agile-software-craftsmanship",
@@ -1267,7 +1267,7 @@
     "category": "intermediate",
     "edition": "13th Edition",
     "driveUrl": "https://drive.google.com/file/d/1Wg4jaBfblzrkjL4XIDgvnw4aY7AM-p9E/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780137673629-L.jpg"
+    "coverImage": "https://books.google.com/books/content?vid=ISBN9780135328378&printsec=frontcover&img=1&zoom=1"
   },
   {
     "id": "java-core-java-volume-ii-advanced-features",
@@ -1327,7 +1327,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1zqmpNXHIthz6HqqEG6162Oa1rZLpftLV/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508910-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0321146530.01.L.jpg"
   },
   {
     "id": "java-code-complete",
@@ -1427,7 +1427,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1k2MPlfWezaw7spPbCiCxf1ln8QIbIOXG/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8514235-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492056111.01.L.jpg"
   },
   {
     "id": "java-modern-java-in-action",
@@ -1447,7 +1447,7 @@
     "category": "advanced",
     "edition": "First & only edition",
     "driveUrl": "https://drive.google.com/file/d/1NvtCmqNS270XmtOjtUuPU55CqLvEgFSK/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8680254-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/032133678X.01.L.jpg"
   },
   {
     "id": "java-release-it-design-and-deploy-production-ready-software",
@@ -1457,7 +1457,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1KzGpznPxWJFKrxtJbAQIR6Pr0GvYq0G_/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/743624-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1680502395.01.L.jpg"
   },
   {
     "id": "java-design-patterns-elements-of-reusable-object-oriented-software",
@@ -1467,7 +1467,7 @@
     "category": "advanced",
     "edition": "1994 edition",
     "driveUrl": "https://en.wikipedia.org/wiki/Design_Patterns",
-    "coverImage": "https://covers.openlibrary.org/b/id/13750918-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/6601119-L.jpg"
   },
   {
     "id": "java-java-performance-companion",
@@ -1507,7 +1507,7 @@
     "category": "specialized",
     "edition": "6th Edition",
     "driveUrl": "https://drive.google.com/file/d/1e-gRL-z2JlTRmSJ4c17mgTUFgurl_cqe/view?usp=drive_link",
-    "coverImage": "https://images.manning.com/360/480/resize/book/f/6f120e1-5d88-413d-a884-b88add43bfca/walls2.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617297577.01.L.jpg"
   },
   {
     "id": "java-optimizing-cloud-native-java",
@@ -1537,7 +1537,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1T1dffFshpson2EsHIxfoGuYdb4BJ6vpg/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8434671-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/id/15096047-L.jpg"
   },
   {
     "id": "java-system-design-interview-an-insider-s-guide",
@@ -1597,7 +1597,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034022",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513315-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492034029.01.L.jpg"
   },
   {
     "id": "java-microservices-patterns",
@@ -1617,7 +1617,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://www.manning.com/books/kubernetes-in-action-second-edition",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509009-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1617297615.01.L.jpg"
   },
   {
     "id": "java-terraform-up-and-running",
@@ -1627,7 +1627,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747",
-    "coverImage": "https://covers.openlibrary.org/b/id/10158247-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098116747.01.L.jpg"
   },
   {
     "id": "java-site-reliability-engineering",
@@ -1647,7 +1647,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404",
-    "coverImage": "https://covers.openlibrary.org/b/id/10860557-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1950508404.01.L.jpg"
   },
   {
     "id": "java-observability-engineering",
@@ -1707,7 +1707,7 @@
     "category": "specialized",
     "edition": "6th Edition",
     "driveUrl": "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850",
-    "coverImage": "https://covers.openlibrary.org/b/id/7276811-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0984782869.01.L.jpg"
   },
   {
     "id": "java-test-driven-java-development",
@@ -1757,7 +1757,7 @@
     "category": "specialized",
     "edition": "Java SE 19 Edition",
     "driveUrl": "https://drive.google.com/file/d/1dNz2rhQ89eYcrvoqd9VWdBD_qbBSwCnz/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/135604-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/013390069X.01.L.jpg"
   },
   {
     "id": "java-spring-microservices-in-action",
@@ -1767,7 +1767,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1qfgjmGruyZre1Z7pt7F5u6ApFXFQgfVU/view?usp=sharing",
-    "coverImage": "https://images.manning.com/360/480/resize/book/3/3c80b2a-7fc0-4774-8a1c-51461dc067a8/Carnell-Spring-HI.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617296953.01.L.jpg"
   },
   {
     "id": "java-high-performance-java-persistence",
@@ -1877,7 +1877,7 @@
     "category": "references",
     "edition": "8th Edition",
     "driveUrl": "https://drive.google.com/file/d/1qIPTpVltTi02m6QdRvynIDtgr0HVE80n/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/805638-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098131002.01.L.jpg"
   },
   {
     "id": "java-java-pocket-guide",
@@ -1897,7 +1897,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/136qGvMKTc6sU_p5BoC059BYDOA40DTAY/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8657991-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098141784.01.L.jpg"
   },
   {
     "id": "csharp-essential-c-12-0",
@@ -1937,7 +1937,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1WJ-FnkSbmiPaBKuEnQs3sDR7G5pSWP7R/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/11245685-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0985580151.01.L.jpg"
   },
   {
     "id": "csharp-learn-c-sharp",
@@ -1957,7 +1957,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1HuGFTlncXsmJv-s2YJ0KPrH8lOgMMpZy/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/1971120-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1484232879.01.L.jpg"
   },
   {
     "id": "csharp-c-in-depth",
@@ -2007,7 +2007,7 @@
     "category": "intermediate",
     "edition": "9th Edition",
     "driveUrl": "https://drive.google.com/file/d/1w8qf77yV5ym7_4ocp1-chph_W13B54GU/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/11592216-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1484279565.01.L.jpg"
   },
   {
     "id": "csharp-pro-c-10-with-net-6",
@@ -2107,7 +2107,7 @@
     "category": "advanced",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1WMBOFyNCSMf59IPeOm_0dIrhoB6iX-aj/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/193267-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0135896460.01.L.jpg"
   },
   {
     "id": "csharp-the-art-of-unit-testing",
@@ -2117,7 +2117,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/13Nxds-pL6Fg-Lif-Sd-xZwMJrEXDgk0p/view?usp=drive_link",
-    "coverImage": "https://images.manning.com/360/480/resize/book/4/d03ac2e-3009-46cf-9e4c-603819414675/osherove.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617290890.01.L.jpg"
   },
   {
     "id": "csharp-adaptive-code-agile-coding-with-design-patterns-and-solid-principles",
@@ -2177,7 +2177,7 @@
     "category": "specialized",
     "edition": "3rd Edition - Updated for .NET 9",
     "driveUrl": "https://drive.google.com/file/d/1EwK-Jxecv7-xTvVR-GZsU8kaQ2GzGasN/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13711958-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1835465919.01.L.jpg"
   },
   {
     "id": "csharp-net-internals-cookbook",
@@ -2207,7 +2207,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/16NS1iVatak_dfrXA0ziSl7cVdy_DGWWH/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508781-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1633438627.01.L.jpg"
   },
   {
     "id": "csharp-entity-framework-core-in-action",
@@ -2217,7 +2217,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1L04I5D4b6vZJwymZ5jDoSk1XRqaA2var/view?usp=sharing",
-    "coverImage": "https://images.manning.com/360/480/resize/book/2/2cd7852-84a5-44f5-a05b-451d68478e31/Smith-EFC-HI.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617298360.01.L.jpg"
   },
   {
     "id": "csharp-microservices-in-net-core",
@@ -2287,7 +2287,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1_RX40f3AH4aZSgcQ7pydFdvDD-BIpaC4/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780393979503-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0393979504.01.L.jpg"
   },
   {
     "id": "c-head-first-c",
@@ -2357,7 +2357,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/150CoeAbvVpM51AfY2i6F0MSE1gzn1ndQ/view?usp=sharing",
-    "coverImage": "https://images.manning.com/360/480/resize/book/3/d46f8b9-0b1d-4454-8d8c-f07f9f6e93b5/Gustedt-ModernC-HI.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1633437779.01.L.jpg"
   },
   {
     "id": "c-low-level-programming",
@@ -2457,7 +2457,7 @@
     "category": "specialized",
     "edition": "2018 Edition",
     "driveUrl": "https://drive.google.com/file/d/1OjNppXo7wpbi-Cl5L1ZfGlf9J4s7aHuC/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7748895-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1721127984.01.L.jpg"
   },
   {
     "id": "c-extreme-c-taking-the-c-language-to-its-limits",
@@ -2467,7 +2467,7 @@
     "category": "specialized",
     "edition": "2019 Release",
     "driveUrl": "https://drive.google.com/file/d/1x4rbRQ8Xlk2WSPJmk3q1p8cNMuDIKz7w/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/2799953-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1789343623.01.L.jpg"
   },
   {
     "id": "c-advanced-programming-in-the-unix-environment",
@@ -2497,7 +2497,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1Di-Lio4NaBAZcv206D2c3Lw4QR4DWOsM/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/7643570-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098151542.01.L.jpg"
   },
   {
     "id": "c-computer-systems-a-programmer-s-perspective",
@@ -2567,7 +2567,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1JNOX-OHCjTq6VP712BKJba3zq2wEsL0b/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8629281-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1491904755.01.L.jpg"
   },
   {
     "id": "c-beej-s-guide-to-c-programming",
@@ -2587,7 +2587,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/12jdDj0WcFLwnSkSGy1y9eAkcF81UwKqg/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/411054-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0321714113.01.L.jpg"
   },
   {
     "id": "cpp-programming-principles-and-practice-using-c",
@@ -2597,7 +2597,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1dE4BXb4RvcJd3Ve1gCpATUjMf17X8b4a/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8514159-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0138308683.01.L.jpg"
   },
   {
     "id": "cpp-starting-out-with-c-from-control-structures-through-objects",
@@ -2617,7 +2617,7 @@
     "category": "beginner",
     "edition": "7th Edition",
     "driveUrl": "https://drive.google.com/file/d/10uZ7vzYpzYorDAF1nqZcRnVuMZ0wBnUB/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/6441511-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781118823774-L.jpg"
   },
   {
     "id": "cpp-effective-c",
@@ -2647,7 +2647,7 @@
     "category": "intermediate",
     "edition": "*6th Edition - 2024*",
     "driveUrl": "https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394217199",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513807-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1394193173.01.L.jpg"
   },
   {
     "id": "cpp-c-core-guidelines-explained",
@@ -2667,7 +2667,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9780136816485-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0136816487.01.L.jpg"
   },
   {
     "id": "cpp-the-c-programming-language",
@@ -2737,7 +2737,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1y7cZf8IsRCmhoOBVm8PkXgy33P6wJ9m3/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508514-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/180461727X.01.L.jpg"
   },
   {
     "id": "cpp-hands-on-machine-learning-with-c",
@@ -2797,7 +2797,7 @@
     "category": "references",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1aDURg39oCc1zuME_JZL730IoFGNdyKs4/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/13819416-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0596004966.01.L.jpg"
   },
   {
     "id": "typescript-learning-typescript",
@@ -2887,7 +2887,7 @@
     "category": "intermediate",
     "edition": "1st Edition",
     "driveUrl": "https://www.amazon.com/TypeScript-Cookbook-Recipes-Level-Programming/dp/1098136659",
-    "coverImage": "https://learning.oreilly.com/library/cover/9781098136642/250w/"
+    "coverImage": "https://m.media-amazon.com/images/P/1098136659.01.L.jpg"
   },
   {
     "id": "typescript-tackling-typescript",
@@ -2897,7 +2897,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1zagInA-YXWuNuWpwryNPrxZ-X5bPo5VV/view?usp=sharing",
-    "coverImage": "https://www.typescriptlang.org/icons/icon-48x48.png?v=8944a05a8b601855de116c8a56d3b3ae"
+    "coverImage": ""
   },
   {
     "id": "typescript-advanced-typescript-programming-projects",
@@ -2937,7 +2937,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1VALBli8K9_ZPgfnoRfDzhocIcbvmpPPz/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1575531808i/49099745.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1839214112.01.L.jpg"
   },
   {
     "id": "typescript-angular-development-with-typescript",
@@ -2957,7 +2957,7 @@
     "category": "specialized",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/11-QJl9cDqXap-qBlkAvu6NBfh5iBCzPz/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8512224-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1484281756.01.L.jpg"
   },
   {
     "id": "typescript-typescript-deep-dive",
@@ -3007,7 +3007,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1QenR-5Oj8sqk0d89enT9wZZsleLu13Df/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/11872181-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098139291.01.L.jpg"
   },
   {
     "id": "go-head-first-go",
@@ -3057,7 +3057,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1J4QcnUrF7LVIeeGtQlUGM5wXrgmEcDC3/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508880-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1805127144.01.L.jpg"
   },
   {
     "id": "go-go-programming-cookbook",
@@ -3067,7 +3067,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1HFnAUXW-_NkIou9evJUh3HX7JAt_t4He/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509379-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1789800986.01.L.jpg"
   },
   {
     "id": "go-go-in-practice",
@@ -3127,7 +3127,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1nwvxTD7SxHUCKKSBJn2HEwsg0f8R7pwP/view?usp=drive_link",
-    "coverImage": "https://covers.openlibrary.org/b/id/7347376-L.jpg"
+    "coverImage": "https://lets-go.s3.amazonaws.com/og-image.png"
   },
   {
     "id": "go-let-s-go-further",
@@ -3137,7 +3137,7 @@
     "category": "specialized",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1eBwXCyKKOnN94vawC-GXtW5iZNs6jT3l/view?usp=drive_link",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677887058i/70955004.jpg"
+    "coverImage": "https://lets-go.s3.amazonaws.com/og-image-lgf.png"
   },
   {
     "id": "go-black-hat-go",
@@ -3407,7 +3407,7 @@
     "category": "beginner",
     "edition": "6th Edition",
     "driveUrl": "https://drive.google.com/file/d/12o-Gt5jkbtXeyYP7W3qeI5gQndEGs1bW/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/5724818-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492093823.01.L.jpg"
   },
   {
     "id": "php-php-mysql-novice-to-ninja",
@@ -3417,7 +3417,7 @@
     "category": "beginner",
     "edition": "7th Edition",
     "driveUrl": "https://drive.google.com/file/d/1FeEo2YfTU67lcftMqFfvpzkzCM7-3TXV/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/12950949-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1925836460.01.L.jpg"
   },
   {
     "id": "php-the-joy-of-php",
@@ -3445,9 +3445,9 @@
     "author": "",
     "language": "php",
     "category": "intermediate",
-    "edition": "1st Edition",
+    "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1RxQg2J9yWvvQQeLqhMuIfexvHvBowM6Q/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10095878-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1449325572.01.L.jpg"
   },
   {
     "id": "php-murach-s-php-and-mysql",
@@ -3457,7 +3457,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1cwLVkDlilXhaEMqxN7xh7f8jOQWQVMKB/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/9738354-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1943872384.01.L.jpg"
   },
   {
     "id": "php-php-8-programming-tips-tricks-and-best-practices",
@@ -3497,7 +3497,7 @@
     "category": "advanced",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1QM5qKPJUzocK7qQU3rQ2sXM5eax89MVv/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/805876-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0596006810.01.L.jpg"
   },
   {
     "id": "php-php-cookbook",
@@ -3507,7 +3507,7 @@
     "category": "advanced",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1TTer2qoYmjWDS10QNSM0j4hRmWJEJouz/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/805908-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/144936375X.01.L.jpg"
   },
   {
     "id": "php-laravel-up-running",
@@ -3517,7 +3517,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1kea0S1ZmoKJ63gT9Fyxja5JUVMGQSPFJ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/15156373-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/109815326X.01.L.jpg"
   },
   {
     "id": "php-symfony-5-the-fast-track",
@@ -3617,7 +3617,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1NxvVTLNqCmzVPwqpvWTGU3RMIc3US4OM/view?usp=sharing",
-    "coverImage": "https://images.manning.com/360/480/resize/book/3/9458a37-9793-4e67-a23f-585da31dff55/Jemerov-Kotlin-HI.png"
+    "coverImage": "https://books.google.com/books/content?vid=ISBN9781617299605&printsec=frontcover&img=1&zoom=1"
   },
   {
     "id": "kotlin-programming-kotlin",
@@ -3707,7 +3707,7 @@
     "category": "specialized",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1EDrFgkxDEE33ass5rKTXOvdJrumbplfN/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509838-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0137645546.01.L.jpg"
   },
   {
     "id": "kotlin-programming-android-with-kotlin",
@@ -3777,7 +3777,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://drive.google.com/file/d/1Tsj_yl20Wyv8NUmpZOJrAXrlLYJ7HiJs/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/9353369-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0135182794.01.L.jpg"
   },
   {
     "id": "sql-learning-sql",
@@ -3787,7 +3787,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1qIBYWckJF8exoJz5iOrAEpiBFN8pZX94/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8686154-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492057614.01.L.jpg"
   },
   {
     "id": "sql-getting-started-with-sql",
@@ -3837,7 +3837,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1SfNM079EEvW0V0x7NkCNfiXhmL7OB8nc/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/135738-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0321884493.01.L.jpg"
   },
   {
     "id": "sql-sql-performance-explained",
@@ -3877,7 +3877,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1R0WNNGWYQ-7hZveORwVSl9IdmIl1PoSr/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/5076309-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492080519.01.L.jpg"
   },
   {
     "id": "sql-sql-for-data-analysis",
@@ -3897,7 +3897,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1oH_OyDCv8GLOpyP73eCLM0AGHWQDZzLg/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/389135-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492077445.01.L.jpg"
   },
   {
     "id": "sql-database-internals",
@@ -3927,7 +3927,7 @@
     "category": "references",
     "edition": "4th Edition",
     "driveUrl": "https://drive.google.com/file/d/1rEXIAP3fyJ4jIoW3HBQL6LhfVWcAiUaS/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/6616859-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492088862.01.L.jpg"
   },
   {
     "id": "sql-modern-sql",
@@ -3947,7 +3947,7 @@
     "category": "beginner",
     "edition": "7th Edition",
     "driveUrl": "https://drive.google.com/file/d/1tA1abtGxZvJUuAIyCA6TJbkzGPKNhuHg/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/12508462-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/195032530X.01.L.jpg"
   },
   {
     "id": "swift-head-first-swift",
@@ -3967,7 +3967,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1b9t6A265KOdy99PTDKrFnRxe_JPmbW-1/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8512301-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0135266327.01.L.jpg"
   },
   {
     "id": "swift-develop-in-swift-fundamentals",
@@ -3977,7 +3977,7 @@
     "category": "beginner",
     "edition": "Official Apple curriculum",
     "driveUrl": "https://developer.apple.com/learn/curriculum/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8508793-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "swift-swiftui-for-masterminds",
@@ -4067,7 +4067,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1rMtUlu7cd7N9gODzhDikQUwSTUmCSQ2x/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10535814-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/195032544X.01.L.jpg"
   },
   {
     "id": "swift-thinking-in-swiftui",
@@ -4107,7 +4107,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1bClNPwkQx9qBSG9kTndqjHOw2ps01rrx/view?usp=sharing",
-    "coverImage": "https://assets.alexandria.raywenderlich.com/books/890cabe271136403326f8252c59cfdd47160fa63fe7a37801d3bffc1dbbf03f3/images/fdc8eaf7ef46db5a36077c3a61703956/original.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1950325261.01.L.jpg"
   },
   {
     "id": "swift-the-swift-programming-language",
@@ -4117,7 +4117,7 @@
     "category": "references",
     "edition": "Official Documentation",
     "driveUrl": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/",
-    "coverImage": "https://covers.openlibrary.org/b/id/12641066-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "swift-swiftui-views-mastery",
@@ -4147,7 +4147,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1EwtvkYvk4mCYLCnkvuG98LX4Wufpg1mZ/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/742455-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1680508172.01.L.jpg"
   },
   {
     "id": "ruby-head-first-ruby",
@@ -4157,7 +4157,7 @@
     "category": "beginner",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/17ad--m9IvySUTM80Tt_1vUvNOlbveDjk/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/14341549-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1449372651.01.L.jpg"
   },
   {
     "id": "ruby-beginning-ruby-from-novice-to-professional",
@@ -4177,7 +4177,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://drive.google.com/file/d/1a3ZoDJBGjwAbtoZATusPisqY1nz00E_J/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1408310899i/16269916.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0321714636.01.L.jpg"
   },
   {
     "id": "ruby-eloquent-ruby",
@@ -4187,7 +4187,7 @@
     "category": "intermediate",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1ZZn9kyzM86xojOtO4Bgj8CRqVWupc5yx/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/9534809-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0321584104.01.L.jpg"
   },
   {
     "id": "ruby-practical-object-oriented-design-in-ruby-poodr",
@@ -4267,7 +4267,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1QWKdMnrGSviWmEZQ_adQoVL5hlUT-D0x/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/14310006-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1680500694.01.L.jpg"
   },
   {
     "id": "ruby-ruby-on-rails-tutorial",
@@ -4277,7 +4277,7 @@
     "category": "specialized",
     "edition": "7th Edition",
     "driveUrl": "https://drive.google.com/file/d/1K6s83h9Nn9jApIMz1uuVrplTweP-rWmM/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/8716490-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/013804984X.01.L.jpg"
   },
   {
     "id": "ruby-agile-web-development-with-rails-7",
@@ -4307,7 +4307,7 @@
     "category": "specialized",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1zccKnVroVNhc0RngeczjaU58NRkIDWno/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1611553511i/56463935.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0990702847.01.L.jpg"
   },
   {
     "id": "ruby-effective-testing-with-rspec-3",
@@ -4347,7 +4347,7 @@
     "category": "references",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1m7lBtlRlCdWrG_CIqyaSyRzrYHfZWvtn/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/10361371-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0596523696.01.L.jpg"
   },
   {
     "id": "ruby-official-ruby-documentation",
@@ -4407,7 +4407,7 @@
     "category": "beginner",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1gareIc2dTaKFBuT_EClXC-M75uhn7TLE/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/378498-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1449330894.01.L.jpg"
   },
   {
     "id": "dart-beginning-app-development-with-flutter",
@@ -4427,7 +4427,7 @@
     "category": "intermediate",
     "edition": "2020 Edition",
     "driveUrl": "https://drive.google.com/file/d/113W5J6-MhLT0JV0Y2MNv0UgN8cKTtmJv/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13266493-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1680506951.01.L.jpg"
   },
   {
     "id": "dart-flutter-in-action",
@@ -4487,7 +4487,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1Z1FuTs95TNQBuxYV_SQ4dSZmVeuRXuQD/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/13730334-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1800565992.01.L.jpg"
   },
   {
     "id": "dart-flutter-and-dart-cookbook",
@@ -4497,7 +4497,7 @@
     "category": "specialized",
     "edition": "2023 Edition",
     "driveUrl": "https://drive.google.com/file/d/1-WCYcuFgqAIUOcKTh3xbOb2EGuP2H-te/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1653704350i/61178784.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098119517.01.L.jpg"
   },
   {
     "id": "dart-practical-flutter",
@@ -4517,7 +4517,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://drive.google.com/file/d/1yyV7cizosSVc0_qBIHZUTMdYqSF1rDzQ/view?usp=sharing",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660591124i/60747284.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1803245433.01.L.jpg"
   },
   {
     "id": "dart-effective-dart",
@@ -4567,7 +4567,7 @@
     "category": "beginner",
     "edition": "Free online introduction",
     "driveUrl": "https://www.creativescala.org/",
-    "coverImage": "https://covers.openlibrary.org/b/id/7519048-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "scala-essential-scala",
@@ -4587,7 +4587,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://www.manning.com/books/programming-in-scala-fifth-edition",
-    "coverImage": "https://covers.openlibrary.org/b/id/8710790-L.jpg"
+    "coverImage": "https://www.artima.com/images/pins5edCover185x240.png"
   },
   {
     "id": "scala-scala-for-the-impatient",
@@ -4597,7 +4597,7 @@
     "category": "beginner",
     "edition": "3rd Edition",
     "driveUrl": "https://www.oreilly.com/library/view/scala-for-the-impatient/9780134540566/",
-    "coverImage": "https://covers.openlibrary.org/b/id/13353233-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0138033579.01.L.jpg"
   },
   {
     "id": "scala-tour-of-scala",
@@ -4767,7 +4767,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://www.oreilly.com/library/view/introducing-elixir-2nd/9781492026188/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513711-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1449369995.01.L.jpg"
   },
   {
     "id": "elixir-elixir-in-action",
@@ -4927,7 +4927,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/bash-Cookbook-Solutions-Examples-Shell/dp/1492090119",
-    "coverImage": "https://covers.openlibrary.org/b/id/6453570-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1491975334.01.L.jpg"
   },
   {
     "id": "shell-classic-shell-scripting",
@@ -4957,7 +4957,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://jeroenjanssens.com/dsatcl/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8161751-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492087882.01.L.jpg"
   },
   {
     "id": "shell-gnu-bash-reference-manual",
@@ -5007,7 +5007,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://r4ds.hadley.nz/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8512393-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492097403.01.L.jpg"
   },
   {
     "id": "r-hands-on-programming-with-r",
@@ -5027,7 +5027,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://rc2e.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8713348-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492040681.01.L.jpg"
   },
   {
     "id": "r-ggplot2-elegant-graphics-for-data-analysis",
@@ -5037,7 +5037,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://ggplot2-book.org/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8654150-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/3319242776.01.L.jpg"
   },
   {
     "id": "r-r-graphics-cookbook",
@@ -5047,7 +5047,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://r-graphics.org/",
-    "coverImage": "https://covers.openlibrary.org/b/id/7738220-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1491978600.01.L.jpg"
   },
   {
     "id": "r-advanced-r",
@@ -5067,7 +5067,7 @@
     "category": "advanced",
     "edition": "2nd Edition",
     "driveUrl": "https://r-pkgs.org/",
-    "coverImage": "https://covers.openlibrary.org/b/id/12858953-L.jpg"
+    "coverImage": "https://books.google.com/books/content?vid=ISBN9781098134945&printsec=frontcover&img=1&zoom=1"
   },
   {
     "id": "r-efficient-r-programming",
@@ -5097,7 +5097,7 @@
     "category": "specialized",
     "edition": "2nd Edition",
     "driveUrl": "https://hastie.su.domains/ElemStatLearn/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8643962-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0387848843.01.L.jpg"
   },
   {
     "id": "r-mastering-shiny",
@@ -5127,7 +5127,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://openforecasting.com/",
-    "coverImage": "https://covers.openlibrary.org/b/id/15094763-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0987507133.01.L.jpg"
   },
   {
     "id": "r-geocomputation-with-r",
@@ -5147,7 +5147,7 @@
     "category": "references",
     "edition": "Official Manual",
     "driveUrl": "https://cran.r-project.org/doc/manuals/r-release/R-intro.html",
-    "coverImage": "https://covers.openlibrary.org/b/id/14630218-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "r-the-r-language-definition",
@@ -5157,7 +5157,7 @@
     "category": "references",
     "edition": "Official Manual",
     "driveUrl": "https://cran.r-project.org/doc/manuals/r-release/R-lang.html",
-    "coverImage": "https://covers.openlibrary.org/b/id/152116-L.jpg"
+    "coverImage": "/covers/reference.svg"
   },
   {
     "id": "r-rdocumentation",
@@ -5257,7 +5257,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://www.amazon.com/Algorithms-Decision-Making-Mykel-Kochenderfer/dp/0262047010",
-    "coverImage": "https://covers.openlibrary.org/b/id/8636102-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0262047012.01.L.jpg"
   },
   {
     "id": "julia-julia-1-7-cookbook",
@@ -5347,7 +5347,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/learning-web-design/9781491960196/",
-    "coverImage": "https://covers.openlibrary.org/b/id/6875214-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1491960205.01.L.jpg"
   },
   {
     "id": "htmlcss-html5-for-web-designers",
@@ -5367,7 +5367,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/css-the-definitive/9781098117603/",
-    "coverImage": "https://covers.openlibrary.org/b/isbn/9781449393199-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1098117611.01.L.jpg"
   },
   {
     "id": "htmlcss-css-in-depth",
@@ -5397,7 +5397,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/Responsive-Web-Design-Ethan-Marcotte/dp/1937557186",
-    "coverImage": "https://covers.openlibrary.org/b/id/8509197-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781937557188-L.jpg"
   },
   {
     "id": "htmlcss-css-secrets",
@@ -5417,7 +5417,7 @@
     "category": "advanced",
     "edition": "4th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/css-the-missing/9781491985038/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8513704-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1491918055.01.L.jpg"
   },
   {
     "id": "htmlcss-transcending-css",
@@ -5447,7 +5447,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8637276-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492051969.01.L.jpg"
   },
   {
     "id": "htmlcss-mdn-web-docs-html",
@@ -5487,7 +5487,7 @@
     "category": "beginner",
     "edition": "4th Edition",
     "driveUrl": "https://www.lua.org/pil/",
-    "coverImage": "https://covers.openlibrary.org/b/id/1048854-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/8590379868.01.L.jpg"
   },
   {
     "id": "lua-beginning-lua-programming",
@@ -5597,7 +5597,7 @@
     "category": "beginner",
     "edition": "6th Edition",
     "driveUrl": "https://www.pearson.com/en-us/subject-catalog/p/matlab-for-engineers/P200000003316",
-    "coverImage": "https://covers.openlibrary.org/b/id/9478590-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0134589645.01.L.jpg"
   },
   {
     "id": "matlab-getting-started-with-matlab",
@@ -5617,7 +5617,7 @@
     "category": "beginner",
     "edition": "5th Edition",
     "driveUrl": "https://www.amazon.com/MATLAB-Practical-Introduction-Programming-Problem/dp/0128154799",
-    "coverImage": "https://covers.openlibrary.org/b/id/10859306-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0128154799.01.L.jpg"
   },
   {
     "id": "matlab-matlab-guide",
@@ -5627,7 +5627,7 @@
     "category": "intermediate",
     "edition": "3rd Edition",
     "driveUrl": "https://www.pearson.com/en-us/subject-catalog/p/matlab-guide/P200000003315",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347475629i/7732800.jpg"
+    "coverImage": "https://books.google.com/books/content?vid=ISBN9781611974652&printsec=frontcover&img=1&zoom=1"
   },
   {
     "id": "matlab-essential-matlab-for-engineers-and-scientists",
@@ -5637,7 +5637,7 @@
     "category": "intermediate",
     "edition": "7th Edition",
     "driveUrl": "https://www.amazon.com/Essential-MATLAB-Engineers-Scientists-Hahn/dp/0081029977",
-    "coverImage": "https://covers.openlibrary.org/b/id/3743107-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0081029977.01.L.jpg"
   },
   {
     "id": "matlab-accelerating-matlab-performance",
@@ -5677,7 +5677,7 @@
     "category": "specialized",
     "edition": "4th Edition",
     "driveUrl": "https://www.amazon.com/Digital-Signal-Processing-Using-MATLAB/dp/1305635195",
-    "coverImage": "https://covers.openlibrary.org/b/id/363866-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1305635124.01.L.jpg"
   },
   {
     "id": "matlab-mathworks-matlab-documentation",
@@ -5707,7 +5707,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0137909101",
-    "coverImage": "https://covers.openlibrary.org/b/id/460968-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0137909101.01.L.jpg"
   },
   {
     "id": "assembly-programming-from-the-ground-up",
@@ -5847,7 +5847,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://www.amazon.com/Programming-Haskell-Graham-Hutton/dp/1316626229",
-    "coverImage": "https://covers.openlibrary.org/b/id/353846-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1316626229.01.L.jpg"
   },
   {
     "id": "haskell-haskell-in-depth",
@@ -5937,7 +5937,7 @@
     "category": "beginner",
     "edition": "4th Edition",
     "driveUrl": "https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-fourth-edition",
-    "coverImage": "https://images.manning.com/360/480/resize/book/3/54621ee-f7a6-416d-bc9b-eb3391355ef8/jones.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617296961.01.L.jpg"
   },
   {
     "id": "powershell-powershell-for-sysadmins",
@@ -5957,7 +5957,7 @@
     "category": "beginner",
     "edition": "4th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/windows-powershell-cookbook/9781098164317/",
-    "coverImage": "https://covers.openlibrary.org/b/id/1312622-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/109810160X.01.L.jpg"
   },
   {
     "id": "powershell-powershell-in-depth",
@@ -5967,7 +5967,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://www.manning.com/books/powershell-in-depth-second-edition",
-    "coverImage": "https://images.manning.com/360/480/resize/book/e/3ec89ca-ffba-40a1-8eda-fa78738ac815/jones2.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617292184.01.L.jpg"
   },
   {
     "id": "powershell-learn-powershell-scripting-in-a-month-of-lunches",
@@ -6267,7 +6267,7 @@
     "category": "beginner",
     "edition": "8th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/learning-perl-8th/9781492094920/",
-    "coverImage": "https://covers.openlibrary.org/b/id/805582-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1492094927.01.L.jpg"
   },
   {
     "id": "perl-intermediate-perl",
@@ -6287,7 +6287,7 @@
     "category": "beginner",
     "edition": "1st Edition",
     "driveUrl": "https://www.amazon.com/Beginning-Perl-Curtis-Poe/dp/1118013840",
-    "coverImage": "https://covers.openlibrary.org/b/id/8622320-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1118013840.01.L.jpg"
   },
   {
     "id": "perl-modern-perl",
@@ -6307,7 +6307,7 @@
     "category": "intermediate",
     "edition": "4th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/",
-    "coverImage": "https://covers.openlibrary.org/b/id/715250-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0596004923.01.L.jpg"
   },
   {
     "id": "perl-higher-order-perl",
@@ -6387,7 +6387,7 @@
     "category": "beginner",
     "edition": "4th Edition",
     "driveUrl": "https://www.amazon.com/Fortran-Scientists-Engineers-Stephen-Chapman/dp/0073385891",
-    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347228125i/5085679.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0073385891.01.L.jpg"
   },
   {
     "id": "fortran-introduction-to-programming-with-fortran",
@@ -6397,7 +6397,7 @@
     "category": "beginner",
     "edition": "4th Edition",
     "driveUrl": "https://www.amazon.com/Introduction-Programming-Fortran-Ian-Chivers/dp/3319754019",
-    "coverImage": "https://covers.openlibrary.org/b/id/2036892-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/3030092488.01.L.jpg"
   },
   {
     "id": "fortran-modern-fortran-building-efficient-parallel-applications",
@@ -6407,7 +6407,7 @@
     "category": "intermediate",
     "edition": "1st Edition",
     "driveUrl": "https://www.manning.com/books/modern-fortran",
-    "coverImage": "https://covers.openlibrary.org/b/id/8696201-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/1617295280.01.L.jpg"
   },
   {
     "id": "fortran-fortran-95-2003-explained",
@@ -6527,7 +6527,7 @@
     "category": "intermediate",
     "edition": "7th Edition",
     "driveUrl": "https://www.amazon.com/iOS-Programming-Nerd-Ranch-Guide/dp/0135264022",
-    "coverImage": "https://covers.openlibrary.org/b/id/8449597-L.jpg"
+    "coverImage": "https://m.media-amazon.com/images/P/0135265533.01.L.jpg"
   },
   {
     "id": "objectivec-effective-objective-c-2-0",
@@ -6557,7 +6557,7 @@
     "category": "specialized",
     "edition": "4th Edition",
     "driveUrl": "https://www.oreilly.com/library/view/learning-cocoa-with/9781491901397/",
-    "coverImage": "https://covers.openlibrary.org/b/id/388634-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781491901397-L.jpg"
   },
   {
     "id": "objectivec-objective-c-for-absolute-beginners-ios-path",
@@ -6607,7 +6607,7 @@
     "category": "beginner",
     "edition": "2nd Edition",
     "driveUrl": "https://www.manning.com/books/clojure-in-action",
-    "coverImage": "https://images.manning.com/360/480/resize/book/0/5657eac-1ad1-48b9-a15b-8e7bcf92e4f3/rathore.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617291528.01.L.jpg"
   },
   {
     "id": "clojure-living-clojure",
@@ -6637,7 +6637,7 @@
     "category": "intermediate",
     "edition": "2nd Edition",
     "driveUrl": "https://www.manning.com/books/the-joy-of-clojure-second-edition",
-    "coverImage": "https://images.manning.com/360/480/resize/book/1/fa46df5-8dda-46df-90f0-d17397f527ae/fogus.png"
+    "coverImage": "https://m.media-amazon.com/images/P/1617291412.01.L.jpg"
   },
   {
     "id": "clojure-clojure-the-essential-reference",
@@ -6667,7 +6667,7 @@
     "category": "specialized",
     "edition": "3rd Edition",
     "driveUrl": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "coverImage": "https://covers.openlibrary.org/b/id/8514199-L.jpg"
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781680506822-L.jpg"
   },
   {
     "id": "clojure-clojurescript-unraveled",

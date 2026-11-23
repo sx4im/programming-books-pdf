@@ -13,9 +13,11 @@ export function BookCover({ src, title }: Props) {
   const [status, setStatus] = useState<"loading" | "loaded" | "error">(
     isLocalAsset ? "loaded" : "loading",
   );
+  const [wide, setWide] = useState(false);
 
   useEffect(() => {
     setStatus(src.startsWith("/") ? "loaded" : "loading");
+    setWide(false);
   }, [src]);
 
   if (!src.trim() || status === "error") {
@@ -34,16 +36,21 @@ export function BookCover({ src, title }: Props) {
       ) : null}
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
-        className={
-          status === "loaded"
-            ? `${styles.cover} ${styles.coverVisible}`
-            : styles.cover
-        }
+        className={[
+          styles.cover,
+          status === "loaded" ? styles.coverVisible : "",
+          wide ? styles.coverContain : "",
+        ].join(" ")}
         src={src}
         alt={`Cover for ${title}`}
         loading="lazy"
         decoding="async"
-        onLoad={() => setStatus("loaded")}
+        onLoad={(e) => {
+          const { naturalWidth: w, naturalHeight: h } = e.currentTarget;
+          // Square or landscape art would lose its title under object-fit: cover.
+          setWide(h > 0 && w / h > 0.9);
+          setStatus("loaded");
+        }}
         onError={() => setStatus("error")}
       />
     </>

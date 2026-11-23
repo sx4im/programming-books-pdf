@@ -28,7 +28,7 @@ These books are for newcomers to PHP and provide a solid foundation in web devel
 These books will help you bridge the gap between writing simple scripts and building robust, professional-grade web applications.
 
 - **PHP and MySQL Web Development** (*5th Edition*)
-- **PHP & MySQL: The Missing Manual** (*1st Edition*)
+- **PHP & MySQL: The Missing Manual** (*2nd Edition*)
 - **Murach's PHP and MySQL** (*3rd Edition*)
 - **PHP 8 Programming Tips, Tricks and Best Practices** (*2nd Edition*)
 
