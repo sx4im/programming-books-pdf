@@ -595,9 +595,9 @@
     "author": "Daniel Roy Greenfeld, Audrey Roy Greenfeld",
     "language": "python",
     "category": "specialized",
-    "edition": "*3.x Edition*",
+    "edition": "3.x Edition",
     "driveUrl": "https://drive.google.com/file/d/1lz1_ww3kNobzHqCjYpfnk8gYwFqNzgfq/view?usp=sharing",
-    "coverImage": "https://covers.openlibrary.org/b/id/11385173-L.jpg"
+    "coverImage": "/covers/two-scoops-of-django-3x.jpg"
   },
   {
     "id": "python-data-science-from-scratch",
@@ -815,9 +815,9 @@
     "author": "Axel Rauschmayer",
     "language": "javascript",
     "category": "intermediate",
-    "edition": "ES2024 Edition",
+    "edition": "ES2025 Edition",
     "driveUrl": "https://drive.google.com/file/d/1_3tn2ih0sYJkmOQ2a1SHuSNRg1zMQe6-/view?usp=sharing",
-    "coverImage": ""
+    "coverImage": "/covers/exploring-javascript.jpg"
   },
   {
     "id": "javascript-the-principles-of-object-oriented-javascript",
@@ -2865,7 +2865,7 @@
     "author": "Marc Gregoire",
     "language": "cpp",
     "category": "intermediate",
-    "edition": "*6th Edition - 2024*",
+    "edition": "6th Edition - 2024",
     "driveUrl": "https://www.wiley.com/en-us/Professional+C%2B%2B%2C+6th+Edition-p-9781394217199",
     "coverImage": "https://m.media-amazon.com/images/P/1394193173.01.L.jpg"
   },
@@ -3167,7 +3167,7 @@
     "category": "advanced",
     "edition": "1st Edition",
     "driveUrl": "https://drive.google.com/file/d/1zagInA-YXWuNuWpwryNPrxZ-X5bPo5VV/view?usp=sharing",
-    "coverImage": ""
+    "coverImage": "/covers/tackling-typescript.jpg"
   },
   {
     "id": "typescript-advanced-typescript-programming-projects",
@@ -5942,12 +5942,12 @@
   {
     "id": "lua-creating-solid-apis-with-lua",
     "title": "Creating Solid APIs with Lua",
-    "author": "Andre Alves Garzia",
+    "author": "Tyler Neylon",
     "language": "lua",
     "category": "intermediate",
     "edition": "Online Resource",
     "driveUrl": "https://www.lua.org/docs.html",
-    "coverImage": "https://images.isbndb.com/covers/5174593482719.jpg"
+    "coverImage": "/covers/creating-solid-apis-with-lua.jpg"
   },
   {
     "id": "lua-lua-5-4-reference-manual",

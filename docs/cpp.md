@@ -30,7 +30,7 @@ These books are essential for moving beyond the basics and learning to write eff
 
 - **Effective C++** (*3rd Edition*)
 - **Effective Modern C++** (*1st Edition*)
-- **Professional C++** (**6th Edition - 2024**)
+- **Professional C++** (*6th Edition - 2024*)
 - **C++ Core Guidelines Explained**
 - **A Tour of C++** (*3rd Edition*)
 - **The C++ Programming Language** (*4th Edition*)
