@@ -4,7 +4,7 @@ Expressive language known for Rails and developer-friendly web development.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Ruby books →](https://freecodebooks.vercel.app/library?lang=ruby)**
+**[Open Ruby books →](https://freecodebooks.vercel.app/library/ruby)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

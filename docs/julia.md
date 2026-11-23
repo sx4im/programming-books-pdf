@@ -4,7 +4,7 @@ High-performance language for numerical computing, science, and machine learning
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Julia books →](https://freecodebooks.vercel.app/library?lang=julia)**
+**[Open Julia books →](https://freecodebooks.vercel.app/library/julia)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

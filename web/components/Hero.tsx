@@ -12,11 +12,12 @@ export function Hero({ bookCount, languageCount }: HeroProps) {
       <div className="container">
         <p className={styles.eyebrow}>Programming library</p>
         <h1 id="hero-title" className={styles.title}>
-          Pick a language. Open the shelf.
+          Programming books for {languageCount} languages.
         </h1>
         <p className={styles.sub}>
-          {bookCount}+ curated books across {languageCount} languages. Select a
-          language shelf below to open that library with search and filters.
+          {bookCount}+ curated books, beginner to advanced — Python, JavaScript,
+          Java, C++, Rust, Go, and more. Pick a language shelf to search and
+          filter its books.
         </p>
         <div className={styles.actions}>
           <a className={styles.primary} href="#languages">

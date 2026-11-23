@@ -52,6 +52,30 @@
   text-decoration: underline;
 }
 
+.headerLinks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 20px;
+}
+
+.requestAny {
+  appearance: none;
+  border: none;
+  background: none;
+  padding: 0;
+  margin-top: 10px;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--blue);
+  cursor: pointer;
+}
+
+.requestAny:hover {
+  text-decoration: underline;
+}
+
 .count {
   margin: 0;
   color: var(--quiet);

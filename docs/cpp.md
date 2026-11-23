@@ -4,7 +4,7 @@ High-performance systems and game development language with fine-grained control
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open C++ books →](https://freecodebooks.vercel.app/library?lang=cpp)**
+**[Open C++ books →](https://freecodebooks.vercel.app/library/cpp)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

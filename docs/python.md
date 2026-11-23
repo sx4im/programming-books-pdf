@@ -4,7 +4,7 @@ General-purpose language widely used in data science, web development, automatio
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Python books →](https://freecodebooks.vercel.app/library?lang=python)**
+**[Open Python books →](https://freecodebooks.vercel.app/library/python)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

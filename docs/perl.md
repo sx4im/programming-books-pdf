@@ -4,7 +4,7 @@ Flexible language renowned for text processing, sysadmin, and bioinformatics scr
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Perl books →](https://freecodebooks.vercel.app/library?lang=perl)**
+**[Open Perl books →](https://freecodebooks.vercel.app/library/perl)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

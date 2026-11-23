@@ -4,7 +4,7 @@ Memory-safe systems language for performance-critical and reliable software.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Rust books →](https://freecodebooks.vercel.app/library?lang=rust)**
+**[Open Rust books →](https://freecodebooks.vercel.app/library/rust)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

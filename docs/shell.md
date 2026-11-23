@@ -4,7 +4,7 @@ Command-line scripting for automation, DevOps, and system administration.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Shell books →](https://freecodebooks.vercel.app/library?lang=shell)**
+**[Open Shell books →](https://freecodebooks.vercel.app/library/shell)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

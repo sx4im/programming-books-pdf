@@ -4,7 +4,7 @@ The language of the web — browsers, Node.js, and full-stack applications.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Javascript books →](https://freecodebooks.vercel.app/library?lang=javascript)**
+**[Open Javascript books →](https://freecodebooks.vercel.app/library/javascript)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

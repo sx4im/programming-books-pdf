@@ -4,7 +4,7 @@ Foundational systems language for operating systems, embedded software, and perf
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open C books →](https://freecodebooks.vercel.app/library?lang=c)**
+**[Open C books →](https://freecodebooks.vercel.app/library/c)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

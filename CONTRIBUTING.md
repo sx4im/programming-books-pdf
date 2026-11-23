@@ -90,7 +90,7 @@ Rules:
 1. Correct skill-level section
 2. Accurate title + edition — **no URL**
 3. No duplicates on the same page
-4. Point readers to `https://freecodebooks.vercel.app/library?lang=…`
+4. Point readers to `https://freecodebooks.vercel.app/library/<language>`
 
 ## Pull request checklist
 

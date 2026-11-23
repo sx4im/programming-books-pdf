@@ -4,7 +4,7 @@ Simple, concurrent language from Google for cloud services, CLI tools, and infra
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Go books →](https://freecodebooks.vercel.app/library?lang=go)**
+**[Open Go books →](https://freecodebooks.vercel.app/library/go)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

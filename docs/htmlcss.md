@@ -4,7 +4,7 @@ Markup and styling languages that power the modern web.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open HTML/CSS books →](https://freecodebooks.vercel.app/library?lang=htmlcss)**
+**[Open HTML/CSS books →](https://freecodebooks.vercel.app/library/htmlcss)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

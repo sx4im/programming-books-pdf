@@ -4,7 +4,7 @@ Server-side web language powering WordPress, Laravel, and many web backends.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Php books →](https://freecodebooks.vercel.app/library?lang=php)**
+**[Open Php books →](https://freecodebooks.vercel.app/library/php)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

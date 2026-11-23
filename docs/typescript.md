@@ -4,7 +4,7 @@ Typed JavaScript for safer large-scale front-end and Node.js applications.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Typescript books →](https://freecodebooks.vercel.app/library?lang=typescript)**
+**[Open Typescript books →](https://freecodebooks.vercel.app/library/typescript)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

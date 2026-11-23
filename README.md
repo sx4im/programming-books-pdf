@@ -21,38 +21,38 @@ Curated **programming books** and ebooks for **32 languages** — Python, JavaSc
 Click a badge to open that language **on the live site** (search, filters, and Read book).
 
 <p align="center">
-<a href="https://freecodebooks.vercel.app/library?lang=python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=cpp"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=go"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=rust"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=sql"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=swift"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=ruby"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=dart"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=scala"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=elixir"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=shell"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash shell programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=r"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=julia"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=htmlcss"><img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=lua"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=matlab"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=assembly"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=haskell"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=powershell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=zig"><img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=solidity"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=perl"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=fortran"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=objectivec"><img src="https://img.shields.io/badge/Objective--C-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C programming books"/></a>
-<a href="https://freecodebooks.vercel.app/library?lang=clojure"><img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/cpp"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/go"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/rust"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/sql"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/swift"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/ruby"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/dart"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/scala"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/elixir"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/shell"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash shell programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/r"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/julia"><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/htmlcss"><img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML CSS programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/lua"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/matlab"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/assembly"><img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/haskell"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/powershell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/zig"><img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/solidity"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/perl"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/fortran"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/objectivec"><img src="https://img.shields.io/badge/Objective--C-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C programming books"/></a>
+<a href="https://freecodebooks.vercel.app/library/clojure"><img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure programming books"/></a>
 </p>
 
 <details>

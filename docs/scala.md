@@ -4,7 +4,7 @@ JVM language combining object-oriented and functional programming for big data a
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Scala books →](https://freecodebooks.vercel.app/library?lang=scala)**
+**[Open Scala books →](https://freecodebooks.vercel.app/library/scala)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

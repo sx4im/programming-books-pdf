@@ -4,7 +4,7 @@ Enterprise-ready OOP language for backend systems, Android, and large-scale appl
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Java books →](https://freecodebooks.vercel.app/library?lang=java)**
+**[Open Java books →](https://freecodebooks.vercel.app/library/java)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

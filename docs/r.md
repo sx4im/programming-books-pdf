@@ -4,7 +4,7 @@ Statistical computing language for data analysis, visualization, and research.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open R books →](https://freecodebooks.vercel.app/library?lang=r)**
+**[Open R books →](https://freecodebooks.vercel.app/library/r)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
