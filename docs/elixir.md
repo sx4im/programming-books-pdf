@@ -4,7 +4,7 @@ Functional language on the Erlang VM for concurrent, fault-tolerant systems.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Elixir books →](https://freecodebooks.vercel.app/library?lang=elixir)**
+**[Open Elixir books →](https://freecodebooks.vercel.app/library/elixir)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

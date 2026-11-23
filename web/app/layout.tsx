@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     template: "%s · Programming Books",
   },
   description:
-    "Browse 670+ curated programming books for Python, JavaScript, Java, Rust, Go, and more. Search by title, filter by skill level, and read on the live library.",
+    "Browse 700+ curated programming books for Python, JavaScript, Java, Rust, Go, and more. Search by title, filter by skill level, and read on the live library.",
   keywords: [
     "programming books",
     "programming ebooks",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         url: "/og.png",
         width: 1200,
         height: 630,
-        alt: "Programming Books — 670+ curated titles across 32 languages",
+        alt: "Programming Books — 700+ curated titles across 32 languages",
       },
     ],
   },

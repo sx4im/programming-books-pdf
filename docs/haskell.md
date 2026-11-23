@@ -4,7 +4,7 @@ Pure functional language used for teaching, research, and reliable software.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Haskell books →](https://freecodebooks.vercel.app/library?lang=haskell)**
+**[Open Haskell books →](https://freecodebooks.vercel.app/library/haskell)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

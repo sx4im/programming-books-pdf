@@ -4,7 +4,7 @@ Industry-standard language for numerical computing, engineering, and scientific 
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Matlab books →](https://freecodebooks.vercel.app/library?lang=matlab)**
+**[Open Matlab books →](https://freecodebooks.vercel.app/library/matlab)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

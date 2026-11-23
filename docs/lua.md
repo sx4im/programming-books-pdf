@@ -4,7 +4,7 @@ Lightweight scripting language popular in games, Neovim, and embedded systems.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Lua books →](https://freecodebooks.vercel.app/library?lang=lua)**
+**[Open Lua books →](https://freecodebooks.vercel.app/library/lua)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

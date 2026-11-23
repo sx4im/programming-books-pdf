@@ -36,6 +36,10 @@
   opacity: 1;
 }
 
+.coverContain {
+  object-fit: contain;
+}
+
 .skeleton {
   position: absolute;
   inset: 0;

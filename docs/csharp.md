@@ -4,7 +4,7 @@ Modern .NET language for Windows, games (Unity), web APIs, and cross-platform ap
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open C# books →](https://freecodebooks.vercel.app/library?lang=csharp)**
+**[Open C# books →](https://freecodebooks.vercel.app/library/csharp)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

@@ -4,7 +4,7 @@ Low-level programming for understanding CPUs, memory, and systems internals.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Assembly books →](https://freecodebooks.vercel.app/library?lang=assembly)**
+**[Open Assembly books →](https://freecodebooks.vercel.app/library/assembly)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

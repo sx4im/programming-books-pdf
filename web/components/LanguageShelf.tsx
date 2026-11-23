@@ -29,7 +29,7 @@ export function LanguageShelf({ languages, counts, selected }: Props) {
             return (
               <Link
                 key={lang.id}
-                href={`/library?lang=${lang.id}`}
+                href={`/library/${lang.id}`}
                 className={active ? styles.cardActive : styles.card}
                 aria-current={active ? "page" : undefined}
               >

@@ -4,7 +4,7 @@ Language behind Flutter for cross-platform mobile, web, and desktop apps.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Dart books →](https://freecodebooks.vercel.app/library?lang=dart)**
+**[Open Dart books →](https://freecodebooks.vercel.app/library/dart)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

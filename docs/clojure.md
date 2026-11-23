@@ -4,7 +4,7 @@ Modern Lisp on the JVM for concurrency, data, and functional systems.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Clojure books →](https://freecodebooks.vercel.app/library?lang=clojure)**
+**[Open Clojure books →](https://freecodebooks.vercel.app/library/clojure)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

@@ -4,7 +4,7 @@ Foundational language for scientific computing, numerical libraries, and HPC.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Fortran books →](https://freecodebooks.vercel.app/library?lang=fortran)**
+**[Open Fortran books →](https://freecodebooks.vercel.app/library/fortran)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

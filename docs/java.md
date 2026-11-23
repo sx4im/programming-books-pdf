@@ -4,7 +4,7 @@ Enterprise-ready OOP language for backend systems, Android, and large-scale appl
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Java books →](https://freecodebooks.vercel.app/library?lang=java)**
+**[Open Java books →](https://freecodebooks.vercel.app/library/java)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
@@ -25,6 +25,7 @@ These books are designed for those new to programming or just starting their jou
 - **Head First Java** (*3rd Edition*)
 - **Java: A Beginner's Guide** (*9th Edition*)
 - **Learning Java** (*5th Edition*)
+- **Spring Start Here** (*1st Edition*)
 
 ## For Intermediate Developers
 
@@ -41,6 +42,7 @@ Once you understand the syntax, these books will teach you how to write robust, 
 - **100 Java Mistakes and How to Avoid Them** (*2023 Edition*)
 - **A Philosophy of Software Design** (*2nd Edition*)
 - **The Missing README: A Guide for the New Software Engineer** (*1st Edition*)
+- **The Clean Coder** (*1st Edition*)
 
 ## For Advanced Programmers
 
@@ -60,6 +62,9 @@ These books tackle complex topics like concurrency, performance, and application
 - **Java Puzzlers: Traps, Pitfalls, and Corner Cases** (*First & only edition*)
 - **Release It!: Design and Deploy Production-Ready Software** (*2nd Edition*)
 - **Design Patterns: Elements of Reusable Object-Oriented Software** (*1994 edition*)
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software** (*1st Edition*)
+- **Implementing Domain-Driven Design** (*1st Edition*)
+- **Algorithms** (*4th Edition*)
 
 ## For Specialized Fields
 
@@ -97,6 +102,8 @@ Focus on applying Java to a specific professional domain, particularly with the 
 - **Spring Microservices in Action** (*2nd Edition*)
 - **High-Performance Java Persistence** (*New Edition*)
 - **JUnit in Action** (*3rd Edition*)
+- **Accelerate: The Science of Lean Software and DevOps** (*1st Edition*)
+- **Elements of Programming Interviews in Java** (*2nd Edition*)
 
 ## Comprehensive References
 

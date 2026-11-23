@@ -4,7 +4,7 @@ Object-oriented language for classic macOS and iOS Cocoa development.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Objective-C books →](https://freecodebooks.vercel.app/library?lang=objectivec)**
+**[Open Objective-C books →](https://freecodebooks.vercel.app/library/objectivec)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

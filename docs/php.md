@@ -4,7 +4,7 @@ Server-side web language powering WordPress, Laravel, and many web backends.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Php books →](https://freecodebooks.vercel.app/library?lang=php)**
+**[Open Php books →](https://freecodebooks.vercel.app/library/php)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
@@ -22,13 +22,14 @@ These books are for newcomers to PHP and provide a solid foundation in web devel
 - **Learning PHP, MySQL & JavaScript** (*6th Edition*)
 - **PHP & MySQL: Novice to Ninja** (*7th Edition*)
 - **The Joy of PHP**
+- **PHP & MySQL: Server-side Web Development** (*1st Edition*)
 
 ## For Intermediate Developers
 
 These books will help you bridge the gap between writing simple scripts and building robust, professional-grade web applications.
 
 - **PHP and MySQL Web Development** (*5th Edition*)
-- **PHP & MySQL: The Missing Manual** (*1st Edition*)
+- **PHP & MySQL: The Missing Manual** (*2nd Edition*)
 - **Murach's PHP and MySQL** (*3rd Edition*)
 - **PHP 8 Programming Tips, Tricks and Best Practices** (*2nd Edition*)
 

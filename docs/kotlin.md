@@ -4,7 +4,7 @@ Modern JVM language and the preferred choice for Android development.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Kotlin books →](https://freecodebooks.vercel.app/library?lang=kotlin)**
+**[Open Kotlin books →](https://freecodebooks.vercel.app/library/kotlin)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

@@ -4,7 +4,7 @@ Modern systems language focused on simplicity, safety, and explicit control.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Zig books →](https://freecodebooks.vercel.app/library?lang=zig)**
+**[Open Zig books →](https://freecodebooks.vercel.app/library/zig)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

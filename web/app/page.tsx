@@ -1,7 +1,11 @@
 import { getAllBooks } from "../lib/books-server";
-import { toPublicBooks } from "../lib/public-books";
 import { HomePage } from "../components/HomePage";
 
 export default function Page() {
-  return <HomePage books={toPublicBooks(getAllBooks())} />;
+  const books = getAllBooks();
+  const counts: Record<string, number> = {};
+  for (const book of books) {
+    counts[book.language] = (counts[book.language] ?? 0) + 1;
+  }
+  return <HomePage bookCount={books.length} counts={counts} />;
 }

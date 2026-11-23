@@ -77,6 +77,20 @@ npx --yes markdownlint-cli2 "**/*.md" "!REPORT.md"
 git diff --check
 ```
 
+## Reach audit — 2026-11-23
+
+### Fixed in code
+
+- **Language shelves were invisible to search engines.** `/library?lang=…` rendered only “Loading library…” in HTML (client-side `useSearchParams` under `Suspense`), every shelf shared the title “Library” and declared `/library` as canonical, so Google saw one thin page instead of 32. Shelves now live at statically rendered `/library/<language>` with their own title, description, canonical, server-rendered book list, and `Book` / `BreadcrumbList` JSON-LD. Old `?lang=` links 308-redirect.
+- **Covers:** 155 wrong or outdated covers replaced after a visual audit (different book, old edition, scanned text page, or broken image).
+- **Authors:** 634 of 670 books showed “Author TBA”; 524 now have authors (author names are what many people search for).
+- **Catalog:** 42 high-demand titles added (DDD, Sedgewick’s *Algorithms*, OSTEP, *Rust Atomics and Locks*, *Hands-On LLMs*, *Pro Git*, …). Without a Drive PDF they show **Request book**, which emails the maintainer; shelves also offer “Can’t find a book? Request it by email”.
+
+### Owner decisions (not changed)
+
+- **Star gate on every visit.** Reading requires starring the repo and typing a GitHub username, and unlock resets on each page load. Most visitors from search have no GitHub account or will not do this, so they bounce — which also hurts ranking signals. Consider unlocking once per browser (long-lived cookie) or gating only after a few free reads.
+- **GitHub About text / topics** from the P0 list above are still pending.
+
 ## Rename recommendation (not executed)
 
 ```text

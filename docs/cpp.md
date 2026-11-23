@@ -4,7 +4,7 @@ High-performance systems and game development language with fine-grained control
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open C++ books →](https://freecodebooks.vercel.app/library?lang=cpp)**
+**[Open C++ books →](https://freecodebooks.vercel.app/library/cpp)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
@@ -22,6 +22,7 @@ These books are for those new to C++ and provide a solid, comprehensive foundati
 - **Programming: Principles and Practice Using C++** (*3rd Edition*)
 - **Starting Out with C++: From Control Structures through Objects** (*10th Edition*)
 - **C++ for Dummies** (*7th Edition*)
+- **Accelerated C++** (*1st Edition*)
 
 ## For Intermediate Developers
 
@@ -35,6 +36,7 @@ These books are essential for moving beyond the basics and learning to write eff
 - **The C++ Programming Language** (*4th Edition*)
 - **C++ Crash Course** (*1st Edition*)
 - **100 C++ Mistakes and How to Avoid Them** (*2025 Edition*)
+- **Effective STL** (*1st Edition*)
 
 ## For Advanced Programmers
 
@@ -44,6 +46,8 @@ Dive deep into the most complex and powerful features of C++, such as concurrenc
 - **C++ Templates: The Complete Guide** (*2nd Edition*)
 - **Expert C++ Programming**
 - **Hands-On Design Patterns with C++** (*2nd Edition*)
+- **C++ Software Design** (*1st Edition*)
+- **The Algorithm Design Manual** (*3rd Edition*)
 
 ## For Specialized Fields
 
@@ -53,6 +57,8 @@ Focus on applying C++ to a specific professional domain, such as machine learnin
 - **Beginning C++ Game Programming** (*2nd Edition*)
 - **Hands-On GUI Programming with C++ and Qt5** (*1st Edition*)
 - **Mastering the C++17 STL** (*1st Edition*)
+- **Game Programming Patterns** (*1st Edition*)
+- **Game Engine Architecture** (*3rd Edition*)
 
 ## Comprehensive References
 

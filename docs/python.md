@@ -4,7 +4,7 @@ General-purpose language widely used in data science, web development, automatio
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Python books →](https://freecodebooks.vercel.app/library?lang=python)**
+**[Open Python books →](https://freecodebooks.vercel.app/library/python)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
@@ -25,6 +25,7 @@ These books are perfect if you are new to programming or new to Python. They req
 - **Introducing Python: Modern Computing in Simple Packages** (*3rd Edition*)
 - **Head First Python** (*3rd Edition*)
 - **Learn Python 3 the Hard Way** (*5th Edition*)
+- **Think Python** (*3rd Edition*)
 
 ## For Intermediate Developers
 
@@ -38,6 +39,7 @@ Once you know the basics, these books will help you write more effective, idioma
 - **Python Cookbook** (*3rd Edition*)
 - **Python Distilled** (*Latest Edition*)
 - **Python Tricks: A Buffet of Awesome Features** (*Latest Edition*)
+- **Python Object-Oriented Programming** (*4th Edition*)
 
 ## For Advanced Programmers
 
@@ -91,6 +93,12 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - **Django for Professional** (*4.0 Edition*)
 - **FastAPI: Modern Python Web Development** (*1st Edition*)
 - **Two Scoops of Django** (**3.x Edition**)
+- **Data Science from Scratch** (*2nd Edition*)
+- **Hands-On Large Language Models** (*1st Edition*)
+- **Deep Learning** (*1st Edition*)
+- **Practical Statistics for Data Scientists** (*2nd Edition*)
+- **Grokking Deep Learning** (*1st Edition*)
+- **Elements of Programming Interviews in Python** (*1st Edition*)
 
 ## Comprehensive References
 
@@ -101,6 +109,7 @@ These massive, detailed guides are best used as companions throughout your learn
 - **Beyond the Basic Stuff with Python** (*First & only edition*)
 - **The Python 3 Standard Library by Example** (*First & only edition*)
 - **Learning Python** (*5th Edition*)
+- **Artificial Intelligence: A Modern Approach** (*4th Edition*)
 
 ---
 

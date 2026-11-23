@@ -12,7 +12,7 @@ body:
     attributes:
       label: Where did you see it?
       description: Prefer the live library URL or books.json id. Do not paste working Drive links in public issues if avoidable.
-      placeholder: https://freecodebooks.vercel.app/library?lang=python  or  python-fluent-python
+      placeholder: https://freecodebooks.vercel.app/library/python  or  python-fluent-python
     validations:
       required: true
   - type: input

@@ -4,7 +4,7 @@ The language of the web — browsers, Node.js, and full-stack applications.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Javascript books →](https://freecodebooks.vercel.app/library?lang=javascript)**
+**[Open Javascript books →](https://freecodebooks.vercel.app/library/javascript)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
@@ -23,6 +23,7 @@ These books are perfect for those new to programming or just starting with JavaS
 - **Head First JavaScript Programming** (*2nd Edition*)
 - **A Smarter Way to Learn JavaScript** (*1st Edition*)
 - **Learn JavaScript Quickly** (*2025 Edition*)
+- **JavaScript and jQuery: Interactive Front-End Web Development** (*1st Edition*)
 
 ## For Intermediate Developers
 
@@ -38,6 +39,7 @@ These books will help you move beyond the basics to understand the core mechanic
 - **Understanding ECMAScript 6** (*2016 Edition*)
 - **Maintainable JavaScript** (*2012 Edition*)
 - **High Performance JavaScript** (*2010 Edition*)
+- **Grokking Simplicity** (*1st Edition*)
   
 ## For Advanced Programmers
 
@@ -51,6 +53,7 @@ Explore advanced patterns, application architecture, and the functional side of 
 - **Secrets of the JavaScript Ninja** (*3rd Edition*)
 - **Hands-On JavaScript High Performance** (*First & only edition*)
 - **Multithreaded JavaScript** (*First & only edition*)
+- **Structure and Interpretation of Computer Programs: JavaScript Edition** (*1st Edition*)
   
 ## For Specialized Fields
 

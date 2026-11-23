@@ -4,7 +4,7 @@ Apple’s language for iOS, macOS, and Apple-platform application development.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Swift books →](https://freecodebooks.vercel.app/library?lang=swift)**
+**[Open Swift books →](https://freecodebooks.vercel.app/library/swift)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

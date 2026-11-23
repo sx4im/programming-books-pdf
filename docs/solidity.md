@@ -4,7 +4,7 @@ Contract-oriented language for Ethereum and EVM smart contracts.
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Solidity books →](https://freecodebooks.vercel.app/library?lang=solidity)**
+**[Open Solidity books →](https://freecodebooks.vercel.app/library/solidity)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 

@@ -4,7 +4,7 @@ Task automation and configuration management for Windows and cross-platform DevO
 
 Titles only — **read every book on the live library**, not from this Markdown file:
 
-**[Open Powershell books →](https://freecodebooks.vercel.app/library?lang=powershell)**
+**[Open Powershell books →](https://freecodebooks.vercel.app/library/powershell)**
 
 See [Contributing](../CONTRIBUTING.md) to suggest a title.
 
