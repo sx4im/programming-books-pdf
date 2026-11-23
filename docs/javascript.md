@@ -32,7 +32,7 @@ These books will help you move beyond the basics to understand the core mechanic
 - **You Don't Know JS Yet Series** (*Complete Series*)
 - **JavaScript: The Good Parts** (*Latest Edition*)
 - **Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**
-- **Exploring JavaScript** (*ES2024 Edition*)
+- **Exploring JavaScript** (*ES2025 Edition*)
 - **The Principles of Object-Oriented JavaScript** (*First & only edition*)
 - **Learning JavaScript: JavaScript Essentials for Modern Application Development** (*3rd Edition*)
 - **Clean Code in JavaScript** (*First & only edition*)

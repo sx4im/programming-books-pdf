@@ -92,7 +92,7 @@ Focus on applying Python to a specific professional domain like Data Science, Cy
 - **Flask Web Development** (*2nd Edition*)
 - **Django for Professional** (*4.0 Edition*)
 - **FastAPI: Modern Python Web Development** (*1st Edition*)
-- **Two Scoops of Django** (**3.x Edition**)
+- **Two Scoops of Django** (*3.x Edition*)
 - **Data Science from Scratch** (*2nd Edition*)
 - **Hands-On Large Language Models** (*1st Edition*)
 - **Deep Learning** (*1st Edition*)
