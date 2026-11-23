@@ -45,6 +45,7 @@ Focus on accessibility, design systems, and production front-end craft.
 
 - **Inclusive Design Patterns** (*1st Edition*)
 - **Designing Interfaces** (*3rd Edition*)
+- **Don't Make Me Think, Revisited** (*3rd Edition*)
 
 ## Comprehensive References
 

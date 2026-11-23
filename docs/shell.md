@@ -20,6 +20,7 @@ These books provide a solid foundation in navigating the command line and writin
 
 - **The Linux Command Line** (*2nd Edition*)
 - **Bash Guide for Beginners** (*Online Resource*)
+- **Learning the bash Shell** (*3rd Edition*)
 
 ## For Intermediate Developers
 
@@ -27,6 +28,7 @@ Once you can write basic scripts, these books help you write safer, more idiomat
 
 - **bash Cookbook** (*2nd Edition*)
 - **Classic Shell Scripting** (*1st Edition*)
+- **Wicked Cool Shell Scripts** (*2nd Edition*)
 
 ## For Advanced Programmers
 
@@ -43,6 +45,7 @@ These resources are perfect for quick lookups and writing safer scripts.
 - **Greg's Wiki — BashGuide** (*Online Resource*)
 - **ShellCheck** (*Online Resource*)
 - **Google Shell Style Guide** (*Online Resource*)
+- **Pro Git** (*2nd Edition*)
 
 ---
 

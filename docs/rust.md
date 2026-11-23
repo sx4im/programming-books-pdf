@@ -41,6 +41,7 @@ Dive deep into Rust's most powerful and complex features, including concurrency,
 - **Hands-On Concurrency with Rust** (*1st Edition*)
 - **Rust High Performance** (*2nd Edition*)
 - **Black Hat Rust** (*1st Edition*)
+- **Rust Atomics and Locks** (*1st Edition*)
 
 ## For Specialized Fields
 
@@ -51,6 +52,7 @@ Focus on applying Rust to a specific professional domain, such as web services, 
 - **Rust Web development** (*2nd Edition*)
 - **Game Development with Rust** (*1st Edition*)
 - **Hands-On Data Structures and Algorithms with Rust** (*2nd Edition*)
+- **Hands-on Rust** (*1st Edition*)
 
 ## Comprehensive References
 

@@ -44,6 +44,7 @@ These books explore the dark corners, hidden secrets, and high-performance optim
 - **21st Century C** (*2nd Edition*)
 - **Effective C: An Introduction to Professional C Programming** (*2020 Release*)
 - **Expert C Programming: Deep C Secrets** (*1994 Edition*)
+- **Operating Systems: Three Easy Pieces** (*1st Edition*)
 
 ## For Specialized Fields
 
@@ -59,6 +60,7 @@ These books explore the dark corners, hidden secrets, and high-performance optim
 - **Linux Kernel Development** (*3rd Edition*)
 - **The Art of Debugging with GDB, DDD, and Eclipse** (*1st Edition*)
 - **Introduction to High Performance Computing for Scientists and Engineers** (*1st Edition*)
+- **Hacking: The Art of Exploitation** (*2nd Edition*)
 
 ## Comprehensive References
 

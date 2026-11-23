@@ -41,6 +41,7 @@ Dive deep into systems design, cloud-native development, and advanced Go feature
 - **Cloud Native Go** (*2nd Edition*)
 - **Network Programming with Go** (*1st Edition*)
 - **100 Go Mistakes and How to Avoid Them** (*1st Edition*)
+- **Efficient Go** (*1st Edition*)
 
 ## For Specialized Fields
 
@@ -50,6 +51,8 @@ Focus on applying Go to a specific professional domain, such as web development 
 - **Let's Go Further** (*1st Edition*)
 - **Black Hat Go** (*1st Edition*)
 - **Writing An Interpreter In Go** (*1st Edition*)
+- **Powerful Command-Line Applications in Go** (*1st Edition*)
+- **Kubernetes: Up and Running** (*3rd Edition*)
 
 ## Comprehensive References
 

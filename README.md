@@ -6,7 +6,7 @@ Curated **programming books** and ebooks for **32 languages** — Python, JavaSc
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Languages](https://img.shields.io/badge/Languages-32-blue)](#languages)
-[![Books](https://img.shields.io/badge/Books-670%2B-9cf)](https://freecodebooks.vercel.app/library)
+[![Books](https://img.shields.io/badge/Books-700%2B-9cf)](https://freecodebooks.vercel.app/library)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![CI: Markdown](https://github.com/sx4im/programming-books-pdf/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/sx4im/programming-books-pdf/actions/workflows/markdown-lint.yml)
 [![CI: Book links](https://github.com/sx4im/programming-books-pdf/actions/workflows/validate-book-links.yml/badge.svg)](https://github.com/sx4im/programming-books-pdf/actions/workflows/validate-book-links.yml)
@@ -61,13 +61,13 @@ Click a badge to open that language **on the live site** (search, filters, and R
 <br/>
 
 ```text
-Python ........ 63    JavaScript .... 51    Java .......... 75
-C# ............ 39    C ............. 30    C++ ........... 22
-TypeScript .... 19    Go ............ 19    Rust .......... 21
-PHP ........... 19    Kotlin ........ 17    SQL ........... 19
+Python ........ 72    JavaScript .... 54    Java .......... 82
+C# ............ 39    C ............. 32    C++ ........... 28
+TypeScript .... 19    Go ............ 22    Rust .......... 23
+PHP ........... 20    Kotlin ........ 17    SQL ........... 22
 Swift ......... 19    Ruby .......... 24    Dart .......... 18
-Scala ......... 17    Elixir ........ 18    Shell ......... 10
-R ............. 17    Julia ......... 16    HTML/CSS ...... 15
+Scala ......... 17    Elixir ........ 18    Shell ......... 13
+R ............. 19    Julia ......... 16    HTML/CSS ...... 16
 Lua ........... 11    MATLAB ........ 11    Assembly ...... 11
 Haskell ....... 12    PowerShell .... 11    Zig ........... 11
 Solidity ...... 11    Perl .......... 11    Fortran ....... 11
@@ -83,7 +83,7 @@ Objective-C ... 11    Clojure ....... 11
 Developers searching for **programming books**, **coding ebooks**, and **language-specific reading lists** often land on scattered links. This project is a single, maintained catalog with a **searchable web library**:
 
 - **32 programming languages** with beginner → advanced paths
-- **670+ curated titles**
+- **700+ curated titles**
 - **Website-first reading** — browse and open books at [freecodebooks.vercel.app](https://freecodebooks.vercel.app/)
 - Clear contribution flow: suggest a title; maintainers add it to the library
 
@@ -193,12 +193,12 @@ Star the project if you use it:
 
 Know someone learning to code? Help them find this library:
 
-- [Share on X (Twitter)](https://twitter.com/intent/tweet?text=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages&url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
+- [Share on X (Twitter)](https://twitter.com/intent/tweet?text=Free%20programming%20books%20library%3A%20700%2B%20books%20across%2032%20languages&url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
 - [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
-- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf&text=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages)
-- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf&title=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages)
-- [Share on WhatsApp](https://wa.me/?text=Free%20programming%20books%20library%3A%20670%2B%20books%20across%2032%20languages%20https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
+- [Share on Telegram](https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf&text=Free%20programming%20books%20library%3A%20700%2B%20books%20across%2032%20languages)
+- [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf&title=Free%20programming%20books%20library%3A%20700%2B%20books%20across%2032%20languages)
+- [Share on WhatsApp](https://wa.me/?text=Free%20programming%20books%20library%3A%20700%2B%20books%20across%2032%20languages%20https%3A%2F%2Fgithub.com%2Fsx4im%2Fprogramming-books-pdf)
 
 ## License
 

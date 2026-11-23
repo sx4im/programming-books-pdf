@@ -20,6 +20,7 @@ These books provide a solid foundation in R for statistics, data manipulation, a
 
 - **R for Data Science** (*2nd Edition*)
 - **Hands-On Programming with R** (*1st Edition*)
+- **R in Action** (*3rd Edition*)
 
 ## For Intermediate Developers
 
@@ -28,6 +29,7 @@ Move beyond the basics to master data wrangling, visualization with ggplot2, and
 - **R Cookbook** (*2nd Edition*)
 - **ggplot2: Elegant Graphics for Data Analysis** (*3rd Edition*)
 - **R Graphics Cookbook** (*2nd Edition*)
+- **The Art of R Programming** (*1st Edition*)
 
 ## For Advanced Programmers
 

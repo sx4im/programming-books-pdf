@@ -23,6 +23,7 @@ These books provide a solid foundation in relational database concepts, SQL synt
 - **SQL in 10 Minutes, Sams Teach Yourself** (*5th Edition*)
 - **Learning SQL** (*3rd Edition*)
 - **Getting Started with SQL** (*1st Edition*)
+- **T-SQL Fundamentals** (*4th Edition*)
 
 ## For Intermediate Developers
 
@@ -32,6 +33,7 @@ Move beyond simple `SELECT` statements to master complex joins, subqueries, wind
 - **SQL Queries for Mere Mortals** (*4th Edition*)
 - **Practical SQL: A Beginner's Guide to Storytelling with Data** (*2nd Edition*)
 - **Database Design for Mere Mortals** (*3rd Edition*)
+- **SQL Antipatterns** (*Volume 1*)
 
 ## For Advanced Programmers & DBAs
 
@@ -55,6 +57,7 @@ SQL as applied to modern big data environments, analytics, and software architec
 
 - **SQL in a Nutshell** (*4th Edition*)
 - **Modern SQL** (*Online Resource*)
+- **Database System Concepts** (*7th Edition*)
 
 ---
 

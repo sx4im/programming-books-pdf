@@ -22,6 +22,7 @@ These books are for newcomers to PHP and provide a solid foundation in web devel
 - **Learning PHP, MySQL & JavaScript** (*6th Edition*)
 - **PHP & MySQL: Novice to Ninja** (*7th Edition*)
 - **The Joy of PHP**
+- **PHP & MySQL: Server-side Web Development** (*1st Edition*)
 
 ## For Intermediate Developers
 
